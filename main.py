@@ -85,6 +85,11 @@ def main():
 
             # Order by descending date
             resp.entries.reverse()
+            # Filter by title
+            if 'filter' in feed and len(feed['filter']) > 0:
+                resp.entries = [entry for entry in resp.entries
+                                if any(k in entry.title for k in feed['filter'])]
+
             i = 0
             total = len(resp.entries)
             for entry in resp.entries:

@@ -16,3 +16,7 @@
 - [涛然自得周刊 No.19 ：如何创作杰出的作品](http://heyitao.com/post/beyond-code-weekly-019)
 - [查看更多](channels/涛然自得周刊.md)
 
+## 拾月通讯
+- [拾月通讯（第33期）](https://www.skyue.com/23111016.html)
+- [查看更多](channels/拾月通讯.md)
+

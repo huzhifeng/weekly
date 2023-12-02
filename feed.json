@@ -16,6 +16,12 @@
 			"url": "https://weekly.howie6879.com/rss/rss.xml"
 		},
 		{
+			"channel": "拾月通讯",
+			"portal": "https://www.skyue.com/category/newsletter/",
+			"url": "https://www.skyue.com/feed/",
+			"filter": ["拾月通讯", "拾月周刊", "Weekly Pocket"]
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"url": "https://www.ezindie.com/feed/rss.xml"
