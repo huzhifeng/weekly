@@ -24,3 +24,7 @@
 - [学习周刊-总第135期-2023年第48周](https://wiki.eryajf.net/pages/883f27/)
 - [查看更多](channels/二丫讲梵学习周刊.md)
 
+## 壹苇可航
+- [Vol.34 Zen to Done](https://justgoidea.com/newsletter/202334/?utm_source=atom_feed)
+- [查看更多](channels/壹苇可航.md)
+
