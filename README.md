@@ -52,3 +52,7 @@
 - [Python 潮流周刊#29：Rust 会比 Python 慢？！](https://pythoncat.top/posts/2023-12-02-weekly/)
 - [查看更多](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 视野修炼
+- [视野修炼第63期](https://sugarat.top/weekly/2023-11-26.html)
+- [查看更多](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+

@@ -63,6 +63,12 @@
 			"filter": ["潮流周刊"]
 		},
 		{
+			"channel": "视野修炼",
+			"portal": "https://github.com/ATQQ/sugar-blog/blob/master/packages/blogpress/weekly/index.md",
+			"url": "https://sugarat.top/feed.rss",
+			"filter": ["视野修炼"]
+		},
+		{
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",
