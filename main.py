@@ -83,8 +83,9 @@ def main():
                 logger.debug('no entries')
                 continue
 
-            # Order by descending date
-            resp.entries.reverse()
+            # Order by ascending, most feed is descending by default
+            if 'order' not in feed or 'descending' == feed['order']:
+                resp.entries.reverse()
             # Filter by title
             if 'filter' in feed and len(feed['filter']) > 0:
                 resp.entries = [entry for entry in resp.entries

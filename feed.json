@@ -22,6 +22,12 @@
 			"filter": ["拾月通讯", "拾月周刊", "Weekly Pocket"]
 		},
 		{
+			"channel": "二丫讲梵学习周刊",
+			"portal": "https://github.com/eryajf/learning-weekly",
+			"url": "https://wiki.eryajf.net/learning-weekly.xml",
+			"order": "ascending"
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"url": "https://www.ezindie.com/feed/rss.xml"

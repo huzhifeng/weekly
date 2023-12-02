@@ -20,3 +20,7 @@
 - [拾月通讯（第33期）](https://www.skyue.com/23111016.html)
 - [查看更多](channels/拾月通讯.md)
 
+## 二丫讲梵学习周刊
+- [学习周刊-总第135期-2023年第48周](https://wiki.eryajf.net/pages/883f27/)
+- [查看更多](channels/二丫讲梵学习周刊.md)
+
