@@ -16,6 +16,11 @@
 			"url": "https://weekly.howie6879.com/rss/rss.xml"
 		},
 		{
+			"channel": "广场周刊",
+			"portal": "https://immmmm.com/posts/weekly/",
+			"url": "https://immmmm.com/posts/weekly/index.xml"
+		},
+		{
 			"channel": "拾月通讯",
 			"portal": "https://www.skyue.com/category/newsletter/",
 			"url": "https://www.skyue.com/feed/",

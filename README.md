@@ -28,3 +28,7 @@
 - [Vol.34 Zen to Done](https://justgoidea.com/newsletter/202334/?utm_source=atom_feed)
 - [查看更多](channels/壹苇可航.md)
 
+## 广场周刊
+- [广场周刊（第 13 期）：写个博客](https://immmmm.com/weekly-2023-11-26/)
+- [查看更多](channels/广场周刊.md)
+
