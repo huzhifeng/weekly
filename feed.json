@@ -45,6 +45,12 @@
 			"filter": ["CyberClip", "Shyrism.News"]
 		},
 		{
+			"channel": "HelloGitHub",
+			"portal": "https://github.com/521xueweihan/HelloGitHub",
+			"url": "https://hellogithub.com/rss",
+			"order": "ascending"
+		},
+		{
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",

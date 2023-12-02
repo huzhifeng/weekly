@@ -40,3 +40,7 @@
 - [CyberClip #46 智能共生](https://shyrz.me/cyberclip-46-intelligent-symbiosis/)
 - [查看更多](channels/CyberClip.md)
 
+## HelloGitHub
+- - [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92)
+- [查看更多](channels/HelloGitHub.md)
+
