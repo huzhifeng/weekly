@@ -28,7 +28,7 @@ def update_readme(item):
     md_old = ''
     md_new = ''
 
-    md_new_entry = f'- [{item["title"]}]({item["link"]})'
+    md_new_entry = f'[{item["title"]}]({item["link"]})'
     with open(fname_readme, mode='r', encoding='utf-8') as fd_readme_old:
         md_old = fd_readme_old.read()
         if md_old.find(item['link']) != -1:
@@ -41,7 +41,7 @@ def update_readme(item):
                 md_old_entry = md_old[j:k + 1]
                 md_new = md_old.replace(md_old_entry, md_new_entry)
         else:
-            md_new = f'{md_old}## {item["channel"]}\n{md_new_entry}\n\
+            md_new = f'{md_old}## {item["channel"]}\n- {md_new_entry}\n\
 - [查看更多](channels/{urllib.parse.quote(item["channel"])}.md)\n\n'
 
     with open(fname_readme, mode='w', encoding='utf-8') as fd_readme_new:
