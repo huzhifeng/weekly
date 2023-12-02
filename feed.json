@@ -39,6 +39,12 @@
 			"filter": ["Vol."]
 		},
 		{
+			"channel": "CyberClip",
+			"portal": "https://shyrz.me/newsletter/",
+			"url": "https://shyrz.me/rss/",
+			"filter": ["CyberClip", "Shyrism.News"]
+		},
+		{
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",
