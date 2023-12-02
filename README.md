@@ -12,3 +12,7 @@
 - [独立开发变现周刊（第114期） : 一个简单截图API，月收入2千美金](https://www.ezindie.com/weekly/issue-114)
 - [查看更多](channels/独立开发变现周刊.md)
 
+## 涛然自得周刊
+- [涛然自得周刊 No.19 ：如何创作杰出的作品](http://heyitao.com/post/beyond-code-weekly-019)
+- [查看更多](channels/涛然自得周刊.md)
+

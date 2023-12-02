@@ -6,6 +6,11 @@
 			"url": "https://ruanyifeng.com/blog/atom.xml"
 		},
 		{
+			"channel": "涛然自得周刊",
+			"portal": "https://github.com/imhet/beyond-code-weekly",
+			"url": "https://heyitao.com/feed"
+		},
+		{
 			"channel": "老胡的信息周刊",
 			"portal": "https://github.com/howie6879/weekly",
 			"url": "https://weekly.howie6879.com/rss/rss.xml"
