@@ -34,5 +34,5 @@
 
 ## 1Link.Fun 科技周刊
 - [1link.fun 科技周刊 | 第 77 期](https://1link.fun/blog/issue/issue77/)
-- [查看更多](channels/1Link.Fun 科技周刊.md)
+- [查看更多](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 

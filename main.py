@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 import json
 import logging
+import urllib
 import feedparser
 
 def update_channel(item):
@@ -40,7 +41,8 @@ def update_readme(item):
                 md_old_entry = md_old[j:k + 1]
                 md_new = md_old.replace(md_old_entry, md_new_entry)
         else:
-            md_new = f'{md_old}## {item["channel"]}\n{md_new_entry}\n- [查看更多](channels/{item["channel"]}.md)\n\n'
+            md_new = f'{md_old}## {item["channel"]}\n{md_new_entry}\n\
+- [查看更多](channels/{urllib.parse.quote(item["channel"])}.md)\n\n'
 
     with open(fname_readme, mode='w', encoding='utf-8') as fd_readme_new:
         fd_readme_new.write(f'{md_new}')
