@@ -6,6 +6,12 @@
 			"url": "https://ruanyifeng.com/blog/atom.xml"
 		},
 		{
+			"channel": "1Link.Fun 科技周刊",
+			"portal": "https://1link.fun/",
+			"url": "https://1link.fun/index.xml",
+			"filter": ["科技周刊", "每周分享"]
+		},
+		{
 			"channel": "涛然自得周刊",
 			"portal": "https://github.com/imhet/beyond-code-weekly",
 			"url": "https://heyitao.com/feed"

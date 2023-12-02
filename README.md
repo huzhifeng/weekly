@@ -32,3 +32,7 @@
 - [广场周刊（第 13 期）：写个博客](https://immmmm.com/weekly-2023-11-26/)
 - [查看更多](channels/广场周刊.md)
 
+## 1Link.Fun 科技周刊
+- [1link.fun 科技周刊 | 第 77 期](https://1link.fun/blog/issue/issue77/)
+- [查看更多](channels/1Link.Fun 科技周刊.md)
+
