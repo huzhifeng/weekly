@@ -57,6 +57,12 @@
 			"order": "ascending"
 		},
 		{
+			"channel": "Python 潮流周刊",
+			"portal": "https://github.com/chinesehuazhou/python-weekly",
+			"url": "https://pythoncat.top/rss.xml",
+			"filter": ["潮流周刊"]
+		},
+		{
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",
