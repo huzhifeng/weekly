@@ -44,3 +44,7 @@
 - - [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92)
 - [查看更多](channels/HelloGitHub.md)
 
+## Web Review
+- [Web Review, Week 2023-48](https://ervin.ipsquad.net/blog/2023/12/01/web-review-week-2023-48/)
+- [查看更多](channels/Web%20Review.md)
+

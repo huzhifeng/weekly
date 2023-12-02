@@ -45,6 +45,12 @@
 			"filter": ["CyberClip", "Shyrism.News"]
 		},
 		{
+			"channel": "Web Review",
+			"portal": "https://ervin.ipsquad.net/tags/web-review/",
+			"url": "https://ervin.ipsquad.net/atom.xml",
+			"filter": ["Web Review"]
+		},
+		{
 			"channel": "HelloGitHub",
 			"portal": "https://github.com/521xueweihan/HelloGitHub",
 			"url": "https://hellogithub.com/rss",
