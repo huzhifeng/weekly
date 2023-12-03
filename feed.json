@@ -79,6 +79,12 @@
 			"url": "https://mdhweekly.com/rss.xml"
 		},
 		{
+			"channel": "前端食堂技术周刊",
+			"portal": "https://github.com/Geekhyt/weekly",
+			"url": "https://rsshub.app/zhubai/hungryturbo",
+			"enable": 0
+		},
+		{
 			"channel": "视野修炼",
 			"portal": "https://github.com/ATQQ/sugar-blog/blob/master/packages/blogpress/weekly/index.md",
 			"url": "https://sugarat.top/feed.rss",
