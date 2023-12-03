@@ -74,6 +74,12 @@
 			"filter": ["视野修炼"]
 		},
 		{
+			"channel": "Pseudoyu 周报",
+			"portal": "https://github.com/pseudoyu/yu-blog/tree/master/content/zh/posts/ideas/review",
+			"url": "https://www.pseudoyu.com/zh/index.xml",
+			"filter": ["周报"]
+		},
+		{
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",

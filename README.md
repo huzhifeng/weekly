@@ -60,3 +60,7 @@
 - [第 0115 期：TypeScript 5.3、RSC、React TypeScript、30 条建议、0.6 + 0.3、CI 时间](https://mdhweekly.com/weekly/issue-0115)
 - [查看更多](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
 
+## Pseudoyu 周报
+- [周报 #51 - 追星小鹿 Lawrence 与生病](https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/)
+- [查看更多](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
