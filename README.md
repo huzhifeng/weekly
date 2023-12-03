@@ -64,3 +64,7 @@
 - [周报 #51 - 追星小鹿 Lawrence 与生病](https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/)
 - [查看更多](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
+## The Connector 周刊
+- [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html)
+- [查看更多](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
+

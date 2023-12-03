@@ -1,0 +1,4 @@
+- [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html)
+- [The Connector 周刊#20：大模型时代，开发者应该如何成长？](https://liduos.com/the-connector-weekly-20.html)
+- [The Connector 周刊#19：在 AI 时代，如何用新工具来扩展大脑思维与记忆的边界？](https://liduos.com/the-connector-weekly-19.html)
+- [The Connector 周刊#18：知名SaaS服务都是怎么报价的？](https://liduos.com/the-connector-weekly-18.html)

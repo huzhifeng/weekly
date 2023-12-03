@@ -80,6 +80,12 @@
 			"filter": ["周报"]
 		},
 		{
+			"channel": "The Connector 周刊",
+			"portal": "https://liduos.com/categories/The-Connector-%E5%91%A8%E5%88%8A/",
+			"url": "https://liduos.com/atom.xml",
+			"filter": ["The Connector 周刊"]
+		},
+		{
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",
