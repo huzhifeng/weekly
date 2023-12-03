@@ -33,6 +33,12 @@
 			"filter": ["拾月通讯", "拾月周刊", "Weekly Pocket"]
 		},
 		{
+			"channel": "棱镜通讯",
+			"portal": "https://wangyurui.com/tags/Newsletter/",
+			"url": "https://wangyurui.com/feed.xml",
+			"filter": ["棱镜通讯"]
+		},
+		{
 			"channel": "壹苇可航",
 			"portal": "https://justgoidea.com/newsletter/",
 			"url": "https://justgoidea.com/atom.xml",

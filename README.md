@@ -72,3 +72,7 @@
 - [AIGC Weekly #48](https://quail.ink/op7418/p/aigc-weekly-48)
 - [查看更多](channels/AIGC%20Weekly.md)
 
+## 棱镜通讯
+- [棱镜通讯 No .102 森政弘](https://wangyurui.com/posts/leng-jing-tong-xun-no-102-sen-zheng-hong-1e265590)
+- [查看更多](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
