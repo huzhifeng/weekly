@@ -68,3 +68,7 @@
 - [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html)
 - [查看更多](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
+## AIGC Weekly
+- [AIGC Weekly #48](https://quail.ink/op7418/p/aigc-weekly-48)
+- [查看更多](channels/AIGC%20Weekly.md)
+

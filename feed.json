@@ -86,6 +86,12 @@
 			"filter": ["The Connector 周刊"]
 		},
 		{
+			"channel": "AIGC Weekly",
+			"portal": "https://quail.ink/op7418",
+			"url": "https://quail.ink/op7418/feed/atom",
+			"filter": ["AIGC Weekly"]
+		},
+		{
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",
