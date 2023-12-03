@@ -27,6 +27,11 @@
 			"url": "https://immmmm.com/posts/weekly/index.xml"
 		},
 		{
+			"channel": "潮流周刊",
+			"portal": "https://github.com/tw93/weekly",
+			"url": "https://weekly.tw93.fun/rss.xml"
+		},
+		{
 			"channel": "拾月通讯",
 			"portal": "https://www.skyue.com/category/newsletter/",
 			"url": "https://www.skyue.com/feed/",

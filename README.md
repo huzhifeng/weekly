@@ -76,3 +76,7 @@
 - [棱镜通讯 No .102 森政弘](https://wangyurui.com/posts/leng-jing-tong-xun-no-102-sen-zheng-hong-1e265590)
 - [查看更多](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## 潮流周刊
+- [第154期 - 玉鸟集美](https://weekly.tw93.fun/posts/154-%E7%8E%89%E9%B8%9F%E9%9B%86%E7%BE%8E/)
+- [查看更多](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
