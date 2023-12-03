@@ -63,6 +63,11 @@
 			"filter": ["潮流周刊"]
 		},
 		{
+			"channel": "MDH 前端周刊",
+			"portal": "https://github.com/sorrycc/weekly",
+			"url": "https://mdhweekly.com/rss.xml"
+		},
+		{
 			"channel": "视野修炼",
 			"portal": "https://github.com/ATQQ/sugar-blog/blob/master/packages/blogpress/weekly/index.md",
 			"url": "https://sugarat.top/feed.rss",

@@ -56,3 +56,7 @@
 - [视野修炼第63期](https://sugarat.top/weekly/2023-11-26.html)
 - [查看更多](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
+## MDH 前端周刊
+- [第 0115 期：TypeScript 5.3、RSC、React TypeScript、30 条建议、0.6 + 0.3、CI 时间](https://mdhweekly.com/weekly/issue-0115)
+- [查看更多](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
+
