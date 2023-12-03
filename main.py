@@ -4,6 +4,7 @@ from pathlib import Path
 import json
 import logging
 import urllib
+import time
 import feedparser
 
 def update_channel(item):
@@ -28,20 +29,20 @@ def update_readme(item):
     md_old = ''
     md_new = ''
 
-    md_new_entry = f'[{item["title"]}]({item["link"]})'
+    md_new_entry = f'- {item["published"]} [{item["title"]}]({item["link"]})'
     with open(fname_readme, mode='r', encoding='utf-8') as fd_readme_old:
         md_old = fd_readme_old.read()
         if md_old.find(item['link']) != -1:
             return
         i = md_old.find(f'## {item["channel"]}')
         if i != -1:
-            j = md_old.find('[', i)
+            j = md_old.find('-', i)
             k = md_old.find(')', i)
             if j != -1 and k != -1:
                 md_old_entry = md_old[j:k + 1]
                 md_new = md_old.replace(md_old_entry, md_new_entry)
         else:
-            md_new = f'{md_old}## {item["channel"]}\n- {md_new_entry}\n\
+            md_new = f'{md_old}## {item["channel"]}\n{md_new_entry}\n\
 - [查看更多](channels/{urllib.parse.quote(item["channel"])}.md)\n\n'
 
     with open(fname_readme, mode='w', encoding='utf-8') as fd_readme_new:
@@ -99,7 +100,10 @@ def main():
                 item = {
                     'channel': feed['channel'],
                     'title': entry.title,
-                    'link': entry.link
+                    'link': entry.link,
+                    'published': time.strftime(
+                        '%Y/%m/%d', entry.published_parsed if entry.has_key(
+                        'published_parsed') else entry.updated_parsed)
                 }
                 logger.debug(item)
                 update_channel(item)
