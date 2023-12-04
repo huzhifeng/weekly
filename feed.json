@@ -115,6 +115,11 @@
 			"order": "ascending"
 		},
 		{
+			"channel": "Airing's Weekly",
+			"portal": "https://github.com/airingursb/weekly",
+			"url": "https://weekly.ursb.me/index.xml "
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"url": "https://www.ezindie.com/feed/rss.xml"

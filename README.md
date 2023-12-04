@@ -60,3 +60,6 @@
 ## 潮流周刊
 - 2023/11/20 [第154期 - 玉鸟集美](https://weekly.tw93.fun/posts/154-%E7%8E%89%E9%B8%9F%E9%9B%86%E7%BE%8E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Airing's Weekly
+- 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
+
