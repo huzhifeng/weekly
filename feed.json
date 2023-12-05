@@ -85,6 +85,12 @@
 			"enable": 0
 		},
 		{
+			"channel": "机器文摘",
+			"portal": "https://niupitools.zhubai.love/",
+			"url": "https://rsshub.app/zhubai/niupitools",
+			"enable": 0
+		},
+		{
 			"channel": "视野修炼",
 			"portal": "https://github.com/ATQQ/sugar-blog/blob/master/packages/blogpress/weekly/index.md",
 			"url": "https://sugarat.top/feed.rss",
