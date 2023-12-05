@@ -109,6 +109,12 @@
 			"filter": ["The Connector 周刊"]
 		},
 		{
+			"channel": "zdyxry Weekly Issue",
+			"portal": "https://github.com/zdyxry/zdyxry.github.io",
+			"url": "https://zdyxry.github.io/atom.xml",
+			"filter": ["Weekly Issue"]
+		},
+		{
 			"channel": "AIGC Weekly",
 			"portal": "https://quail.ink/op7418",
 			"url": "https://quail.ink/op7418/feed/atom",

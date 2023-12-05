@@ -63,3 +63,6 @@
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
+## zdyxry Weekly Issue
+- 2023/12/03 [Weekly Issue 2023-12-03](https://zdyxry.github.io/2023/12/03/Weekly-Issue-2023-12-03/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
