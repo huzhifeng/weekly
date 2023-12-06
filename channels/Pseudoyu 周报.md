@@ -1,3 +1,4 @@
+- [周报 #52 - 自谦型人格与感情的另一个视角](https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/)
 - [周报 #51 - 追星小鹿 Lawrence 与生病](https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/)
 - [周报 #50 - 天坛漫步、重拾阅读和费曼学习法](https://www.pseudoyu.com/zh/2023/11/21/weekly_review_20231122/)
 - [周报 #49 - 烧焦的键盘、庞贝神话展、健康调整与神奇的梦](https://www.pseudoyu.com/zh/2023/11/12/weekly_review_20231112/)
