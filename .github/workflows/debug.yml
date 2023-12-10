@@ -1,0 +1,64 @@
+name: Weekly Debug
+on:
+  workflow_dispatch:
+    inputs:
+      loglevel:
+        description: 'Log level'
+        required: true
+        default: 'DEBUG'
+        type: choice
+        options:
+        - CRITICAL
+        - ERROR
+        - WARNING
+        - INFO
+        - DEBUG
+        - NOTSET
+      cmd:
+        description: 'Shell Command'
+        required: false
+        default: 'date'
+        type: string
+      dryrun:
+        description: 'Dry run'
+        required: false
+        default: true
+        type: boolean
+
+jobs:
+  Weekly-Debug:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run script
+        env:
+          LOGLEVEL: ${{ inputs.loglevel }}
+        run: |
+          eval ${{ inputs.cmd }}
+          echo ${{ inputs.dryrun }}
+          python main.py
+          if [ "${{ inputs.dryrun }}" == "false" ]
+          then
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add .
+            git commit -m "Bot: update $(date +%Y%m%d)"
+          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
