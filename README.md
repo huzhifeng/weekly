@@ -1,13 +1,13 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2023/12/01 [科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html) | [More](channels/科技爱好者周刊.md)
+- 2023/12/08 [科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2023/11/26 [11-27~12-03.老胡的周刊（第118期）.md](https://weekly.howie6879.com/2023/11-27~12-03.老胡的周刊（第118期）.html) | [More](channels/老胡的信息周刊.md)
+- 2023/12/08 [12-04~12-09.老胡的周刊（第119期）.md](https://weekly.howie6879.com/2023/12-04~12-09.老胡的周刊（第119期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2023/12/01 [独立开发变现周刊（第114期） : 一个简单截图API，月收入2千美金](https://www.ezindie.com/weekly/issue-114) | [More](channels/独立开发变现周刊.md)
+- 2023/12/08 [独立开发变现周刊（第115期） : 开发一个健身管理软件，月收入6万美元](https://www.ezindie.com/weekly/issue-115) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2023/12/01 [涛然自得周刊 No.19 ：如何创作杰出的作品](http://heyitao.com/post/beyond-code-weekly-019) | [More](channels/涛然自得周刊.md)
@@ -16,31 +16,31 @@
 - 2023/11/10 [拾月通讯（第33期）](https://www.skyue.com/23111016.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2023/11/30 [学习周刊-总第135期-2023年第48周](https://wiki.eryajf.net/pages/883f27/) | [More](channels/二丫讲梵学习周刊.md)
+- 2023/12/07 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2023/12/05 [Vol.35 几则思考](https://justgoidea.com/newsletter/202335/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
-- 2023/11/26 [广场周刊（第 13 期）：写个博客](https://immmmm.com/weekly-2023-11-26/) | [More](channels/广场周刊.md)
+- 2023/12/09 [广场周刊（第 14 期）：习惯……](https://immmmm.com/weekly-2023-12-09/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2023/12/1 [1link.fun 科技周刊 | 第 77 期](https://1link.fun/blog/issue/issue77/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2023/12/09 [1link.fun 科技周刊 | 第 78 期](https://1link.fun/blog/issue/issue78/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2023/12/02 [CyberClip #46 智能共生](https://shyrz.me/cyberclip-46-intelligent-symbiosis/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
-- 2023/11/28 [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92) | [More](channels/HelloGitHub.md)
+- 2023/07/28 [HelloGitHub 第 88 期](https://hellogithub.com/periodical/volume/88) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2023/12/01 [Web Review, Week 2023-48](https://ervin.ipsquad.net/blog/2023/12/01/web-review-week-2023-48/) | [More](channels/Web%20Review.md)
+- 2023/12/08 [Web Review, Week 2023-49](https://ervin.ipsquad.net/blog/2023/12/08/web-review-week-2023-49/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2023/12/02 [Python 潮流周刊#29：Rust 会比 Python 慢？！](https://pythoncat.top/posts/2023-12-02-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2023/12/09 [Python 潮流周刊#30：非洲 Python 社区给 PSF 的一封公开信](https://pythoncat.top/posts/2023-12-09-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2023/12/03 [视野修炼第64期](https://sugarat.top/weekly/2023-12-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2023/12/10 [视野修炼第65期-兴趣是一种天赋](https://sugarat.top/weekly/2023-12-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/04 [第 0116 期：Astro 4 Beta、XState 5、Fresh 1.6、Prettier 性能、Biome、VSCode 调试](https://mdhweekly.com/weekly/issue-0116) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -58,11 +58,11 @@
 - 2023/12/05 [棱镜通讯 No . 103 Clay Shirky](https://wangyurui.com/posts/leng-jing-tong-xun-no-103-clay-shirky-a45f1c03) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2023/12/04 [第155期 - 东京夜景](https://weekly.tw93.fun/posts/155-%E4%B8%9C%E4%BA%AC%E5%A4%9C%E6%99%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2023/12/11 [第156期 - 富士山下](https://weekly.tw93.fun/posts/156-%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%B8%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2023/12/03 [Weekly Issue 2023-12-03](https://zdyxry.github.io/2023/12/03/Weekly-Issue-2023-12-03/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2023/12/10 [Weekly Issue 2023-12-10](https://zdyxry.github.io/2023/12/10/Weekly-Issue-2023-12-10/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 

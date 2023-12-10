@@ -1,3 +1,4 @@
+- [Python 潮流周刊#30：非洲 Python 社区给 PSF 的一封公开信](https://pythoncat.top/posts/2023-12-09-weekly/)
 - [Python 潮流周刊#29：Rust 会比 Python 慢？！](https://pythoncat.top/posts/2023-12-02-weekly/)
 - [Python 潮流周刊#28：两种线程池、四种优化程序的方法](https://pythoncat.top/posts/2023-11-25-weekly/)
 - [Python 潮流周刊#27：应该如何处理程序的错误？](https://pythoncat.top/posts/2023-11-18-weekly/)

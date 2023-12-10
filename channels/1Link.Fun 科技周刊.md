@@ -1,3 +1,4 @@
+- [1link.fun 科技周刊 | 第 78 期](https://1link.fun/blog/issue/issue78/)
 - [1link.fun 科技周刊 | 第 77 期](https://1link.fun/blog/issue/issue77/)
 - [1link.fun 科技周刊 | 第 76 期](https://1link.fun/blog/issue/issue76/)
 - [1link.fun 科技周刊 | 第 75 期](https://1link.fun/blog/issue/issue75/)
