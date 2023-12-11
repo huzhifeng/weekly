@@ -10,7 +10,7 @@
 - 2023/12/08 [独立开发变现周刊（第115期） : 开发一个健身管理软件，月收入6万美元](https://www.ezindie.com/weekly/issue-115) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
-- 2023/12/01 [涛然自得周刊 No.19 ：如何创作杰出的作品](http://heyitao.com/post/beyond-code-weekly-019) | [More](channels/涛然自得周刊.md)
+- 2023/12/11 [涛然自得周刊 No.20 ：成为前5%的人](http://heyitao.com/post/beyond-code-weekly-020) | [More](channels/涛然自得周刊.md)
 
 ## 拾月通讯
 - 2023/11/10 [拾月通讯（第33期）](https://www.skyue.com/23111016.html) | [More](channels/拾月通讯.md)
@@ -37,13 +37,13 @@
 - 2023/12/08 [Web Review, Week 2023-49](https://ervin.ipsquad.net/blog/2023/12/08/web-review-week-2023-49/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2023/12/09 [Python 潮流周刊#30：非洲 Python 社区给 PSF 的一封公开信](https://pythoncat.top/posts/2023-12-09-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2023/12/11 [Python 潮流周刊第一季精华合集（1~30）](https://pythoncat.top/posts/2023-12-11-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2023/12/10 [视野修炼第65期-兴趣是一种天赋](https://sugarat.top/weekly/2023-12-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
-- 2023/12/04 [第 0116 期：Astro 4 Beta、XState 5、Fresh 1.6、Prettier 性能、Biome、VSCode 调试](https://mdhweekly.com/weekly/issue-0116) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
+- 2023/12/11 [第 0117 期：stylex、Vitest 1、Astro 4、React Forget、TanStack Router](https://mdhweekly.com/weekly/issue-0117) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2023/12/03 [周报 #52 - 自谦型人格与感情的另一个视角](https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2023/11/27 [AIGC Weekly #48](https://quail.ink/op7418/p/aigc-weekly-48) | [More](channels/AIGC%20Weekly.md)
+- 2023/12/11 [AIGC Weekly #50 一周年了](https://quail.ink/op7418/p/aigc-weekly-50) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2023/12/05 [棱镜通讯 No . 103 Clay Shirky](https://wangyurui.com/posts/leng-jing-tong-xun-no-103-clay-shirky-a45f1c03) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

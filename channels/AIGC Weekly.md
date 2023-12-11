@@ -1,3 +1,4 @@
+- [AIGC Weekly #50 一周年了](https://quail.ink/op7418/p/aigc-weekly-50)
 - [AIGC Weekly #48](https://quail.ink/op7418/p/aigc-weekly-48)
 - [AIGC Weekly #47 AI时代的转折点](https://quail.ink/op7418/p/aigc-weekly-47-ai)
 - [AIGC Weekly #46  信息量爆炸](https://quail.ink/op7418/p/aigc-weekly-46)
