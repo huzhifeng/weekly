@@ -13,13 +13,13 @@
 - 2023/12/11 [涛然自得周刊 No.20 ：成为前5%的人](http://heyitao.com/post/beyond-code-weekly-020) | [More](channels/涛然自得周刊.md)
 
 ## 拾月通讯
-- 2023/11/10 [拾月通讯（第33期）](https://www.skyue.com/23111016.html) | [More](channels/拾月通讯.md)
+- 2023/12/12 [拾月通讯（第34期）](https://www.skyue.com/23121220.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
 - 2023/12/07 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2023/12/05 [Vol.35 几则思考](https://justgoidea.com/newsletter/202335/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2023/12/12 [Vol.36 找到自己不擅长的事](https://justgoidea.com/newsletter/202336/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2023/12/09 [广场周刊（第 14 期）：习惯……](https://immmmm.com/weekly-2023-12-09/) | [More](channels/广场周刊.md)
