@@ -31,7 +31,7 @@
 - 2023/12/02 [CyberClip #46 智能共生](https://shyrz.me/cyberclip-46-intelligent-symbiosis/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
-- 2023/07/28 [HelloGitHub 第 88 期](https://hellogithub.com/periodical/volume/88) | [More](channels/HelloGitHub.md)
+- 2023/11/28 [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92) | [More](channels/HelloGitHub.md)
 
 ## Web Review
 - 2023/12/08 [Web Review, Week 2023-49](https://ervin.ipsquad.net/blog/2023/12/08/web-review-week-2023-49/) | [More](channels/Web%20Review.md)
