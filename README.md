@@ -7,7 +7,7 @@
 - 2023/12/08 [12-04~12-09.老胡的周刊（第119期）.md](https://weekly.howie6879.com/2023/12-04~12-09.老胡的周刊（第119期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2023/12/08 [独立开发变现周刊（第115期） : 开发一个健身管理软件，月收入6万美元](https://www.ezindie.com/weekly/issue-115) | [More](channels/独立开发变现周刊.md)
+- 2023/12/15 [独立开发变现周刊（第116期） : 一个会议AI 浏览器扩展插件，月收入1.5千美金](https://www.ezindie.com/weekly/issue-116) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2023/12/11 [涛然自得周刊 No.20 ：成为前5%的人](http://heyitao.com/post/beyond-code-weekly-020) | [More](channels/涛然自得周刊.md)
