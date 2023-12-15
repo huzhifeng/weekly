@@ -1,10 +1,10 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2023/12/08 [科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html) | [More](channels/科技爱好者周刊.md)
+- 2023/12/15 [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2023/12/08 [12-04~12-09.老胡的周刊（第119期）.md](https://weekly.howie6879.com/2023/12-04~12-09.老胡的周刊（第119期）.html) | [More](channels/老胡的信息周刊.md)
+- 2023/12/16 [12-11~12-17.老胡的周刊（第120期）.md](https://weekly.howie6879.com/2023/12-11~12-17.老胡的周刊（第120期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2023/12/15 [独立开发变现周刊（第116期） : 一个会议AI 浏览器扩展插件，月收入1.5千美金](https://www.ezindie.com/weekly/issue-116) | [More](channels/独立开发变现周刊.md)
@@ -16,7 +16,7 @@
 - 2023/12/12 [拾月通讯（第34期）](https://www.skyue.com/23121220.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2023/12/07 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) | [More](channels/二丫讲梵学习周刊.md)
+- 2023/12/14 [学习周刊-总第137期-2023年第50周](https://wiki.eryajf.net/pages/854f9d/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2023/12/12 [Vol.36 找到自己不擅长的事](https://justgoidea.com/newsletter/202336/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -34,7 +34,7 @@
 - 2023/11/28 [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2023/12/08 [Web Review, Week 2023-49](https://ervin.ipsquad.net/blog/2023/12/08/web-review-week-2023-49/) | [More](channels/Web%20Review.md)
+- 2023/12/15 [Web Review, Week 2023-50](https://ervin.ipsquad.net/blog/2023/12/15/web-review-week-2023-50/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2023/12/11 [Python 潮流周刊第一季精华合集（1~30）](https://pythoncat.top/posts/2023-12-11-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
