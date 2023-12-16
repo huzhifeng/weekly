@@ -1,0 +1,2 @@
+- [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/)
+- [PIVOT Vol. 1](https://anotherdayu.com/2023/5398/)

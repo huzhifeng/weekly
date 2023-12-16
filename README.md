@@ -66,3 +66,6 @@
 ## zdyxry Weekly Issue
 - 2023/12/10 [Weekly Issue 2023-12-10](https://zdyxry.github.io/2023/12/10/Weekly-Issue-2023-12-10/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
+## PIVOT
+- 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
+
