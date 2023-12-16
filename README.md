@@ -28,7 +28,7 @@
 - 2023/12/09 [1link.fun 科技周刊 | 第 78 期](https://1link.fun/blog/issue/issue78/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
-- 2023/12/02 [CyberClip #46 智能共生](https://shyrz.me/cyberclip-46-intelligent-symbiosis/) | [More](channels/CyberClip.md)
+- 2023/12/16 [CyberClip #47 你真的想要永生吗？](https://shyrz.me/cyberclip-47-do-you-really-want-to-live-forever/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
 - 2023/11/28 [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92) | [More](channels/HelloGitHub.md)
@@ -37,7 +37,7 @@
 - 2023/12/15 [Web Review, Week 2023-50](https://ervin.ipsquad.net/blog/2023/12/15/web-review-week-2023-50/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2023/12/11 [Python 潮流周刊第一季精华合集（1~30）](https://pythoncat.top/posts/2023-12-11-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2023/12/16 [Python 潮流周刊#31：继 iOS 后，新 PEP 提议官方添加 Android 为支持平台](https://pythoncat.top/posts/2023-12-16-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2023/12/10 [视野修炼第65期-兴趣是一种天赋](https://sugarat.top/weekly/2023-12-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
