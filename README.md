@@ -40,10 +40,10 @@
 - 2023/12/16 [Python 潮流周刊#31：继 iOS 后，新 PEP 提议官方添加 Android 为支持平台](https://pythoncat.top/posts/2023-12-16-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2023/12/10 [视野修炼第65期-兴趣是一种天赋](https://sugarat.top/weekly/2023-12-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2023/12/17 [视野修炼第66期](https://sugarat.top/weekly/2023-12-17.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
-- 2023/12/11 [第 0117 期：stylex、Vitest 1、Astro 4、React Forget、TanStack Router](https://mdhweekly.com/weekly/issue-0117) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
+- 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2023/12/03 [周报 #52 - 自谦型人格与感情的另一个视角](https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -58,13 +58,13 @@
 - 2023/12/05 [棱镜通讯 No . 103 Clay Shirky](https://wangyurui.com/posts/leng-jing-tong-xun-no-103-clay-shirky-a45f1c03) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2023/12/11 [第156期 - 富士山下](https://weekly.tw93.fun/posts/156-%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%B8%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2023/12/18 [第157期 - 引力剧场](https://weekly.tw93.fun/posts/157-%E5%BC%95%E5%8A%9B%E5%89%A7%E5%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2023/12/10 [Weekly Issue 2023-12-10](https://zdyxry.github.io/2023/12/10/Weekly-Issue-2023-12-10/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2023/12/17 [Weekly Issue 2023-12-17](https://zdyxry.github.io/2023/12/17/Weekly-Issue-2023-12-17/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)

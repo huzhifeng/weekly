@@ -1,3 +1,4 @@
+- [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118)
 - [第 0117 期：stylex、Vitest 1、Astro 4、React Forget、TanStack Router](https://mdhweekly.com/weekly/issue-0117)
 - [第 0116 期：Astro 4 Beta、XState 5、Fresh 1.6、Prettier 性能、Biome、VSCode 调试](https://mdhweekly.com/weekly/issue-0116)
 - [第 0115 期：TypeScript 5.3、RSC、React TypeScript、30 条建议、0.6 + 0.3、CI 时间](https://mdhweekly.com/weekly/issue-0115)
