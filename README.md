@@ -25,7 +25,7 @@
 - 2023/12/09 [广场周刊（第 14 期）：习惯……](https://immmmm.com/weekly-2023-12-09/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2023/12/09 [1link.fun 科技周刊 | 第 78 期](https://1link.fun/blog/issue/issue78/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2023/12/19 [1link.fun 科技周刊 | 第 79 期](https://1link.fun/blog/issue/issue79/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2023/12/16 [CyberClip #47 你真的想要永生吗？](https://shyrz.me/cyberclip-47-do-you-really-want-to-live-forever/) | [More](channels/CyberClip.md)
