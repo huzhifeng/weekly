@@ -7,16 +7,16 @@
 - 2023/12/16 [12-11~12-17.老胡的周刊（第120期）.md](https://weekly.howie6879.com/2023/12-11~12-17.老胡的周刊（第120期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2023/12/15 [独立开发变现周刊（第116期） : 一个会议AI 浏览器扩展插件，月收入1.5千美金](https://www.ezindie.com/weekly/issue-116) | [More](channels/独立开发变现周刊.md)
+- 2023/12/22 [独立开发变现周刊（第117期） : 靠卖Notion模版赚了210万美元](https://www.ezindie.com/weekly/issue-117) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
-- 2023/12/11 [涛然自得周刊 No.20 ：成为前5%的人](http://heyitao.com/post/beyond-code-weekly-020) | [More](channels/涛然自得周刊.md)
+- 2023/12/21 [涛然自得周刊 No.21 ：如何浪费时间](http://heyitao.com/post/beyond-code-weekly-021) | [More](channels/涛然自得周刊.md)
 
 ## 拾月通讯
 - 2023/12/12 [拾月通讯（第34期）](https://www.skyue.com/23121220.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2023/12/14 [学习周刊-总第137期-2023年第50周](https://wiki.eryajf.net/pages/854f9d/) | [More](channels/二丫讲梵学习周刊.md)
+- 2023/12/21 [学习周刊-总第138期-2023年第51周](https://wiki.eryajf.net/pages/0d5163/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2023/12/12 [Vol.36 找到自己不擅长的事](https://justgoidea.com/newsletter/202336/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
