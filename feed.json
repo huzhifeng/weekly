@@ -91,6 +91,18 @@
 			"enable": 0
 		},
 		{
+			"channel": "中文播客行业动态",
+			"portal": "https://podpress.zhubai.love/",
+			"url": "https://rsshub.app/zhubai/podpress",
+			"enable": 0
+		},
+		{
+			"channel": "播客相对论",
+			"portal": "https://podcast.zhubai.love/",
+			"url": "https://rsshub.app/zhubai/podcast",
+			"enable": 0
+		},
+		{
 			"channel": "视野修炼",
 			"portal": "https://github.com/ATQQ/sugar-blog/blob/master/packages/blogpress/weekly/index.md",
 			"url": "https://sugarat.top/feed.rss",
