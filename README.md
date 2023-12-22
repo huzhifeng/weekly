@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2023/12/15 [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) | [More](channels/科技爱好者周刊.md)
+- 2023/12/22 [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2023/12/16 [12-11~12-17.老胡的周刊（第120期）.md](https://weekly.howie6879.com/2023/12-11~12-17.老胡的周刊（第120期）.html) | [More](channels/老胡的信息周刊.md)
@@ -34,7 +34,7 @@
 - 2023/11/28 [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2023/12/15 [Web Review, Week 2023-50](https://ervin.ipsquad.net/blog/2023/12/15/web-review-week-2023-50/) | [More](channels/Web%20Review.md)
+- 2023/12/22 [Web Review, Week 2023-51](https://ervin.ipsquad.net/blog/2023/12/22/web-review-week-2023-51/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2023/12/16 [Python 潮流周刊#31：继 iOS 后，新 PEP 提议官方添加 Android 为支持平台](https://pythoncat.top/posts/2023-12-16-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
