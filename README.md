@@ -22,10 +22,10 @@
 - 2023/12/12 [Vol.36 找到自己不擅长的事](https://justgoidea.com/newsletter/202336/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
-- 2023/12/09 [广场周刊（第 14 期）：习惯……](https://immmmm.com/weekly-2023-12-09/) | [More](channels/广场周刊.md)
+- 2023/12/24 [广场周刊（第 15 期）：记住遗忘](https://immmmm.com/weekly-2023-12-23/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2023/12/19 [1link.fun 科技周刊 | 第 79 期](https://1link.fun/blog/issue/issue79/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2023/12/24 [1link.fun 科技周刊 | 第 80 期](https://1link.fun/blog/issue/issue80/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2023/12/16 [CyberClip #47 你真的想要永生吗？](https://shyrz.me/cyberclip-47-do-you-really-want-to-live-forever/) | [More](channels/CyberClip.md)
@@ -40,7 +40,7 @@
 - 2023/12/23 [Python 潮流周刊#32：打造个人的新闻聚合阅读器](https://pythoncat.top/posts/2023-12-23-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2023/12/17 [视野修炼第66期](https://sugarat.top/weekly/2023-12-17.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2023/12/24 [视野修炼第67期](https://sugarat.top/weekly/2023-12-24.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -55,16 +55,16 @@
 - 2023/12/18 [AIGC Weekly #51](https://quail.ink/op7418/p/aigc-weekly-51) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
-- 2023/12/05 [棱镜通讯 No . 103 Clay Shirky](https://wangyurui.com/posts/leng-jing-tong-xun-no-103-clay-shirky-a45f1c03) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+- 2023/12/24 [棱镜通讯 No.104  Howard Rheingold](https://wangyurui.com/posts/leng-jing-tong-xun-no-104-howard-rheingold-8ec0a626) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2023/12/18 [第157期 - 引力剧场](https://weekly.tw93.fun/posts/157-%E5%BC%95%E5%8A%9B%E5%89%A7%E5%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2023/12/15 [第158期 - 圣诞沙拉](https://weekly.tw93.fun/posts/158-%E5%9C%A3%E8%AF%9E%E6%B2%99%E6%8B%89/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2023/12/17 [Weekly Issue 2023-12-17](https://zdyxry.github.io/2023/12/17/Weekly-Issue-2023-12-17/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2023/12/24 [Weekly Issue 2023-12-24](https://zdyxry.github.io/2023/12/24/Weekly-Issue-2023-12-24/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
