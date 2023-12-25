@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2023/12/18 [AIGC Weekly #51](https://quail.ink/op7418/p/aigc-weekly-51) | [More](channels/AIGC%20Weekly.md)
+- 2023/12/25 [AIGC Weekly #52 圣诞快乐](https://quail.ink/op7418/p/aigc-weekly-52) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2023/12/24 [棱镜通讯 No.104  Howard Rheingold](https://wangyurui.com/posts/leng-jing-tong-xun-no-104-howard-rheingold-8ec0a626) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
