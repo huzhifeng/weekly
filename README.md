@@ -7,7 +7,7 @@
 - 2023/12/23 [12-18~12-24.老胡的周刊（第121期）.md](https://weekly.howie6879.com/2023/12-18~12-24.老胡的周刊（第121期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2023/12/22 [独立开发变现周刊（第117期） : 靠卖Notion模版赚了210万美元](https://www.ezindie.com/weekly/issue-117) | [More](channels/独立开发变现周刊.md)
+- 2023/12/29 [独立开发变现周刊（第118期） : 如何建立一个网站组合，产生100万美元利润？](https://www.ezindie.com/weekly/issue-118) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2023/12/21 [涛然自得周刊 No.21 ：如何浪费时间](http://heyitao.com/post/beyond-code-weekly-021) | [More](channels/涛然自得周刊.md)
@@ -31,7 +31,7 @@
 - 2023/12/16 [CyberClip #47 你真的想要永生吗？](https://shyrz.me/cyberclip-47-do-you-really-want-to-live-forever/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
-- 2023/11/28 [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92) | [More](channels/HelloGitHub.md)
+- 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
 - 2023/12/22 [Web Review, Week 2023-51](https://ervin.ipsquad.net/blog/2023/12/22/web-review-week-2023-51/) | [More](channels/Web%20Review.md)
