@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2023/12/22 [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) | [More](channels/科技爱好者周刊.md)
+- 2023/12/29 [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2023/12/23 [12-18~12-24.老胡的周刊（第121期）.md](https://weekly.howie6879.com/2023/12-18~12-24.老胡的周刊（第121期）.html) | [More](channels/老胡的信息周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2023/12/22 [Web Review, Week 2023-51](https://ervin.ipsquad.net/blog/2023/12/22/web-review-week-2023-51/) | [More](channels/Web%20Review.md)
+- 2023/12/29 [Web Review, Week 2023-52](https://ervin.ipsquad.net/blog/2023/12/29/web-review-week-2023-52/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2023/12/23 [Python 潮流周刊#32：打造个人的新闻聚合阅读器](https://pythoncat.top/posts/2023-12-23-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
