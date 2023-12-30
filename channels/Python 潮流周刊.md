@@ -1,3 +1,4 @@
+- [Python 潮流周刊#33：FastAPI 很好，Flask 也没死，它们都有未来](https://pythoncat.top/posts/2023-12-30-weekly/)
 - [Python 潮流周刊#32：打造个人的新闻聚合阅读器](https://pythoncat.top/posts/2023-12-23-weekly/)
 - [Python 潮流周刊#31：继 iOS 后，新 PEP 提议官方添加 Android 为支持平台](https://pythoncat.top/posts/2023-12-16-weekly/)
 - [Python 潮流周刊第一季精华合集（1~30）](https://pythoncat.top/posts/2023-12-11-weekly/)

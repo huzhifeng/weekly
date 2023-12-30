@@ -16,7 +16,7 @@
 - 2023/12/12 [拾月通讯（第34期）](https://www.skyue.com/23121220.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2023/12/21 [学习周刊-总第138期-2023年第51周](https://wiki.eryajf.net/pages/0d5163/) | [More](channels/二丫讲梵学习周刊.md)
+- 2023/12/28 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2023/12/12 [Vol.36 找到自己不擅长的事](https://justgoidea.com/newsletter/202336/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -37,7 +37,7 @@
 - 2023/12/29 [Web Review, Week 2023-52](https://ervin.ipsquad.net/blog/2023/12/29/web-review-week-2023-52/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2023/12/23 [Python 潮流周刊#32：打造个人的新闻聚合阅读器](https://pythoncat.top/posts/2023-12-23-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2023/12/30 [Python 潮流周刊#33：FastAPI 很好，Flask 也没死，它们都有未来](https://pythoncat.top/posts/2023-12-30-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2023/12/24 [视野修炼第67期](https://sugarat.top/weekly/2023-12-24.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
