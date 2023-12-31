@@ -62,6 +62,12 @@
 			"filter": ["Web Review"]
 		},
 		{
+			"channel": "Giovanni Collazo Notes",
+			"portal": "https://gcollazo.com/blog/",
+			"url": "https://gcollazo.com/blog/feed/",
+			"filter": ["Notes #"]
+		},
+		{
 			"channel": "HelloGitHub",
 			"portal": "https://github.com/521xueweihan/HelloGitHub",
 			"url": "https://hellogithub.com/rss",

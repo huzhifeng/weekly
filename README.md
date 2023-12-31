@@ -69,3 +69,6 @@
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
 
+## Giovanni Collazo Notes
+- 2023/12/18 [Notes #12](https://gcollazo.com/notes-12/) | [More](channels/Giovanni%20Collazo%20Notes.md)
+
