@@ -10,7 +10,7 @@
 - 2023/12/29 [独立开发变现周刊（第118期） : 如何建立一个网站组合，产生100万美元利润？](https://www.ezindie.com/weekly/issue-118) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
-- 2023/12/21 [涛然自得周刊 No.21 ：如何浪费时间](http://heyitao.com/post/beyond-code-weekly-021) | [More](channels/涛然自得周刊.md)
+- 2023/12/31 [我的2023难忘瞬间](http://heyitao.com/post/my-2023) | [More](channels/涛然自得周刊.md)
 
 ## 拾月通讯
 - 2023/12/12 [拾月通讯（第34期）](https://www.skyue.com/23121220.html) | [More](channels/拾月通讯.md)
