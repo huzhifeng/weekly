@@ -75,3 +75,6 @@
 ## 印记周报
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
+## DistroWatch Weekly
+- 2023/12/18 [DistroWatch Weekly, Issue 1050](https://distrowatch.com/weekly.php?issue=20231218) | [More](channels/DistroWatch%20Weekly.md)
+

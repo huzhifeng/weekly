@@ -161,6 +161,11 @@
 			"url": "https://anotherdayu.com/category/pivot/feed/"
 		},
 		{
+			"channel": "DistroWatch Weekly",
+			"portal": "https://distrowatch.com/weekly.php",
+			"url": "https://distrowatch.com/news/dww.xml"
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"url": "https://www.ezindie.com/feed/rss.xml"
