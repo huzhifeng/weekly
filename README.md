@@ -72,3 +72,6 @@
 ## Giovanni Collazo Notes
 - 2023/12/18 [Notes #12](https://gcollazo.com/notes-12/) | [More](channels/Giovanni%20Collazo%20Notes.md)
 
+## 印记周报
+- 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
+

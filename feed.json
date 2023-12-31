@@ -121,6 +121,12 @@
 			"filter": ["周报"]
 		},
 		{
+			"channel": "印记周报",
+			"portal": "https://yinji.org/tag/%e5%91%a8%e6%8a%a5",
+			"url": "https://yinji.org/feed",
+			"filter": ["周报"]
+		},
+		{
 			"channel": "The Connector 周刊",
 			"portal": "https://liduos.com/categories/The-Connector-%E5%91%A8%E5%88%8A/",
 			"url": "https://liduos.com/atom.xml",
