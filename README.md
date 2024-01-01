@@ -4,7 +4,7 @@
 - 2023/12/29 [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2023/12/23 [12-18~12-24.老胡的周刊（第121期）.md](https://weekly.howie6879.com/2023/12-18~12-24.老胡的周刊（第121期）.html) | [More](channels/老胡的信息周刊.md)
+- 2023/12/30 [12-25~12-31.老胡的周刊（第122期）.md](https://weekly.howie6879.com/2023/12-25~12-31.老胡的周刊（第122期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2023/12/29 [独立开发变现周刊（第118期） : 如何建立一个网站组合，产生100万美元利润？](https://www.ezindie.com/weekly/issue-118) | [More](channels/独立开发变现周刊.md)
@@ -25,7 +25,7 @@
 - 2023/12/24 [广场周刊（第 15 期）：记住遗忘](https://immmmm.com/weekly-2023-12-23/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2023/12/24 [1link.fun 科技周刊 | 第 80 期](https://1link.fun/blog/issue/issue80/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/01/01 [1link.fun 科技周刊 | 第 81 期](https://1link.fun/blog/issue/issue81/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2023/12/16 [CyberClip #47 你真的想要永生吗？](https://shyrz.me/cyberclip-47-do-you-really-want-to-live-forever/) | [More](channels/CyberClip.md)
@@ -64,7 +64,7 @@
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2023/12/24 [Weekly Issue 2023-12-24](https://zdyxry.github.io/2023/12/24/Weekly-Issue-2023-12-24/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2023/12/31 [Weekly Issue 2023-12-31](https://zdyxry.github.io/2023/12/31/Weekly-Issue-2023-12-31/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
@@ -76,5 +76,5 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2023/12/18 [DistroWatch Weekly, Issue 1050](https://distrowatch.com/weekly.php?issue=20231218) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/01/01 [DistroWatch Weekly, Issue 1051](https://distrowatch.com/weekly.php?issue=20240101) | [More](channels/DistroWatch%20Weekly.md)
 
