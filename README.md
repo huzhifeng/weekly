@@ -19,7 +19,7 @@
 - 2023/12/28 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2023/12/12 [Vol.36 找到自己不擅长的事](https://justgoidea.com/newsletter/202336/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/01/02 [Vol.1 新年寄语](https://justgoidea.com/newsletter/202401/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2023/12/24 [广场周刊（第 15 期）：记住遗忘](https://immmmm.com/weekly-2023-12-23/) | [More](channels/广场周刊.md)
@@ -52,13 +52,13 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2023/12/25 [AIGC Weekly #52 圣诞快乐](https://quail.ink/op7418/p/aigc-weekly-52) | [More](channels/AIGC%20Weekly.md)
+- 2024/01/02 [AIGC Weekly #53 新年快乐](https://quail.ink/op7418/p/aigc-weekly-53) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2023/12/24 [棱镜通讯 No.104  Howard Rheingold](https://wangyurui.com/posts/leng-jing-tong-xun-no-104-howard-rheingold-8ec0a626) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2023/12/15 [第158期 - 圣诞沙拉](https://weekly.tw93.fun/posts/158-%E5%9C%A3%E8%AF%9E%E6%B2%99%E6%8B%89/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/02 [第159期 - 自制咖啡](https://weekly.tw93.fun/posts/159-%E8%87%AA%E5%88%B6%E5%92%96%E5%95%A1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
