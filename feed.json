@@ -166,6 +166,12 @@
 			"url": "https://distrowatch.com/news/dww.xml"
 		},
 		{
+			"channel": "9to5Linux Weekly Roundup",
+			"portal": "https://9to5linux.com/category/weekly-roundup",
+			"url": "https://9to5linux.com/feed/atom",
+			"filter": ["Weekly"]
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"url": "https://www.ezindie.com/feed/rss.xml"

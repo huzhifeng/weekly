@@ -78,3 +78,6 @@
 ## DistroWatch Weekly
 - 2024/01/01 [DistroWatch Weekly, Issue 1051](https://distrowatch.com/weekly.php?issue=20240101) | [More](channels/DistroWatch%20Weekly.md)
 
+## 9to5Linux Weekly Roundup
+- 2024/01/01 [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
