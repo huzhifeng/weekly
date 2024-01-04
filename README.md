@@ -7,16 +7,16 @@
 - 2023/12/30 [12-25~12-31.老胡的周刊（第122期）.md](https://weekly.howie6879.com/2023/12-25~12-31.老胡的周刊（第122期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2023/12/29 [独立开发变现周刊（第118期） : 如何建立一个网站组合，产生100万美元利润？](https://www.ezindie.com/weekly/issue-118) | [More](channels/独立开发变现周刊.md)
+- 2024/01/05 [独立开发变现周刊（第119期） : 一个自学开发者创建一个月收入12.5万美元的软件公司](https://www.ezindie.com/weekly/issue-119) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2024/01/03 [涛然自得周刊 No.22 ：不要围观他人的生活](http://heyitao.com/post/beyond-code-weekly-022) | [More](channels/涛然自得周刊.md)
 
 ## 拾月通讯
-- 2023/12/12 [拾月通讯（第34期）](https://www.skyue.com/23121220.html) | [More](channels/拾月通讯.md)
+- 2024/01/04 [拾月通讯（2024.01）](https://www.skyue.com/24010420.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2023/12/28 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/01/04 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/01/02 [Vol.1 新年寄语](https://justgoidea.com/newsletter/202401/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
