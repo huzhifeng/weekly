@@ -174,6 +174,7 @@
 		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
+			"portal2": "https://github.com/ljinkai/weekly",
 			"url": "https://www.ezindie.com/feed/rss.xml"
 		}
 	]
