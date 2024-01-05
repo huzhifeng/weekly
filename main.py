@@ -97,6 +97,8 @@ def main():
             i = 0
             total = len(resp.entries)
             for entry in resp.entries:
+                if 'LWN.net Weekly Edition' in feed['channel']:
+                    entry.title = entry.title.replace('[$] LWN.net Weekly Edition', 'LWN.net Weekly Edition')
                 item = {
                     'channel': feed['channel'],
                     'title': entry.title,

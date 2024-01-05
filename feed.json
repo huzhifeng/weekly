@@ -161,6 +161,13 @@
 			"url": "https://anotherdayu.com/category/pivot/feed/"
 		},
 		{
+			"channel": "LWN.net Weekly Edition",
+			"portal": "https://lwn.net/Archives/",
+			"url": "https://lwn.net/headlines/Features",
+			"url2": "https://lwn.net/headlines/rss",
+			"filter": ["LWN.net Weekly Edition"]
+		},
+		{
 			"channel": "DistroWatch Weekly",
 			"portal": "https://distrowatch.com/weekly.php",
 			"url": "https://distrowatch.com/news/dww.xml"

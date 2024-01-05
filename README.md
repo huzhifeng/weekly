@@ -81,3 +81,6 @@
 ## 9to5Linux Weekly Roundup
 - 2024/01/01 [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
+## LWN.net Weekly Edition
+- 2024/01/04 [LWN.net Weekly Edition for January 4, 2024](https://lwn.net/Articles/955921/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
