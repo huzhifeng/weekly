@@ -90,3 +90,6 @@
 ## 中文播客行业动态
 - 2024/01/04 [各平台纷纷推出年度榜单｜中文播客行业动态 vol.33](https://podpress.zhubai.love/posts/2354644214404517888) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
+## 偷懒爱好者周刊
+- 2024/01/02 [第63期 - 偷懒爱好者周刊 24/01/03](https://toolight.zhubai.love/posts/2354119305341329408) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
