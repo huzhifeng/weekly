@@ -99,3 +99,6 @@
 ## 机器文摘
 - 2024/01/02 [机器文摘 第 065 期](https://niupitools.zhubai.love/posts/2353775272475660288) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
+## 前端食堂技术周刊
+- 2024/01/03 [前端食堂技术周刊第 110 期：Vue3.4、新版 Vue DevTools 开源、AI 2023 年度总结合集、Web Components 的另一个未来](https://hungryturbo.zhubai.love/posts/2354368053321576448) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+

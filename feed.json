@@ -86,9 +86,9 @@
 		},
 		{
 			"channel": "前端食堂技术周刊",
-			"portal": "https://github.com/Geekhyt/weekly",
-			"url": "https://rsshub.app/zhubai/hungryturbo",
-			"enable": 0
+			"portal": "https://hungryturbo.zhubai.love/",
+			"portal2": "https://github.com/Geekhyt/weekly",
+			"url": "https://rsshub.app/zhubai/hungryturbo"
 		},
 		{
 			"channel": "机器文摘",
