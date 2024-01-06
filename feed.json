@@ -110,8 +110,7 @@
 		{
 			"channel": "播客相对论",
 			"portal": "https://podcast.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/podcast",
-			"enable": 0
+			"url": "https://rsshub.app/zhubai/podcast"
 		},
 		{
 			"channel": "视野修炼",

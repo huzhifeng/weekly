@@ -93,3 +93,6 @@
 ## 偷懒爱好者周刊
 - 2024/01/02 [第63期 - 偷懒爱好者周刊 24/01/03](https://toolight.zhubai.love/posts/2354119305341329408) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 播客相对论
+- 2023/12/21 [播客相对论｜11月份不能错过的播客单集](https://podcast.zhubai.love/posts/2349623632063516672) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
+
