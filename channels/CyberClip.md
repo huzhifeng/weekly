@@ -1,3 +1,4 @@
+- [CyberClip #48 词汇泛化](https://shyrz.me/cyberclip-48-generalization-of-vocabulary/)
 - [CyberClip #47 你真的想要永生吗？](https://shyrz.me/cyberclip-47-do-you-really-want-to-live-forever/)
 - [CyberClip #46 智能共生](https://shyrz.me/cyberclip-46-intelligent-symbiosis/)
 - [CyberClip #45 逃离算法](https://shyrz.me/cyberclip-45-escape-the-algorithm/)

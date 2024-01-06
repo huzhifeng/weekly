@@ -28,7 +28,7 @@
 - 2024/01/01 [1link.fun 科技周刊 | 第 81 期](https://1link.fun/blog/issue/issue81/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
-- 2023/12/16 [CyberClip #47 你真的想要永生吗？](https://shyrz.me/cyberclip-47-do-you-really-want-to-live-forever/) | [More](channels/CyberClip.md)
+- 2024/01/06 [CyberClip #48 词汇泛化](https://shyrz.me/cyberclip-48-generalization-of-vocabulary/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
@@ -37,10 +37,10 @@
 - 2024/01/05 [Web Review, Week 2024-01](https://ervin.ipsquad.net/blog/2024/01/05/web-review-week-2024-01/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2023/12/30 [Python 潮流周刊#33：FastAPI 很好，Flask 也没死，它们都有未来](https://pythoncat.top/posts/2023-12-30-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/06 [Python 潮流周刊#34：Python 3.13 的 JIT 方案又新又好！](https://pythoncat.top/posts/2024-01-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2023/12/24 [视野修炼第67期](https://sugarat.top/weekly/2023-12-24.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/01/06 [🚧视野修炼第68期|2023年前端明星项目](https://sugarat.top/weekly/2024-01-06.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
