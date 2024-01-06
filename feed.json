@@ -93,8 +93,8 @@
 		{
 			"channel": "机器文摘",
 			"portal": "https://niupitools.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/niupitools",
-			"enable": 0
+			"portal2": "https://github.com/sbabybird/MachineDigest",
+			"url": "https://rsshub.app/zhubai/niupitools"
 		},
 		{
 			"channel": "偷懒爱好者周刊",

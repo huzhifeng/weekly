@@ -96,3 +96,6 @@
 ## 播客相对论
 - 2023/12/21 [播客相对论｜11月份不能错过的播客单集](https://podcast.zhubai.love/posts/2349623632063516672) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
+## 机器文摘
+- 2024/01/02 [机器文摘 第 065 期](https://niupitools.zhubai.love/posts/2353775272475660288) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+
