@@ -87,3 +87,6 @@
 ## 艾迪蓝波
 - 2024/01/05 [Vol.18 12月榜单：何处是家乡](https://www.idnunber.top/article/61633d64-7857-4160-90ef-e0a193000c52) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
+## 中文播客行业动态
+- 2024/01/04 [各平台纷纷推出年度榜单｜中文播客行业动态 vol.33](https://podpress.zhubai.love/posts/2354644214404517888) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
+

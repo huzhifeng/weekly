@@ -100,7 +100,7 @@
 			"channel": "中文播客行业动态",
 			"portal": "https://podpress.zhubai.love/",
 			"url": "https://rsshub.app/zhubai/podpress",
-			"enable": 0
+			"filter": ["中文播客行业动态"]
 		},
 		{
 			"channel": "播客相对论",
