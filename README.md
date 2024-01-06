@@ -84,3 +84,6 @@
 ## LWN.net Weekly Edition
 - 2024/01/04 [LWN.net Weekly Edition for January 4, 2024](https://lwn.net/Articles/955921/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
+## 艾迪蓝波
+- 2024/01/05 [Vol.18 12月榜单：何处是家乡](https://www.idnunber.top/article/61633d64-7857-4160-90ef-e0a193000c52) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+

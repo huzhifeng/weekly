@@ -99,6 +99,8 @@ def main():
             for entry in resp.entries:
                 if 'LWN.net Weekly Edition' in feed['channel']:
                     entry.title = entry.title.replace('[$] LWN.net Weekly Edition', 'LWN.net Weekly Edition')
+                elif '艾迪蓝波' in feed['channel']:
+                    entry.link = entry.link.replace('tangly1024.com', 'www.idnunber.top')
                 item = {
                     'channel': feed['channel'],
                     'title': entry.title,

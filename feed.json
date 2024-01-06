@@ -127,6 +127,12 @@
 			"filter": ["周报"]
 		},
 		{
+			"channel": "艾迪蓝波",
+			"portal": "https://www.idnunber.top/",
+			"portal2": "https://nscmiaoxin.zhubai.love/",
+			"url": "https://www.idnunber.top/feed"
+		},
+		{
 			"channel": "The Connector 周刊",
 			"portal": "https://liduos.com/categories/The-Connector-%E5%91%A8%E5%88%8A/",
 			"url": "https://liduos.com/atom.xml",
