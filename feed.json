@@ -189,6 +189,12 @@
 			"filter": ["Weekly"]
 		},
 		{
+			"channel": "GitHub Trending Weekly",
+			"portal": "https://github.com/trending?since=weekly",
+			"url": "https://rsshub.app/github/trending/weekly/any",
+			"limit": 3
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"portal2": "https://github.com/ljinkai/weekly",

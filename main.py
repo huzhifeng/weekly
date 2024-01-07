@@ -93,6 +93,11 @@ def main():
             if 'filter' in feed and len(feed['filter']) > 0:
                 resp.entries = [entry for entry in resp.entries
                                 if any(k in entry.title for k in feed['filter'])]
+            # Limit size
+            if 'limit' in feed:
+                limit = int(feed['limit'])
+                if limit > 0:
+                    resp.entries = resp.entries[-limit:]
 
             i = 0
             total = len(resp.entries)
@@ -101,6 +106,8 @@ def main():
                     entry.title = entry.title.replace('[$] LWN.net Weekly Edition', 'LWN.net Weekly Edition')
                 elif '艾迪蓝波' in feed['channel']:
                     entry.link = entry.link.replace('tangly1024.com', 'www.idnunber.top')
+                elif 'GitHub Trending Weekly' in feed['channel']:
+                    entry['published_parsed'] = time.localtime()
                 item = {
                     'channel': feed['channel'],
                     'title': entry.title,

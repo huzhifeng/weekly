@@ -1,0 +1,3 @@
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
+- [movie-web/movie-web](https://github.com/movie-web/movie-web)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
