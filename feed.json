@@ -195,6 +195,13 @@
 			"limit": 3
 		},
 		{
+			"channel": "泰晓资讯",
+			"portal": "https://tinylab.org/albums/#%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF-ref",
+			"portal2": "https://github.com/tinyclub/tinylab.org",
+			"url": "https://tinylab.org/rss.xml",
+			"filter": ["泰晓资讯"]
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"portal2": "https://github.com/ljinkai/weekly",

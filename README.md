@@ -105,3 +105,6 @@
 ## GitHub Trending Weekly
 - 2024/01/07 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
 
+## 泰晓资讯
+- 2023/12/28 [泰晓资讯·12 月 / 第三期 / 2023](https://tinylab.org/tinylab-weekly-12-3rd-2023/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
