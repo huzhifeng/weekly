@@ -4,7 +4,7 @@
 - 2024/01/05 [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2023/12/30 [12-25~12-31.老胡的周刊（第122期）.md](https://weekly.howie6879.com/2023/12-25~12-31.老胡的周刊（第122期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/01/06 [01-01~01-07.老胡的周刊（第123期）.md](https://weekly.howie6879.com/2024/01-01~01-07.老胡的周刊（第123期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/01/05 [独立开发变现周刊（第119期） : 一个自学开发者创建一个月收入12.5万美元的软件公司](https://www.ezindie.com/weekly/issue-119) | [More](channels/独立开发变现周刊.md)
@@ -22,7 +22,7 @@
 - 2024/01/02 [Vol.1 新年寄语](https://justgoidea.com/newsletter/202401/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
-- 2023/12/24 [广场周刊（第 15 期）：记住遗忘](https://immmmm.com/weekly-2023-12-23/) | [More](channels/广场周刊.md)
+- 2024/01/06 [广场周刊（第 16 期）：只能向 Qian](https://immmmm.com/weekly-16-20240106/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/01/01 [1link.fun 科技周刊 | 第 81 期](https://1link.fun/blog/issue/issue81/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -58,13 +58,13 @@
 - 2023/12/24 [棱镜通讯 No.104  Howard Rheingold](https://wangyurui.com/posts/leng-jing-tong-xun-no-104-howard-rheingold-8ec0a626) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/01/02 [第159期 - 自制咖啡](https://weekly.tw93.fun/posts/159-%E8%87%AA%E5%88%B6%E5%92%96%E5%95%A1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/08 [第160期 - 爱吃炒饭](https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
-- 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
+- 2024/01/07 [严正声明](https://weekly.ursb.me/posts/notification/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2023/12/31 [Weekly Issue 2023-12-31](https://zdyxry.github.io/2023/12/31/Weekly-Issue-2023-12-31/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/01/07 [Weekly Issue 2024-01-07](https://zdyxry.github.io/2024/01/07/Weekly-Issue-2024-01-07/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)

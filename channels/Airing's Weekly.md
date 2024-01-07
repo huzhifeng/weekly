@@ -1,3 +1,4 @@
+- [严正声明](https://weekly.ursb.me/posts/notification/)
 - [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/)
 - [WJ.23: 多任务中的时间管理](https://weekly.ursb.me/posts/weekly-23/)
 - [WJ.22: 当下的快乐](https://weekly.ursb.me/posts/weekly-22/)
