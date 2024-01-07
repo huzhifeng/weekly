@@ -24,13 +24,22 @@ jobs:
         env:
           LOGLEVEL: 'DEBUG'
         run: python main.py
+      - name: Check for changes
+        run: |
+          if git diff --exit-code; then
+            echo "changed=false" >> "$GITHUB_ENV"
+          else
+            echo "changed=true" >> "$GITHUB_ENV"
+          fi
       - name: Commit files
+        if: ${{ env.changed == 'true' }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Bot: update $(date +%Y%m%d)"
       - name: Push changes
+        if: ${{ env.changed == 'true' }}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
