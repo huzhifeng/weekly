@@ -25,7 +25,7 @@
 - 2024/01/06 [广场周刊（第 16 期）：只能向 Qian](https://immmmm.com/weekly-16-20240106/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/01/01 [1link.fun 科技周刊 | 第 81 期](https://1link.fun/blog/issue/issue81/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/01/08 [1link.fun 科技周刊 | 第 82 期](https://1link.fun/blog/issue/issue82/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/01/06 [CyberClip #48 词汇泛化](https://shyrz.me/cyberclip-48-generalization-of-vocabulary/) | [More](channels/CyberClip.md)
@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/01/02 [AIGC Weekly #53 新年快乐](https://quail.ink/op7418/p/aigc-weekly-53) | [More](channels/AIGC%20Weekly.md)
+- 2024/01/08 [AIGC Weekly #54 都开工了](https://quail.ink/op7418/p/aigc-weekly-54-) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2023/12/24 [棱镜通讯 No.104  Howard Rheingold](https://wangyurui.com/posts/leng-jing-tong-xun-no-104-howard-rheingold-8ec0a626) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/01/01 [DistroWatch Weekly, Issue 1051](https://distrowatch.com/weekly.php?issue=20240101) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/01/08 [DistroWatch Weekly, Issue 1052](https://distrowatch.com/weekly.php?issue=20240108) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/01/01 [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/01/08 [9to5Linux Weekly Roundup: January 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-7th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/01/04 [LWN.net Weekly Edition for January 4, 2024](https://lwn.net/Articles/955921/) | [More](channels/LWN.net%20Weekly%20Edition.md)

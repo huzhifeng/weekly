@@ -1,3 +1,4 @@
+- [AIGC Weekly #54 都开工了](https://quail.ink/op7418/p/aigc-weekly-54-)
 - [AIGC Weekly #53 新年快乐](https://quail.ink/op7418/p/aigc-weekly-53)
 - [AIGC Weekly #52 圣诞快乐](https://quail.ink/op7418/p/aigc-weekly-52)
 - [AIGC Weekly #51](https://quail.ink/op7418/p/aigc-weekly-51)

@@ -1,3 +1,4 @@
+- [9to5Linux Weekly Roundup: January 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-7th-2024)
 - [9to5Linux Weekly Roundup: December 31st, 2023 – Happy New Year!](https://9to5linux.com/9to5linux-weekly-roundup-december-31st-2023-happy-new-year)
 - [9to5Linux Weekly Roundup: December 24th, 2023 – Happy Holidays!](https://9to5linux.com/9to5linux-weekly-roundup-december-24th-2023-happy-holidays)
 - [9to5Linux Weekly Roundup: December 17th, 2023](https://9to5linux.com/9to5linux-weekly-roundup-december-17th-2023)
