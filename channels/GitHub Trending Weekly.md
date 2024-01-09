@@ -1,3 +1,4 @@
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 - [janhq/jan](https://github.com/janhq/jan)
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
 - [movie-web/movie-web](https://github.com/movie-web/movie-web)

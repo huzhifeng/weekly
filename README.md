@@ -19,7 +19,7 @@
 - 2024/01/04 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/01/02 [Vol.1 新年寄语](https://justgoidea.com/newsletter/202401/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/01/08 [Vol.02 原来吃饱这么值得感恩](https://justgoidea.com/newsletter/202402/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/01/06 [广场周刊（第 16 期）：只能向 Qian](https://immmmm.com/weekly-16-20240106/) | [More](channels/广场周刊.md)
@@ -61,7 +61,7 @@
 - 2024/01/08 [第160期 - 爱吃炒饭](https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
-- 2024/01/07 [严正声明](https://weekly.ursb.me/posts/notification/) | [More](channels/Airing%27s%20Weekly.md)
+- 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
 - 2024/01/07 [Weekly Issue 2024-01-07](https://zdyxry.github.io/2024/01/07/Weekly-Issue-2024-01-07/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -97,7 +97,7 @@
 - 2023/12/21 [播客相对论｜11月份不能错过的播客单集](https://podcast.zhubai.love/posts/2349623632063516672) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/01/02 [机器文摘 第 065 期](https://niupitools.zhubai.love/posts/2353775272475660288) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/01/09 [机器文摘 第 066 期](https://niupitools.zhubai.love/posts/2356322155094335488) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/01/03 [前端食堂技术周刊第 110 期：Vue3.4、新版 Vue DevTools 开源、AI 2023 年度总结合集、Web Components 的另一个未来](https://hungryturbo.zhubai.love/posts/2354368053321576448) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
