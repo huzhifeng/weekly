@@ -1,3 +1,4 @@
+- [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 - [janhq/jan](https://github.com/janhq/jan)
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
