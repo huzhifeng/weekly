@@ -7,7 +7,7 @@
 - 2024/01/06 [01-01~01-07.老胡的周刊（第123期）.md](https://weekly.howie6879.com/2024/01-01~01-07.老胡的周刊（第123期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2024/01/05 [独立开发变现周刊（第119期） : 一个自学开发者创建一个月收入12.5万美元的软件公司](https://www.ezindie.com/weekly/issue-119) | [More](channels/独立开发变现周刊.md)
+- 2024/01/12 [独立开发变现周刊（第120期） : 帮助App监测竞争对手，每月盈利8000美元](https://www.ezindie.com/weekly/issue-120) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2024/01/03 [涛然自得周刊 No.22 ：不要围观他人的生活](http://heyitao.com/post/beyond-code-weekly-022) | [More](channels/涛然自得周刊.md)
@@ -16,7 +16,7 @@
 - 2024/01/04 [拾月通讯（2024.01）](https://www.skyue.com/24010420.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/01/04 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/01/11 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/01/08 [Vol.02 原来吃饱这么值得感恩](https://justgoidea.com/newsletter/202402/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -82,7 +82,7 @@
 - 2024/01/08 [9to5Linux Weekly Roundup: January 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-7th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/01/04 [LWN.net Weekly Edition for January 4, 2024](https://lwn.net/Articles/955921/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/01/11 [LWN.net Weekly Edition for January 11, 2024](https://lwn.net/Articles/956868/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/01/05 [Vol.18 12月榜单：何处是家乡](https://www.idnunber.top/article/61633d64-7857-4160-90ef-e0a193000c52) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
