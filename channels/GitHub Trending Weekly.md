@@ -1,3 +1,4 @@
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course)

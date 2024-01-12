@@ -1,10 +1,10 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/01/05 [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) | [More](channels/科技爱好者周刊.md)
+- 2024/01/12 [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/01/06 [01-01~01-07.老胡的周刊（第123期）.md](https://weekly.howie6879.com/2024/01-01~01-07.老胡的周刊（第123期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/01/13 [01-08~01-14.老胡的周刊（第124期）.md](https://weekly.howie6879.com/2024/01-08~01-14.老胡的周刊（第124期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/01/12 [独立开发变现周刊（第120期） : 帮助App监测竞争对手，每月盈利8000美元](https://www.ezindie.com/weekly/issue-120) | [More](channels/独立开发变现周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/01/05 [Web Review, Week 2024-01](https://ervin.ipsquad.net/blog/2024/01/05/web-review-week-2024-01/) | [More](channels/Web%20Review.md)
+- 2024/01/12 [Web Review, Week 2024-02](https://ervin.ipsquad.net/blog/2024/01/12/web-review-week-2024-02/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/01/06 [Python 潮流周刊#34：Python 3.13 的 JIT 方案又新又好！](https://pythoncat.top/posts/2024-01-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -55,7 +55,7 @@
 - 2024/01/08 [AIGC Weekly #54 都开工了](https://quail.ink/op7418/p/aigc-weekly-54-) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
-- 2023/12/24 [棱镜通讯 No.104  Howard Rheingold](https://wangyurui.com/posts/leng-jing-tong-xun-no-104-howard-rheingold-8ec0a626) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+- 2024/01/12 [棱镜通讯 No.105  Jos de Mul](https://wangyurui.com/posts/leng-jing-tong-xun-no-105-jos-de-mul-cefcb030) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
 - 2024/01/08 [第160期 - 爱吃炒饭](https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/01/03 [前端食堂技术周刊第 110 期：Vue3.4、新版 Vue DevTools 开源、AI 2023 年度总结合集、Web Components 的另一个未来](https://hungryturbo.zhubai.love/posts/2354368053321576448) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/07 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/01/12 [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2023/12/28 [泰晓资讯·12 月 / 第三期 / 2023](https://tinylab.org/tinylab-weekly-12-3rd-2023/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
