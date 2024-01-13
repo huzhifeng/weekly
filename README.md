@@ -37,7 +37,7 @@
 - 2024/01/12 [Web Review, Week 2024-02](https://ervin.ipsquad.net/blog/2024/01/12/web-review-week-2024-02/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/01/06 [Python 潮流周刊#34：Python 3.13 的 JIT 方案又新又好！](https://pythoncat.top/posts/2024-01-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/13 [Python 潮流周刊#35：Python JIT 编译器和 Numpy2 即将推出](https://pythoncat.top/posts/2024-01-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/01/06 [🚧视野修炼第68期|2023年前端明星项目](https://sugarat.top/weekly/2024-01-06.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
