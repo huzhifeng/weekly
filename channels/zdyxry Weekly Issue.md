@@ -1,3 +1,4 @@
+- [Weekly Issue 2024-01-14](https://zdyxry.github.io/2024/01/14/Weekly-Issue-2024-01-14/)
 - [Weekly Issue 2024-01-07](https://zdyxry.github.io/2024/01/07/Weekly-Issue-2024-01-07/)
 - [Weekly Issue 2023-12-31](https://zdyxry.github.io/2023/12/31/Weekly-Issue-2023-12-31/)
 - [Weekly Issue 2023-12-24](https://zdyxry.github.io/2023/12/24/Weekly-Issue-2023-12-24/)

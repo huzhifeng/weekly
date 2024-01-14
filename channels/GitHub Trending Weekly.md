@@ -1,3 +1,4 @@
+- [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus)
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha)
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)

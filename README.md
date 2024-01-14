@@ -40,7 +40,7 @@
 - 2024/01/13 [Python 潮流周刊#35：Python JIT 编译器和 Numpy2 即将推出](https://pythoncat.top/posts/2024-01-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/01/06 [🚧视野修炼第68期|2023年前端明星项目](https://sugarat.top/weekly/2024-01-06.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/01/14 [视野修炼第69期](https://sugarat.top/weekly/2024-01-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -58,13 +58,13 @@
 - 2024/01/12 [棱镜通讯 No.105  Jos de Mul](https://wangyurui.com/posts/leng-jing-tong-xun-no-105-jos-de-mul-cefcb030) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/01/08 [第160期 - 爱吃炒饭](https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/14 [第161期 - 极简台灯](https://weekly.tw93.fun/posts/161-%E6%9E%81%E7%AE%80%E5%8F%B0%E7%81%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/01/07 [Weekly Issue 2024-01-07](https://zdyxry.github.io/2024/01/07/Weekly-Issue-2024-01-07/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/01/14 [Weekly Issue 2024-01-14](https://zdyxry.github.io/2024/01/14/Weekly-Issue-2024-01-14/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
@@ -103,7 +103,7 @@
 - 2024/01/03 [前端食堂技术周刊第 110 期：Vue3.4、新版 Vue DevTools 开源、AI 2023 年度总结合集、Web Components 的另一个未来](https://hungryturbo.zhubai.love/posts/2354368053321576448) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/12 [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/01/14 [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2023/12/28 [泰晓资讯·12 月 / 第三期 / 2023](https://tinylab.org/tinylab-weekly-12-3rd-2023/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
