@@ -1,3 +1,4 @@
+- [DistroWatch Weekly, Issue 1053](https://distrowatch.com/weekly.php?issue=20240115)
 - [DistroWatch Weekly, Issue 1052](https://distrowatch.com/weekly.php?issue=20240108)
 - [DistroWatch Weekly, Issue 1051](https://distrowatch.com/weekly.php?issue=20240101)
 - [Issue 1050 (2023-12-18): rlxos 2023.11, renaming files and opening terminal windows in specific directories, TrueNAS publishes ZFS fixes, Debian publishes delayed install media, Haiku polishes desktop experience](https://distrowatch.com/weekly.php?issue=20231218)

@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/01/08 [DistroWatch Weekly, Issue 1052](https://distrowatch.com/weekly.php?issue=20240108) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/01/15 [DistroWatch Weekly, Issue 1053](https://distrowatch.com/weekly.php?issue=20240115) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/01/08 [9to5Linux Weekly Roundup: January 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-7th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/01/15 [9to5Linux Weekly Roundup: January 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-14th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/01/11 [LWN.net Weekly Edition for January 11, 2024](https://lwn.net/Articles/956868/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -103,7 +103,7 @@
 - 2024/01/03 [前端食堂技术周刊第 110 期：Vue3.4、新版 Vue DevTools 开源、AI 2023 年度总结合集、Web Components 的另一个未来](https://hungryturbo.zhubai.love/posts/2354368053321576448) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/14 [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/01/15 [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2023/12/28 [泰晓资讯·12 月 / 第三期 / 2023](https://tinylab.org/tinylab-weekly-12-3rd-2023/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
