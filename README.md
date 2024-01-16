@@ -19,13 +19,13 @@
 - 2024/01/11 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/01/08 [Vol.02 原来吃饱这么值得感恩](https://justgoidea.com/newsletter/202402/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/01/15 [Vol.03 应无所住而生其心](https://justgoidea.com/newsletter/202403/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/01/06 [广场周刊（第 16 期）：只能向 Qian](https://immmmm.com/weekly-16-20240106/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/01/08 [1link.fun 科技周刊 | 第 82 期](https://1link.fun/blog/issue/issue82/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/01/16 [1link.fun 科技周刊 | 第 83 期](https://1link.fun/blog/issue/issue83/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/01/06 [CyberClip #48 词汇泛化](https://shyrz.me/cyberclip-48-generalization-of-vocabulary/) | [More](channels/CyberClip.md)
@@ -94,10 +94,10 @@
 - 2024/01/10 [第64期 - 偷懒爱好者周刊 24/01/10](https://toolight.zhubai.love/posts/2356661616428691456) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
-- 2023/12/21 [播客相对论｜11月份不能错过的播客单集](https://podcast.zhubai.love/posts/2349623632063516672) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
+- 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/01/09 [机器文摘 第 066 期](https://niupitools.zhubai.love/posts/2356322155094335488) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/01/16 [机器文摘 第 067 期](https://niupitools.zhubai.love/posts/2358850809884438528) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/01/03 [前端食堂技术周刊第 110 期：Vue3.4、新版 Vue DevTools 开源、AI 2023 年度总结合集、Web Components 的另一个未来](https://hungryturbo.zhubai.love/posts/2354368053321576448) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -106,5 +106,5 @@
 - 2024/01/15 [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
-- 2023/12/28 [泰晓资讯·12 月 / 第三期 / 2023](https://tinylab.org/tinylab-weekly-12-3rd-2023/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+- 2024/01/11 [泰晓资讯·1 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-01-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
