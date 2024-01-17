@@ -1,3 +1,4 @@
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions)
 - [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus)
