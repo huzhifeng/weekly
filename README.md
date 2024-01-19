@@ -1,10 +1,10 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/01/12 [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html) | [More](channels/科技爱好者周刊.md)
+- 2024/01/19 [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/01/13 [01-08~01-14.老胡的周刊（第124期）.md](https://weekly.howie6879.com/2024/01-08~01-14.老胡的周刊（第124期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/01/20 [01-15~01-21.老胡的周刊（第125期）.md](https://weekly.howie6879.com/2024/01-15~01-21.老胡的周刊（第125期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/01/12 [独立开发变现周刊（第120期） : 帮助App监测竞争对手，每月盈利8000美元](https://www.ezindie.com/weekly/issue-120) | [More](channels/独立开发变现周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/01/12 [Web Review, Week 2024-02](https://ervin.ipsquad.net/blog/2024/01/12/web-review-week-2024-02/) | [More](channels/Web%20Review.md)
+- 2024/01/19 [Web Review, Week 2024-03](https://ervin.ipsquad.net/blog/2024/01/19/web-review-week-2024-03/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/01/13 [Python 潮流周刊#35：Python JIT 编译器和 Numpy2 即将推出](https://pythoncat.top/posts/2024-01-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
