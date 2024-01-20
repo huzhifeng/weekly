@@ -28,7 +28,7 @@
 - 2024/01/16 [1link.fun 科技周刊 | 第 83 期](https://1link.fun/blog/issue/issue83/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
-- 2024/01/06 [CyberClip #48 词汇泛化](https://shyrz.me/cyberclip-48-generalization-of-vocabulary/) | [More](channels/CyberClip.md)
+- 2024/01/20 [CyberClip #49 如何提出好问题](https://shyrz.me/cyberclip-49-how-to-ask-good-questions/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
@@ -37,7 +37,7 @@
 - 2024/01/19 [Web Review, Week 2024-03](https://ervin.ipsquad.net/blog/2024/01/19/web-review-week-2024-03/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/01/13 [Python 潮流周刊#35：Python JIT 编译器和 Numpy2 即将推出](https://pythoncat.top/posts/2024-01-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/20 [Python 潮流周刊#36：Python 打包生态依然不乐观](https://pythoncat.top/posts/2024-01-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/01/14 [视野修炼第69期](https://sugarat.top/weekly/2024-01-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
