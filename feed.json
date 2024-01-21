@@ -131,6 +131,12 @@
 			"filter": ["周报"]
 		},
 		{
+			"channel": "Raye's Journey",
+			"portal": "https://rayepeng.net/tag/%E5%91%A8%E6%8A%A5",
+			"url": "https://rayepeng.net/feed",
+			"filter": ["周报"]
+		},
+		{
 			"channel": "艾迪蓝波",
 			"portal": "https://www.idnunber.top/",
 			"portal2": "https://nscmiaoxin.zhubai.love/",

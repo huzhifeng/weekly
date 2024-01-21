@@ -108,3 +108,6 @@
 ## 泰晓资讯
 - 2024/01/11 [泰晓资讯·1 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-01-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
+## Raye's Journey
+- 2024/01/15 [周报#24 24年的第一篇周报](https://xlog.app/api/redirection?characterId=51803&noteId=1504) | [More](channels/Raye%27s%20Journey.md)
+
