@@ -40,7 +40,7 @@
 - 2024/01/20 [Python 潮流周刊#36：Python 打包生态依然不乐观](https://pythoncat.top/posts/2024-01-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/01/14 [视野修炼第69期](https://sugarat.top/weekly/2024-01-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/01/21 [视野修炼第70期](https://sugarat.top/weekly/2024-01-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -55,16 +55,16 @@
 - 2024/01/08 [AIGC Weekly #54 都开工了](https://quail.ink/op7418/p/aigc-weekly-54-) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
-- 2024/01/12 [棱镜通讯 No.105  Jos de Mul](https://wangyurui.com/posts/leng-jing-tong-xun-no-105-jos-de-mul-cefcb030) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+- 2024/01/21 [棱镜通讯 No.106  Daniel Bell](https://wangyurui.com/posts/leng-jing-tong-xun-no-106-daniel-bell-2d32b370) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/01/14 [第161期 - 极简台灯](https://weekly.tw93.fun/posts/161-%E6%9E%81%E7%AE%80%E5%8F%B0%E7%81%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/21 [第162期 - 晴空塔美](https://weekly.tw93.fun/posts/162-%E6%99%B4%E7%A9%BA%E5%A1%94%E7%BE%8E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/01/14 [Weekly Issue 2024-01-14](https://zdyxry.github.io/2024/01/14/Weekly-Issue-2024-01-14/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/01/21 [Weekly Issue 2024-01-21](https://zdyxry.github.io/2024/01/21/Weekly-Issue-2024-01-21/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
