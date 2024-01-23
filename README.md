@@ -19,7 +19,7 @@
 - 2024/01/18 [学习周刊-总第142期-2024年第03周](https://wiki.eryajf.net/pages/b0f439/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/01/15 [Vol.03 应无所住而生其心](https://justgoidea.com/newsletter/202403/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/01/22 [Vol.04 知识管理的第一步是信息管理](https://justgoidea.com/newsletter/202404/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/01/06 [广场周刊（第 16 期）：只能向 Qian](https://immmmm.com/weekly-16-20240106/) | [More](channels/广场周刊.md)
@@ -88,7 +88,7 @@
 - 2024/01/05 [Vol.18 12月榜单：何处是家乡](https://www.idnunber.top/article/61633d64-7857-4160-90ef-e0a193000c52) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## 中文播客行业动态
-- 2024/01/04 [各平台纷纷推出年度榜单｜中文播客行业动态 vol.33](https://podpress.zhubai.love/posts/2354644214404517888) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
+- 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
 ## 偷懒爱好者周刊
 - 2024/01/17 [第65期 - 偷懒爱好者周刊 24/01/17](https://toolight.zhubai.love/posts/2359204363648290816) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -97,13 +97,13 @@
 - 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/01/16 [机器文摘 第 067 期](https://niupitools.zhubai.love/posts/2358850809884438528) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/01/23 [机器文摘 第 068 期](https://niupitools.zhubai.love/posts/2361381804830625792) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/18 [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/01/23 [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
