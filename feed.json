@@ -155,6 +155,11 @@
 			"filter": ["The Connector 周刊"]
 		},
 		{
+			"channel": "GeekPlux Letters",
+			"portal": "https://letters.geekplux.com/",
+			"url": "https://letters.geekplux.com/rss/"
+		},
+		{
 			"channel": "zdyxry Weekly Issue",
 			"portal": "https://github.com/zdyxry/zdyxry.github.io",
 			"url": "https://zdyxry.github.io/atom.xml",

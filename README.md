@@ -114,3 +114,6 @@
 ## 赫周刊
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
+## GeekPlux Letters
+- 2024/01/16 [2023 一蓑烟雨](https://letters.geekplux.com/2023-summary/) | [More](channels/GeekPlux%20Letters.md)
+
