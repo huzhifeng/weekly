@@ -117,3 +117,6 @@
 ## GeekPlux Letters
 - 2024/01/16 [2023 一蓑烟雨](https://letters.geekplux.com/2023-summary/) | [More](channels/GeekPlux%20Letters.md)
 
+## 科技創業週報
+- 2024/01/18 [科技創業週報 #419：創業的出發點｜2024 年最值得關注的 10 大 AI 工作](https://blog.starrocket.io/posts/newsletter-2024-01-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
