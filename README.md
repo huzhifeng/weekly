@@ -25,7 +25,7 @@
 - 2024/01/06 [广场周刊（第 16 期）：只能向 Qian](https://immmmm.com/weekly-16-20240106/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/01/16 [1link.fun 科技周刊 | 第 83 期](https://1link.fun/blog/issue/issue83/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/01/24 [1link.fun 科技周刊 | 第 84 期](https://1link.fun/blog/issue/issue84/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/01/20 [CyberClip #49 如何提出好问题](https://shyrz.me/cyberclip-49-how-to-ask-good-questions/) | [More](channels/CyberClip.md)
@@ -91,7 +91,7 @@
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
 ## 偷懒爱好者周刊
-- 2024/01/17 [第65期 - 偷懒爱好者周刊 24/01/17](https://toolight.zhubai.love/posts/2359204363648290816) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/01/24 [第66期 - 偷懒爱好者周刊 24/01/24](https://toolight.zhubai.love/posts/2361747375485157376) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
 - 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
