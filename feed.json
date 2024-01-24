@@ -143,6 +143,12 @@
 			"url": "https://www.idnunber.top/feed"
 		},
 		{
+			"channel": "赫周刊",
+			"portal": "https://www.cliveshd.com/tag/newsletter/",
+			"url": "https://www.cliveshd.com/rss/",
+			"filter": ["赫周刊", "Newsletter"]
+		},
+		{
 			"channel": "The Connector 周刊",
 			"portal": "https://liduos.com/categories/The-Connector-%E5%91%A8%E5%88%8A/",
 			"url": "https://liduos.com/atom.xml",

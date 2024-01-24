@@ -111,3 +111,6 @@
 ## Raye's Journey
 - 2024/01/15 [周报#24 24年的第一篇周报](https://xlog.app/api/redirection?characterId=51803&noteId=1504) | [More](channels/Raye%27s%20Journey.md)
 
+## 赫周刊
+- 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
+
