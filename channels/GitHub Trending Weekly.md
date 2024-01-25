@@ -1,3 +1,5 @@
+- [ejoy/ant](https://github.com/ejoy/ant)
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
