@@ -1,3 +1,4 @@
+- [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
 - [ejoy/ant](https://github.com/ejoy/ant)
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)

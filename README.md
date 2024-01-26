@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/01/19 [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) | [More](channels/科技爱好者周刊.md)
+- 2024/01/26 [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2024/01/20 [01-15~01-21.老胡的周刊（第125期）.md](https://weekly.howie6879.com/2024/01-15~01-21.老胡的周刊（第125期）.html) | [More](channels/老胡的信息周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/01/19 [Web Review, Week 2024-03](https://ervin.ipsquad.net/blog/2024/01/19/web-review-week-2024-03/) | [More](channels/Web%20Review.md)
+- 2024/01/26 [Web Review, Week 2024-04](https://ervin.ipsquad.net/blog/2024/01/26/web-review-week-2024-04/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/01/20 [Python 潮流周刊#36：Python 打包生态依然不乐观](https://pythoncat.top/posts/2024-01-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/25 [ejoy/ant](https://github.com/ejoy/ant) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/01/26 [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
