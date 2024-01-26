@@ -206,6 +206,12 @@
 			"url": "https://distrowatch.com/news/dww.xml"
 		},
 		{
+			"channel": "FOSS Weekly",
+			"portal": "https://itsfoss.com/newsletter/",
+			"url": "https://itsfoss.com/rss",
+			"filter": ["FOSS Weekly"]
+		},
+		{
 			"channel": "9to5Linux Weekly Roundup",
 			"portal": "https://9to5linux.com/category/weekly-roundup",
 			"url": "https://9to5linux.com/feed/atom",
