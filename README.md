@@ -123,3 +123,6 @@
 ## FOSS Weekly
 - 2024/01/25 [FOSS Weekly #24.04: Huawei's 'Better Than Linux Kernel', CP/M OS, Firefox as Deb and More](https://itsfoss.com/newsletter/foss-weekly-24-04/) | [More](channels/FOSS%20Weekly.md)
 
+## This Week in GNOME
+- 2024/01/26 [#132 Bottom Sheets](https://thisweek.gnome.org/posts/2024/01/twig-132/) | [More](channels/This%20Week%20in%20GNOME.md)
+

@@ -218,6 +218,11 @@
 			"filter": ["Weekly"]
 		},
 		{
+			"channel": "This Week in GNOME",
+			"portal": "https://thisweek.gnome.org/",
+			"url": "https://thisweek.gnome.org/index.xml"
+		},
+		{
 			"channel": "GitHub Trending Weekly",
 			"portal": "https://github.com/trending?since=weekly",
 			"url": "https://rsshub.app/github/trending/weekly/any",
