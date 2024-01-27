@@ -37,7 +37,7 @@
 - 2024/01/26 [Web Review, Week 2024-04](https://ervin.ipsquad.net/blog/2024/01/26/web-review-week-2024-04/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/01/20 [Python 潮流周刊#36：Python 打包生态依然不乐观](https://pythoncat.top/posts/2024-01-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/27 [Python 潮流周刊#37：Python “令人失望”的动态类型超能力](https://pythoncat.top/posts/2024-01-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/01/21 [视野修炼第70期](https://sugarat.top/weekly/2024-01-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
