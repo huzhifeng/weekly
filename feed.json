@@ -223,6 +223,11 @@
 			"url": "https://thisweek.gnome.org/index.xml"
 		},
 		{
+			"channel": "This Week in KDE",
+			"portal": "https://pointieststick.com/category/this-week-in-kde/",
+			"url": "https://pointieststick.com/category/this-week-in-kde/feed/"
+		},
+		{
 			"channel": "GitHub Trending Weekly",
 			"portal": "https://github.com/trending?since=weekly",
 			"url": "https://rsshub.app/github/trending/weekly/any",

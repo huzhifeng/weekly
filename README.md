@@ -126,3 +126,6 @@
 ## This Week in GNOME
 - 2024/01/26 [#132 Bottom Sheets](https://thisweek.gnome.org/posts/2024/01/twig-132/) | [More](channels/This%20Week%20in%20GNOME.md)
 
+## This Week in KDE
+- 2024/01/27 [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/) | [More](channels/This%20Week%20in%20KDE.md)
+
