@@ -129,3 +129,6 @@
 ## This Week in KDE
 - 2024/01/27 [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/) | [More](channels/This%20Week%20in%20KDE.md)
 
+## 生活奇旅
+- 2024/01/25 [#106: 表层理解之外](https://weichen.zhubai.love/posts/2362448015081349120) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
+
