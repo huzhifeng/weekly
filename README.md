@@ -4,7 +4,7 @@
 - 2024/01/26 [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/01/20 [01-15~01-21.老胡的周刊（第125期）.md](https://weekly.howie6879.com/2024/01-15~01-21.老胡的周刊（第125期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/01/27 [01-22~01-28.老胡的周刊（第126期）.md](https://weekly.howie6879.com/2024/01-22~01-28.老胡的周刊（第126期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/01/26 [独立开发变现周刊（第121期） : 发布个人服务的SaaS产品，年收入160万美元](https://www.ezindie.com/weekly/issue-121) | [More](channels/独立开发变现周刊.md)
@@ -22,7 +22,7 @@
 - 2024/01/22 [Vol.04 知识管理的第一步是信息管理](https://justgoidea.com/newsletter/202404/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
-- 2024/01/06 [广场周刊（第 16 期）：只能向 Qian](https://immmmm.com/weekly-16-20240106/) | [More](channels/广场周刊.md)
+- 2024/01/27 [广场周刊（第 17 期）：回家过年](https://immmmm.com/weekly-17-20240127/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/01/24 [1link.fun 科技周刊 | 第 84 期](https://1link.fun/blog/issue/issue84/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -40,7 +40,7 @@
 - 2024/01/27 [Python 潮流周刊#37：Python “令人失望”的动态类型超能力](https://pythoncat.top/posts/2024-01-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/01/21 [视野修炼第70期](https://sugarat.top/weekly/2024-01-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/01/28 [视野修炼第71期|Rspack家族新成员Rsdoctor](https://sugarat.top/weekly/2024-01-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -58,13 +58,13 @@
 - 2024/01/21 [棱镜通讯 No.106  Daniel Bell](https://wangyurui.com/posts/leng-jing-tong-xun-no-106-daniel-bell-2d32b370) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/01/21 [第162期 - 晴空塔美](https://weekly.tw93.fun/posts/162-%E6%99%B4%E7%A9%BA%E5%A1%94%E7%BE%8E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/01/29 [第163期 - 买了麻将](https://weekly.tw93.fun/posts/163-%E4%B9%B0%E4%BA%86%E9%BA%BB%E5%B0%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/01/21 [Weekly Issue 2024-01-21](https://zdyxry.github.io/2024/01/21/Weekly-Issue-2024-01-21/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/01/28 [Weekly Issue 2024-01-28](https://zdyxry.github.io/2024/01/28/Weekly-Issue-2024-01-28/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
@@ -103,7 +103,7 @@
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/26 [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/01/28 [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

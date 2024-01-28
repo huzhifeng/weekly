@@ -1,3 +1,4 @@
+- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
 - [ejoy/ant](https://github.com/ejoy/ant)
