@@ -1,3 +1,4 @@
+- [金融行业里的程序员到底在干什么 #57](https://letters.geekplux.com/57/)
 - [2023 一蓑烟雨](https://letters.geekplux.com/2023-summary/)
 - [与陌生人一对一聊天 40 次之后的一些想法 #56](https://letters.geekplux.com/56/)
 - [高盛的 2024 宏观经济预测 #55](https://letters.geekplux.com/55/)

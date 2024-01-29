@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/01/22 [AIGC Weekly #56](https://quail.ink/op7418/p/aigc-weekly-56) | [More](channels/AIGC%20Weekly.md)
+- 2024/01/29 [AIGC Weekly #57](https://quail.ink/op7418/p/aigc-weekly-57) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2024/01/21 [棱镜通讯 No.106  Daniel Bell](https://wangyurui.com/posts/leng-jing-tong-xun-no-106-daniel-bell-2d32b370) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/01/22 [DistroWatch Weekly, Issue 1054](https://distrowatch.com/weekly.php?issue=20240122) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/01/29 [DistroWatch Weekly, Issue 1055](https://distrowatch.com/weekly.php?issue=20240129) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/01/22 [9to5Linux Weekly Roundup: January 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-21st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/01/29 [9to5Linux Weekly Roundup: January 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/01/25 [LWN.net Weekly Edition for January 25, 2024](https://lwn.net/Articles/958597/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -115,7 +115,7 @@
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
-- 2024/01/16 [2023 一蓑烟雨](https://letters.geekplux.com/2023-summary/) | [More](channels/GeekPlux%20Letters.md)
+- 2024/01/29 [金融行业里的程序员到底在干什么 #57](https://letters.geekplux.com/57/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
 - 2024/01/18 [科技創業週報 #419：創業的出發點｜2024 年最值得關注的 10 大 AI 工作](https://blog.starrocket.io/posts/newsletter-2024-01-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
