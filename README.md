@@ -19,7 +19,7 @@
 - 2024/01/25 [学习周刊-总第143期-2024年第04周](https://wiki.eryajf.net/pages/9661a3/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/01/22 [Vol.04 知识管理的第一步是信息管理](https://justgoidea.com/newsletter/202404/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/01/29 [Vol.05 社交媒体与环境毒素](https://justgoidea.com/newsletter/202405/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/01/27 [广场周刊（第 17 期）：回家过年](https://immmmm.com/weekly-17-20240127/) | [More](channels/广场周刊.md)
@@ -97,13 +97,13 @@
 - 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/01/23 [机器文摘 第 068 期](https://niupitools.zhubai.love/posts/2361381804830625792) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/01/30 [机器文摘 第 069 期](https://niupitools.zhubai.love/posts/2363917231584350208) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/28 [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/01/30 [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

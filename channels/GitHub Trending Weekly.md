@@ -1,3 +1,6 @@
+- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW)
+- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
