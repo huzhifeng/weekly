@@ -1,3 +1,4 @@
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW)
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)
