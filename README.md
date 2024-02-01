@@ -7,7 +7,7 @@
 - 2024/01/27 [01-22~01-28.老胡的周刊（第126期）.md](https://weekly.howie6879.com/2024/01-22~01-28.老胡的周刊（第126期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2024/01/26 [独立开发变现周刊（第121期） : 发布个人服务的SaaS产品，年收入160万美元](https://www.ezindie.com/weekly/issue-121) | [More](channels/独立开发变现周刊.md)
+- 2024/02/02 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2024/01/18 [涛然自得周刊 No.23 ：为什么伟大往往来自边缘](http://heyitao.com/post/beyond-code-weekly-023) | [More](channels/涛然自得周刊.md)
@@ -16,7 +16,7 @@
 - 2024/01/04 [拾月通讯（2024.01）](https://www.skyue.com/24010420.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/01/25 [学习周刊-总第143期-2024年第04周](https://wiki.eryajf.net/pages/9661a3/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/02/01 [学习周刊-总第144期-2024年第05周](https://wiki.eryajf.net/pages/4b8996/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/01/29 [Vol.05 社交媒体与环境毒素](https://justgoidea.com/newsletter/202405/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -82,7 +82,7 @@
 - 2024/01/29 [9to5Linux Weekly Roundup: January 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/01/25 [LWN.net Weekly Edition for January 25, 2024](https://lwn.net/Articles/958597/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/02/01 [LWN.net Weekly Edition for February 1, 2024](https://lwn.net/Articles/959457/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/01/05 [Vol.18 12月榜单：何处是家乡](https://www.idnunber.top/article/61633d64-7857-4160-90ef-e0a193000c52) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -103,7 +103,7 @@
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/01/30 [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/01 [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -121,7 +121,7 @@
 - 2024/01/18 [科技創業週報 #419：創業的出發點｜2024 年最值得關注的 10 大 AI 工作](https://blog.starrocket.io/posts/newsletter-2024-01-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/01/25 [FOSS Weekly #24.04: Huawei's 'Better Than Linux Kernel', CP/M OS, Firefox as Deb and More](https://itsfoss.com/newsletter/foss-weekly-24-04/) | [More](channels/FOSS%20Weekly.md)
+- 2024/02/01 [FOSS Weekly #24.05: Zed Editor, PrivateGPT AI, CPU Temperature in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-05/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/01/26 [#132 Bottom Sheets](https://thisweek.gnome.org/posts/2024/01/twig-132/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -130,5 +130,5 @@
 - 2024/01/27 [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
-- 2024/01/25 [#106: 表层理解之外](https://weichen.zhubai.love/posts/2362448015081349120) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
+- 2024/02/01 [#107: 探索决定论](https://weichen.zhubai.love/posts/2364933961869926400) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 

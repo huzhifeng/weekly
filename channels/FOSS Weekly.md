@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.05: Zed Editor, PrivateGPT AI, CPU Temperature in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-05/)
 - [FOSS Weekly #24.04: Huawei's 'Better Than Linux Kernel', CP/M OS, Firefox as Deb and More](https://itsfoss.com/newsletter/foss-weekly-24-04/)
 - [FOSS Weekly #24.03: Linux Mint 21.3 Released, Tiling GNOME, Open Source ChatGPT and More](https://itsfoss.com/newsletter/foss-weekly-24-03/)
 - [FOSS Weekly #24.02: Mixing AI With Linux, Vanilla OS 2, and More](https://itsfoss.com/newsletter/foss-weekly-24-02/)
