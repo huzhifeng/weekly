@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/01/26 [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) | [More](channels/科技爱好者周刊.md)
+- 2024/02/02 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2024/01/27 [01-22~01-28.老胡的周刊（第126期）.md](https://weekly.howie6879.com/2024/01-22~01-28.老胡的周刊（第126期）.html) | [More](channels/老胡的信息周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/01/26 [Web Review, Week 2024-04](https://ervin.ipsquad.net/blog/2024/01/26/web-review-week-2024-04/) | [More](channels/Web%20Review.md)
+- 2024/02/02 [Web Review, Week 2024-05](https://ervin.ipsquad.net/blog/2024/02/02/web-review-week-2024-05/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/01/27 [Python 潮流周刊#37：Python “令人失望”的动态类型超能力](https://pythoncat.top/posts/2024-01-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/01 [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/02 [zed-industries/zed](https://github.com/zed-industries/zed) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -118,13 +118,13 @@
 - 2024/01/29 [金融行业里的程序员到底在干什么 #57](https://letters.geekplux.com/57/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
-- 2024/01/18 [科技創業週報 #419：創業的出發點｜2024 年最值得關注的 10 大 AI 工作](https://blog.starrocket.io/posts/newsletter-2024-01-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2024/02/02 [科技創業週報 #421：老闆關鍵十問｜創投脈動：2023 Q4 全球創業投資分析](https://blog.starrocket.io/posts/newsletter-2024-02-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
 - 2024/02/01 [FOSS Weekly #24.05: Zed Editor, PrivateGPT AI, CPU Temperature in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-05/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/01/26 [#132 Bottom Sheets](https://thisweek.gnome.org/posts/2024/01/twig-132/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/02/02 [#133 FOSDEM 2024](https://thisweek.gnome.org/posts/2024/02/twig-133/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/01/27 [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/) | [More](channels/This%20Week%20in%20KDE.md)

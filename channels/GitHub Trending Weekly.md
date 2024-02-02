@@ -1,3 +1,5 @@
+- [zed-industries/zed](https://github.com/zed-industries/zed)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW)
