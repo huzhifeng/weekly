@@ -1,3 +1,4 @@
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama)
 - [zed-industries/zed](https://github.com/zed-industries/zed)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)

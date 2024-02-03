@@ -1,3 +1,4 @@
+- [Python 潮流周刊#38：Django + Next.js 构建全栈项目](https://pythoncat.top/posts/2024-02-03-weekly/)
 - [Python 潮流周刊#37：Python “令人失望”的动态类型超能力](https://pythoncat.top/posts/2024-01-27-weekly/)
 - [Python 潮流周刊#36：Python 打包生态依然不乐观](https://pythoncat.top/posts/2024-01-20-weekly/)
 - [Python 潮流周刊#35：Python JIT 编译器和 Numpy2 即将推出](https://pythoncat.top/posts/2024-01-13-weekly/)

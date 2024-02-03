@@ -1,3 +1,4 @@
+- [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/)
 - [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/)
 - [This week in KDE: auto-save in Dolphin and better fractional scaling](https://pointieststick.com/2024/01/19/this-week-in-kde-auto-save-in-dolphin-and-better-fractional-scaling/)
 - [The last few weeks in KDE: It’s coming… it’s coming… it’s coming](https://pointieststick.com/2024/01/12/the-last-few-weeks-in-kde-its-coming-its-coming-its-coming/)

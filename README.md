@@ -4,13 +4,13 @@
 - 2024/02/02 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/01/27 [01-22~01-28.老胡的周刊（第126期）.md](https://weekly.howie6879.com/2024/01-22~01-28.老胡的周刊（第126期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/02/03 [01-29~02-04.老胡的周刊（第127期）.md](https://weekly.howie6879.com/2024/01-29~02-04.老胡的周刊（第127期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/02/02 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
-- 2024/01/18 [涛然自得周刊 No.23 ：为什么伟大往往来自边缘](http://heyitao.com/post/beyond-code-weekly-023) | [More](channels/涛然自得周刊.md)
+- 2024/02/03 [涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机](http://heyitao.com/post/beyond-code-weekly-024) | [More](channels/涛然自得周刊.md)
 
 ## 拾月通讯
 - 2024/01/04 [拾月通讯（2024.01）](https://www.skyue.com/24010420.html) | [More](channels/拾月通讯.md)
@@ -37,7 +37,7 @@
 - 2024/02/02 [Web Review, Week 2024-05](https://ervin.ipsquad.net/blog/2024/02/02/web-review-week-2024-05/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/01/27 [Python 潮流周刊#37：Python “令人失望”的动态类型超能力](https://pythoncat.top/posts/2024-01-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/02/03 [Python 潮流周刊#38：Django + Next.js 构建全栈项目](https://pythoncat.top/posts/2024-02-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/01/28 [视野修炼第71期|Rspack家族新成员Rsdoctor](https://sugarat.top/weekly/2024-01-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -103,7 +103,7 @@
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/02 [zed-industries/zed](https://github.com/zed-industries/zed) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/03 [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -127,7 +127,7 @@
 - 2024/02/02 [#133 FOSDEM 2024](https://thisweek.gnome.org/posts/2024/02/twig-133/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/01/27 [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/02/03 [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/01 [#107: 探索决定论](https://weichen.zhubai.love/posts/2364933961869926400) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
