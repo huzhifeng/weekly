@@ -1,3 +1,4 @@
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama)
 - [zed-industries/zed](https://github.com/zed-industries/zed)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)
