@@ -1,3 +1,4 @@
+- [AIGC Weekly #58 年前量大管饱](https://quail.ink/op7418/p/aigc-weekly-58)
 - [AIGC Weekly #57](https://quail.ink/op7418/p/aigc-weekly-57)
 - [AIGC Weekly #56](https://quail.ink/op7418/p/aigc-weekly-56)
 - [AIGC Weekly #54 都开工了](https://quail.ink/op7418/p/aigc-weekly-54-)

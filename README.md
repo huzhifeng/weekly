@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/01/29 [AIGC Weekly #57](https://quail.ink/op7418/p/aigc-weekly-57) | [More](channels/AIGC%20Weekly.md)
+- 2024/02/05 [AIGC Weekly #58 年前量大管饱](https://quail.ink/op7418/p/aigc-weekly-58) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2024/01/21 [棱镜通讯 No.106  Daniel Bell](https://wangyurui.com/posts/leng-jing-tong-xun-no-106-daniel-bell-2d32b370) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/01/29 [DistroWatch Weekly, Issue 1055](https://distrowatch.com/weekly.php?issue=20240129) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/02/05 [DistroWatch Weekly, Issue 1056](https://distrowatch.com/weekly.php?issue=20240205) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/01/29 [9to5Linux Weekly Roundup: January 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-january-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/02/05 [9to5Linux Weekly Roundup: February 4th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-4th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/02/01 [LWN.net Weekly Edition for February 1, 2024](https://lwn.net/Articles/959457/) | [More](channels/LWN.net%20Weekly%20Edition.md)
