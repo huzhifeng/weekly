@@ -138,3 +138,6 @@
 ## Monday Coffee
 - 2024/02/05 [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384) | [More](channels/Monday%20Coffee.md)
 
+## 胡言乱语
+- 2024/02/02 [20240202的胡言乱语](https://www.bboy.app/2024/02/02/20240202%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
