@@ -135,3 +135,6 @@
 ## 一周杂记
 - 2024/02/05 [一周杂记 in Week 1 Feb 2024](http://kingsamchen.github.io/2024/02/05/weekly-2024-feb-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
+## Monday Coffee
+- 2024/02/05 [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384) | [More](channels/Monday%20Coffee.md)
+
