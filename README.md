@@ -132,3 +132,6 @@
 ## 生活奇旅
 - 2024/02/01 [#107: 探索决定论](https://weichen.zhubai.love/posts/2364933961869926400) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
+## 一周杂记
+- 2024/02/05 [一周杂记 in Week 1 Feb 2024](http://kingsamchen.github.io/2024/02/05/weekly-2024-feb-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+

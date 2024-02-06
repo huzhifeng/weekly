@@ -144,6 +144,12 @@
 			"filter": ["周报"]
 		},
 		{
+			"channel": "一周杂记",
+			"portal": "https://kingsamchen.github.io/tags/%E6%9D%82%E8%AE%B0/",
+			"url": "https://kingsamchen.github.io/atom.xml",
+			"filter": ["一周杂记"]
+		},
+		{
 			"channel": "Raye's Journey",
 			"portal": "https://rayepeng.net/tag/%E5%91%A8%E6%8A%A5",
 			"url": "https://rayepeng.net/feed",
