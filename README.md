@@ -13,7 +13,7 @@
 - 2024/02/03 [涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机](http://heyitao.com/post/beyond-code-weekly-024) | [More](channels/涛然自得周刊.md)
 
 ## 拾月通讯
-- 2024/01/04 [拾月通讯（2024.01）](https://www.skyue.com/24010420.html) | [More](channels/拾月通讯.md)
+- 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
 - 2024/02/01 [学习周刊-总第144期-2024年第05周](https://wiki.eryajf.net/pages/4b8996/) | [More](channels/二丫讲梵学习周刊.md)
@@ -82,7 +82,7 @@
 - 2024/02/05 [9to5Linux Weekly Roundup: February 4th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-4th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/02/01 [LWN.net Weekly Edition for February 1, 2024](https://lwn.net/Articles/959457/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/02/08 [LWN.net Weekly Edition for February 8, 2024](https://lwn.net/Articles/960456/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/01/05 [Vol.18 12月榜单：何处是家乡](https://www.idnunber.top/article/61633d64-7857-4160-90ef-e0a193000c52) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -106,7 +106,7 @@
 - 2024/02/07 [lizongying/my-tv](https://github.com/lizongying/my-tv) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
-- 2024/01/18 [泰晓资讯·1 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-01-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+- 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
 - 2024/01/15 [周报#24 24年的第一篇周报](https://xlog.app/api/redirection?characterId=51803&noteId=1504) | [More](channels/Raye%27s%20Journey.md)
@@ -121,7 +121,7 @@
 - 2024/02/02 [科技創業週報 #421：老闆關鍵十問｜創投脈動：2023 Q4 全球創業投資分析](https://blog.starrocket.io/posts/newsletter-2024-02-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/02/01 [FOSS Weekly #24.05: Zed Editor, PrivateGPT AI, CPU Temperature in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-05/) | [More](channels/FOSS%20Weekly.md)
+- 2024/02/08 [FOSS Weekly #24.06: Ollama AI, Zorin OS Upgrade, Damn Small Linux, Sudo on Windows and More](https://itsfoss.com/newsletter/foss-weekly-24-06/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/02/02 [#133 FOSDEM 2024](https://thisweek.gnome.org/posts/2024/02/twig-133/) | [More](channels/This%20Week%20in%20GNOME.md)
