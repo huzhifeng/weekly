@@ -4,7 +4,7 @@
 - 2024/02/02 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/02/03 [01-29~02-04.老胡的周刊（第127期）.md](https://weekly.howie6879.com/2024/01-29~02-04.老胡的周刊（第127期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/02/10 [02-05~02-11.老胡的周刊（第128期）.md](https://weekly.howie6879.com/2024/02-05~02-11.老胡的周刊（第128期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/02/02 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | [More](channels/独立开发变现周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/02/02 [Web Review, Week 2024-05](https://ervin.ipsquad.net/blog/2024/02/02/web-review-week-2024-05/) | [More](channels/Web%20Review.md)
+- 2024/02/09 [Web Review, Week 2024-06](https://ervin.ipsquad.net/blog/2024/02/09/web-review-week-2024-06/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/02/03 [Python 潮流周刊#38：Django + Next.js 构建全栈项目](https://pythoncat.top/posts/2024-02-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -85,7 +85,7 @@
 - 2024/02/08 [LWN.net Weekly Edition for February 8, 2024](https://lwn.net/Articles/960456/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
-- 2024/01/05 [Vol.18 12月榜单：何处是家乡](https://www.idnunber.top/article/61633d64-7857-4160-90ef-e0a193000c52) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+- 2024/02/09 [Vol.19 1月榜单：面对未知](https://www.idnunber.top/article/e7e9a744-d566-4f70-9934-5738d0f1d284) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## 中文播客行业动态
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
@@ -124,13 +124,13 @@
 - 2024/02/08 [FOSS Weekly #24.06: Ollama AI, Zorin OS Upgrade, Damn Small Linux, Sudo on Windows and More](https://itsfoss.com/newsletter/foss-weekly-24-06/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/02/02 [#133 FOSDEM 2024](https://thisweek.gnome.org/posts/2024/02/twig-133/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/02/09 [#134 High Contrast](https://thisweek.gnome.org/posts/2024/02/twig-134/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/02/03 [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
-- 2024/02/01 [#107: 探索决定论](https://weichen.zhubai.love/posts/2364933961869926400) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
+- 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
 - 2024/02/05 [一周杂记 in Week 1 Feb 2024](http://kingsamchen.github.io/2024/02/05/weekly-2024-feb-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
