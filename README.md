@@ -16,7 +16,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/02/01 [学习周刊-总第144期-2024年第05周](https://wiki.eryajf.net/pages/4b8996/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/02/09 [学习周刊-总第145期-2024年第06周](https://wiki.eryajf.net/pages/bcdf69/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/01/29 [Vol.05 社交媒体与环境毒素](https://justgoidea.com/newsletter/202405/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -127,7 +127,7 @@
 - 2024/02/09 [#134 High Contrast](https://thisweek.gnome.org/posts/2024/02/twig-134/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/02/03 [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/02/10 [This week in KDE: Inching closer](https://pointieststick.com/2024/02/09/this-week-in-kde-inching-closer/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)

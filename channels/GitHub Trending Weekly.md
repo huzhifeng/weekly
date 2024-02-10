@@ -1,3 +1,4 @@
+- [allenai/OLMo](https://github.com/allenai/OLMo)
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv)
