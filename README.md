@@ -40,7 +40,7 @@
 - 2024/02/03 [Python 潮流周刊#38：Django + Next.js 构建全栈项目](https://pythoncat.top/posts/2024-02-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/02/04 [视野修炼第72期|22种方式实现弹🏀动画](https://sugarat.top/weekly/2024-02-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/02/11 [视野修炼第73期|AI春联生成](https://sugarat.top/weekly/2024-02-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -64,7 +64,7 @@
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/02/04 [Weekly Issue 2024-02-04](https://zdyxry.github.io/2024/02/04/Weekly-Issue-2024-02-04/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/02/11 [Weekly Issue 2024-02-11](https://zdyxry.github.io/2024/02/11/Weekly-Issue-2024-02-11/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
