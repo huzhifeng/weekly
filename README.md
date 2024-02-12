@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/02/05 [DistroWatch Weekly, Issue 1056](https://distrowatch.com/weekly.php?issue=20240205) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/02/12 [DistroWatch Weekly, Issue 1057](https://distrowatch.com/weekly.php?issue=20240212) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/02/05 [9to5Linux Weekly Roundup: February 4th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-4th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/02/12 [9to5Linux Weekly Roundup: February 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-11th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/02/08 [LWN.net Weekly Edition for February 8, 2024](https://lwn.net/Articles/960456/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -103,7 +103,7 @@
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/07 [lizongying/my-tv](https://github.com/lizongying/my-tv) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/12 [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -115,7 +115,7 @@
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
-- 2024/01/29 [金融行业里的程序员到底在干什么 #57](https://letters.geekplux.com/57/) | [More](channels/GeekPlux%20Letters.md)
+- 2024/02/12 [第一次在美国过年 #58](https://letters.geekplux.com/58/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
 - 2024/02/02 [科技創業週報 #421：老闆關鍵十問｜創投脈動：2023 Q4 全球創業投資分析](https://blog.starrocket.io/posts/newsletter-2024-02-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -133,7 +133,7 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/02/05 [一周杂记 in Week 1 Feb 2024](http://kingsamchen.github.io/2024/02/05/weekly-2024-feb-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/02/12 [一周杂记 in Week 2 Feb 2024](http://kingsamchen.github.io/2024/02/12/weekly-2024-feb-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
 - 2024/02/05 [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384) | [More](channels/Monday%20Coffee.md)

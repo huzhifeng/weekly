@@ -1,3 +1,4 @@
+- [第一次在美国过年 #58](https://letters.geekplux.com/58/)
 - [金融行业里的程序员到底在干什么 #57](https://letters.geekplux.com/57/)
 - [2023 一蓑烟雨](https://letters.geekplux.com/2023-summary/)
 - [与陌生人一对一聊天 40 次之后的一些想法 #56](https://letters.geekplux.com/56/)
