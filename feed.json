@@ -110,6 +110,13 @@
 			"url": "https://rsshub.app/zhubai/weichen"
 		},
 		{
+			"channel": "不合时宜",
+			"portal": "https://huiris.zhubai.love/",
+			"portal2": "https://huiris.com/newsletter/",
+			"portal3": "https://huiris.com/feed/",
+			"url": "https://rsshub.app/zhubai/huiris"
+		},
+		{
 			"channel": "Monday Coffee",
 			"portal": "https://river.zhubai.love/",
 			"url": "https://rsshub.app/zhubai/river"

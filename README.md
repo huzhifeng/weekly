@@ -144,3 +144,6 @@
 ## Off-Beat
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
 
+## 不合时宜
+- 2024/02/06 [#34 我把我儿子揍了](https://huiris.zhubai.love/posts/2366579050266734592) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
+
