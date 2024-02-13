@@ -1,3 +1,4 @@
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
 - [apple/pkl](https://github.com/apple/pkl)
 - [allenai/OLMo](https://github.com/allenai/OLMo)
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
