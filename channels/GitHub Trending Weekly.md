@@ -1,3 +1,5 @@
+- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
 - [apple/pkl](https://github.com/apple/pkl)
 - [allenai/OLMo](https://github.com/allenai/OLMo)
