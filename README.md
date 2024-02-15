@@ -16,7 +16,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/02/09 [学习周刊-总第145期-2024年第06周](https://wiki.eryajf.net/pages/bcdf69/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/02/15 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/01/29 [Vol.05 社交媒体与环境毒素](https://justgoidea.com/newsletter/202405/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -55,7 +55,7 @@
 - 2024/02/05 [AIGC Weekly #58 年前量大管饱](https://quail.ink/op7418/p/aigc-weekly-58) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
-- 2024/01/21 [棱镜通讯 No.106  Daniel Bell](https://wangyurui.com/posts/leng-jing-tong-xun-no-106-daniel-bell-2d32b370) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+- 2024/02/15 [棱镜通讯 No.107 Duncan J Watts](https://wangyurui.com/posts/leng-jing-tong-xun-no-107-duncan-j-watts-2412d71a) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
 - 2024/01/29 [第163期 - 买了麻将](https://weekly.tw93.fun/posts/163-%E4%B9%B0%E4%BA%86%E9%BA%BB%E5%B0%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -82,7 +82,7 @@
 - 2024/02/12 [9to5Linux Weekly Roundup: February 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-11th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/02/08 [LWN.net Weekly Edition for February 8, 2024](https://lwn.net/Articles/960456/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/02/15 [LWN.net Weekly Edition for February 15, 2024](https://lwn.net/Articles/961331/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/02/09 [Vol.19 1月榜单：面对未知](https://www.idnunber.top/article/e7e9a744-d566-4f70-9934-5738d0f1d284) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -103,7 +103,7 @@
 - 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/14 [apple/pkl](https://github.com/apple/pkl) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/15 [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -121,7 +121,7 @@
 - 2024/02/02 [科技創業週報 #421：老闆關鍵十問｜創投脈動：2023 Q4 全球創業投資分析](https://blog.starrocket.io/posts/newsletter-2024-02-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/02/08 [FOSS Weekly #24.06: Ollama AI, Zorin OS Upgrade, Damn Small Linux, Sudo on Windows and More](https://itsfoss.com/newsletter/foss-weekly-24-06/) | [More](channels/FOSS%20Weekly.md)
+- 2024/02/15 [FOSS Weekly #24.07: Fedora Atomic Distro, Android FOSS Apps, Mozilla Monitor Plus and More](https://itsfoss.com/newsletter/foss-weekly-24-07/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/02/09 [#134 High Contrast](https://thisweek.gnome.org/posts/2024/02/twig-134/) | [More](channels/This%20Week%20in%20GNOME.md)

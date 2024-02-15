@@ -1,3 +1,6 @@
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
+- [apple/ml-mgie](https://github.com/apple/ml-mgie)
+- [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
