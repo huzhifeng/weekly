@@ -1,3 +1,4 @@
+- [phidatahq/phidata](https://github.com/phidatahq/phidata)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
 - [apple/ml-mgie](https://github.com/apple/ml-mgie)
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src)

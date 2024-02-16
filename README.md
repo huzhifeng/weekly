@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/02/09 [Web Review, Week 2024-06](https://ervin.ipsquad.net/blog/2024/02/09/web-review-week-2024-06/) | [More](channels/Web%20Review.md)
+- 2024/02/16 [Web Review, Week 2024-07](https://ervin.ipsquad.net/blog/2024/02/16/web-review-week-2024-07/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/02/03 [Python 潮流周刊#38：Django + Next.js 构建全栈项目](https://pythoncat.top/posts/2024-02-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -124,7 +124,7 @@
 - 2024/02/15 [FOSS Weekly #24.07: Fedora Atomic Distro, Android FOSS Apps, Mozilla Monitor Plus and More](https://itsfoss.com/newsletter/foss-weekly-24-07/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/02/09 [#134 High Contrast](https://thisweek.gnome.org/posts/2024/02/twig-134/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/02/16 [#135 Experimental Maps](https://thisweek.gnome.org/posts/2024/02/twig-135/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/02/10 [This week in KDE: Inching closer](https://pointieststick.com/2024/02/09/this-week-in-kde-inching-closer/) | [More](channels/This%20Week%20in%20KDE.md)
