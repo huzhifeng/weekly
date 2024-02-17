@@ -1,3 +1,4 @@
+- [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/)
 - [This week in KDE: Inching closer](https://pointieststick.com/2024/02/09/this-week-in-kde-inching-closer/)
 - [This week in KDE: converging on a release](https://pointieststick.com/2024/02/02/this-week-in-kde-converging-on-a-release/)
 - [This week in KDE: everything everywhere all at once edition](https://pointieststick.com/2024/01/26/this-week-in-kde-everything-everywhere-all-at-once-edition/)
