@@ -4,7 +4,7 @@
 - 2024/02/02 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/02/10 [02-05~02-11.老胡的周刊（第128期）.md](https://weekly.howie6879.com/2024/02-05~02-11.老胡的周刊（第128期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/02/17 [02-12~02-18.老胡的周刊（第129期）.md](https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/02/02 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | [More](channels/独立开发变现周刊.md)
@@ -52,19 +52,19 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/02/05 [AIGC Weekly #58 年前量大管饱](https://quail.ink/op7418/p/aigc-weekly-58) | [More](channels/AIGC%20Weekly.md)
+- 2024/02/18 [AIGC Weekly #59 春节AI消息一网打尽](https://quail.ink/op7418/p/aigc-weekly-59) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2024/02/15 [棱镜通讯 No.107 Duncan J Watts](https://wangyurui.com/posts/leng-jing-tong-xun-no-107-duncan-j-watts-2412d71a) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/01/29 [第163期 - 买了麻将](https://weekly.tw93.fun/posts/163-%E4%B9%B0%E4%BA%86%E9%BA%BB%E5%B0%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/02/19 [第164期 - 又是一年](https://weekly.tw93.fun/posts/164-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/02/11 [Weekly Issue 2024-02-11](https://zdyxry.github.io/2024/02/11/Weekly-Issue-2024-02-11/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/02/18 [Weekly Issue 2024-02-18](https://zdyxry.github.io/2024/02/18/Weekly-Issue-2024-02-18/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
@@ -100,7 +100,7 @@
 - 2024/01/30 [机器文摘 第 069 期](https://niupitools.zhubai.love/posts/2363917231584350208) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
-- 2024/01/17 [前端食堂技术周刊第 111 期：2023 JS Rising Stars、2024 年如何写 CSS、htmx、两个 React、npm 年度回顾](https://hungryturbo.zhubai.love/posts/2359264732244824064) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+- 2024/02/18 [前端食堂技术周刊第 112 期：Sora、Vite 5.1、Interop 2024、Node 官方纪录片预告、Deno 2023 回顾、Remix 入门实战](https://hungryturbo.zhubai.love/posts/2370971525798576128) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
 - 2024/02/17 [awslabs/llrt](https://github.com/awslabs/llrt) | [More](channels/GitHub%20Trending%20Weekly.md)
@@ -139,7 +139,7 @@
 - 2024/02/05 [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
-- 2024/02/02 [20240202的胡言乱语](https://www.bboy.app/2024/02/02/20240202%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2024/02/18 [20240218的胡言乱语](https://www.bboy.app/2024/02/18/20240218%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Off-Beat
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
