@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/02/12 [DistroWatch Weekly, Issue 1057](https://distrowatch.com/weekly.php?issue=20240212) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/02/19 [DistroWatch Weekly, Issue 1058](https://distrowatch.com/weekly.php?issue=20240219) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/02/12 [9to5Linux Weekly Roundup: February 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-11th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/02/19 [9to5Linux Weekly Roundup: February 18th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-18th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/02/15 [LWN.net Weekly Edition for February 15, 2024](https://lwn.net/Articles/961331/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -97,7 +97,7 @@
 - 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/01/30 [机器文摘 第 069 期](https://niupitools.zhubai.love/posts/2363917231584350208) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/02/19 [机器文摘 第 070 期](https://niupitools.zhubai.love/posts/2371279424500473856) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/02/18 [前端食堂技术周刊第 112 期：Sora、Vite 5.1、Interop 2024、Node 官方纪录片预告、Deno 2023 回顾、Remix 入门实战](https://hungryturbo.zhubai.love/posts/2370971525798576128) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -151,5 +151,5 @@
 - 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/18 [事不过三 日更第 9 天](https://via.zhubai.love/posts/2371017788795494400) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/19 [事不过三 日更第 10 天](https://via.zhubai.love/posts/2371380057920417792) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 

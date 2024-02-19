@@ -1,3 +1,5 @@
+- [psf/black](https://github.com/psf/black)
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
 - [awslabs/llrt](https://github.com/awslabs/llrt)
 - [phidatahq/phidata](https://github.com/phidatahq/phidata)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
