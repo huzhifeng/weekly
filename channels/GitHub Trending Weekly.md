@@ -1,3 +1,5 @@
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 - [psf/black](https://github.com/psf/black)
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
 - [awslabs/llrt](https://github.com/awslabs/llrt)

@@ -19,7 +19,7 @@
 - 2024/02/15 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/01/29 [Vol.05 社交媒体与环境毒素](https://justgoidea.com/newsletter/202405/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/02/19 [Vol.06 小胡哥哥](https://justgoidea.com/newsletter/202406/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/01/27 [广场周刊（第 17 期）：回家过年](https://immmmm.com/weekly-17-20240127/) | [More](channels/广场周刊.md)
@@ -103,7 +103,7 @@
 - 2024/02/18 [前端食堂技术周刊第 112 期：Sora、Vite 5.1、Interop 2024、Node 官方纪录片预告、Deno 2023 回顾、Remix 入门实战](https://hungryturbo.zhubai.love/posts/2370971525798576128) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/17 [awslabs/llrt](https://github.com/awslabs/llrt) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/20 [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -115,10 +115,10 @@
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
-- 2024/02/12 [第一次在美国过年 #58](https://letters.geekplux.com/58/) | [More](channels/GeekPlux%20Letters.md)
+- 2024/02/20 [金融行业程序员的职业发展、薪资、WLB 怎么样 #59](https://letters.geekplux.com/59/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
-- 2024/02/02 [科技創業週報 #421：老闆關鍵十問｜創投脈動：2023 Q4 全球創業投資分析](https://blog.starrocket.io/posts/newsletter-2024-02-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2024/02/08 [科技創業週報 #422：2024 新創募資守則｜我「用了很長時間才明白的道理」](https://blog.starrocket.io/posts/newsletter-2024-02-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
 - 2024/02/15 [FOSS Weekly #24.07: Fedora Atomic Distro, Android FOSS Apps, Mozilla Monitor Plus and More](https://itsfoss.com/newsletter/foss-weekly-24-07/) | [More](channels/FOSS%20Weekly.md)
@@ -133,7 +133,7 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/02/12 [一周杂记 in Week 2 Feb 2024](http://kingsamchen.github.io/2024/02/12/weekly-2024-feb-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/02/19 [一周杂记 in Week 3 Feb 2024](http://kingsamchen.github.io/2024/02/19/weekly-2024-feb-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
 - 2024/02/05 [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384) | [More](channels/Monday%20Coffee.md)
@@ -151,5 +151,5 @@
 - 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/19 [事不过三 日更第 10 天](https://via.zhubai.love/posts/2371380057920417792) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/20 [事不过三 日更第 11 天](https://via.zhubai.love/posts/2371753799922180096) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
