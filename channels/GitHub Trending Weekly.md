@@ -1,3 +1,5 @@
+- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade)
+- [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 - [psf/black](https://github.com/psf/black)

@@ -67,7 +67,7 @@
 - 2024/02/18 [Weekly Issue 2024-02-18](https://zdyxry.github.io/2024/02/18/Weekly-Issue-2024-02-18/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
-- 2023/11/30 [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/) | [More](channels/PIVOT.md)
+- 2024/02/21 [PIVOT Vol.3](https://anotherdayu.com/2024/5611/) | [More](channels/PIVOT.md)
 
 ## Giovanni Collazo Notes
 - 2023/12/18 [Notes #12](https://gcollazo.com/notes-12/) | [More](channels/Giovanni%20Collazo%20Notes.md)
@@ -91,7 +91,7 @@
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
 ## 偷懒爱好者周刊
-- 2024/02/14 [第69期 - 偷懒爱好者周刊 24/02/14](https://toolight.zhubai.love/posts/2369502271626649600) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/02/20 [第70期 - 偷懒爱好者周刊 24/02/21](https://toolight.zhubai.love/posts/2371876153373450240) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
 - 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
@@ -103,7 +103,7 @@
 - 2024/02/18 [前端食堂技术周刊第 112 期：Sora、Vite 5.1、Interop 2024、Node 官方纪录片预告、Deno 2023 回顾、Remix 入门实战](https://hungryturbo.zhubai.love/posts/2370971525798576128) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/20 [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/21 [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -151,5 +151,5 @@
 - 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/20 [事不过三 日更第 11 天](https://via.zhubai.love/posts/2371753799922180096) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/21 [事不过三 日更第 12 天](https://via.zhubai.love/posts/2372116610724638720) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
