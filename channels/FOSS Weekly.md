@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.08: Ubuntu 24.04 Features, Arkane Linux, grep, Fedora COSMIC and More](https://itsfoss.com/newsletter/foss-weekly-24-08/)
 - [FOSS Weekly #24.07: Fedora Atomic Distro, Android FOSS Apps, Mozilla Monitor Plus and More](https://itsfoss.com/newsletter/foss-weekly-24-07/)
 - [FOSS Weekly #24.06: Ollama AI, Zorin OS Upgrade, Damn Small Linux, Sudo on Windows and More](https://itsfoss.com/newsletter/foss-weekly-24-06/)
 - [FOSS Weekly #24.05: Zed Editor, PrivateGPT AI, CPU Temperature in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-05/)

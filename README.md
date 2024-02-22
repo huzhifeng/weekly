@@ -7,7 +7,7 @@
 - 2024/02/17 [02-12~02-18.老胡的周刊（第129期）.md](https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2024/02/02 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | [More](channels/独立开发变现周刊.md)
+- 2024/02/23 [独立开发变现周刊（第123期） : 一个邮件模板编辑工具月收入40万美金](https://www.ezindie.com/weekly/issue-123) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2024/02/03 [涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机](http://heyitao.com/post/beyond-code-weekly-024) | [More](channels/涛然自得周刊.md)
@@ -82,7 +82,7 @@
 - 2024/02/19 [9to5Linux Weekly Roundup: February 18th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-18th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/02/15 [LWN.net Weekly Edition for February 15, 2024](https://lwn.net/Articles/961331/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/02/22 [LWN.net Weekly Edition for February 22, 2024](https://lwn.net/Articles/962302/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/02/09 [Vol.19 1月榜单：面对未知](https://www.idnunber.top/article/e7e9a744-d566-4f70-9934-5738d0f1d284) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -118,10 +118,10 @@
 - 2024/02/20 [金融行业程序员的职业发展、薪资、WLB 怎么样 #59](https://letters.geekplux.com/59/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
-- 2024/02/08 [科技創業週報 #422：2024 新創募資守則｜我「用了很長時間才明白的道理」](https://blog.starrocket.io/posts/newsletter-2024-02-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2024/02/22 [科技創業週報 #423：設計溝通的三個祕訣｜高效人生商學院Ｘ台杉投資 : 訪談矽谷創業之神陳五福的創業準備歷程](https://blog.starrocket.io/posts/newsletter-2024-02-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/02/15 [FOSS Weekly #24.07: Fedora Atomic Distro, Android FOSS Apps, Mozilla Monitor Plus and More](https://itsfoss.com/newsletter/foss-weekly-24-07/) | [More](channels/FOSS%20Weekly.md)
+- 2024/02/22 [FOSS Weekly #24.08: Ubuntu 24.04 Features, Arkane Linux, grep, Fedora COSMIC and More](https://itsfoss.com/newsletter/foss-weekly-24-08/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/02/16 [#135 Experimental Maps](https://thisweek.gnome.org/posts/2024/02/twig-135/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -151,5 +151,5 @@
 - 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/21 [事不过三 日更第 12 天](https://via.zhubai.love/posts/2372116610724638720) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/22 [事不过三 日更第 13 天](https://via.zhubai.love/posts/2372444078580953088) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
