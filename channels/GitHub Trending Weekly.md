@@ -1,3 +1,4 @@
+- [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai)
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade)
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)

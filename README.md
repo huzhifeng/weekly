@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/02/02 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | [More](channels/科技爱好者周刊.md)
+- 2024/02/23 [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2024/02/17 [02-12~02-18.老胡的周刊（第129期）.md](https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html) | [More](channels/老胡的信息周刊.md)
@@ -16,7 +16,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/02/15 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/02/23 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/02/19 [Vol.06 小胡哥哥](https://justgoidea.com/newsletter/202406/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/02/16 [Web Review, Week 2024-07](https://ervin.ipsquad.net/blog/2024/02/16/web-review-week-2024-07/) | [More](channels/Web%20Review.md)
+- 2024/02/23 [Web Review, Week 2024-08](https://ervin.ipsquad.net/blog/2024/02/23/web-review-week-2024-08/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/02/03 [Python 潮流周刊#38：Django + Next.js 构建全栈项目](https://pythoncat.top/posts/2024-02-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/02/18 [前端食堂技术周刊第 112 期：Sora、Vite 5.1、Interop 2024、Node 官方纪录片预告、Deno 2023 回顾、Remix 入门实战](https://hungryturbo.zhubai.love/posts/2370971525798576128) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/21 [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/23 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -124,7 +124,7 @@
 - 2024/02/22 [FOSS Weekly #24.08: Ubuntu 24.04 Features, Arkane Linux, grep, Fedora COSMIC and More](https://itsfoss.com/newsletter/foss-weekly-24-08/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/02/16 [#135 Experimental Maps](https://thisweek.gnome.org/posts/2024/02/twig-135/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/02/23 [#136 New Papers](https://thisweek.gnome.org/posts/2024/02/twig-136/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/02/17 [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/) | [More](channels/This%20Week%20in%20KDE.md)
@@ -151,5 +151,5 @@
 - 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/22 [事不过三 日更第 13 天](https://via.zhubai.love/posts/2372444078580953088) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/23 [事不过三 日更第 14 天](https://via.zhubai.love/posts/2372827781266210816) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
