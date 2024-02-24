@@ -1,3 +1,4 @@
+- [周报#25 茶会话、读书会与《悉达多》](https://xlog.app/api/redirection?characterId=51803&noteId=1627)
 - [周报#24 24年的第一篇周报](https://xlog.app/api/redirection?characterId=51803&noteId=1504)
 - [周报#23 深圳的冬天、学会聚焦与一些2023回顾](https://xlog.app/api/redirection?characterId=51803&noteId=1420)
 - [周报 #22 书店、杂记与写作带给我的变化](https://xlog.app/api/redirection?characterId=51803&noteId=1248)

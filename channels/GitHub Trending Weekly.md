@@ -1,3 +1,5 @@
+- [google/magika](https://github.com/google/magika)
+- [astral-sh/uv](https://github.com/astral-sh/uv)
 - [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai)
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade)
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)

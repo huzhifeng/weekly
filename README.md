@@ -22,13 +22,13 @@
 - 2024/02/19 [Vol.06 小胡哥哥](https://justgoidea.com/newsletter/202406/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
-- 2024/01/27 [广场周刊（第 17 期）：回家过年](https://immmmm.com/weekly-17-20240127/) | [More](channels/广场周刊.md)
+- 2024/02/24 [广场周刊（第 18 期）：是否如初](https://immmmm.com/weekly-18-20240224/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/01/24 [1link.fun 科技周刊 | 第 84 期](https://1link.fun/blog/issue/issue84/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/02/24 [1link.fun 科技周刊 | 第 85 期](https://1link.fun/blog/issue/issue85/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
-- 2024/01/20 [CyberClip #49 如何提出好问题](https://shyrz.me/cyberclip-49-how-to-ask-good-questions/) | [More](channels/CyberClip.md)
+- 2024/02/24 [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
@@ -37,7 +37,7 @@
 - 2024/02/23 [Web Review, Week 2024-08](https://ervin.ipsquad.net/blog/2024/02/23/web-review-week-2024-08/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/02/03 [Python 潮流周刊#38：Django + Next.js 构建全栈项目](https://pythoncat.top/posts/2024-02-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/02/24 [Python 潮流周刊#39：Rust 开发的性能超快的打包工具](https://pythoncat.top/posts/2024-02-24-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/02/11 [视野修炼第73期|AI春联生成](https://sugarat.top/weekly/2024-02-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -103,13 +103,13 @@
 - 2024/02/18 [前端食堂技术周刊第 112 期：Sora、Vite 5.1、Interop 2024、Node 官方纪录片预告、Deno 2023 回顾、Remix 入门实战](https://hungryturbo.zhubai.love/posts/2370971525798576128) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/23 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/24 [google/magika](https://github.com/google/magika) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
-- 2024/01/15 [周报#24 24年的第一篇周报](https://xlog.app/api/redirection?characterId=51803&noteId=1504) | [More](channels/Raye%27s%20Journey.md)
+- 2024/02/24 [周报#25 茶会话、读书会与《悉达多》](https://xlog.app/api/redirection?characterId=51803&noteId=1627) | [More](channels/Raye%27s%20Journey.md)
 
 ## 赫周刊
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
@@ -127,7 +127,7 @@
 - 2024/02/23 [#136 New Papers](https://thisweek.gnome.org/posts/2024/02/twig-136/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/02/17 [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/02/24 [This week in KDE: real fake session restore](https://pointieststick.com/2024/02/23/this-week-in-kde-real-fake-session-restore/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
@@ -151,5 +151,5 @@
 - 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/23 [事不过三 日更第 14 天](https://via.zhubai.love/posts/2372827781266210816) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/24 [事不过三 日更第 15 天](https://via.zhubai.love/posts/2373200193401024512) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
