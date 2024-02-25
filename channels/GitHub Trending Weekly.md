@@ -1,3 +1,5 @@
+- [karpathy/minbpe](https://github.com/karpathy/minbpe)
+- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)
 - [google/magika](https://github.com/google/magika)
 - [astral-sh/uv](https://github.com/astral-sh/uv)
 - [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai)

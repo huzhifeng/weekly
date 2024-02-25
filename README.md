@@ -4,7 +4,7 @@
 - 2024/02/23 [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/02/17 [02-12~02-18.老胡的周刊（第129期）.md](https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/02/24 [02-19~02-25.老胡的周刊（第130期）.md](https://weekly.howie6879.com/2024/02-19~02-25.老胡的周刊（第130期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/02/23 [独立开发变现周刊（第123期） : 一个邮件模板编辑工具月收入40万美金](https://www.ezindie.com/weekly/issue-123) | [More](channels/独立开发变现周刊.md)
@@ -40,7 +40,7 @@
 - 2024/02/24 [Python 潮流周刊#39：Rust 开发的性能超快的打包工具](https://pythoncat.top/posts/2024-02-24-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/02/11 [视野修炼第73期|AI春联生成](https://sugarat.top/weekly/2024-02-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/02/25 [视野修炼第74期|火箭龟🚀🐢](https://sugarat.top/weekly/2024-02-25.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -100,13 +100,13 @@
 - 2024/02/19 [机器文摘 第 070 期](https://niupitools.zhubai.love/posts/2371279424500473856) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
-- 2024/02/18 [前端食堂技术周刊第 112 期：Sora、Vite 5.1、Interop 2024、Node 官方纪录片预告、Deno 2023 回顾、Remix 入门实战](https://hungryturbo.zhubai.love/posts/2370971525798576128) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+- 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/24 [google/magika](https://github.com/google/magika) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/25 [karpathy/minbpe](https://github.com/karpathy/minbpe) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
-- 2024/02/01 [泰晓资讯·2 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-02-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+- 2024/02/22 [泰晓资讯·2 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-02-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
 - 2024/02/24 [周报#25 茶会话、读书会与《悉达多》](https://xlog.app/api/redirection?characterId=51803&noteId=1627) | [More](channels/Raye%27s%20Journey.md)
@@ -151,5 +151,5 @@
 - 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/24 [事不过三 日更第 15 天](https://via.zhubai.love/posts/2373200193401024512) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/25 [事不过三 日更第 16 天](https://via.zhubai.love/posts/2373542139487289344) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
