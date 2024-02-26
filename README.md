@@ -52,19 +52,19 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/02/18 [AIGC Weekly #59 春节AI消息一网打尽](https://quail.ink/op7418/p/aigc-weekly-59) | [More](channels/AIGC%20Weekly.md)
+- 2024/02/26 [AIGC Weekly #60](https://quail.ink/op7418/p/aigc-weekly-60) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2024/02/15 [棱镜通讯 No.107 Duncan J Watts](https://wangyurui.com/posts/leng-jing-tong-xun-no-107-duncan-j-watts-2412d71a) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/02/19 [第164期 - 又是一年](https://weekly.tw93.fun/posts/164-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/02/26 [第165期 - 年度榜单](https://weekly.tw93.fun/posts/165-%E5%B9%B4%E5%BA%A6%E6%A6%9C%E5%8D%95/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/02/18 [Weekly Issue 2024-02-18](https://zdyxry.github.io/2024/02/18/Weekly-Issue-2024-02-18/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/02/25 [Weekly Issue 2024-02-25](https://zdyxry.github.io/2024/02/25/Weekly-Issue-2024-02-25/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/02/21 [PIVOT Vol.3](https://anotherdayu.com/2024/5611/) | [More](channels/PIVOT.md)
@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/02/19 [DistroWatch Weekly, Issue 1058](https://distrowatch.com/weekly.php?issue=20240219) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/02/26 [DistroWatch Weekly, Issue 1059](https://distrowatch.com/weekly.php?issue=20240226) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/02/19 [9to5Linux Weekly Roundup: February 18th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-18th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/02/26 [9to5Linux Weekly Roundup: February 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-25th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/02/22 [LWN.net Weekly Edition for February 22, 2024](https://lwn.net/Articles/962302/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -133,7 +133,7 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/02/19 [一周杂记 in Week 3 Feb 2024](http://kingsamchen.github.io/2024/02/19/weekly-2024-feb-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/02/26 [一周杂记 in Week 4 Feb 2024](http://kingsamchen.github.io/2024/02/26/weekly-2024-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
 - 2024/02/05 [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384) | [More](channels/Monday%20Coffee.md)
