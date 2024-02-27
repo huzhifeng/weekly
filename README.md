@@ -19,7 +19,7 @@
 - 2024/02/23 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/02/19 [Vol.06 小胡哥哥](https://justgoidea.com/newsletter/202406/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/02/26 [Vol.07 苦难不值得歌颂但需要记忆](https://justgoidea.com/newsletter/202407/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/02/24 [广场周刊（第 18 期）：是否如初](https://immmmm.com/weekly-18-20240224/) | [More](channels/广场周刊.md)
@@ -97,13 +97,13 @@
 - 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/02/19 [机器文摘 第 070 期](https://niupitools.zhubai.love/posts/2371279424500473856) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/02/27 [机器文摘 第 071 期](https://niupitools.zhubai.love/posts/2374093458911608832) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/25 [karpathy/minbpe](https://github.com/karpathy/minbpe) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/27 [charlax/professional-programming](https://github.com/charlax/professional-programming) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/22 [泰晓资讯·2 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-02-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -136,7 +136,7 @@
 - 2024/02/26 [一周杂记 in Week 4 Feb 2024](http://kingsamchen.github.io/2024/02/26/weekly-2024-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
-- 2024/02/05 [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384) | [More](channels/Monday%20Coffee.md)
+- 2024/02/27 [20240227 春节](https://river.zhubai.love/posts/2374116547200356352) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
 - 2024/02/18 [20240218的胡言乱语](https://www.bboy.app/2024/02/18/20240218%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -148,8 +148,8 @@
 - 2024/02/06 [#34 我把我儿子揍了](https://huiris.zhubai.love/posts/2366579050266734592) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
 
 ## 试行错误
-- 2024/02/13 [🥫阅读碎片罐头（202401月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2369024696089391104) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+- 2024/02/26 [你放弃其它可能，才让这个选择变得有意义｜试行错误100](https://shixingcuowu.zhubai.love/posts/2374040022153256960) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/25 [事不过三 日更第 16 天](https://via.zhubai.love/posts/2373542139487289344) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/27 [事不过三 日更第 17 天](https://via.zhubai.love/posts/2374266578532380672) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 

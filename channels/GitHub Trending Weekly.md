@@ -1,3 +1,4 @@
+- [charlax/professional-programming](https://github.com/charlax/professional-programming)
 - [karpathy/minbpe](https://github.com/karpathy/minbpe)
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)
 - [google/magika](https://github.com/google/magika)
