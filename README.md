@@ -151,5 +151,5 @@
 - 2024/02/26 [你放弃其它可能，才让这个选择变得有意义｜试行错误100](https://shixingcuowu.zhubai.love/posts/2374040022153256960) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/27 [事不过三 日更第 17 天](https://via.zhubai.love/posts/2374266578532380672) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/28 [事不过三 日更第 18 天](https://via.zhubai.love/posts/2374637322605019136) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
