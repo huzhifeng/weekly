@@ -7,7 +7,7 @@
 - 2024/02/24 [02-19~02-25.老胡的周刊（第130期）.md](https://weekly.howie6879.com/2024/02-19~02-25.老胡的周刊（第130期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2024/02/23 [独立开发变现周刊（第123期） : 一个邮件模板编辑工具月收入40万美金](https://www.ezindie.com/weekly/issue-123) | [More](channels/独立开发变现周刊.md)
+- 2024/02/24 [独立开发变现周刊（第124期） : 从100到3万美元，邮件订阅的低成本高收益秘诀](https://www.ezindie.com/weekly/issue-124) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2024/02/03 [涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机](http://heyitao.com/post/beyond-code-weekly-024) | [More](channels/涛然自得周刊.md)
@@ -16,7 +16,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/02/23 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/02/29 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/02/26 [Vol.07 苦难不值得歌颂但需要记忆](https://justgoidea.com/newsletter/202407/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -46,7 +46,7 @@
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
-- 2023/12/03 [周报 #52 - 自谦型人格与感情的另一个视角](https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+- 2024/02/29 [周报 #53 - 空白的三个月、生活漂流与春节](https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## The Connector 周刊
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
@@ -82,7 +82,7 @@
 - 2024/02/26 [9to5Linux Weekly Roundup: February 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-25th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/02/22 [LWN.net Weekly Edition for February 22, 2024](https://lwn.net/Articles/962302/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/02/29 [LWN.net Weekly Edition for February 29, 2024](https://lwn.net/Articles/963168/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/02/09 [Vol.19 1月榜单：面对未知](https://www.idnunber.top/article/e7e9a744-d566-4f70-9934-5738d0f1d284) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -94,7 +94,7 @@
 - 2024/02/20 [第70期 - 偷懒爱好者周刊 24/02/21](https://toolight.zhubai.love/posts/2371876153373450240) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
-- 2024/01/16 [播客相对论｜12月份不能错过的播客单集](https://podcast.zhubai.love/posts/2359010386059874304) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
+- 2024/02/29 [播客相对论｜壹月份不能错过的播客单集](https://podcast.zhubai.love/posts/2374972105864343552) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
 - 2024/02/27 [机器文摘 第 071 期](https://niupitools.zhubai.love/posts/2374093458911608832) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
@@ -103,7 +103,7 @@
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/27 [charlax/professional-programming](https://github.com/charlax/professional-programming) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/02/29 [google/gemma.cpp](https://github.com/google/gemma.cpp) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/22 [泰晓资讯·2 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-02-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -121,7 +121,7 @@
 - 2024/02/22 [科技創業週報 #423：設計溝通的三個祕訣｜高效人生商學院Ｘ台杉投資 : 訪談矽谷創業之神陳五福的創業準備歷程](https://blog.starrocket.io/posts/newsletter-2024-02-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/02/22 [FOSS Weekly #24.08: Ubuntu 24.04 Features, Arkane Linux, grep, Fedora COSMIC and More](https://itsfoss.com/newsletter/foss-weekly-24-08/) | [More](channels/FOSS%20Weekly.md)
+- 2024/02/29 [FOSS Weekly #24.09: GNOME 46 & KDE 6 Features, PipeWire, Obsidian Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-09/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/02/23 [#136 New Papers](https://thisweek.gnome.org/posts/2024/02/twig-136/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -151,5 +151,5 @@
 - 2024/02/26 [你放弃其它可能，才让这个选择变得有意义｜试行错误100](https://shixingcuowu.zhubai.love/posts/2374040022153256960) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/28 [事不过三 日更第 18 天](https://via.zhubai.love/posts/2374637322605019136) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/02/29 [事不过三 日更第 19 天](https://via.zhubai.love/posts/2375008757932453888) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 

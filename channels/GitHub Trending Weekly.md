@@ -1,3 +1,6 @@
+- [google/gemma.cpp](https://github.com/google/gemma.cpp)
+- [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)
+- [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 - [charlax/professional-programming](https://github.com/charlax/professional-programming)
 - [karpathy/minbpe](https://github.com/karpathy/minbpe)
