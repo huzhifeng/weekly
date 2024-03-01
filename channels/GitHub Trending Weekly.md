@@ -1,3 +1,5 @@
+- [google/gemma_pytorch](https://github.com/google/gemma_pytorch)
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
 - [google/gemma.cpp](https://github.com/google/gemma.cpp)
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)
 - [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)

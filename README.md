@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/02/23 [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html) | [More](channels/科技爱好者周刊.md)
+- 2024/03/01 [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2024/02/24 [02-19~02-25.老胡的周刊（第130期）.md](https://weekly.howie6879.com/2024/02-19~02-25.老胡的周刊（第130期）.html) | [More](channels/老胡的信息周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/02/23 [Web Review, Week 2024-08](https://ervin.ipsquad.net/blog/2024/02/23/web-review-week-2024-08/) | [More](channels/Web%20Review.md)
+- 2024/03/01 [Web Review, Week 2024-09](https://ervin.ipsquad.net/blog/2024/03/01/web-review-week-2024-09/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/02/24 [Python 潮流周刊#39：Rust 开发的性能超快的打包工具](https://pythoncat.top/posts/2024-02-24-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/02/29 [google/gemma.cpp](https://github.com/google/gemma.cpp) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/01 [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/22 [泰晓资讯·2 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-02-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -151,5 +151,5 @@
 - 2024/02/26 [你放弃其它可能，才让这个选择变得有意义｜试行错误100](https://shixingcuowu.zhubai.love/posts/2374040022153256960) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/02/29 [事不过三 日更第 19 天](https://via.zhubai.love/posts/2375008757932453888) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/01 [事不过三 日更第 20 天](https://via.zhubai.love/posts/2375394182580760576) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
