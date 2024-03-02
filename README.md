@@ -25,7 +25,7 @@
 - 2024/02/24 [广场周刊（第 18 期）：是否如初](https://immmmm.com/weekly-18-20240224/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/02/24 [1link.fun 科技周刊 | 第 85 期](https://1link.fun/blog/issue/issue85/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/03/02 [1link.fun 科技周刊 | 第 86 期](https://1link.fun/blog/issue/issue86/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/02/24 [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/) | [More](channels/CyberClip.md)
@@ -37,7 +37,7 @@
 - 2024/03/01 [Web Review, Week 2024-09](https://ervin.ipsquad.net/blog/2024/03/01/web-review-week-2024-09/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/02/24 [Python 潮流周刊#39：Rust 开发的性能超快的打包工具](https://pythoncat.top/posts/2024-02-24-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/02 [Python 潮流周刊#40：白宫建议使用 Python 等内存安全的语言](https://pythoncat.top/posts/2024-03-02-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/02/25 [视野修炼第74期|火箭龟🚀🐢](https://sugarat.top/weekly/2024-02-25.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -85,7 +85,7 @@
 - 2024/02/29 [LWN.net Weekly Edition for February 29, 2024](https://lwn.net/Articles/963168/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
-- 2024/02/09 [Vol.19 1月榜单：面对未知](https://www.idnunber.top/article/e7e9a744-d566-4f70-9934-5738d0f1d284) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+- 2024/03/02 [Vol.20 二月榜单：不应无酒但沾巾](https://www.idnunber.top/article/3d081e66-c044-4617-87c7-ed5f39d57d2b) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## 中文播客行业动态
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
@@ -103,7 +103,7 @@
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/01 [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/02 [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/22 [泰晓资讯·2 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-02-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -124,7 +124,7 @@
 - 2024/02/29 [FOSS Weekly #24.09: GNOME 46 & KDE 6 Features, PipeWire, Obsidian Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-09/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/02/23 [#136 New Papers](https://thisweek.gnome.org/posts/2024/02/twig-136/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/03/02 [#137 Second Legendary Saturday Edition](https://thisweek.gnome.org/posts/2024/03/twig-137/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/02/24 [This week in KDE: real fake session restore](https://pointieststick.com/2024/02/23/this-week-in-kde-real-fake-session-restore/) | [More](channels/This%20Week%20in%20KDE.md)
@@ -151,5 +151,5 @@
 - 2024/02/26 [你放弃其它可能，才让这个选择变得有意义｜试行错误100](https://shixingcuowu.zhubai.love/posts/2374040022153256960) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/01 [事不过三 日更第 20 天](https://via.zhubai.love/posts/2375394182580760576) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/02 [事不过三 日更第 21 天](https://via.zhubai.love/posts/2375743122996129792) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
