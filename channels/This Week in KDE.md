@@ -1,3 +1,4 @@
+- [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/)
 - [This week in KDE: real fake session restore](https://pointieststick.com/2024/02/23/this-week-in-kde-real-fake-session-restore/)
 - [This week in KDE: longstanding issues crushed](https://pointieststick.com/2024/02/16/this-week-in-kde-longstanding-issues-crushed/)
 - [This week in KDE: Inching closer](https://pointieststick.com/2024/02/09/this-week-in-kde-inching-closer/)

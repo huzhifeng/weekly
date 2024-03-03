@@ -4,7 +4,7 @@
 - 2024/03/01 [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/02/24 [02-19~02-25.老胡的周刊（第130期）.md](https://weekly.howie6879.com/2024/02-19~02-25.老胡的周刊（第130期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/03/02 [02-26~03-03.老胡的周刊（第131期）.md](https://weekly.howie6879.com/2024/02-26~03-03.老胡的周刊（第131期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/02/24 [独立开发变现周刊（第124期） : 从100到3万美元，邮件订阅的低成本高收益秘诀](https://www.ezindie.com/weekly/issue-124) | [More](channels/独立开发变现周刊.md)
@@ -40,7 +40,7 @@
 - 2024/03/02 [Python 潮流周刊#40：白宫建议使用 Python 等内存安全的语言](https://pythoncat.top/posts/2024-03-02-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/02/25 [视野修炼第74期|火箭龟🚀🐢](https://sugarat.top/weekly/2024-02-25.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/03/03 [视野修炼第75期](https://sugarat.top/weekly/2024-03-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -55,16 +55,16 @@
 - 2024/02/26 [AIGC Weekly #60](https://quail.ink/op7418/p/aigc-weekly-60) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
-- 2024/02/15 [棱镜通讯 No.107 Duncan J Watts](https://wangyurui.com/posts/leng-jing-tong-xun-no-107-duncan-j-watts-2412d71a) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+- 2024/03/03 [棱镜通讯 No.108 马克·波斯特（Mark Poster）](https://wangyurui.com/posts/leng-jing-ee7ee5ac) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/02/26 [第165期 - 年度榜单](https://weekly.tw93.fun/posts/165-%E5%B9%B4%E5%BA%A6%E6%A6%9C%E5%8D%95/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/04 [第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/02/25 [Weekly Issue 2024-02-25](https://zdyxry.github.io/2024/02/25/Weekly-Issue-2024-02-25/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/03/03 [Weekly Issue 2024-03-03](https://zdyxry.github.io/2024/03/03/Weekly-Issue-2024-03-03/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/02/21 [PIVOT Vol.3](https://anotherdayu.com/2024/5611/) | [More](channels/PIVOT.md)
@@ -103,13 +103,13 @@
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/02 [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/03 [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/22 [泰晓资讯·2 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-02-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
-- 2024/02/24 [周报#25 茶会话、读书会与《悉达多》](https://xlog.app/api/redirection?characterId=51803&noteId=1627) | [More](channels/Raye%27s%20Journey.md)
+- 2024/03/03 [周报#26 赤子之心、读书页面与对技术的追求](https://xlog.app/api/redirection?characterId=51803&noteId=1637) | [More](channels/Raye%27s%20Journey.md)
 
 ## 赫周刊
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
@@ -127,7 +127,7 @@
 - 2024/03/02 [#137 Second Legendary Saturday Edition](https://thisweek.gnome.org/posts/2024/03/twig-137/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/02/24 [This week in KDE: real fake session restore](https://pointieststick.com/2024/02/23/this-week-in-kde-real-fake-session-restore/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/03/03 [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
@@ -151,5 +151,5 @@
 - 2024/02/26 [你放弃其它可能，才让这个选择变得有意义｜试行错误100](https://shixingcuowu.zhubai.love/posts/2374040022153256960) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/02 [事不过三 日更第 21 天](https://via.zhubai.love/posts/2375743122996129792) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/03 [事不过三 日更第 22 天](https://via.zhubai.love/posts/2376104908110880768) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
