@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/02/26 [AIGC Weekly #60](https://quail.ink/op7418/p/aigc-weekly-60) | [More](channels/AIGC%20Weekly.md)
+- 2024/03/04 [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2024/03/03 [棱镜通讯 No.108 马克·波斯特（Mark Poster）](https://wangyurui.com/posts/leng-jing-ee7ee5ac) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/02/26 [DistroWatch Weekly, Issue 1059](https://distrowatch.com/weekly.php?issue=20240226) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/03/04 [DistroWatch Weekly, Issue 1060](https://distrowatch.com/weekly.php?issue=20240304) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/02/26 [9to5Linux Weekly Roundup: February 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-february-25th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/03/04 [9to5Linux Weekly Roundup: March 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-3rd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/02/29 [LWN.net Weekly Edition for February 29, 2024](https://lwn.net/Articles/963168/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -103,10 +103,10 @@
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/03 [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/04 [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
-- 2024/02/22 [泰晓资讯·2 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-02-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+- 2024/02/29 [泰晓资讯·3 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-03-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
 - 2024/03/03 [周报#26 赤子之心、读书页面与对技术的追求](https://xlog.app/api/redirection?characterId=51803&noteId=1637) | [More](channels/Raye%27s%20Journey.md)
@@ -133,13 +133,13 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/02/26 [一周杂记 in Week 4 Feb 2024](http://kingsamchen.github.io/2024/02/26/weekly-2024-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/03/04 [一周杂记 in Week 1 Mar 2024](http://kingsamchen.github.io/2024/03/04/weekly-2024-mar-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
 - 2024/02/27 [20240227 春节](https://river.zhubai.love/posts/2374116547200356352) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
-- 2024/02/18 [20240218的胡言乱语](https://www.bboy.app/2024/02/18/20240218%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2024/03/04 [20240304的胡言乱语](https://www.bboy.app/2024/03/04/20240304%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Off-Beat
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)

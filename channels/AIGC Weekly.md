@@ -1,3 +1,4 @@
+- [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61)
 - [AIGC Weekly #60](https://quail.ink/op7418/p/aigc-weekly-60)
 - [AIGC Weekly #59 春节AI消息一网打尽](https://quail.ink/op7418/p/aigc-weekly-59)
 - [AIGC Weekly #58 年前量大管饱](https://quail.ink/op7418/p/aigc-weekly-58)
