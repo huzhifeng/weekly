@@ -1,3 +1,4 @@
+- [20240305 身口意](https://river.zhubai.love/posts/2376720167544840192)
 - [20240227 春节](https://river.zhubai.love/posts/2374116547200356352)
 - [20240205 生命能量的觉察](https://river.zhubai.love/posts/2366218515473936384)
 - [20240129 数字的奥秘](https://river.zhubai.love/posts/2363779734279729152)

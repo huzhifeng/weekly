@@ -1,3 +1,5 @@
+- [dockur/windows](https://github.com/dockur/windows)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch)
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
