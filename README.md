@@ -91,7 +91,7 @@
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
 ## 偷懒爱好者周刊
-- 2024/02/20 [第70期 - 偷懒爱好者周刊 24/02/21](https://toolight.zhubai.love/posts/2371876153373450240) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/03/06 [第72期 - 偷懒爱好者周刊 24/03/06](https://toolight.zhubai.love/posts/2376959777466265600) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
 - 2024/02/29 [播客相对论｜壹月份不能错过的播客单集](https://podcast.zhubai.love/posts/2374972105864343552) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
@@ -103,7 +103,7 @@
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/05 [dockur/windows](https://github.com/dockur/windows) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/06 [Lissy93/web-check](https://github.com/Lissy93/web-check) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/29 [泰晓资讯·3 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-03-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -151,5 +151,5 @@
 - 2024/03/04 [Stop Learning｜试行错误101](https://shixingcuowu.zhubai.love/posts/2376579840376832000) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/05 [事不过三 日更第 23 天](https://via.zhubai.love/posts/2376810266269884416) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/06 [事不过三 日更第 24 天](https://via.zhubai.love/posts/2377202552866594816) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
