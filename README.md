@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/03/01 [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) | [More](channels/科技爱好者周刊.md)
+- 2024/03/08 [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2024/03/02 [02-26~03-03.老胡的周刊（第131期）.md](https://weekly.howie6879.com/2024/02-26~03-03.老胡的周刊（第131期）.html) | [More](channels/老胡的信息周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/03/01 [Web Review, Week 2024-09](https://ervin.ipsquad.net/blog/2024/03/01/web-review-week-2024-09/) | [More](channels/Web%20Review.md)
+- 2024/03/08 [Web Review, Week 2024-10](https://ervin.ipsquad.net/blog/2024/03/08/web-review-week-2024-10/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/03/02 [Python 潮流周刊#40：白宫建议使用 Python 等内存安全的语言](https://pythoncat.top/posts/2024-03-02-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/07 [cloudflare/pingora](https://github.com/cloudflare/pingora) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/08 [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/29 [泰晓资讯·3 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-03-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -124,7 +124,7 @@
 - 2024/03/07 [FOSS Weekly #24.10: Second Brain Apps, Kernel Programming, New Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-24-10/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/03/02 [#137 Second Legendary Saturday Edition](https://thisweek.gnome.org/posts/2024/03/twig-137/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/03/08 [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/03/03 [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/) | [More](channels/This%20Week%20in%20KDE.md)
@@ -151,5 +151,5 @@
 - 2024/03/04 [Stop Learning｜试行错误101](https://shixingcuowu.zhubai.love/posts/2376579840376832000) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/07 [事不过三 日更第 25 天](https://via.zhubai.love/posts/2377575276491427840) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/08 [事不过三 日更第 26 天](https://via.zhubai.love/posts/2377932249166589952) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
