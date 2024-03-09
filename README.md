@@ -37,7 +37,7 @@
 - 2024/03/08 [Web Review, Week 2024-10](https://ervin.ipsquad.net/blog/2024/03/08/web-review-week-2024-10/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/03/02 [Python 潮流周刊#40：白宫建议使用 Python 等内存安全的语言](https://pythoncat.top/posts/2024-03-02-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/09 [Python 潮流周刊#41：写代码很简单，但写好代码很难](https://pythoncat.top/posts/2024-03-09-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/03/03 [视野修炼第75期](https://sugarat.top/weekly/2024-03-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -127,7 +127,7 @@
 - 2024/03/08 [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/03/03 [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/03/09 [This week in KDE: a deluge of new features](https://pointieststick.com/2024/03/08/this-week-in-kde-a-deluge-of-new-features/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
