@@ -1,3 +1,4 @@
+- [naver/dust3r](https://github.com/naver/dust3r)
 - [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)

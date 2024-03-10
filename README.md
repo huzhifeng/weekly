@@ -4,7 +4,7 @@
 - 2024/03/08 [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/03/02 [02-26~03-03.老胡的周刊（第131期）.md](https://weekly.howie6879.com/2024/02-26~03-03.老胡的周刊（第131期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/03/09 [03-04~03-10.老胡的周刊（第132期）.md](https://weekly.howie6879.com/2024/03-04~03-10.老胡的周刊（第132期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/03/08 [独立开发变现周刊（第125期） : 个人Notion如何每月收入3万美元](https://www.ezindie.com/weekly/issue-125) | [More](channels/独立开发变现周刊.md)
@@ -25,7 +25,7 @@
 - 2024/02/24 [广场周刊（第 18 期）：是否如初](https://immmmm.com/weekly-18-20240224/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/03/02 [1link.fun 科技周刊 | 第 86 期](https://1link.fun/blog/issue/issue86/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/02/24 [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/) | [More](channels/CyberClip.md)
@@ -40,7 +40,7 @@
 - 2024/03/09 [Python 潮流周刊#41：写代码很简单，但写好代码很难](https://pythoncat.top/posts/2024-03-09-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/03/03 [视野修炼第75期](https://sugarat.top/weekly/2024-03-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/03/10 [视野修炼第76期|Rolldown开源](https://sugarat.top/weekly/2024-03-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -55,16 +55,16 @@
 - 2024/03/04 [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
-- 2024/03/03 [棱镜通讯 No.108 马克·波斯特（Mark Poster）](https://wangyurui.com/posts/leng-jing-ee7ee5ac) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+- 2024/03/10 [棱镜通讯 No.109  尼尔·波兹曼（Neil Postman）](https://wangyurui.com/posts/leng-jing-tong-xun-no-109-ni-er-bo-zi-man-neil-p-2448072d) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/03/04 [第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/11 [第167期 - 碧空雪涛](https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/03/03 [Weekly Issue 2024-03-03](https://zdyxry.github.io/2024/03/03/Weekly-Issue-2024-03-03/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/03/10 [Weekly Issue 2024-03-10](https://zdyxry.github.io/2024/03/10/Weekly-Issue-2024-03-10/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/02/21 [PIVOT Vol.3](https://anotherdayu.com/2024/5611/) | [More](channels/PIVOT.md)
@@ -151,5 +151,5 @@
 - 2024/03/04 [Stop Learning｜试行错误101](https://shixingcuowu.zhubai.love/posts/2376579840376832000) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/08 [事不过三 日更第 26 天](https://via.zhubai.love/posts/2377932249166589952) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/10 [事不过三 日更第 27 天](https://via.zhubai.love/posts/2378644578418118656) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
