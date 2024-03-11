@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/03/04 [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61) | [More](channels/AIGC%20Weekly.md)
+- 2024/03/11 [AIGC Weekly #62 LLM的竞争白热化了](https://quail.ink/op7418/p/aigc-weekly-62-llm-competition-heated-up) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2024/03/10 [棱镜通讯 No.109  尼尔·波兹曼（Neil Postman）](https://wangyurui.com/posts/leng-jing-tong-xun-no-109-ni-er-bo-zi-man-neil-p-2448072d) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/03/04 [DistroWatch Weekly, Issue 1060](https://distrowatch.com/weekly.php?issue=20240304) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/03/11 [DistroWatch Weekly, Issue 1061](https://distrowatch.com/weekly.php?issue=20240311) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/03/04 [9to5Linux Weekly Roundup: March 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-3rd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/03/11 [9to5Linux Weekly Roundup: March 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-10th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/03/07 [LWN.net Weekly Edition for March 7, 2024](https://lwn.net/Articles/964042/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -133,10 +133,10 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/03/04 [一周杂记 in Week 1 Mar 2024](http://kingsamchen.github.io/2024/03/04/weekly-2024-mar-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/03/11 [一周杂记 in Week 1 Mar 2024](http://kingsamchen.github.io/2024/03/11/weekly-2024-mar-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
-- 2024/03/05 [20240305 身口意](https://river.zhubai.love/posts/2376720167544840192) | [More](channels/Monday%20Coffee.md)
+- 2024/03/11 [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
 - 2024/03/04 [20240304的胡言乱语](https://www.bboy.app/2024/03/04/20240304%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -151,5 +151,5 @@
 - 2024/03/04 [Stop Learning｜试行错误101](https://shixingcuowu.zhubai.love/posts/2376579840376832000) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/10 [事不过三 日更第 27 天](https://via.zhubai.love/posts/2378644578418118656) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/11 [事不过三 日更第 28 天](https://via.zhubai.love/posts/2378994970867957760) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 

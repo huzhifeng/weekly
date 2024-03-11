@@ -1,3 +1,5 @@
+- [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+- [atherosai/ui](https://github.com/atherosai/ui)
 - [naver/dust3r](https://github.com/naver/dust3r)
 - [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora)
