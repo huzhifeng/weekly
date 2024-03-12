@@ -19,7 +19,7 @@
 - 2024/03/07 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/02/26 [Vol.07 苦难不值得歌颂但需要记忆](https://justgoidea.com/newsletter/202407/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/03/11 [Vol.70 养蛊自噬](https://justgoidea.com/newsletter/202408/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/02/24 [广场周刊（第 18 期）：是否如初](https://immmmm.com/weekly-18-20240224/) | [More](channels/广场周刊.md)
@@ -97,10 +97,10 @@
 - 2024/02/29 [播客相对论｜壹月份不能错过的播客单集](https://podcast.zhubai.love/posts/2374972105864343552) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/03/05 [机器文摘 第 072 期](https://niupitools.zhubai.love/posts/2376621514872324096) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/03/12 [机器文摘 第 073 期](https://niupitools.zhubai.love/posts/2379142798009335808) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
-- 2024/02/25 [前端食堂技术周刊第 113 期：Node 年终总结、Node 新吉祥物、Qwik 2.0、React Labs 工作进展](https://hungryturbo.zhubai.love/posts/2373576408615092224) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+- 2024/03/12 [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://hungryturbo.zhubai.love/posts/2379140817677082624) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
 - 2024/03/08 [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) | [More](channels/GitHub%20Trending%20Weekly.md)
@@ -148,8 +148,8 @@
 - 2024/02/06 [#34 我把我儿子揍了](https://huiris.zhubai.love/posts/2366579050266734592) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
 
 ## 试行错误
-- 2024/03/04 [Stop Learning｜试行错误101](https://shixingcuowu.zhubai.love/posts/2376579840376832000) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+- 2024/03/11 [Stay learn, Stay unlearn｜试行错误102](https://shixingcuowu.zhubai.love/posts/2379111700005003264) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/11 [事不过三 日更第 28 天](https://via.zhubai.love/posts/2378994970867957760) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/12 [事不过三 日更第 29 天](https://via.zhubai.love/posts/2379358973427359744) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
