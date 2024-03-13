@@ -1,3 +1,5 @@
+- [HeyPuter/puter](https://github.com/HeyPuter/puter)
+- [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
 - [atherosai/ui](https://github.com/atherosai/ui)
 - [naver/dust3r](https://github.com/naver/dust3r)
