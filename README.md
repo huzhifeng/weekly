@@ -7,7 +7,7 @@
 - 2024/03/09 [03-04~03-10.老胡的周刊（第132期）.md](https://weekly.howie6879.com/2024/03-04~03-10.老胡的周刊（第132期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2024/03/08 [独立开发变现周刊（第125期） : 个人Notion如何每月收入3万美元](https://www.ezindie.com/weekly/issue-125) | [More](channels/独立开发变现周刊.md)
+- 2024/03/15 [独立开发变现周刊（第126期） : 治愈恐慌的App月入8.3万美元](https://www.ezindie.com/weekly/issue-126) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2024/02/03 [涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机](http://heyitao.com/post/beyond-code-weekly-024) | [More](channels/涛然自得周刊.md)
@@ -16,7 +16,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/03/07 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/03/14 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/03/11 [Vol.70 养蛊自噬](https://justgoidea.com/newsletter/202408/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -70,7 +70,7 @@
 - 2024/02/21 [PIVOT Vol.3](https://anotherdayu.com/2024/5611/) | [More](channels/PIVOT.md)
 
 ## Giovanni Collazo Notes
-- 2023/12/18 [Notes #12](https://gcollazo.com/notes-12/) | [More](channels/Giovanni%20Collazo%20Notes.md)
+- 2024/03/14 [Notes #12](https://gcollazo.com/notes-12-2/) | [More](channels/Giovanni%20Collazo%20Notes.md)
 
 ## 印记周报
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
@@ -82,7 +82,7 @@
 - 2024/03/11 [9to5Linux Weekly Roundup: March 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-10th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/03/07 [LWN.net Weekly Edition for March 7, 2024](https://lwn.net/Articles/964042/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/03/14 [LWN.net Weekly Edition for March 14, 2024](https://lwn.net/Articles/964623/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/03/02 [Vol.20 二月榜单：不应无酒但沾巾](https://www.idnunber.top/article/3d081e66-c044-4617-87c7-ed5f39d57d2b) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -121,7 +121,7 @@
 - 2024/02/22 [科技創業週報 #423：設計溝通的三個祕訣｜高效人生商學院Ｘ台杉投資 : 訪談矽谷創業之神陳五福的創業準備歷程](https://blog.starrocket.io/posts/newsletter-2024-02-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/03/07 [FOSS Weekly #24.10: Second Brain Apps, Kernel Programming, New Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-24-10/) | [More](channels/FOSS%20Weekly.md)
+- 2024/03/14 [FOSS Weekly #24.11: Kernel 6.8, VLC Streaming, LVM Guide, UPT and More](https://itsfoss.com/newsletter/foss-weekly-24-11/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/03/08 [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -139,7 +139,7 @@
 - 2024/03/11 [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
-- 2024/03/04 [20240304的胡言乱语](https://www.bboy.app/2024/03/04/20240304%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2024/03/14 [20240314的胡言乱语](https://www.bboy.app/2024/03/14/20240314%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Off-Beat
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
@@ -151,5 +151,5 @@
 - 2024/03/11 [Stay learn, Stay unlearn｜试行错误102](https://shixingcuowu.zhubai.love/posts/2379111700005003264) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
-- 2024/03/12 [事不过三 日更第 29 天](https://via.zhubai.love/posts/2379358973427359744) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/14 [事不过三 日更第 30 天](https://via.zhubai.love/posts/2380079970967330816) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 

@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.11: Kernel 6.8, VLC Streaming, LVM Guide, UPT and More](https://itsfoss.com/newsletter/foss-weekly-24-11/)
 - [FOSS Weekly #24.10: Second Brain Apps, Kernel Programming, New Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-24-10/)
 - [FOSS Weekly #24.09: GNOME 46 & KDE 6 Features, PipeWire, Obsidian Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-09/)
 - [FOSS Weekly #24.08: Ubuntu 24.04 Features, Arkane Linux, grep, Fedora COSMIC and More](https://itsfoss.com/newsletter/foss-weekly-24-08/)

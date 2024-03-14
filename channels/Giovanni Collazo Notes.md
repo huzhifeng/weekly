@@ -1,3 +1,4 @@
+- [Notes #12](https://gcollazo.com/notes-12-2/)
 - [Notes #12](https://gcollazo.com/notes-12/)
 - [Notes #11](https://gcollazo.com/notes-11/)
 - [Notes #10](https://gcollazo.com/weeknotes-10/)
