@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/03/08 [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | [More](channels/科技爱好者周刊.md)
+- 2024/03/15 [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2024/03/09 [03-04~03-10.老胡的周刊（第132期）.md](https://weekly.howie6879.com/2024/03-04~03-10.老胡的周刊（第132期）.html) | [More](channels/老胡的信息周刊.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/03/08 [Web Review, Week 2024-10](https://ervin.ipsquad.net/blog/2024/03/08/web-review-week-2024-10/) | [More](channels/Web%20Review.md)
+- 2024/03/15 [Web Review, Week 2024-11](https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/03/09 [Python 潮流周刊#41：写代码很简单，但写好代码很难](https://pythoncat.top/posts/2024-03-09-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -67,7 +67,7 @@
 - 2024/03/10 [Weekly Issue 2024-03-10](https://zdyxry.github.io/2024/03/10/Weekly-Issue-2024-03-10/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
-- 2024/02/21 [PIVOT Vol.3](https://anotherdayu.com/2024/5611/) | [More](channels/PIVOT.md)
+- 2024/03/15 [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/) | [More](channels/PIVOT.md)
 
 ## Giovanni Collazo Notes
 - 2024/03/14 [Notes #12](https://gcollazo.com/notes-12-2/) | [More](channels/Giovanni%20Collazo%20Notes.md)
