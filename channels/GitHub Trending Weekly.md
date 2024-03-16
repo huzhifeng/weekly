@@ -1,3 +1,4 @@
+- [rolldown/rolldown](https://github.com/rolldown/rolldown)
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter)
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR)

@@ -37,7 +37,7 @@
 - 2024/03/15 [Web Review, Week 2024-11](https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/03/09 [Python 潮流周刊#41：写代码很简单，但写好代码很难](https://pythoncat.top/posts/2024-03-09-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/16 [Python 潮流周刊#42：小公司用 Python 开发，能做到什么程度？](https://pythoncat.top/posts/2024-03-16-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/03/10 [视野修炼第76期|Rolldown开源](https://sugarat.top/weekly/2024-03-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -46,7 +46,7 @@
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
-- 2024/02/29 [周报 #53 - 空白的三个月、生活漂流与春节](https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+- 2024/03/15 [周报 #54 - 漂流计划、钱包被盗与 Home Server](https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## The Connector 周刊
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/03/12 [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://hungryturbo.zhubai.love/posts/2379140817677082624) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/13 [atherosai/ui](https://github.com/atherosai/ui) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/16 [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/02/29 [泰晓资讯·3 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-03-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -124,10 +124,10 @@
 - 2024/03/14 [FOSS Weekly #24.11: Kernel 6.8, VLC Streaming, LVM Guide, UPT and More](https://itsfoss.com/newsletter/foss-weekly-24-11/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/03/08 [#138 Refreshing Changes](https://thisweek.gnome.org/posts/2024/03/twig-138/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/03/15 [#139 Just Before the Release](https://thisweek.gnome.org/posts/2024/03/twig-139/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/03/09 [This week in KDE: a deluge of new features](https://pointieststick.com/2024/03/08/this-week-in-kde-a-deluge-of-new-features/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/03/16 [This week in KDE: Dolphin levels up](https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)

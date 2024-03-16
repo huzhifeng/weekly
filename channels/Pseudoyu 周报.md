@@ -1,3 +1,4 @@
+- [周报 #54 - 漂流计划、钱包被盗与 Home Server](https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/)
 - [周报 #53 - 空白的三个月、生活漂流与春节](https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/)
 - [周报 #52 - 自谦型人格与感情的另一个视角](https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/)
 - [周报 #51 - 追星小鹿 Lawrence 与生病](https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/)
