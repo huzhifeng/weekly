@@ -4,7 +4,7 @@
 - 2024/03/15 [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
-- 2024/03/09 [03-04~03-10.老胡的周刊（第132期）.md](https://weekly.howie6879.com/2024/03-04~03-10.老胡的周刊（第132期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/03/16 [03-11~03-17.老胡的周刊（第133期）.md](https://weekly.howie6879.com/2024/03-11~03-17.老胡的周刊（第133期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
 - 2024/03/15 [独立开发变现周刊（第126期） : 治愈恐慌的App月入8.3万美元](https://www.ezindie.com/weekly/issue-126) | [More](channels/独立开发变现周刊.md)
@@ -22,7 +22,7 @@
 - 2024/03/11 [Vol.70 养蛊自噬](https://justgoidea.com/newsletter/202408/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
-- 2024/02/24 [广场周刊（第 18 期）：是否如初](https://immmmm.com/weekly-18-20240224/) | [More](channels/广场周刊.md)
+- 2024/03/16 [广场周刊（第 19 期）：春天到了](https://immmmm.com/weekly-19-20240316/) | [More](channels/广场周刊.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -40,7 +40,7 @@
 - 2024/03/16 [Python 潮流周刊#42：小公司用 Python 开发，能做到什么程度？](https://pythoncat.top/posts/2024-03-16-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/03/10 [视野修炼第76期|Rolldown开源](https://sugarat.top/weekly/2024-03-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/03/17 [视野修炼第77期|JSR的愿景](https://sugarat.top/weekly/2024-03-17.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## MDH 前端周刊
 - 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
@@ -58,13 +58,13 @@
 - 2024/03/10 [棱镜通讯 No.109  尼尔·波兹曼（Neil Postman）](https://wangyurui.com/posts/leng-jing-tong-xun-no-109-ni-er-bo-zi-man-neil-p-2448072d) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
-- 2024/03/11 [第167期 - 碧空雪涛](https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/18 [第168期 - 想去现场](https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2023/11/09 [WJ.24: 十年编程之路](https://weekly.ursb.me/posts/weekly-24/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## zdyxry Weekly Issue
-- 2024/03/10 [Weekly Issue 2024-03-10](https://zdyxry.github.io/2024/03/10/Weekly-Issue-2024-03-10/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/03/17 [Weekly Issue 2024-03-17](https://zdyxry.github.io/2024/03/17/Weekly-Issue-2024-03-17/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/03/15 [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/) | [More](channels/PIVOT.md)
@@ -103,10 +103,10 @@
 - 2024/03/12 [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://hungryturbo.zhubai.love/posts/2379140817677082624) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/16 [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/17 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
-- 2024/02/29 [泰晓资讯·3 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-03-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+- 2024/03/14 [泰晓资讯·3 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-03-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
 - 2024/03/03 [周报#26 赤子之心、读书页面与对技术的追求](https://xlog.app/api/redirection?characterId=51803&noteId=1637) | [More](channels/Raye%27s%20Journey.md)

@@ -1,3 +1,5 @@
+- [krahets/hello-algo](https://github.com/krahets/hello-algo)
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)
 - [rolldown/rolldown](https://github.com/rolldown/rolldown)
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter)
