@@ -1,3 +1,4 @@
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo)
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)
 - [rolldown/rolldown](https://github.com/rolldown/rolldown)

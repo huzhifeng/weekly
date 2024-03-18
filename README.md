@@ -52,7 +52,7 @@
 - 2023/11/18 [The Connector 周刊#21：我们缺的不是想法，而是分辨好想法和烂想法的能力](https://liduos.com/the-connector-weekly-21.html) | [More](channels/The%20Connector%20%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
-- 2024/03/11 [AIGC Weekly #62 LLM的竞争白热化了](https://quail.ink/op7418/p/aigc-weekly-62-llm-competition-heated-up) | [More](channels/AIGC%20Weekly.md)
+- 2024/03/18 [AIGC Weekly #63](https://quail.ink/op7418/p/aigc-weekly-63) | [More](channels/AIGC%20Weekly.md)
 
 ## 棱镜通讯
 - 2024/03/10 [棱镜通讯 No.109  尼尔·波兹曼（Neil Postman）](https://wangyurui.com/posts/leng-jing-tong-xun-no-109-ni-er-bo-zi-man-neil-p-2448072d) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -76,10 +76,10 @@
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
-- 2024/03/11 [DistroWatch Weekly, Issue 1061](https://distrowatch.com/weekly.php?issue=20240311) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/03/18 [DistroWatch Weekly, Issue 1062](https://distrowatch.com/weekly.php?issue=20240318) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/03/11 [9to5Linux Weekly Roundup: March 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-10th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/03/18 [9to5Linux Weekly Roundup: March 17th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-17th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/03/14 [LWN.net Weekly Edition for March 14, 2024](https://lwn.net/Articles/964623/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -103,7 +103,7 @@
 - 2024/03/12 [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://hungryturbo.zhubai.love/posts/2379140817677082624) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/17 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/18 [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/03/14 [泰晓资讯·3 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-03-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -133,7 +133,7 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/03/11 [一周杂记 in Week 1 Mar 2024](http://kingsamchen.github.io/2024/03/11/weekly-2024-mar-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/03/18 [一周杂记 in Week 2 Mar 2024](http://kingsamchen.github.io/2024/03/18/weekly-2024-mar-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
 - 2024/03/11 [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224) | [More](channels/Monday%20Coffee.md)
@@ -145,7 +145,7 @@
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
 
 ## 不合时宜
-- 2024/02/06 [#34 我把我儿子揍了](https://huiris.zhubai.love/posts/2366579050266734592) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
+- 2024/03/18 [#35 剪了10年头发的理发店要关门了](https://huiris.zhubai.love/posts/2381411821858340864) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
 
 ## 试行错误
 - 2024/03/11 [Stay learn, Stay unlearn｜试行错误102](https://shixingcuowu.zhubai.love/posts/2379111700005003264) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
