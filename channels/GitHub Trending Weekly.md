@@ -1,3 +1,4 @@
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo)
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)

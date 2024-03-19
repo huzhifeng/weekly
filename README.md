@@ -19,7 +19,7 @@
 - 2024/03/14 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
-- 2024/03/11 [Vol.70 养蛊自噬](https://justgoidea.com/newsletter/202408/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
+- 2024/03/18 [Vol.71 校园霸凌与反社会人格障碍](https://justgoidea.com/newsletter/202409/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
 
 ## 广场周刊
 - 2024/03/16 [广场周刊（第 19 期）：春天到了](https://immmmm.com/weekly-19-20240316/) | [More](channels/广场周刊.md)
@@ -97,10 +97,10 @@
 - 2024/02/29 [播客相对论｜壹月份不能错过的播客单集](https://podcast.zhubai.love/posts/2374972105864343552) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/03/12 [机器文摘 第 073 期](https://niupitools.zhubai.love/posts/2379142798009335808) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/03/19 [机器文摘 第 074 期](https://niupitools.zhubai.love/posts/2381681290623078400) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
-- 2024/03/12 [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://hungryturbo.zhubai.love/posts/2379140817677082624) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+- 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
 - 2024/03/18 [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | [More](channels/GitHub%20Trending%20Weekly.md)
@@ -139,7 +139,7 @@
 - 2024/03/11 [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
-- 2024/03/14 [20240314的胡言乱语](https://www.bboy.app/2024/03/14/20240314%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2024/03/19 [20240319的胡言乱语](https://www.bboy.app/2024/03/19/20240319%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Off-Beat
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
@@ -148,7 +148,7 @@
 - 2024/03/18 [#35 剪了10年头发的理发店要关门了](https://huiris.zhubai.love/posts/2381411821858340864) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
 
 ## 试行错误
-- 2024/03/11 [Stay learn, Stay unlearn｜试行错误102](https://shixingcuowu.zhubai.love/posts/2379111700005003264) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+- 2024/03/18 [欺骗与背叛｜试行错误103](https://shixingcuowu.zhubai.love/posts/2381652922418610176) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 事不过三
 - 2024/03/14 [事不过三 日更第 30 天](https://via.zhubai.love/posts/2380079970967330816) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
