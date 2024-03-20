@@ -1,3 +1,4 @@
+- [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo)
