@@ -7,7 +7,7 @@
 - 2024/03/16 [03-11~03-17.老胡的周刊（第133期）.md](https://weekly.howie6879.com/2024/03-11~03-17.老胡的周刊（第133期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 独立开发变现周刊
-- 2024/03/15 [独立开发变现周刊（第126期） : 治愈恐慌的App月入8.3万美元](https://www.ezindie.com/weekly/issue-126) | [More](channels/独立开发变现周刊.md)
+- 2024/03/22 [独立开发变现周刊（第127期） : 失败了三次，25岁开发月入5万美元的Shopify插件](https://www.ezindie.com/weekly/issue-127) | [More](channels/独立开发变现周刊.md)
 
 ## 涛然自得周刊
 - 2024/02/03 [涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机](http://heyitao.com/post/beyond-code-weekly-024) | [More](channels/涛然自得周刊.md)
@@ -82,7 +82,7 @@
 - 2024/03/18 [9to5Linux Weekly Roundup: March 17th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-17th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/03/14 [LWN.net Weekly Edition for March 14, 2024](https://lwn.net/Articles/964623/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/03/21 [LWN.net Weekly Edition for March 21, 2024](https://lwn.net/Articles/965368/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/03/02 [Vol.20 二月榜单：不应无酒但沾巾](https://www.idnunber.top/article/3d081e66-c044-4617-87c7-ed5f39d57d2b) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -118,10 +118,10 @@
 - 2024/02/20 [金融行业程序员的职业发展、薪资、WLB 怎么样 #59](https://letters.geekplux.com/59/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
-- 2024/02/22 [科技創業週報 #423：設計溝通的三個祕訣｜高效人生商學院Ｘ台杉投資 : 訪談矽谷創業之神陳五福的創業準備歷程](https://blog.starrocket.io/posts/newsletter-2024-02-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2024/03/21 [科技創業週報 #427：一張圖告訴你管理者的時間都花到哪裡去？｜別讓內心的聲音限制自己從董事長到基層主管](https://blog.starrocket.io/posts/newsletter-2024-03-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/03/14 [FOSS Weekly #24.11: Kernel 6.8, VLC Streaming, LVM Guide, UPT and More](https://itsfoss.com/newsletter/foss-weekly-24-11/) | [More](channels/FOSS%20Weekly.md)
+- 2024/03/21 [FOSS Weekly #24.12: SnoopGod Linux, Jellyfin Setup, procs, GNOME 46 Release and More](https://itsfoss.com/newsletter/foss-weekly-24-12/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/03/15 [#139 Just Before the Release](https://thisweek.gnome.org/posts/2024/03/twig-139/) | [More](channels/This%20Week%20in%20GNOME.md)
