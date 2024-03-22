@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/03/15 [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) | [More](channels/科技爱好者周刊.md)
+- 2024/03/22 [科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html) | [More](channels/科技爱好者周刊.md)
 
 ## 老胡的信息周刊
 - 2024/03/16 [03-11~03-17.老胡的周刊（第133期）.md](https://weekly.howie6879.com/2024/03-11~03-17.老胡的周刊（第133期）.html) | [More](channels/老胡的信息周刊.md)
@@ -16,7 +16,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 二丫讲梵学习周刊
-- 2024/03/14 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/03/21 [学习周刊-总第151期-2024年第11周](https://wiki.eryajf.net/pages/417af1/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 壹苇可航
 - 2024/03/18 [Vol.71 校园霸凌与反社会人格障碍](https://justgoidea.com/newsletter/202409/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -34,7 +34,7 @@
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
 ## Web Review
-- 2024/03/15 [Web Review, Week 2024-11](https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/) | [More](channels/Web%20Review.md)
+- 2024/03/22 [Web Review, Week 2024-12](https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/03/16 [Python 潮流周刊#42：小公司用 Python 开发，能做到什么程度？](https://pythoncat.top/posts/2024-03-16-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -124,7 +124,7 @@
 - 2024/03/21 [FOSS Weekly #24.12: SnoopGod Linux, Jellyfin Setup, procs, GNOME 46 Release and More](https://itsfoss.com/newsletter/foss-weekly-24-12/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/03/15 [#139 Just Before the Release](https://thisweek.gnome.org/posts/2024/03/twig-139/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/03/22 [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/03/16 [This week in KDE: Dolphin levels up](https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/) | [More](channels/This%20Week%20in%20KDE.md)
