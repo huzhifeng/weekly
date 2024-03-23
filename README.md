@@ -37,7 +37,7 @@
 - 2024/03/22 [Web Review, Week 2024-12](https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/03/16 [Python 潮流周刊#42：小公司用 Python 开发，能做到什么程度？](https://pythoncat.top/posts/2024-03-16-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/23 [Python 潮流周刊#43：在开源与家庭之间，他选择了家庭](https://pythoncat.top/posts/2024-03-23-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/03/17 [视野修炼第77期|JSR的愿景](https://sugarat.top/weekly/2024-03-17.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -127,7 +127,7 @@
 - 2024/03/22 [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/03/16 [This week in KDE: Dolphin levels up](https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/03/23 [This week in KDE](https://pointieststick.com/2024/03/22/this-week-in-kde-4/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)

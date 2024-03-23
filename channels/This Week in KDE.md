@@ -1,3 +1,4 @@
+- [This week in KDE](https://pointieststick.com/2024/03/22/this-week-in-kde-4/)
 - [This week in KDE: Dolphin levels up](https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/)
 - [This week in KDE: a deluge of new features](https://pointieststick.com/2024/03/08/this-week-in-kde-a-deluge-of-new-features/)
 - [This week in KDE: a smooth release](https://pointieststick.com/2024/03/02/this-week-in-kde-a-smooth-release/)
