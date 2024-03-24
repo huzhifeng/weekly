@@ -19,7 +19,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 老胡的信息周刊
-- 2024/03/16 [03-11~03-17.老胡的周刊（第133期）.md](https://weekly.howie6879.com/2024/03-11~03-17.老胡的周刊（第133期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/03/23 [03-18~03-24.老胡的周刊（第134期）.md](https://weekly.howie6879.com/2024/03-18~03-24.老胡的周刊（第134期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -40,19 +40,19 @@
 - 2024/03/23 [Python 潮流周刊#43：在开源与家庭之间，他选择了家庭](https://pythoncat.top/posts/2024-03-23-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/03/17 [视野修炼第77期|JSR的愿景](https://sugarat.top/weekly/2024-03-17.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/03/24 [视野修炼第78期|Node.js纪录片](https://sugarat.top/weekly/2024-03-24.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Pseudoyu 周报
-- 2024/03/15 [周报 #54 - 漂流计划、钱包被盗与 Home Server](https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+- 2024/03/23 [周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考](https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
 - 2024/03/18 [AIGC Weekly #63](https://quail.ink/op7418/p/aigc-weekly-63) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
-- 2024/03/18 [第168期 - 想去现场](https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/25 [第169期 - 路边繁花](https://weekly.tw93.fun/posts/169-%E8%B7%AF%E8%BE%B9%E7%B9%81%E8%8A%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## zdyxry Weekly Issue
-- 2024/03/17 [Weekly Issue 2024-03-17](https://zdyxry.github.io/2024/03/17/Weekly-Issue-2024-03-17/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/03/24 [Weekly Issue 2024-03-24](https://zdyxry.github.io/2024/03/24/Weekly-Issue-2024-03-24/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/03/15 [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/) | [More](channels/PIVOT.md)
@@ -130,7 +130,7 @@
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
 
 ## 事不过三
-- 2024/03/14 [事不过三 日更第 30 天](https://via.zhubai.love/posts/2380079970967330816) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/03/24 [事不过三 No.159 关于 AI 的一些思考(AI 特刊 01)](https://via.zhubai.love/posts/2383683687268536320) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
 ## 不合时宜
 - 2024/03/18 [#35 剪了10年头发的理发店要关门了](https://huiris.zhubai.love/posts/2381411821858340864) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)

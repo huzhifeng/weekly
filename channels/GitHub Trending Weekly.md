@@ -1,3 +1,4 @@
+- [openai/grok](https://github.com/openai/grok)
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
