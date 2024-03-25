@@ -1,3 +1,4 @@
+- [AIGC Weekly #64](https://quail.ink/op7418/p/aigc-weekly-64)
 - [AIGC Weekly #63](https://quail.ink/op7418/p/aigc-weekly-63)
 - [AIGC Weekly #62 LLM的竞争白热化了](https://quail.ink/op7418/p/aigc-weekly-62-llm-competition-heated-up)
 - [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61)

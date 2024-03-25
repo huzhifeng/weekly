@@ -1,3 +1,4 @@
+- [近况更新: 撞车, 生娃 #60](https://letters.geekplux.com/60/)
 - [金融行业程序员的职业发展、薪资、WLB 怎么样 #59](https://letters.geekplux.com/59/)
 - [第一次在美国过年 #58](https://letters.geekplux.com/58/)
 - [金融行业里的程序员到底在干什么 #57](https://letters.geekplux.com/57/)

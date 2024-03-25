@@ -46,7 +46,7 @@
 - 2024/03/23 [周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考](https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
-- 2024/03/18 [AIGC Weekly #63](https://quail.ink/op7418/p/aigc-weekly-63) | [More](channels/AIGC%20Weekly.md)
+- 2024/03/25 [AIGC Weekly #64](https://quail.ink/op7418/p/aigc-weekly-64) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2024/03/25 [第169期 - 路边繁花](https://weekly.tw93.fun/posts/169-%E8%B7%AF%E8%BE%B9%E7%B9%81%E8%8A%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -61,10 +61,10 @@
 - 2024/03/14 [Notes #12](https://gcollazo.com/notes-12-2/) | [More](channels/Giovanni%20Collazo%20Notes.md)
 
 ## DistroWatch Weekly
-- 2024/03/18 [DistroWatch Weekly, Issue 1062](https://distrowatch.com/weekly.php?issue=20240318) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/03/25 [DistroWatch Weekly, Issue 1063](https://distrowatch.com/weekly.php?issue=20240325) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/03/18 [9to5Linux Weekly Roundup: March 17th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-17th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/03/25 [9to5Linux Weekly Roundup: March 24th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-24th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/03/21 [LWN.net Weekly Edition for March 21, 2024](https://lwn.net/Articles/965368/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -88,10 +88,10 @@
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/20 [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/03/25 [xai-org/grok-1](https://github.com/xai-org/grok-1) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
-- 2024/03/14 [泰晓资讯·3 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-03-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+- 2024/03/21 [泰晓资讯·3 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-03-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
 - 2024/03/03 [周报#26 赤子之心、读书页面与对技术的追求](https://xlog.app/api/redirection?characterId=51803&noteId=1637) | [More](channels/Raye%27s%20Journey.md)
@@ -100,7 +100,7 @@
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
-- 2024/02/20 [金融行业程序员的职业发展、薪资、WLB 怎么样 #59](https://letters.geekplux.com/59/) | [More](channels/GeekPlux%20Letters.md)
+- 2024/03/25 [近况更新: 撞车, 生娃 #60](https://letters.geekplux.com/60/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
 - 2024/03/21 [科技創業週報 #427：一張圖告訴你管理者的時間都花到哪裡去？｜別讓內心的聲音限制自己從董事長到基層主管](https://blog.starrocket.io/posts/newsletter-2024-03-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -118,7 +118,7 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/03/18 [一周杂记 in Week 2 Mar 2024](http://kingsamchen.github.io/2024/03/18/weekly-2024-mar-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/03/25 [一周杂记 in Week 3 Mar 2024](http://kingsamchen.github.io/2024/03/25/weekly-2024-mar-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
 - 2024/03/11 [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224) | [More](channels/Monday%20Coffee.md)
