@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/03/22 [科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html) | [More](channels/科技爱好者周刊.md)
+- 2024/03/26 [2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html) | [More](channels/科技爱好者周刊.md)
 
 ## 广场周刊
 - 2024/03/16 [广场周刊（第 19 期）：春天到了](https://immmmm.com/weekly-19-20240316/) | [More](channels/广场周刊.md)
@@ -79,10 +79,10 @@
 - 2024/03/20 [第74期 - 偷懒爱好者周刊 24/03/20](https://toolight.zhubai.love/posts/2382046275727548416) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
-- 2024/02/29 [播客相对论｜壹月份不能错过的播客单集](https://podcast.zhubai.love/posts/2374972105864343552) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
+- 2024/03/26 [播客相对论｜贰月份不能错过的播客单集](https://podcast.zhubai.love/posts/2384389379252056064) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/03/19 [机器文摘 第 074 期](https://niupitools.zhubai.love/posts/2381681290623078400) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/03/26 [机器文摘 第 075 期](https://niupitools.zhubai.love/posts/2384216562569080832) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -121,7 +121,7 @@
 - 2024/03/25 [一周杂记 in Week 3 Mar 2024](http://kingsamchen.github.io/2024/03/25/weekly-2024-mar-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
-- 2024/03/11 [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224) | [More](channels/Monday%20Coffee.md)
+- 2024/03/26 [20240326 Small Collection](https://river.zhubai.love/posts/2384300663678443520) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
 - 2024/03/19 [20240319的胡言乱语](https://www.bboy.app/2024/03/19/20240319%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -136,7 +136,7 @@
 - 2024/03/18 [#35 剪了10年头发的理发店要关门了](https://huiris.zhubai.love/posts/2381411821858340864) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
 
 ## 试行错误
-- 2024/03/18 [欺骗与背叛｜试行错误103](https://shixingcuowu.zhubai.love/posts/2381652922418610176) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+- 2024/03/25 [接物如人：日常生活中的物品哲学｜试行错误104](https://shixingcuowu.zhubai.love/posts/2384181053771759616) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 印记周报
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
