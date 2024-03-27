@@ -76,7 +76,7 @@
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
 ## 偷懒爱好者周刊
-- 2024/03/20 [第74期 - 偷懒爱好者周刊 24/03/20](https://toolight.zhubai.love/posts/2382046275727548416) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/03/27 [第75期 - 偷懒爱好者周刊 24/03/27](https://toolight.zhubai.love/posts/2384574935999234048) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
 - 2024/03/26 [播客相对论｜贰月份不能错过的播客单集](https://podcast.zhubai.love/posts/2384389379252056064) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
