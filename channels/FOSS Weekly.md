@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.13: Fedora 40 Features, Lingmo OS, Nano Editor Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-13/)
 - [FOSS Weekly #24.12: SnoopGod Linux, Jellyfin Setup, procs, GNOME 46 Release and More](https://itsfoss.com/newsletter/foss-weekly-24-12/)
 - [FOSS Weekly #24.11: Kernel 6.8, VLC Streaming, LVM Guide, UPT and More](https://itsfoss.com/newsletter/foss-weekly-24-11/)
 - [FOSS Weekly #24.10: Second Brain Apps, Kernel Programming, New Linux Apps and More](https://itsfoss.com/newsletter/foss-weekly-24-10/)

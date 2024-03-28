@@ -1,3 +1,5 @@
+- [microsoft/garnet](https://github.com/microsoft/garnet)
+- [microsoft/retina](https://github.com/microsoft/retina)
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [xai-org/grok-1](https://github.com/xai-org/grok-1)
 - [openai/grok](https://github.com/openai/grok)
