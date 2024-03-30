@@ -1,3 +1,4 @@
+- [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/)
 - [This week in KDE](https://pointieststick.com/2024/03/22/this-week-in-kde-4/)
 - [This week in KDE: Dolphin levels up](https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/)
 - [This week in KDE: a deluge of new features](https://pointieststick.com/2024/03/08/this-week-in-kde-a-deluge-of-new-features/)

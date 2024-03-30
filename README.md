@@ -19,7 +19,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 老胡的信息周刊
-- 2024/03/23 [03-18~03-24.老胡的周刊（第134期）.md](https://weekly.howie6879.com/2024/03-18~03-24.老胡的周刊（第134期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/03/23 [03-18~03-24.老胡的周刊（第135期）.md](https://weekly.howie6879.com/2024/03-18~03-24.老胡的周刊（第135期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -109,10 +109,10 @@
 - 2024/03/28 [FOSS Weekly #24.13: Fedora 40 Features, Lingmo OS, Nano Editor Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-13/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/03/22 [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/03/29 [#141 Sleek Documentation](https://thisweek.gnome.org/posts/2024/03/twig-141/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/03/23 [This week in KDE](https://pointieststick.com/2024/03/22/this-week-in-kde-4/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/03/30 [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)

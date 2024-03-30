@@ -1,3 +1,4 @@
+- [OpenInterpreter/01](https://github.com/OpenInterpreter/01)
 - [stitionai/devika](https://github.com/stitionai/devika)
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - [microsoft/garnet](https://github.com/microsoft/garnet)
