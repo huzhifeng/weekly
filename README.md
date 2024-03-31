@@ -37,19 +37,19 @@
 - 2024/03/29 [Web Review, Week 2024-13](https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/03/23 [Python 潮流周刊#43：在开源与家庭之间，他选择了家庭](https://pythoncat.top/posts/2024-03-23-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/03/30 [Python 潮流周刊#44：Mojo 本周开源了；AI 学会生成音乐了](https://pythoncat.top/posts/2024-03-30-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
-- 2024/03/24 [视野修炼第78期|Node.js纪录片](https://sugarat.top/weekly/2024-03-24.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/03/31 [视野修炼第79期|人很重要，软件只是乐趣](https://sugarat.top/weekly/2024-03-31.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Pseudoyu 周报
-- 2024/03/23 [周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考](https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+- 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
 - 2024/03/25 [AIGC Weekly #64](https://quail.ink/op7418/p/aigc-weekly-64) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
-- 2024/03/25 [第169期 - 路边繁花](https://weekly.tw93.fun/posts/169-%E8%B7%AF%E8%BE%B9%E7%B9%81%E8%8A%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/04/01 [第170期 - 杭州翠绿](https://weekly.tw93.fun/posts/170-%E6%9D%AD%E5%B7%9E%E7%BF%A0%E7%BB%BF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## zdyxry Weekly Issue
 - 2024/03/24 [Weekly Issue 2024-03-24](https://zdyxry.github.io/2024/03/24/Weekly-Issue-2024-03-24/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -91,7 +91,7 @@
 - 2024/03/29 [stitionai/devika](https://github.com/stitionai/devika) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
-- 2024/03/21 [泰晓资讯·3 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-03-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+- 2024/03/28 [泰晓资讯·3 月 / 第四期 / 2024](https://tinylab.org/tinylab-weekly-03-4th-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
 - 2024/03/03 [周报#26 赤子之心、读书页面与对技术的追求](https://xlog.app/api/redirection?characterId=51803&noteId=1637) | [More](channels/Raye%27s%20Journey.md)

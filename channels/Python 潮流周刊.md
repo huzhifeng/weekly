@@ -1,3 +1,4 @@
+- [Python 潮流周刊#44：Mojo 本周开源了；AI 学会生成音乐了](https://pythoncat.top/posts/2024-03-30-weekly/)
 - [Python 潮流周刊#43：在开源与家庭之间，他选择了家庭](https://pythoncat.top/posts/2024-03-23-weekly/)
 - [Python 潮流周刊#42：小公司用 Python 开发，能做到什么程度？](https://pythoncat.top/posts/2024-03-16-weekly/)
 - [Python 潮流周刊#41：写代码很简单，但写好代码很难](https://pythoncat.top/posts/2024-03-09-weekly/)

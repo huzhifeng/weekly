@@ -1,3 +1,4 @@
+- [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/)
 - [周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考](https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/)
 - [周报 #54 - 漂流计划、钱包被盗与 Home Server](https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/)
 - [周报 #53 - 空白的三个月、生活漂流与春节](https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/)

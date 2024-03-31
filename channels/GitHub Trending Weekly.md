@@ -1,3 +1,4 @@
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01)
 - [stitionai/devika](https://github.com/stitionai/devika)
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
