@@ -46,7 +46,7 @@
 - 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
-- 2024/03/25 [AIGC Weekly #64](https://quail.ink/op7418/p/aigc-weekly-64) | [More](channels/AIGC%20Weekly.md)
+- 2024/04/01 [AIGC Weekly #65](https://quail.ink/op7418/p/aigc-weekly-65) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2024/04/01 [第170期 - 杭州翠绿](https://weekly.tw93.fun/posts/170-%E6%9D%AD%E5%B7%9E%E7%BF%A0%E7%BB%BF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -61,10 +61,10 @@
 - 2024/03/14 [Notes #12](https://gcollazo.com/notes-12-2/) | [More](channels/Giovanni%20Collazo%20Notes.md)
 
 ## DistroWatch Weekly
-- 2024/03/25 [DistroWatch Weekly, Issue 1063](https://distrowatch.com/weekly.php?issue=20240325) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/04/01 [DistroWatch Weekly, Issue 1064](https://distrowatch.com/weekly.php?issue=20240401) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2024/03/25 [9to5Linux Weekly Roundup: March 24th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-24th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2024/04/01 [9to5Linux Weekly Roundup: March 31st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-31st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
 - 2024/03/28 [LWN.net Weekly Edition for March 28, 2024](https://lwn.net/Articles/966118/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -88,7 +88,7 @@
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/03/29 [stitionai/devika](https://github.com/stitionai/devika) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/01 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/03/28 [泰晓资讯·3 月 / 第四期 / 2024](https://tinylab.org/tinylab-weekly-03-4th-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -100,7 +100,7 @@
 - 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
-- 2024/03/25 [近况更新: 撞车, 生娃 #60](https://letters.geekplux.com/60/) | [More](channels/GeekPlux%20Letters.md)
+- 2024/04/01 [一些信息源推荐-音频、视频向 #61](https://letters.geekplux.com/61/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
 - 2024/03/21 [科技創業週報 #427：一張圖告訴你管理者的時間都花到哪裡去？｜別讓內心的聲音限制自己從董事長到基層主管](https://blog.starrocket.io/posts/newsletter-2024-03-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -118,7 +118,7 @@
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
 
 ## 一周杂记
-- 2024/03/25 [一周杂记 in Week 3 Mar 2024](http://kingsamchen.github.io/2024/03/25/weekly-2024-mar-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+- 2024/04/01 [一周杂记 in Week 4 Mar 2024](http://kingsamchen.github.io/2024/04/01/weekly-2024-mar-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
 - 2024/03/26 [20240326 Small Collection](https://river.zhubai.love/posts/2384300663678443520) | [More](channels/Monday%20Coffee.md)
