@@ -19,7 +19,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 老胡的信息周刊
-- 2024/03/23 [03-18~03-24.老胡的周刊（第135期）.md](https://weekly.howie6879.com/2024/03-18~03-24.老胡的周刊（第135期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/03/30 [03-25~03-31.老胡的周刊（第135期）.md](https://weekly.howie6879.com/2024/03-25~03-31.老胡的周刊（第135期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -82,7 +82,7 @@
 - 2024/03/26 [播客相对论｜贰月份不能错过的播客单集](https://podcast.zhubai.love/posts/2384389379252056064) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/03/26 [机器文摘 第 075 期](https://niupitools.zhubai.love/posts/2384216562569080832) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/04/02 [机器文摘 第 076 期](https://niupitools.zhubai.love/posts/2386746983018143744) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -103,7 +103,7 @@
 - 2024/04/01 [一些信息源推荐-音频、视频向 #61](https://letters.geekplux.com/61/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
-- 2024/03/21 [科技創業週報 #427：一張圖告訴你管理者的時間都花到哪裡去？｜別讓內心的聲音限制自己從董事長到基層主管](https://blog.starrocket.io/posts/newsletter-2024-03-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2024/04/02 [科技創業週報 #428：夢想家與實踐家的協奏曲｜主管空降新團隊該如何避免失敗？三個關鍵步驟！](https://blog.starrocket.io/posts/newsletter-2024-03-28/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
 - 2024/03/28 [FOSS Weekly #24.13: Fedora 40 Features, Lingmo OS, Nano Editor Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-13/) | [More](channels/FOSS%20Weekly.md)
@@ -121,7 +121,7 @@
 - 2024/04/01 [一周杂记 in Week 4 Mar 2024](http://kingsamchen.github.io/2024/04/01/weekly-2024-mar-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
-- 2024/03/26 [20240326 Small Collection](https://river.zhubai.love/posts/2384300663678443520) | [More](channels/Monday%20Coffee.md)
+- 2024/04/02 [20240402 自我关爱](https://river.zhubai.love/posts/2386924968056762368) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
 - 2024/03/28 [20240328的胡言乱语](https://www.bboy.app/2024/03/28/20240328%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -136,7 +136,7 @@
 - 2024/03/18 [#35 剪了10年头发的理发店要关门了](https://huiris.zhubai.love/posts/2381411821858340864) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
 
 ## 试行错误
-- 2024/03/25 [接物如人：日常生活中的物品哲学｜试行错误104](https://shixingcuowu.zhubai.love/posts/2384181053771759616) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+- 2024/04/01 [好好吃饭：满足欲望的生活哲学｜试行错误105](https://shixingcuowu.zhubai.love/posts/2386720155385741312) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 印记周报
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)

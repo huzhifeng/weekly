@@ -1,3 +1,4 @@
+- [20240402 自我关爱](https://river.zhubai.love/posts/2386924968056762368)
 - [20240326 Small Collection](https://river.zhubai.love/posts/2384300663678443520)
 - [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224)
 - [20240305 身口意](https://river.zhubai.love/posts/2376720167544840192)
