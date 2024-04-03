@@ -70,13 +70,13 @@
 - 2024/03/28 [LWN.net Weekly Edition for March 28, 2024](https://lwn.net/Articles/966118/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
-- 2024/03/02 [Vol.20 二月榜单：不应无酒但沾巾](https://www.idnunber.top/article/3d081e66-c044-4617-87c7-ed5f39d57d2b) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+- 2024/04/03 [Vol.21 3月榜单：风暖鸟声碎](https://www.idnunber.top/article/6f174e9a-9399-477d-adc0-8b0000630922) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## 中文播客行业动态
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
 ## 偷懒爱好者周刊
-- 2024/03/27 [第75期 - 偷懒爱好者周刊 24/03/27](https://toolight.zhubai.love/posts/2384574935999234048) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/04/03 [第76期 - 偷懒爱好者周刊 24/04/03](https://toolight.zhubai.love/posts/2387134688239570944) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
 - 2024/03/26 [播客相对论｜贰月份不能错过的播客单集](https://podcast.zhubai.love/posts/2384389379252056064) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
