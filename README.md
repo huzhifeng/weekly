@@ -28,7 +28,7 @@
 - 2024/03/28 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 独立开发变现周刊
-- 2024/03/29 [独立开发变现周刊（第128期） : 一个互动问答工具年收入300万美元](https://www.ezindie.com/weekly/issue-128) | [More](channels/独立开发变现周刊.md)
+- 2024/04/05 [独立开发变现周刊（第129期） : 一周内构建的Tailwind CSS插件，每年收入3万美元](https://www.ezindie.com/weekly/issue-129) | [More](channels/独立开发变现周刊.md)
 
 ## CyberClip
 - 2024/02/24 [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/) | [More](channels/CyberClip.md)
@@ -67,7 +67,7 @@
 - 2024/04/01 [9to5Linux Weekly Roundup: March 31st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-march-31st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/03/28 [LWN.net Weekly Edition for March 28, 2024](https://lwn.net/Articles/966118/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/04/04 [LWN.net Weekly Edition for April 4, 2024](https://lwn.net/Articles/966925/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/04/03 [Vol.21 3月榜单：风暖鸟声碎](https://www.idnunber.top/article/6f174e9a-9399-477d-adc0-8b0000630922) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -103,10 +103,10 @@
 - 2024/04/01 [一些信息源推荐-音频、视频向 #61](https://letters.geekplux.com/61/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
-- 2024/04/02 [科技創業週報 #428：夢想家與實踐家的協奏曲｜主管空降新團隊該如何避免失敗？三個關鍵步驟！](https://blog.starrocket.io/posts/newsletter-2024-03-28/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2024/04/04 [科技創業週報 #429：數據分析報告，就該這麼寫｜觀點：人工智能會歧視你嗎？](https://blog.starrocket.io/posts/newsletter-2024-04-44/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/03/28 [FOSS Weekly #24.13: Fedora 40 Features, Lingmo OS, Nano Editor Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-13/) | [More](channels/FOSS%20Weekly.md)
+- 2024/04/04 [FOSS Weekly #24.14: Homelab Special Edition (and Discussing XZ Backdoor in Linux)](https://itsfoss.com/newsletter/foss-weekly-24-14/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/03/29 [#141 Sleek Documentation](https://thisweek.gnome.org/posts/2024/03/twig-141/) | [More](channels/This%20Week%20in%20GNOME.md)
