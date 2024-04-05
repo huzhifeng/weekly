@@ -25,7 +25,7 @@
 - 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 二丫讲梵学习周刊
-- 2024/03/28 [学习周刊-总第152期-2024年第13周](https://wiki.eryajf.net/pages/36ea62/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/04/04 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 独立开发变现周刊
 - 2024/04/05 [独立开发变现周刊（第129期） : 一周内构建的Tailwind CSS插件，每年收入3万美元](https://www.ezindie.com/weekly/issue-129) | [More](channels/独立开发变现周刊.md)
@@ -34,7 +34,7 @@
 - 2024/02/24 [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/) | [More](channels/CyberClip.md)
 
 ## Web Review
-- 2024/03/29 [Web Review, Week 2024-13](https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/) | [More](channels/Web%20Review.md)
+- 2024/04/05 [Web Review, Week 2024-14](https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/03/30 [Python 潮流周刊#44：Mojo 本周开源了；AI 学会生成音乐了](https://pythoncat.top/posts/2024-03-30-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -52,7 +52,7 @@
 - 2024/04/01 [第170期 - 杭州翠绿](https://weekly.tw93.fun/posts/170-%E6%9D%AD%E5%B7%9E%E7%BF%A0%E7%BB%BF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## zdyxry Weekly Issue
-- 2024/03/24 [Weekly Issue 2024-03-24](https://zdyxry.github.io/2024/03/24/Weekly-Issue-2024-03-24/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/03/31 [Weekly Issue 2024-03-31](https://zdyxry.github.io/2024/03/31/Weekly-Issue-2024-03-31/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/03/15 [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/) | [More](channels/PIVOT.md)
@@ -88,7 +88,7 @@
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/04/01 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/05 [valkey-io/valkey](https://github.com/valkey-io/valkey) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/03/28 [泰晓资讯·3 月 / 第四期 / 2024](https://tinylab.org/tinylab-weekly-03-4th-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -109,7 +109,7 @@
 - 2024/04/04 [FOSS Weekly #24.14: Homelab Special Edition (and Discussing XZ Backdoor in Linux)](https://itsfoss.com/newsletter/foss-weekly-24-14/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/03/29 [#141 Sleek Documentation](https://thisweek.gnome.org/posts/2024/03/twig-141/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/04/05 [#142 Portalled Nautilus](https://thisweek.gnome.org/posts/2024/04/twig-142/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/03/30 [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
@@ -124,7 +124,7 @@
 - 2024/04/02 [20240402 自我关爱](https://river.zhubai.love/posts/2386924968056762368) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
-- 2024/03/28 [20240328的胡言乱语](https://www.bboy.app/2024/03/28/20240328%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2024/04/05 [20240405的胡言乱语](https://www.bboy.app/2024/04/05/20240405%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Off-Beat
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)

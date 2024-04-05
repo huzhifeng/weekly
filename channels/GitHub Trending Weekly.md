@@ -1,3 +1,5 @@
+- [valkey-io/valkey](https://github.com/valkey-io/valkey)
+- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft)
 - [fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
