@@ -4,10 +4,10 @@
 - 2024/03/29 [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) | [More](channels/科技爱好者周刊.md)
 
 ## 广场周刊
-- 2024/03/16 [广场周刊（第 19 期）：春天到了](https://immmmm.com/weekly-19-20240316/) | [More](channels/广场周刊.md)
+- 2024/04/06 [广场周刊（第 20 期）：佛顶頂佛](https://immmmm.com/weekly-20-20240406/) | [More](channels/广场周刊.md)
 
 ## 涛然自得周刊
-- 2024/02/03 [涛然自得周刊 No.24 ：为什么越忙越想熬夜刷手机](http://heyitao.com/post/beyond-code-weekly-024) | [More](channels/涛然自得周刊.md)
+- 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/涛然自得周刊.md)
 
 ## 壹苇可航
 - 2024/03/18 [Vol.71 校园霸凌与反社会人格障碍](https://justgoidea.com/newsletter/202409/?utm_source=atom_feed) | [More](channels/壹苇可航.md)
@@ -37,7 +37,7 @@
 - 2024/04/05 [Web Review, Week 2024-14](https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/03/30 [Python 潮流周刊#44：Mojo 本周开源了；AI 学会生成音乐了](https://pythoncat.top/posts/2024-03-30-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/04/06 [Python 潮流周刊#45：越来越多的 AI 自动开发框架](https://pythoncat.top/posts/2024-04-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/03/31 [视野修炼第79期|人很重要，软件只是乐趣](https://sugarat.top/weekly/2024-03-31.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -88,7 +88,7 @@
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/04/05 [valkey-io/valkey](https://github.com/valkey-io/valkey) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/06 [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/03/28 [泰晓资讯·3 月 / 第四期 / 2024](https://tinylab.org/tinylab-weekly-03-4th-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -112,7 +112,7 @@
 - 2024/04/05 [#142 Portalled Nautilus](https://thisweek.gnome.org/posts/2024/04/twig-142/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/03/30 [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/04/06 [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
@@ -130,7 +130,7 @@
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
 
 ## 事不过三
-- 2024/03/24 [事不过三 No.159 关于 AI 的一些思考(AI 特刊 01)](https://via.zhubai.love/posts/2383683687268536320) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
+- 2024/04/06 [事不过三 No.160 我猜，我猜，我猜猜猜(学习特刊 06)](https://via.zhubai.love/posts/2388408169497378816)](https://via.zhubai.love/posts/2383683687268536320) | [More](channels/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89.md)
 
 ## 不合时宜
 - 2024/03/18 [#35 剪了10年头发的理发店要关门了](https://huiris.zhubai.love/posts/2381411821858340864) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
