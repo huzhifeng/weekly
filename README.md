@@ -19,7 +19,7 @@
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/拾月通讯.md)
 
 ## 老胡的信息周刊
-- 2024/03/30 [03-25~03-31.老胡的周刊（第135期）.md](https://weekly.howie6879.com/2024/03-25~03-31.老胡的周刊（第135期）.html) | [More](channels/老胡的信息周刊.md)
+- 2024/04/06 [04-01~04-07.老胡的周刊（第136期）.md](https://weekly.howie6879.com/2024/04-01~04-07.老胡的周刊（第136期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -46,13 +46,13 @@
 - 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
-- 2024/04/01 [AIGC Weekly #65](https://quail.ink/op7418/p/aigc-weekly-65) | [More](channels/AIGC%20Weekly.md)
+- 2024/04/01 [AIGC Weekly #65](https://letter.guizang.ai/p/aigc-weekly-65) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2024/04/01 [第170期 - 杭州翠绿](https://weekly.tw93.fun/posts/170-%E6%9D%AD%E5%B7%9E%E7%BF%A0%E7%BB%BF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## zdyxry Weekly Issue
-- 2024/03/31 [Weekly Issue 2024-03-31](https://zdyxry.github.io/2024/03/31/Weekly-Issue-2024-03-31/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+- 2024/04/07 [Weekly Issue 2024-04-07](https://zdyxry.github.io/2024/04/07/Weekly-Issue-2024-04-07/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/03/15 [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/) | [More](channels/PIVOT.md)
@@ -97,7 +97,7 @@
 - 2024/03/03 [周报#26 赤子之心、读书页面与对技术的追求](https://xlog.app/api/redirection?characterId=51803&noteId=1637) | [More](channels/Raye%27s%20Journey.md)
 
 ## 赫周刊
-- 2024/01/06 [2024，愿你找到一生所爱｜赫周刊 #38](https://www.cliveshd.com/newsletter-38/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
+- 2024/04/07 [如何找到「真正」想做的事｜赫周刊 #40](https://www.cliveshd.com/he-zhou-kan-40/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
 - 2024/04/01 [一些信息源推荐-音频、视频向 #61](https://letters.geekplux.com/61/) | [More](channels/GeekPlux%20Letters.md)
