@@ -1,3 +1,4 @@
+- [20240409 重复的艺术](https://river.zhubai.love/posts/2389469175044694016)
 - [20240402 自我关爱](https://river.zhubai.love/posts/2386924968056762368)
 - [20240326 Small Collection](https://river.zhubai.love/posts/2384300663678443520)
 - [20240311 舒展的身心](https://river.zhubai.love/posts/2378897533994164224)

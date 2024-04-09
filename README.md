@@ -82,13 +82,13 @@
 - 2024/03/26 [播客相对论｜贰月份不能错过的播客单集](https://podcast.zhubai.love/posts/2384389379252056064) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
 
 ## 机器文摘
-- 2024/04/02 [机器文摘 第 076 期](https://niupitools.zhubai.love/posts/2386746983018143744) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
+- 2024/04/09 [机器文摘 第 077 期](https://niupitools.zhubai.love/posts/2389288759767625728) | [More](channels/%E6%9C%BA%E5%99%A8%E6%96%87%E6%91%98.md)
 
 ## 前端食堂技术周刊
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/04/06 [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/09 [wandb/openui](https://github.com/wandb/openui) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/04/04 [泰晓资讯·4 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -121,10 +121,10 @@
 - 2024/04/08 [一周杂记 in Week 1 Apr 2024](http://kingsamchen.github.io/2024/04/09/weekly-2024-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Monday Coffee
-- 2024/04/02 [20240402 自我关爱](https://river.zhubai.love/posts/2386924968056762368) | [More](channels/Monday%20Coffee.md)
+- 2024/04/09 [20240409 重复的艺术](https://river.zhubai.love/posts/2389469175044694016) | [More](channels/Monday%20Coffee.md)
 
 ## 胡言乱语
-- 2024/04/05 [20240405的胡言乱语](https://www.bboy.app/2024/04/05/20240405%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2024/04/09 [20240409的胡言乱语](https://www.bboy.app/2024/04/09/20240409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Off-Beat
 - 2024/02/08 [Off-Beat No.4 长风破浪会有时，病树前头万木春。](https://offbeat.zhubai.love/posts/2367323616712269824) | [More](channels/Off-Beat.md)
@@ -136,7 +136,7 @@
 - 2024/03/18 [#35 剪了10年头发的理发店要关门了](https://huiris.zhubai.love/posts/2381411821858340864) | [More](channels/%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.md)
 
 ## 试行错误
-- 2024/04/01 [好好吃饭：满足欲望的生活哲学｜试行错误105](https://shixingcuowu.zhubai.love/posts/2386720155385741312) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+- 2024/04/08 [🥫阅读碎片罐头（202402月刊）| 试行错误](https://shixingcuowu.zhubai.love/posts/2389259763784904704) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 印记周报
 - 2023/12/24 [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
