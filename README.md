@@ -22,10 +22,10 @@
 - 2024/04/06 [04-01~04-07.老胡的周刊（第136期）.md](https://weekly.howie6879.com/2024/04-01~04-07.老胡的周刊（第136期）.html) | [More](channels/老胡的信息周刊.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/03/10 [1link.fun 科技周刊 | 第 87 期](https://1link.fun/blog/issue/issue87/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/04/10 [1link.fun 科技周刊 | 第 88 期](https://1link.fun/blog/issue/issue88/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 二丫讲梵学习周刊
-- 2024/04/04 [学习周刊-总第153期-2024年第14周](https://wiki.eryajf.net/pages/dd67ad/) | [More](channels/二丫讲梵学习周刊.md)
+- 2024/04/10 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/) | [More](channels/二丫讲梵学习周刊.md)
 
 ## 独立开发变现周刊
 - 2024/04/05 [独立开发变现周刊（第129期） : 一周内构建的Tailwind CSS插件，每年收入3万美元](https://www.ezindie.com/weekly/issue-129) | [More](channels/独立开发变现周刊.md)
@@ -76,7 +76,7 @@
 - 2024/01/22 [豆瓣上线播客功能｜中文播客行业动态 vol.34](https://podpress.zhubai.love/posts/2361345993029439488) | [More](channels/%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
 
 ## 偷懒爱好者周刊
-- 2024/04/03 [第76期 - 偷懒爱好者周刊 24/04/03](https://toolight.zhubai.love/posts/2387134688239570944) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/04/10 [第77期 - 偷懒爱好者周刊 24/04/10](https://toolight.zhubai.love/posts/2389645883865624576) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 播客相对论
 - 2024/03/26 [播客相对论｜贰月份不能错过的播客单集](https://podcast.zhubai.love/posts/2384389379252056064) | [More](channels/%E6%92%AD%E5%AE%A2%E7%9B%B8%E5%AF%B9%E8%AE%BA.md)
@@ -88,7 +88,7 @@
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/04/09 [wandb/openui](https://github.com/wandb/openui) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/10 [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/04/04 [泰晓资讯·4 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

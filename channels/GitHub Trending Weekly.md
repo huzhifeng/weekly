@@ -1,3 +1,5 @@
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 - [wandb/openui](https://github.com/wandb/openui)
 - [heyform/heyform](https://github.com/heyform/heyform)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey)
