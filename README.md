@@ -156,3 +156,6 @@
 ## Hacker News Weekly Top 10
 - 2024/04/08 [Hacker News Weekly Top 10 @2024-04-08](https://github.com/headllines/hackernews-weekly/issues/216) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
+## Hacker News Monthly Top 10
+- 2024/04/01 [Hacker News Monthly Top 10 @2024-04-01](https://github.com/headllines/hackernews-monthly/issues/68) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
+

@@ -86,6 +86,12 @@
 			"filter": ["Hacker News Weekly"]
 		},
 		{
+			"channel": "Hacker News Monthly Top 10",
+			"portal": "https://github.com/headllines/hackernews-monthly",
+			"url": "https://rsshub.app/github/issue/headllines/hackernews-monthly",
+			"filter": ["Hacker News Monthly"]
+		},
+		{
 			"channel": "Python 潮流周刊",
 			"portal": "https://github.com/chinesehuazhou/python-weekly",
 			"url": "https://pythoncat.top/rss.xml",
