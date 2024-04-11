@@ -67,7 +67,7 @@
 - 2024/04/08 [9to5Linux Weekly Roundup: April 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-7th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## LWN.net Weekly Edition
-- 2024/04/04 [LWN.net Weekly Edition for April 4, 2024](https://lwn.net/Articles/966925/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+- 2024/04/11 [LWN.net Weekly Edition for April 11, 2024](https://lwn.net/Articles/968375/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 艾迪蓝波
 - 2024/04/03 [Vol.21 3月榜单：风暖鸟声碎](https://www.idnunber.top/article/6f174e9a-9399-477d-adc0-8b0000630922) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -106,7 +106,7 @@
 - 2024/04/04 [科技創業週報 #429：數據分析報告，就該這麼寫｜觀點：人工智能會歧視你嗎？](https://blog.starrocket.io/posts/newsletter-2024-04-44/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
-- 2024/04/04 [FOSS Weekly #24.14: Homelab Special Edition (and Discussing XZ Backdoor in Linux)](https://itsfoss.com/newsletter/foss-weekly-24-14/) | [More](channels/FOSS%20Weekly.md)
+- 2024/04/11 [FOSS Weekly #24.15: German State Goes Open Source, Android FOSS App, Tailspin and More](https://itsfoss.com/newsletter/foss-weekly-24-15/)](https://itsfoss.com/newsletter/foss-weekly-24-14/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2024/04/05 [#142 Portalled Nautilus](https://thisweek.gnome.org/posts/2024/04/twig-142/) | [More](channels/This%20Week%20in%20GNOME.md)

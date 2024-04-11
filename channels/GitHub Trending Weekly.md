@@ -1,3 +1,4 @@
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 - [wandb/openui](https://github.com/wandb/openui)
