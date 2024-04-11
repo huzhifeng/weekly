@@ -80,6 +80,12 @@
 			"order": "ascending"
 		},
 		{
+			"channel": "Hacker News Weekly Top 10",
+			"portal": "https://github.com/headllines/hackernews-weekly",
+			"url": "https://rsshub.app/github/issue/headllines/hackernews-weekly",
+			"filter": ["Hacker News Weekly"]
+		},
+		{
 			"channel": "Python 潮流周刊",
 			"portal": "https://github.com/chinesehuazhou/python-weekly",
 			"url": "https://pythoncat.top/rss.xml",

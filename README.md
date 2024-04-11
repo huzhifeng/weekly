@@ -153,3 +153,6 @@
 ## HelloGitHub
 - 2016/04/28 [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1) | [More](channels/HelloGitHub.md)
 
+## Hacker News Weekly Top 10
+- 2024/04/08 [Hacker News Weekly Top 10 @2024-04-08](https://github.com/headllines/hackernews-weekly/issues/216) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
