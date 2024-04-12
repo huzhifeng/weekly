@@ -1,3 +1,5 @@
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
+- [HardhatChad/ore-cli](https://github.com/HardhatChad/ore-cli)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)

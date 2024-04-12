@@ -1,3 +1,4 @@
+- [#143 Circle Updates](https://thisweek.gnome.org/posts/2024/04/twig-143/)
 - [#142 Portalled Nautilus](https://thisweek.gnome.org/posts/2024/04/twig-142/)
 - [#141 Sleek Documentation](https://thisweek.gnome.org/posts/2024/03/twig-141/)
 - [#140 Forty-six!](https://thisweek.gnome.org/posts/2024/03/twig-140/)

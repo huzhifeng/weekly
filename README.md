@@ -1,7 +1,7 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/03/29 [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) | [More](channels/科技爱好者周刊.md)
+- 2024/04/11 [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | [More](channels/科技爱好者周刊.md)
 
 ## 广场周刊
 - 2024/04/06 [广场周刊（第 20 期）：佛顶頂佛](https://immmmm.com/weekly-20-20240406/) | [More](channels/广场周刊.md)
@@ -34,7 +34,7 @@
 - 2024/02/24 [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/) | [More](channels/CyberClip.md)
 
 ## Web Review
-- 2024/04/05 [Web Review, Week 2024-14](https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/) | [More](channels/Web%20Review.md)
+- 2024/04/12 [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
 - 2024/04/06 [Python 潮流周刊#45：越来越多的 AI 自动开发框架](https://pythoncat.top/posts/2024-04-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -88,7 +88,7 @@
 - 2024/03/19 [前端食堂技术周刊第 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://hungryturbo.zhubai.love/posts/2381854824469110784) | [More](channels/%E5%89%8D%E7%AB%AF%E9%A3%9F%E5%A0%82%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/04/10 [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/12 [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/04/04 [泰晓资讯·4 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -109,7 +109,7 @@
 - 2024/04/11 [FOSS Weekly #24.15: German State Goes Open Source, Android FOSS App, Tailspin and More](https://itsfoss.com/newsletter/foss-weekly-24-15/)](https://itsfoss.com/newsletter/foss-weekly-24-14/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
-- 2024/04/05 [#142 Portalled Nautilus](https://thisweek.gnome.org/posts/2024/04/twig-142/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2024/04/12 [#143 Circle Updates](https://thisweek.gnome.org/posts/2024/04/twig-143/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
 - 2024/04/06 [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/) | [More](channels/This%20Week%20in%20KDE.md)
