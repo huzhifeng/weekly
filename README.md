@@ -37,7 +37,7 @@
 - 2024/04/12 [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/) | [More](channels/Web%20Review.md)
 
 ## Python 潮流周刊
-- 2024/04/06 [Python 潮流周刊#45：越来越多的 AI 自动开发框架](https://pythoncat.top/posts/2024-04-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/04/13 [Python 潮流周刊#46：如何用 Python 预测日食的时间和轨迹？](https://pythoncat.top/posts/2024-04-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/03/31 [视野修炼第79期|人很重要，软件只是乐趣](https://sugarat.top/weekly/2024-03-31.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -112,7 +112,7 @@
 - 2024/04/12 [#143 Circle Updates](https://thisweek.gnome.org/posts/2024/04/twig-143/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in KDE
-- 2024/04/06 [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/04/13 [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 生活奇旅
 - 2024/02/08 [#108: 认真面对自己的问题（AMA回答）](https://weichen.zhubai.love/posts/2367506033075040256) | [More](channels/%E7%94%9F%E6%B4%BB%E5%A5%87%E6%97%85.md)
