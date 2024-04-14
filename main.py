@@ -23,30 +23,17 @@ def update_channel(item):
     with open(fname_channel, mode='w', encoding='utf-8') as fd_channel_new:
         fd_channel_new.write(f'{md_new_entry}{md_old}')
 
-def update_readme(item):
+def generate_readme(items):
     """Update Readme"""
     fname_readme = 'README.md'
-    md_old = ''
-    md_new = ''
 
-    md_new_entry = f'- {item["published"]} [{item["title"]}]({item["link"]})'
-    with open(fname_readme, mode='r', encoding='utf-8') as fd_readme_old:
-        md_old = fd_readme_old.read()
-        if md_old.find(item['link']) != -1:
-            return
-        i = md_old.find(f'## {item["channel"]}')
-        if i != -1:
-            j = md_old.find('-', i)
-            k = md_old.find(')', i)
-            if j != -1 and k != -1:
-                md_old_entry = md_old[j:k + 1]
-                md_new = md_old.replace(md_old_entry, md_new_entry)
-        else:
-            md_new = f'{md_old}## {item["channel"]}\n{md_new_entry} \
-| [More](channels/{urllib.parse.quote(item["channel"])}.md)\n\n'
-
-    with open(fname_readme, mode='w', encoding='utf-8') as fd_readme_new:
-        fd_readme_new.write(f'{md_new}')
+    with open(fname_readme, mode='w', encoding='utf-8') as fd_readme:
+        fd_readme.write('# 周刊\n\n')
+        for item in items:
+            md_channel = f'## {item["channel"]}\n'
+            md_entry = f'- {item["published"]} [{item["title"]}]({item["link"]})'
+            md_more = f'| [More](channels/{urllib.parse.quote(item["channel"])}.md)\n\n'
+            fd_readme.write(f'{md_channel}{md_entry} {md_more}')
 
 def main():
     """Main loop"""
@@ -64,6 +51,7 @@ def main():
     logger.addHandler(console_handler)
 
     conf = {}
+    latest_items = []
     with open('feed.json', mode='r', encoding='utf-8') as fd_conf:
         conf = json.load(fd_conf)
 
@@ -121,7 +109,11 @@ def main():
                 i = i + 1
                 # Update the latest
                 if i == total:
-                    update_readme(item)
+                    latest_items.append(item)
+
+    if len(latest_items) > 0:
+        latest_items = sorted(latest_items, key=lambda x: x['published'], reverse=True)
+        generate_readme(latest_items)
 
 if __name__ == '__main__':
     main()
