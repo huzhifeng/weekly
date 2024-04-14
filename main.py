@@ -94,7 +94,7 @@ def main():
                     entry.title = entry.title.replace('[$] LWN.net Weekly Edition', 'LWN.net Weekly Edition')
                 elif '艾迪蓝波' in feed['channel']:
                     entry.link = entry.link.replace('tangly1024.com', 'www.idnunber.top')
-                elif 'GitHub Trending Weekly' in feed['channel']:
+                elif feed['channel'] in ['GitHub Trending Weekly', 'B站每周必看']:
                     entry['published_parsed'] = time.localtime()
                 item = {
                     'channel': feed['channel'],

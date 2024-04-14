@@ -291,6 +291,12 @@
 			"limit": 3
 		},
 		{
+			"channel": "B站每周必看",
+			"portal": "https://www.bilibili.com/v/popular/weekly",
+			"url": "https://rsshub.app/bilibili/weekly",
+			"limit": 3
+		},
+		{
 			"channel": "泰晓资讯",
 			"portal": "https://tinylab.org/albums/#%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF-ref",
 			"portal2": "https://github.com/tinyclub/tinylab.org",
