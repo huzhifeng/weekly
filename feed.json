@@ -76,8 +76,7 @@
 		{
 			"channel": "HelloGitHub",
 			"portal": "https://github.com/521xueweihan/HelloGitHub",
-			"url": "https://hellogithub.com/rss",
-			"order": "ascending"
+			"url": "https://hellogithub.com/rss"
 		},
 		{
 			"channel": "Hacker News Weekly Top 10",
