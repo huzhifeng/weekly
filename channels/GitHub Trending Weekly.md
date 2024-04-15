@@ -1,3 +1,5 @@
+- [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
+- [langgenius/dify](https://github.com/langgenius/dify)
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
 - [HardhatChad/ore-cli](https://github.com/HardhatChad/ore-cli)

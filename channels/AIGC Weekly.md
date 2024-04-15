@@ -1,3 +1,4 @@
+- [AIGC Weekly #67](https://letter.guizang.ai/p/aigc-weekly-67)
 - [AIGC Weekly #66](https://letter.guizang.ai/p/aigc-weekly-66)
 - [AIGC Weekly #65](https://letter.guizang.ai/p/aigc-weekly-65)
 - [AIGC Weekly #64](https://letter.guizang.ai/p/aigc-weekly-64)

@@ -3,17 +3,38 @@
 ## 潮流周刊
 - 2024/04/15 [第172期 - 骑青山湖](https://weekly.tw93.fun/posts/172-%E9%AA%91%E9%9D%92%E5%B1%B1%E6%B9%96/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/04/15 [Hacker News Weekly Top 10 @2024-04-15](https://github.com/headllines/hackernews-weekly/issues/217) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/04/15 [一周杂记 in Week 2 Apr 2024](http://kingsamchen.github.io/2024/04/15/weekly-2024-apr-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GeekPlux Letters
+- 2024/04/15 [Tesla FSD 全自动驾驶体验 #62](https://letters.geekplux.com/62/) | [More](channels/GeekPlux%20Letters.md)
+
+## AIGC Weekly
+- 2024/04/15 [AIGC Weekly #67](https://letter.guizang.ai/p/aigc-weekly-67) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/04/15 [DistroWatch Weekly, Issue 1066](https://distrowatch.com/weekly.php?issue=20240415) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/04/15 [9to5Linux Weekly Roundup: April 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-14th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/04/15 [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/15 [⚡ 在 5:20 睡 觉 13:14 准 时 起 ！！⚡](https://www.bilibili.com/video/BV1Mx4y1Y7pJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 视野修炼
 - 2024/04/14 [视野修炼第80期|Bundows](https://sugarat.top/weekly/2024-04-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 赫周刊
 - 2024/04/14 [AI：聪明无比，又愚蠢至极｜赫周刊 #40](https://www.cliveshd.com/newsletter-40/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2024/04/14 [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/14 [⚡ 在 5:20 睡 觉 13:14 准 时 起 ！！⚡](https://www.bilibili.com/video/BV1Mx4y1Y7pJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/04/14 [Weekly Issue 2024-04-14](https://zdyxry.github.io/2024/04/14/Weekly-Issue-2024-04-14/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2024/04/13 [04-08~04-14.老胡的周刊（第137期）.md](https://weekly.howie6879.com/2024/04-08~04-14.老胡的周刊（第137期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -51,21 +72,6 @@
 ## 胡言乱语
 - 2024/04/09 [20240409的胡言乱语](https://www.bboy.app/2024/04/09/20240409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## Hacker News Weekly Top 10
-- 2024/04/08 [Hacker News Weekly Top 10 @2024-04-08](https://github.com/headllines/hackernews-weekly/issues/216) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/04/08 [一周杂记 in Week 1 Apr 2024](http://kingsamchen.github.io/2024/04/09/weekly-2024-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/04/08 [AIGC Weekly #66](https://letter.guizang.ai/p/aigc-weekly-66) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/04/08 [DistroWatch Weekly, Issue 1065](https://distrowatch.com/weekly.php?issue=20240408) | [More](channels/DistroWatch%20Weekly.md)
-
-## zdyxry Weekly Issue
-- 2024/04/07 [Weekly Issue 2024-04-07](https://zdyxry.github.io/2024/04/07/Weekly-Issue-2024-04-07/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
 
@@ -83,9 +89,6 @@
 
 ## Hacker News Monthly Top 10
 - 2024/04/01 [Hacker News Monthly Top 10 @2024-04-01](https://github.com/headllines/hackernews-monthly/issues/68) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
-
-## GeekPlux Letters
-- 2024/04/01 [一些信息源推荐-音频、视频向 #61](https://letters.geekplux.com/61/) | [More](channels/GeekPlux%20Letters.md)
 
 ## Pseudoyu 周报
 - 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
