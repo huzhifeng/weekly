@@ -1,3 +1,5 @@
+- [karpathy/llm.c](https://github.com/karpathy/llm.c)
+- [miurla/morphic](https://github.com/miurla/morphic)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
 - [langgenius/dify](https://github.com/langgenius/dify)

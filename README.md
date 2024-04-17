@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/04/17 [karpathy/llm.c](https://github.com/karpathy/llm.c) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/17 [⚡ 在 5:20 睡 觉 13:14 准 时 起 ！！⚡](https://www.bilibili.com/video/BV1Mx4y1Y7pJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 1Link.Fun 科技周刊
 - 2024/04/16 [1link.fun 科技周刊 | 第 89 期](https://1link.fun/blog/issue/issue89/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +14,6 @@
 
 ## 胡言乱语
 - 2024/04/16 [20240416的胡言乱语](https://www.bboy.app/2024/04/16/20240416%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2024/04/16 [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/16 [⚡ 在 5:20 睡 觉 13:14 准 时 起 ！！⚡](https://www.bilibili.com/video/BV1Mx4y1Y7pJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/04/15 [第172期 - 骑青山湖](https://weekly.tw93.fun/posts/172-%E9%AA%91%E9%9D%92%E5%B1%B1%E6%B9%96/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -59,6 +59,9 @@
 
 ## This Week in GNOME
 - 2024/04/12 [#143 Circle Updates](https://thisweek.gnome.org/posts/2024/04/twig-143/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## 科技爱好者周刊
+- 2024/04/11 [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## LWN.net Weekly Edition
 - 2024/04/11 [LWN.net Weekly Edition for April 11, 2024](https://lwn.net/Articles/968375/) | [More](channels/LWN.net%20Weekly%20Edition.md)
