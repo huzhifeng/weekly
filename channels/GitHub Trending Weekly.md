@@ -1,3 +1,5 @@
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [karpathy/llm.c](https://github.com/karpathy/llm.c)
 - [miurla/morphic](https://github.com/miurla/morphic)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)

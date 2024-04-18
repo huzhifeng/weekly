@@ -1,10 +1,22 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/04/19 [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/04/18 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/04/18 [LWN.net Weekly Edition for April 18, 2024](https://lwn.net/Articles/969442/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/04/18 [FOSS Weekly #24.16: New APT, Ubuntu 24.04 Beta Review, Pi Dog and More](https://itsfoss.com/newsletter/foss-weekly-24-16/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/04/17 [karpathy/llm.c](https://github.com/karpathy/llm.c) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/18 [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/04/17 [⚡ 在 5:20 睡 觉 13:14 准 时 起 ！！⚡](https://www.bilibili.com/video/BV1Mx4y1Y7pJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/04/18 [⚡ 在 5:20 睡 觉 13:14 准 时 起 ！！⚡](https://www.bilibili.com/video/BV1Mx4y1Y7pJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/04/16 [1link.fun 科技周刊 | 第 89 期](https://1link.fun/blog/issue/issue89/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -63,26 +75,14 @@
 ## 科技爱好者周刊
 - 2024/04/11 [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## LWN.net Weekly Edition
-- 2024/04/11 [LWN.net Weekly Edition for April 11, 2024](https://lwn.net/Articles/968375/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/04/11 [FOSS Weekly #24.15: German State Goes Open Source, Android FOSS App, Tailspin and More](https://itsfoss.com/newsletter/foss-weekly-24-15/) | [More](channels/FOSS%20Weekly.md)
-
 ## 泰晓资讯
 - 2024/04/11 [泰晓资讯·4 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 二丫讲梵学习周刊
-- 2024/04/10 [学习周刊-总第154期-2024年第15周](https://wiki.eryajf.net/pages/3d98bf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
 
 ## 广场周刊
 - 2024/04/06 [广场周刊（第 20 期）：佛顶頂佛](https://immmmm.com/weekly-20-20240406/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
-
-## 独立开发变现周刊
-- 2024/04/05 [独立开发变现周刊（第129期） : 一周内构建的Tailwind CSS插件，每年收入3万美元](https://www.ezindie.com/weekly/issue-129) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
 - 2024/04/04 [科技創業週報 #429：數據分析報告，就該這麼寫｜觀點：人工智能會歧視你嗎？](https://blog.starrocket.io/posts/newsletter-2024-04-44/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

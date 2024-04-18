@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.16: New APT, Ubuntu 24.04 Beta Review, Pi Dog and More](https://itsfoss.com/newsletter/foss-weekly-24-16/)
 - [FOSS Weekly #24.15: German State Goes Open Source, Android FOSS App, Tailspin and More](https://itsfoss.com/newsletter/foss-weekly-24-15/)
 - [FOSS Weekly #24.14: Homelab Special Edition (and Discussing XZ Backdoor in Linux)](https://itsfoss.com/newsletter/foss-weekly-24-14/)
 - [FOSS Weekly #24.13: Fedora 40 Features, Lingmo OS, Nano Editor Tips and More](https://itsfoss.com/newsletter/foss-weekly-24-13/)
