@@ -1,5 +1,23 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/04/19 [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/04/19 [Web Review, Week 2024-16](https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/04/19 [#144 Better Printing](https://thisweek.gnome.org/posts/2024/04/twig-144/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in KDE
+- 2024/04/19 [This week in KDE: sprints, enhancements, and kebabs](https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/04/19 [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/19 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/04/19 [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -11,12 +29,6 @@
 
 ## FOSS Weekly
 - 2024/04/18 [FOSS Weekly #24.16: New APT, Ubuntu 24.04 Beta Review, Pi Dog and More](https://itsfoss.com/newsletter/foss-weekly-24-16/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/04/18 [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/18 [⚡ 在 5:20 睡 觉 13:14 准 时 起 ！！⚡](https://www.bilibili.com/video/BV1Mx4y1Y7pJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/04/16 [1link.fun 科技周刊 | 第 89 期](https://1link.fun/blog/issue/issue89/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -45,9 +57,6 @@
 ## DistroWatch Weekly
 - 2024/04/15 [DistroWatch Weekly, Issue 1066](https://distrowatch.com/weekly.php?issue=20240415) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2024/04/15 [9to5Linux Weekly Roundup: April 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-14th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## 视野修炼
 - 2024/04/14 [视野修炼第80期|Bundows](https://sugarat.top/weekly/2024-04-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
@@ -62,18 +71,6 @@
 
 ## Python 潮流周刊
 - 2024/04/13 [Python 潮流周刊#46：如何用 Python 预测日食的时间和轨迹？](https://pythoncat.top/posts/2024-04-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/04/13 [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## Web Review
-- 2024/04/12 [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/04/12 [#143 Circle Updates](https://thisweek.gnome.org/posts/2024/04/twig-143/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 科技爱好者周刊
-- 2024/04/11 [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 泰晓资讯
 - 2024/04/11 [泰晓资讯·4 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

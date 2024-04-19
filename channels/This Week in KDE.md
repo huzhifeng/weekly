@@ -1,3 +1,4 @@
+- [This week in KDE: sprints, enhancements, and kebabs](https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/)
 - [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/)
 - [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/)
 - [This week in KDE: looking forward towards Plasma 6.1](https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/)
