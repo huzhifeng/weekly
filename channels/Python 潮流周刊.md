@@ -1,3 +1,4 @@
+- [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/)
 - [Python 潮流周刊#46：如何用 Python 预测日食的时间和轨迹？](https://pythoncat.top/posts/2024-04-13-weekly/)
 - [Python 潮流周刊#45：越来越多的 AI 自动开发框架](https://pythoncat.top/posts/2024-04-06-weekly/)
 - [Python 潮流周刊#44：Mojo 本周开源了；AI 学会生成音乐了](https://pythoncat.top/posts/2024-03-30-weekly/)

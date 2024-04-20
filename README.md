@@ -1,5 +1,14 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/04/20 [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/04/20 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/20 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/04/19 [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -11,12 +20,6 @@
 
 ## This Week in KDE
 - 2024/04/19 [This week in KDE: sprints, enhancements, and kebabs](https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/04/19 [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/19 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/04/19 [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -68,9 +71,6 @@
 
 ## 老胡的信息周刊
 - 2024/04/13 [04-08~04-14.老胡的周刊（第137期）.md](https://weekly.howie6879.com/2024/04-08~04-14.老胡的周刊（第137期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Python 潮流周刊
-- 2024/04/13 [Python 潮流周刊#46：如何用 Python 预测日食的时间和轨迹？](https://pythoncat.top/posts/2024-04-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 泰晓资讯
 - 2024/04/11 [泰晓资讯·4 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
