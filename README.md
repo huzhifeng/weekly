@@ -1,13 +1,28 @@
 # 周刊
 
-## Python 潮流周刊
-- 2024/04/20 [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+## 潮流周刊
+- 2024/04/22 [第173期 - 布面油画](https://weekly.tw93.fun/posts/173-%E5%B8%83%E9%9D%A2%E6%B2%B9%E7%94%BB/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 广场周刊
+- 2024/04/21 [广场周刊（第 21 期）：不同世界](https://immmmm.com/weekly-21-20240421/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2024/04/21 [视野修炼第81期|Chrome124新功能](https://sugarat.top/weekly/2024-04-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 赫周刊
+- 2024/04/21 [AI教我如何做人｜赫周刊 #41](https://www.cliveshd.com/newsletter-41/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/04/20 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/21 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/04/20 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/04/21 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/04/20 [04-15~04-21.老胡的周刊（第138期）.md](https://weekly.howie6879.com/2024/04-15~04-21.老胡的周刊（第138期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
+## Python 潮流周刊
+- 2024/04/20 [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 科技爱好者周刊
 - 2024/04/19 [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,9 +57,6 @@
 ## 胡言乱语
 - 2024/04/16 [20240416的胡言乱语](https://www.bboy.app/2024/04/16/20240416%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2024/04/15 [第172期 - 骑青山湖](https://weekly.tw93.fun/posts/172-%E9%AA%91%E9%9D%92%E5%B1%B1%E6%B9%96/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## Hacker News Weekly Top 10
 - 2024/04/15 [Hacker News Weekly Top 10 @2024-04-15](https://github.com/headllines/hackernews-weekly/issues/217) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -60,26 +72,14 @@
 ## DistroWatch Weekly
 - 2024/04/15 [DistroWatch Weekly, Issue 1066](https://distrowatch.com/weekly.php?issue=20240415) | [More](channels/DistroWatch%20Weekly.md)
 
-## 视野修炼
-- 2024/04/14 [视野修炼第80期|Bundows](https://sugarat.top/weekly/2024-04-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 赫周刊
-- 2024/04/14 [AI：聪明无比，又愚蠢至极｜赫周刊 #40](https://www.cliveshd.com/newsletter-40/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
-
 ## zdyxry Weekly Issue
 - 2024/04/14 [Weekly Issue 2024-04-14](https://zdyxry.github.io/2024/04/14/Weekly-Issue-2024-04-14/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/04/13 [04-08~04-14.老胡的周刊（第137期）.md](https://weekly.howie6879.com/2024/04-08~04-14.老胡的周刊（第137期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 泰晓资讯
 - 2024/04/11 [泰晓资讯·4 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
-
-## 广场周刊
-- 2024/04/06 [广场周刊（第 20 期）：佛顶頂佛](https://immmmm.com/weekly-20-20240406/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
 - 2024/04/04 [科技創業週報 #429：數據分析報告，就該這麼寫｜觀點：人工智能會歧視你嗎？](https://blog.starrocket.io/posts/newsletter-2024-04-44/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

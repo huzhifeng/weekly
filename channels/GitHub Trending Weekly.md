@@ -1,3 +1,4 @@
+- [dvlab-research/MGM](https://github.com/dvlab-research/MGM)
 - [dvlab-research/MiniGemini](https://github.com/dvlab-research/MiniGemini)
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts)
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
