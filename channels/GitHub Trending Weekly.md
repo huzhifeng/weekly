@@ -1,3 +1,4 @@
+- [stanford-oval/storm](https://github.com/stanford-oval/storm)
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM)
 - [dvlab-research/MiniGemini](https://github.com/dvlab-research/MiniGemini)
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts)
