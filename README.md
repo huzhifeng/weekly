@@ -1,5 +1,14 @@
 # 周刊
 
+## 胡言乱语
+- 2024/04/23 [20240423的胡言乱语](https://www.bboy.app/2024/04/23/20240423%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2024/04/23 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/23 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/04/22 [第173期 - 布面油画](https://weekly.tw93.fun/posts/173-%E5%B8%83%E9%9D%A2%E6%B2%B9%E7%94%BB/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +26,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/04/22 [9to5Linux Weekly Roundup: April 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-21st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/04/22 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/22 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 广场周刊
 - 2024/04/21 [广场周刊（第 21 期）：不同世界](https://immmmm.com/weekly-21-20240421/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -71,9 +74,6 @@
 
 ## 棱镜通讯
 - 2024/04/16 [棱镜通讯 No.110 威廉·吉布森（William Ford Gibson）](https://wangyurui.com/posts/leng-jing-tong-xun-no-110-wei-lian-ji-bu-sen-wil-89a7a855) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 胡言乱语
-- 2024/04/16 [20240416的胡言乱语](https://www.bboy.app/2024/04/16/20240416%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GeekPlux Letters
 - 2024/04/15 [Tesla FSD 全自动驾驶体验 #62](https://letters.geekplux.com/62/) | [More](channels/GeekPlux%20Letters.md)
