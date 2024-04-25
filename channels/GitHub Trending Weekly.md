@@ -1,3 +1,6 @@
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth)
+- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes)
 - [pytorch/torchtune](https://github.com/pytorch/torchtune)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm)
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM)

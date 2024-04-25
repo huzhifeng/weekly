@@ -1,10 +1,19 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/04/26 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/04/25 [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/04/25 [LWN.net Weekly Edition for April 25, 2024](https://lwn.net/Articles/970328/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
 ## GitHub Trending Weekly
-- 2024/04/24 [atherosai/ui](https://github.com/atherosai/ui) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/04/25 [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/04/24 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/04/25 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 胡言乱语
 - 2024/04/23 [20240423的胡言乱语](https://www.bboy.app/2024/04/23/20240423%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -23,9 +32,6 @@
 
 ## DistroWatch Weekly
 - 2024/04/22 [DistroWatch Weekly, Issue 1067](https://distrowatch.com/weekly.php?issue=20240422) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/04/22 [9to5Linux Weekly Roundup: April 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-21st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 广场周刊
 - 2024/04/21 [广场周刊（第 21 期）：不同世界](https://immmmm.com/weekly-21-20240421/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -56,15 +62,6 @@
 
 ## This Week in KDE
 - 2024/04/19 [This week in KDE: sprints, enhancements, and kebabs](https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## 独立开发变现周刊
-- 2024/04/19 [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/04/18 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/04/18 [LWN.net Weekly Edition for April 18, 2024](https://lwn.net/Articles/969442/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2024/04/18 [FOSS Weekly #24.16: New APT, Ubuntu 24.04 Beta Review, Pi Dog and More](https://itsfoss.com/newsletter/foss-weekly-24-16/) | [More](channels/FOSS%20Weekly.md)
