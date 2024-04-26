@@ -1,5 +1,23 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/04/26 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/04/26 [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/) | [More](channels/Web%20Review.md)
+
+## FOSS Weekly
+- 2024/04/26 [FOSS Weekly #24.17: All About Ubuntu 24.04 LTS and Fedora 40 Releases](https://itsfoss.com/newsletter/foss-weekly-24-17/) | [More](channels/FOSS%20Weekly.md)
+
+## This Week in GNOME
+- 2024/04/26 [#145 Quality Over Quantity](https://thisweek.gnome.org/posts/2024/04/twig-145/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/04/26 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/26 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/04/26 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +26,6 @@
 
 ## LWN.net Weekly Edition
 - 2024/04/25 [LWN.net Weekly Edition for April 25, 2024](https://lwn.net/Articles/970328/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## GitHub Trending Weekly
-- 2024/04/25 [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/25 [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 胡言乱语
 - 2024/04/23 [20240423的胡言乱语](https://www.bboy.app/2024/04/23/20240423%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -51,20 +63,8 @@
 ## Python 潮流周刊
 - 2024/04/20 [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## 科技爱好者周刊
-- 2024/04/19 [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/04/19 [Web Review, Week 2024-16](https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/04/19 [#144 Better Printing](https://thisweek.gnome.org/posts/2024/04/twig-144/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## This Week in KDE
 - 2024/04/19 [This week in KDE: sprints, enhancements, and kebabs](https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## FOSS Weekly
-- 2024/04/18 [FOSS Weekly #24.16: New APT, Ubuntu 24.04 Beta Review, Pi Dog and More](https://itsfoss.com/newsletter/foss-weekly-24-16/) | [More](channels/FOSS%20Weekly.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/04/16 [1link.fun 科技周刊 | 第 89 期](https://1link.fun/blog/issue/issue89/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)

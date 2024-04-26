@@ -1,3 +1,4 @@
+- [meta-llama/llama3](https://github.com/meta-llama/llama3)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth)
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes)
