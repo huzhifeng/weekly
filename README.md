@@ -1,5 +1,20 @@
 # 周刊
 
+## Hacker News Weekly Top 10
+- 2024/04/27 [Hacker News Weekly Top 10 @2024-04-27](https://github.com/headllines/hackernews-weekly/issues/229) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## Python 潮流周刊
+- 2024/04/27 [Python 潮流周刊#48：Python 3.14 的发布计划](https://pythoncat.top/posts/2024-04-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/04/27 [This week in KDE: megabytes and gigabytes for all](https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/04/27 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/27 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/04/26 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -11,12 +26,6 @@
 
 ## This Week in GNOME
 - 2024/04/26 [#145 Quality Over Quantity](https://thisweek.gnome.org/posts/2024/04/twig-145/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/04/26 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/26 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/04/26 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -32,9 +41,6 @@
 
 ## 潮流周刊
 - 2024/04/22 [第173期 - 布面油画](https://weekly.tw93.fun/posts/173-%E5%B8%83%E9%9D%A2%E6%B2%B9%E7%94%BB/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Weekly Top 10
-- 2024/04/22 [Hacker News Weekly Top 10 @2024-04-22](https://github.com/headllines/hackernews-weekly/issues/218) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 一周杂记
 - 2024/04/22 [一周杂记 in Week 3 Apr 2024](http://kingsamchen.github.io/2024/04/22/weekly-2024-apr-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -59,12 +65,6 @@
 
 ## 老胡的信息周刊
 - 2024/04/20 [04-15~04-21.老胡的周刊（第138期）.md](https://weekly.howie6879.com/2024/04-15~04-21.老胡的周刊（第138期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Python 潮流周刊
-- 2024/04/20 [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/04/19 [This week in KDE: sprints, enhancements, and kebabs](https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/04/16 [1link.fun 科技周刊 | 第 89 期](https://1link.fun/blog/issue/issue89/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)

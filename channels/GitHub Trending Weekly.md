@@ -1,3 +1,5 @@
+- [code100x/chess](https://github.com/code100x/chess)
+- [ollama/ollama](https://github.com/ollama/ollama)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth)

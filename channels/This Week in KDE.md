@@ -1,3 +1,4 @@
+- [This week in KDE: megabytes and gigabytes for all](https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/)
 - [This week in KDE: sprints, enhancements, and kebabs](https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/)
 - [This week in KDE: Explicit Sync](https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/)
 - [This week in KDE: real modifier-only shortcuts and cropping in Spectacle](https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/)

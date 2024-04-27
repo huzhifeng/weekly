@@ -1,3 +1,4 @@
+- [Python 潮流周刊#48：Python 3.14 的发布计划](https://pythoncat.top/posts/2024-04-27-weekly/)
 - [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/)
 - [Python 潮流周刊#46：如何用 Python 预测日食的时间和轨迹？](https://pythoncat.top/posts/2024-04-13-weekly/)
 - [Python 潮流周刊#45：越来越多的 AI 自动开发框架](https://pythoncat.top/posts/2024-04-06-weekly/)
