@@ -1,5 +1,26 @@
 # 周刊
 
+## 潮流周刊
+- 2024/04/29 [第174期 - 新的园区](https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## HelloGitHub
+- 2024/04/28 [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [More](channels/HelloGitHub.md)
+
+## 赫周刊
+- 2024/04/28 [我是如何坚持创作的｜赫周刊 #42](https://www.cliveshd.com/untitled-4/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
+
+## zdyxry Weekly Issue
+- 2024/04/28 [Weekly Issue 2024-04-28](https://zdyxry.github.io/2024/04/28/Weekly-Issue-2024-04-28/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## GitHub Trending Weekly
+- 2024/04/28 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/28 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/04/27 [04-22~04-28.老胡的周刊（第139期）.md](https://weekly.howie6879.com/2024/04-22~04-28.老胡的周刊（第139期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
 ## Hacker News Weekly Top 10
 - 2024/04/27 [Hacker News Weekly Top 10 @2024-04-27](https://github.com/headllines/hackernews-weekly/issues/229) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -8,12 +29,6 @@
 
 ## This Week in KDE
 - 2024/04/27 [This week in KDE: megabytes and gigabytes for all](https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/04/27 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/27 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技爱好者周刊
 - 2024/04/26 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -39,9 +54,6 @@
 ## 胡言乱语
 - 2024/04/23 [20240423的胡言乱语](https://www.bboy.app/2024/04/23/20240423%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2024/04/22 [第173期 - 布面油画](https://weekly.tw93.fun/posts/173-%E5%B8%83%E9%9D%A2%E6%B2%B9%E7%94%BB/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2024/04/22 [一周杂记 in Week 3 Apr 2024](http://kingsamchen.github.io/2024/04/22/weekly-2024-apr-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -56,15 +68,6 @@
 
 ## 视野修炼
 - 2024/04/21 [视野修炼第81期|Chrome124新功能](https://sugarat.top/weekly/2024-04-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 赫周刊
-- 2024/04/21 [AI：教我如何生活｜赫周刊 #41](https://www.cliveshd.com/newsletter-41/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
-
-## zdyxry Weekly Issue
-- 2024/04/21 [Weekly Issue 2024-04-21](https://zdyxry.github.io/2024/04/21/Weekly-Issue-2024-04-21/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/04/20 [04-15~04-21.老胡的周刊（第138期）.md](https://weekly.howie6879.com/2024/04-15~04-21.老胡的周刊（第138期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/04/16 [1link.fun 科技周刊 | 第 89 期](https://1link.fun/blog/issue/issue89/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -92,9 +95,6 @@
 
 ## Pseudoyu 周报
 - 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## HelloGitHub
-- 2024/03/28 [HelloGitHub 第 96 期](https://hellogithub.com/periodical/volume/96) | [More](channels/HelloGitHub.md)
 
 ## PIVOT
 - 2024/03/15 [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/) | [More](channels/PIVOT.md)
