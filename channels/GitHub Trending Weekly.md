@@ -1,3 +1,4 @@
+- [twentyhq/twenty](https://github.com/twentyhq/twenty)
 - [code100x/chess](https://github.com/code100x/chess)
 - [ollama/ollama](https://github.com/ollama/ollama)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3)

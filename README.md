@@ -3,26 +3,44 @@
 ## 潮流周刊
 - 2024/04/29 [第174期 - 新的园区](https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/04/29 [Hacker News Weekly Top 10 @2024-04-29](https://github.com/headllines/hackernews-weekly/issues/230) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 视野修炼
+- 2024/04/29 [视野修炼第82期|Node.jsv22](https://sugarat.top/weekly/2024-04-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 一周杂记
+- 2024/04/29 [一周杂记 in Week 4 Apr 2024](http://kingsamchen.github.io/2024/04/29/weekly-2024-apr-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/04/29 [AIGC Weekly #69](https://quail.ink/op7418/p/aigc-weekly-69) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/04/29 [DistroWatch Weekly, Issue 1068](https://distrowatch.com/weekly.php?issue=20240429) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/04/29 [9to5Linux Weekly Roundup: April 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/04/29 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/29 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## HelloGitHub
 - 2024/04/28 [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [More](channels/HelloGitHub.md)
 
 ## 赫周刊
-- 2024/04/28 [我是如何坚持创作的｜赫周刊 #42](https://www.cliveshd.com/untitled-4/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
+- 2024/04/28 [我是如何坚持创作的｜赫周刊 #42](https://www.cliveshd.com/newsletter-42/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## zdyxry Weekly Issue
 - 2024/04/28 [Weekly Issue 2024-04-28](https://zdyxry.github.io/2024/04/28/Weekly-Issue-2024-04-28/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## GitHub Trending Weekly
-- 2024/04/28 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/28 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## 老胡的信息周刊
 - 2024/04/27 [04-22~04-28.老胡的周刊（第139期）.md](https://weekly.howie6879.com/2024/04-22~04-28.老胡的周刊（第139期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## Hacker News Weekly Top 10
-- 2024/04/27 [Hacker News Weekly Top 10 @2024-04-27](https://github.com/headllines/hackernews-weekly/issues/229) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+## 猫鱼周刊
+- 2024/04/27 [猫鱼周刊 vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## Python 潮流周刊
 - 2024/04/27 [Python 潮流周刊#48：Python 3.14 的发布计划](https://pythoncat.top/posts/2024-04-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -54,20 +72,8 @@
 ## 胡言乱语
 - 2024/04/23 [20240423的胡言乱语](https://www.bboy.app/2024/04/23/20240423%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 一周杂记
-- 2024/04/22 [一周杂记 in Week 3 Apr 2024](http://kingsamchen.github.io/2024/04/22/weekly-2024-apr-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/04/22 [AIGC Weekly #68 Llama3 终于来了](https://quail.ink/op7418/p/aigc-weekly-68) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/04/22 [DistroWatch Weekly, Issue 1067](https://distrowatch.com/weekly.php?issue=20240422) | [More](channels/DistroWatch%20Weekly.md)
-
 ## 广场周刊
 - 2024/04/21 [广场周刊（第 21 期）：不同世界](https://immmmm.com/weekly-21-20240421/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2024/04/21 [视野修炼第81期|Chrome124新功能](https://sugarat.top/weekly/2024-04-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/04/16 [1link.fun 科技周刊 | 第 89 期](https://1link.fun/blog/issue/issue89/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)

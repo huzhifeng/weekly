@@ -1,3 +1,4 @@
+- [AIGC Weekly #69](https://quail.ink/op7418/p/aigc-weekly-69)
 - [AIGC Weekly #68 Llama3 终于来了](https://quail.ink/op7418/p/aigc-weekly-68)
 - [AIGC Weekly #67](https://quail.ink/op7418/p/aigc-weekly-67)
 - [AIGC Weekly #66](https://quail.ink/op7418/p/aigc-weekly-66)
