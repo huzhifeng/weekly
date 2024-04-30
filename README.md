@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/04/30 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/04/30 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/04/29 [第174期 - 新的园区](https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +26,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/04/29 [9to5Linux Weekly Roundup: April 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/04/29 [meta-llama/llama3](https://github.com/meta-llama/llama3) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/04/29 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## HelloGitHub
 - 2024/04/28 [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [More](channels/HelloGitHub.md)
