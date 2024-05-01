@@ -1,10 +1,13 @@
 # 周刊
 
+## Hacker News Monthly Top 10
+- 2024/05/01 [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
+
 ## GitHub Trending Weekly
-- 2024/04/30 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/05/01 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/04/30 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/05/01 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/04/29 [第174期 - 新的园区](https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -95,9 +98,6 @@
 
 ## 艾迪蓝波
 - 2024/04/03 [Vol.21 3月榜单：风暖鸟声碎](https://www.idnunber.top/article/6f174e9a-9399-477d-adc0-8b0000630922) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Monthly Top 10
-- 2024/04/01 [Hacker News Monthly Top 10 @2024-04-01](https://github.com/headllines/hackernews-monthly/issues/68) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## Pseudoyu 周报
 - 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
