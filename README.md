@@ -1,13 +1,28 @@
 # 周刊
 
-## Hacker News Monthly Top 10
-- 2024/05/01 [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
+## Raye's Journey
+- 2024/05/02 [周报#27 推迟两个月的更新、深圳的大雨和一些杂七杂八的记录](https://xlog.app/api/redirection?characterId=51803&noteId=1669) | [More](channels/Raye%27s%20Journey.md)
+
+## 艾迪蓝波
+- 2024/05/02 [Vol.22 4月榜单：愿有一得](https://www.idnunber.top/article/f6caac8a-fb04-4a4a-b957-b1f9ef697e62) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## 二丫讲梵学习周刊
+- 2024/05/02 [学习周刊-总第157期-2024年第18周](https://wiki.eryajf.net/pages/1b7cd5/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/05/02 [LWN.net Weekly Edition for May 2, 2024](https://lwn.net/Articles/971093/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/05/02 [FOSS Weekly #24.18: Ubuntu MATE Concerns, COSMIC Desktop, Garuda Linux Release and More](https://itsfoss.com/newsletter/foss-weekly-24-18/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/05/01 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/05/02 [apple/corenet](https://github.com/apple/corenet) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/05/01 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/05/02 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Hacker News Monthly Top 10
+- 2024/05/01 [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## 潮流周刊
 - 2024/04/29 [第174期 - 新的园区](https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -16,7 +31,7 @@
 - 2024/04/29 [Hacker News Weekly Top 10 @2024-04-29](https://github.com/headllines/hackernews-weekly/issues/230) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 视野修炼
-- 2024/04/29 [视野修炼第82期|Node.jsv22](https://sugarat.top/weekly/2024-04-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+- 2024/04/29 [视野修炼 - 技术周刊](https://sugarat.top/weekly/) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 一周杂记
 - 2024/04/29 [一周杂记 in Week 4 Apr 2024](http://kingsamchen.github.io/2024/04/29/weekly-2024-apr-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -57,20 +72,11 @@
 ## Web Review
 - 2024/04/26 [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/) | [More](channels/Web%20Review.md)
 
-## FOSS Weekly
-- 2024/04/26 [FOSS Weekly #24.17: All About Ubuntu 24.04 LTS and Fedora 40 Releases](https://itsfoss.com/newsletter/foss-weekly-24-17/) | [More](channels/FOSS%20Weekly.md)
-
 ## This Week in GNOME
 - 2024/04/26 [#145 Quality Over Quantity](https://thisweek.gnome.org/posts/2024/04/twig-145/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 独立开发变现周刊
 - 2024/04/26 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/04/25 [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/04/25 [LWN.net Weekly Edition for April 25, 2024](https://lwn.net/Articles/970328/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 胡言乱语
 - 2024/04/23 [20240423的胡言乱语](https://www.bboy.app/2024/04/23/20240423%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -96,9 +102,6 @@
 ## 科技創業週報
 - 2024/04/04 [科技創業週報 #429：數據分析報告，就該這麼寫｜觀點：人工智能會歧視你嗎？](https://blog.starrocket.io/posts/newsletter-2024-04-44/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## 艾迪蓝波
-- 2024/04/03 [Vol.21 3月榜单：风暖鸟声碎](https://www.idnunber.top/article/6f174e9a-9399-477d-adc0-8b0000630922) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
 ## Pseudoyu 周报
 - 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
@@ -107,9 +110,6 @@
 
 ## Giovanni Collazo Notes
 - 2024/03/14 [Notes #12](https://gcollazo.com/notes-12-2/) | [More](channels/Giovanni%20Collazo%20Notes.md)
-
-## Raye's Journey
-- 2024/03/03 [周报#26 赤子之心、读书页面与对技术的追求](https://xlog.app/api/redirection?characterId=51803&noteId=1637) | [More](channels/Raye%27s%20Journey.md)
 
 ## 拾月通讯
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
