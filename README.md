@@ -1,5 +1,17 @@
 # 周刊
 
+## Web Review
+- 2024/05/03 [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/05/03 [#146 Editing Markdown](https://thisweek.gnome.org/posts/2024/05/twig-146/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/05/03 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/03 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Raye's Journey
 - 2024/05/02 [周报#27 推迟两个月的更新、深圳的大雨和一些杂七杂八的记录](https://xlog.app/api/redirection?characterId=51803&noteId=1669) | [More](channels/Raye%27s%20Journey.md)
 
@@ -15,11 +27,8 @@
 ## FOSS Weekly
 - 2024/05/02 [FOSS Weekly #24.18: Ubuntu MATE Concerns, COSMIC Desktop, Garuda Linux Release and More](https://itsfoss.com/newsletter/foss-weekly-24-18/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2024/05/02 [apple/corenet](https://github.com/apple/corenet) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/02 [我们在日全食拍到了它？](https://www.bilibili.com/video/BV1fz421z7x9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 泰晓资讯
+- 2024/05/02 [泰晓资讯·5 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-05-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Hacker News Monthly Top 10
 - 2024/05/01 [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
@@ -41,9 +50,6 @@
 
 ## DistroWatch Weekly
 - 2024/04/29 [DistroWatch Weekly, Issue 1068](https://distrowatch.com/weekly.php?issue=20240429) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/04/29 [9to5Linux Weekly Roundup: April 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-april-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## HelloGitHub
 - 2024/04/28 [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [More](channels/HelloGitHub.md)
@@ -69,12 +75,6 @@
 ## 科技爱好者周刊
 - 2024/04/26 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2024/04/26 [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/04/26 [#145 Quality Over Quantity](https://thisweek.gnome.org/posts/2024/04/twig-145/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 独立开发变现周刊
 - 2024/04/26 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -92,9 +92,6 @@
 
 ## GeekPlux Letters
 - 2024/04/15 [Tesla FSD 全自动驾驶体验 #62](https://letters.geekplux.com/62/) | [More](channels/GeekPlux%20Letters.md)
-
-## 泰晓资讯
-- 2024/04/11 [泰晓资讯·4 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-04-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
