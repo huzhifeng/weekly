@@ -1,16 +1,22 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/05/04 [Python 潮流周刊#49：谷歌裁员 Python 团队，微软开源 MS-DOS 4.0](https://pythoncat.top/posts/2024-05-04-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/05/04 [This week in KDE: Looking towards Plasma 6.1](https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/05/04 [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/04 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2024/05/03 [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2024/05/03 [#146 Editing Markdown](https://thisweek.gnome.org/posts/2024/05/twig-146/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/05/03 [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/03 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Raye's Journey
 - 2024/05/02 [周报#27 推迟两个月的更新、深圳的大雨和一些杂七杂八的记录](https://xlog.app/api/redirection?characterId=51803&noteId=1669) | [More](channels/Raye%27s%20Journey.md)
@@ -65,12 +71,6 @@
 
 ## 猫鱼周刊
 - 2024/04/27 [猫鱼周刊 vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## Python 潮流周刊
-- 2024/04/27 [Python 潮流周刊#48：Python 3.14 的发布计划](https://pythoncat.top/posts/2024-04-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/04/27 [This week in KDE: megabytes and gigabytes for all](https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 科技爱好者周刊
 - 2024/04/26 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)

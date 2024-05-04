@@ -1,3 +1,5 @@
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)
 - [apple/corenet](https://github.com/apple/corenet)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 - [zyronon/douyin](https://github.com/zyronon/douyin)
