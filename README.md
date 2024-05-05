@@ -1,16 +1,22 @@
 # 周刊
 
+## 猫鱼周刊
+- 2024/05/05 [猫鱼周刊 vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 赫周刊
+- 2024/05/05 [新视角：人类与AI的共生未来｜赫周刊 #43](https://www.cliveshd.com/newsletter-43/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/05/05 [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/05 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Python 潮流周刊
 - 2024/05/04 [Python 潮流周刊#49：谷歌裁员 Python 团队，微软开源 MS-DOS 4.0](https://pythoncat.top/posts/2024-05-04-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
 - 2024/05/04 [This week in KDE: Looking towards Plasma 6.1](https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/05/04 [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/04 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Web Review
 - 2024/05/03 [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/) | [More](channels/Web%20Review.md)
@@ -60,17 +66,11 @@
 ## HelloGitHub
 - 2024/04/28 [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [More](channels/HelloGitHub.md)
 
-## 赫周刊
-- 2024/04/28 [我是如何坚持创作的｜赫周刊 #42](https://www.cliveshd.com/newsletter-42/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
-
 ## zdyxry Weekly Issue
 - 2024/04/28 [Weekly Issue 2024-04-28](https://zdyxry.github.io/2024/04/28/Weekly-Issue-2024-04-28/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2024/04/27 [04-22~04-28.老胡的周刊（第139期）.md](https://weekly.howie6879.com/2024/04-22~04-28.老胡的周刊（第139期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 猫鱼周刊
-- 2024/04/27 [猫鱼周刊 vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 科技爱好者周刊
 - 2024/04/26 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,4 @@
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)
 - [apple/corenet](https://github.com/apple/corenet)
