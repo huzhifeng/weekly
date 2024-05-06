@@ -1,16 +1,43 @@
 # 周刊
 
+## 潮流周刊
+- 2024/05/06 [第175期 - 有线耳机](https://weekly.tw93.fun/posts/175-%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Hacker News Weekly Top 10
+- 2024/05/06 [Hacker News Weekly Top 10 @2024-05-06](https://github.com/headllines/hackernews-weekly/issues/231) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/05/06 [一周杂记 in Week 1 May 2024](http://kingsamchen.github.io/2024/05/06/weekly-2024-may-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## 胡言乱语
+- 2024/05/06 [20240506的胡言乱语](https://www.bboy.app/2024/05/06/20240506%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## AIGC Weekly
+- 2024/05/06 [AIGC Weekly #70 又该补课了](https://quail.ink/op7418/p/aigc-weekly-70) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/05/06 [DistroWatch Weekly, Issue 1069](https://distrowatch.com/weekly.php?issue=20240506) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/05/06 [9to5Linux Weekly Roundup: May 5th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-5th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/05/06 [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/06 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/05/05 [猫鱼周刊 vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 赫周刊
 - 2024/05/05 [新视角：人类与AI的共生未来｜赫周刊 #43](https://www.cliveshd.com/newsletter-43/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2024/05/05 [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | [More](channels/GitHub%20Trending%20Weekly.md)
+## zdyxry Weekly Issue
+- 2024/05/05 [Weekly Issue 2024-05-05](https://zdyxry.github.io/2024/05/05/Weekly-Issue-2024-05-05/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## B站每周必看
-- 2024/05/05 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2024/05/04 [04-29~05-05.老胡的周刊（第140期）.md](https://weekly.howie6879.com/2024/04-29~05-05.老胡的周刊（第140期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Python 潮流周刊
 - 2024/05/04 [Python 潮流周刊#49：谷歌裁员 Python 团队，微软开源 MS-DOS 4.0](https://pythoncat.top/posts/2024-05-04-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -45,41 +72,17 @@
 ## Hacker News Monthly Top 10
 - 2024/05/01 [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
-## 潮流周刊
-- 2024/04/29 [第174期 - 新的园区](https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Weekly Top 10
-- 2024/04/29 [Hacker News Weekly Top 10 @2024-04-29](https://github.com/headllines/hackernews-weekly/issues/230) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
 ## 视野修炼
-- 2024/04/29 [视野修炼 - 技术周刊](https://sugarat.top/weekly/) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 一周杂记
-- 2024/04/29 [一周杂记 in Week 4 Apr 2024](http://kingsamchen.github.io/2024/04/29/weekly-2024-apr-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/04/29 [AIGC Weekly #69](https://quail.ink/op7418/p/aigc-weekly-69) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/04/29 [DistroWatch Weekly, Issue 1068](https://distrowatch.com/weekly.php?issue=20240429) | [More](channels/DistroWatch%20Weekly.md)
+- 2024/04/29 [视野修炼第82期 | Node.js v22](https://sugarat.top/weekly/2024-04-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## HelloGitHub
 - 2024/04/28 [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [More](channels/HelloGitHub.md)
-
-## zdyxry Weekly Issue
-- 2024/04/28 [Weekly Issue 2024-04-28](https://zdyxry.github.io/2024/04/28/Weekly-Issue-2024-04-28/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/04/27 [04-22~04-28.老胡的周刊（第139期）.md](https://weekly.howie6879.com/2024/04-22~04-28.老胡的周刊（第139期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 科技爱好者周刊
 - 2024/04/26 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 独立开发变现周刊
 - 2024/04/26 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 胡言乱语
-- 2024/04/23 [20240423的胡言乱语](https://www.bboy.app/2024/04/23/20240423%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 广场周刊
 - 2024/04/21 [广场周刊（第 21 期）：不同世界](https://immmmm.com/weekly-21-20240421/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
