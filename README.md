@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/05/07 [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/07 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/05/06 [第175期 - 有线耳机](https://weekly.tw93.fun/posts/175-%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +26,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/05/06 [9to5Linux Weekly Roundup: May 5th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-5th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/05/06 [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/06 [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2024/05/05 [猫鱼周刊 vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -84,6 +84,9 @@
 ## 独立开发变现周刊
 - 2024/04/26 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2024/04/25 [科技創業週報 #432：SaaS 服務最重要的營運指標之一｜一眼定奪真 Mentor](https://blog.starrocket.io/posts/newsletter-2024-04-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## 广场周刊
 - 2024/04/21 [广场周刊（第 21 期）：不同世界](https://immmmm.com/weekly-21-20240421/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
@@ -98,9 +101,6 @@
 
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2024/04/04 [科技創業週報 #429：數據分析報告，就該這麼寫｜觀點：人工智能會歧視你嗎？](https://blog.starrocket.io/posts/newsletter-2024-04-44/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## Pseudoyu 周报
 - 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
