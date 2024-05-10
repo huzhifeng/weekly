@@ -1,3 +1,4 @@
+- [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)

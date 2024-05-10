@@ -1,3 +1,6 @@
+- [四菜一汤教程](https://www.bilibili.com/video/BV1Lr421J7js)
+- [《崩坏：星穹铁道》知更鸟角色PV——「孤独摇摆」](https://www.bilibili.com/video/BV1Am411y7iK)
+- [《大魔术师》：揭秘这场愚弄人心的把戏](https://www.bilibili.com/video/BV1nm41117cs)
 - [【星穹铁道生日会】寰宇记书](https://www.bilibili.com/video/BV19D421J7dW)
 - [别再说李白骗你们了！和有山爬庐山，暴雨中的瀑布【互联网脚替06】](https://www.bilibili.com/video/BV1gw4m1C7iK)
 - [我收容了MC世界的所有珍稀生物！！！](https://www.bilibili.com/video/BV1SD421T7Sn)
