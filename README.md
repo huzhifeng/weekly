@@ -1,5 +1,17 @@
 # 周刊
 
+## 胡言乱语
+- 2024/05/11 [20240511的胡言乱语](https://www.bboy.app/2024/05/11/20240511%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## This Week in KDE
+- 2024/05/11 [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/05/11 [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/11 [四菜一汤教程](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/05/10 [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +20,6 @@
 
 ## This Week in GNOME
 - 2024/05/10 [#147 Secure Keys](https://thisweek.gnome.org/posts/2024/05/twig-147/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/05/10 [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/10 [四菜一汤教程](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/05/10 [独立开发变现周刊（第132期） : 一个年收入1200万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -42,9 +48,6 @@
 ## 一周杂记
 - 2024/05/06 [一周杂记 in Week 1 May 2024](http://kingsamchen.github.io/2024/05/06/weekly-2024-may-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## 胡言乱语
-- 2024/05/06 [20240506的胡言乱语](https://www.bboy.app/2024/05/06/20240506%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## AIGC Weekly
 - 2024/05/06 [AIGC Weekly #70 又该补课了](https://quail.ink/op7418/p/aigc-weekly-70) | [More](channels/AIGC%20Weekly.md)
 
@@ -65,9 +68,6 @@
 
 ## Python 潮流周刊
 - 2024/05/04 [Python 潮流周刊#49：谷歌裁员 Python 团队，微软开源 MS-DOS 4.0](https://pythoncat.top/posts/2024-05-04-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/05/04 [This week in KDE: Looking towards Plasma 6.1](https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## Raye's Journey
 - 2024/05/02 [周报#27 推迟两个月的更新、深圳的大雨和一些杂七杂八的记录](https://xlog.app/api/redirection?characterId=51803&noteId=1669) | [More](channels/Raye%27s%20Journey.md)
