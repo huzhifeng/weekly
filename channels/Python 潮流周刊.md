@@ -1,3 +1,4 @@
+- [Python 潮流周刊#50：我最喜欢的 Python 3.13 新特性！](https://pythoncat.top/posts/2024-05-12-weekly/)
 - [Python 潮流周刊#49：谷歌裁员 Python 团队，微软开源 MS-DOS 4.0](https://pythoncat.top/posts/2024-05-04-weekly/)
 - [Python 潮流周刊#48：Python 3.14 的发布计划](https://pythoncat.top/posts/2024-04-27-weekly/)
 - [Python 潮流周刊#47：当你的老师希望你去做开源](https://pythoncat.top/posts/2024-04-20-weekly/)

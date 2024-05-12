@@ -1,16 +1,34 @@
 # 周刊
 
+## 潮流周刊
+- 2024/05/13 [第176期 - 车外风景](https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 广场周刊
+- 2024/05/12 [广场周刊（第 22 期）：行万里路](https://immmmm.com/weekly-22-20230512/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/05/12 [猫鱼周刊 vol. 023 新款 iPad 到底值不值得买？](https://ameow.xyz/archives/weekly-023) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## Python 潮流周刊
+- 2024/05/12 [Python 潮流周刊#50：我最喜欢的 Python 3.13 新特性！](https://pythoncat.top/posts/2024-05-12-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2024/05/12 [视野修炼第83期 | MarsCode](https://sugarat.top/weekly/2024-05-12.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## Raye's Journey
+- 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
+
+## GitHub Trending Weekly
+- 2024/05/12 [wandb/openui](https://github.com/wandb/openui) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/12 [四菜一汤教程](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 胡言乱语
 - 2024/05/11 [20240511的胡言乱语](https://www.bboy.app/2024/05/11/20240511%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## This Week in KDE
 - 2024/05/11 [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/05/11 [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/11 [四菜一汤教程](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技爱好者周刊
 - 2024/05/10 [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -39,9 +57,6 @@
 ## GeekPlux Letters
 - 2024/05/08 [波士顿之行 #63](https://letters.geekplux.com/63/) | [More](channels/GeekPlux%20Letters.md)
 
-## 潮流周刊
-- 2024/05/06 [第175期 - 有线耳机](https://weekly.tw93.fun/posts/175-%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## Hacker News Weekly Top 10
 - 2024/05/06 [Hacker News Weekly Top 10 @2024-05-06](https://github.com/headllines/hackernews-weekly/issues/231) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -54,9 +69,6 @@
 ## DistroWatch Weekly
 - 2024/05/06 [DistroWatch Weekly, Issue 1069](https://distrowatch.com/weekly.php?issue=20240506) | [More](channels/DistroWatch%20Weekly.md)
 
-## 猫鱼周刊
-- 2024/05/05 [猫鱼周刊 vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 赫周刊
 - 2024/05/05 [新视角：人类与AI的共生未来｜赫周刊 #43](https://www.cliveshd.com/newsletter-43/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
@@ -65,12 +77,6 @@
 
 ## 老胡的信息周刊
 - 2024/05/04 [04-29~05-05.老胡的周刊（第140期）.md](https://weekly.howie6879.com/2024/04-29~05-05.老胡的周刊（第140期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Python 潮流周刊
-- 2024/05/04 [Python 潮流周刊#49：谷歌裁员 Python 团队，微软开源 MS-DOS 4.0](https://pythoncat.top/posts/2024-05-04-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## Raye's Journey
-- 2024/05/02 [周报#27 推迟两个月的更新、深圳的大雨和一些杂七杂八的记录](https://xlog.app/api/redirection?characterId=51803&noteId=1669) | [More](channels/Raye%27s%20Journey.md)
 
 ## 艾迪蓝波
 - 2024/05/02 [Vol.22 4月榜单：愿有一得](https://www.idnunber.top/article/f6caac8a-fb04-4a4a-b957-b1f9ef697e62) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -81,17 +87,11 @@
 ## Hacker News Monthly Top 10
 - 2024/05/01 [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
-## 视野修炼
-- 2024/04/29 [视野修炼第82期 | Node.js v22](https://sugarat.top/weekly/2024-04-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## HelloGitHub
 - 2024/04/28 [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [More](channels/HelloGitHub.md)
 
 ## 科技創業週報
 - 2024/04/25 [科技創業週報 #432：SaaS 服務最重要的營運指標之一｜一眼定奪真 Mentor](https://blog.starrocket.io/posts/newsletter-2024-04-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 广场周刊
-- 2024/04/21 [广场周刊（第 21 期）：不同世界](https://immmmm.com/weekly-21-20240421/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2024/04/16 [棱镜通讯 No.110 威廉·吉布森（William Ford Gibson）](https://wangyurui.com/posts/leng-jing-tong-xun-no-110-wei-lian-ji-bu-sen-wil-89a7a855) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
