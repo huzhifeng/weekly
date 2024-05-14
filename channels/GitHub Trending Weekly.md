@@ -1,3 +1,4 @@
+- [huggingface/lerobot](https://github.com/huggingface/lerobot)
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)
 - [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV)
