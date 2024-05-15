@@ -1,10 +1,10 @@
 # 周刊
 
 ## GitHub Trending Weekly
-- 2024/05/14 [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/05/15 [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/05/14 [今日食谱：芋头蒸排骨，酸辣土豆丝，青椒炒鱿鱼，清炒荷兰豆，青瓜肉片汤](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/05/15 [今日食谱：芋头蒸排骨，酸辣土豆丝，青椒炒鱿鱼，清炒荷兰豆，青瓜肉片汤](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/05/13 [第176期 - 车外风景](https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
