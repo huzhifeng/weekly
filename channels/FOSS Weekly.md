@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/)
 - [FOSS Weekly #24.19: Local AI on Linux, systemd's sudo Replacement](https://itsfoss.com/newsletter/foss-weekly-24-19/)
 - [FOSS Weekly #24.18: Ubuntu MATE Concerns, COSMIC Desktop, Garuda Linux Release and More](https://itsfoss.com/newsletter/foss-weekly-24-18/)
 - [FOSS Weekly #24.17: All About Ubuntu 24.04 LTS and Fedora 40 Releases](https://itsfoss.com/newsletter/foss-weekly-24-17/)

@@ -1,10 +1,22 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/05/17 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/05/16 [学习周刊-总第159期-2024年第20周](https://wiki.eryajf.net/pages/e4bd82/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/05/16 [LWN.net Weekly Edition for May 16, 2024](https://lwn.net/Articles/973073/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/05/16 [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/05/15 [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/05/16 [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/05/15 [今日食谱：芋头蒸排骨，酸辣土豆丝，青椒炒鱿鱼，清炒荷兰豆，青瓜肉片汤](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/05/16 [今日食谱：芋头蒸排骨，酸辣土豆丝，青椒炒鱿鱼，清炒荷兰豆，青瓜肉片汤](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/05/13 [第176期 - 车外风景](https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -59,18 +71,6 @@
 
 ## This Week in GNOME
 - 2024/05/10 [#147 Secure Keys](https://thisweek.gnome.org/posts/2024/05/twig-147/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 独立开发变现周刊
-- 2024/05/10 [独立开发变现周刊（第132期） : 一个年收入1200万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/05/09 [学习周刊-总第158期-2024年第19周](https://wiki.eryajf.net/pages/89722e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/05/09 [LWN.net Weekly Edition for May 9, 2024](https://lwn.net/Articles/972160/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/05/09 [FOSS Weekly #24.19: Local AI on Linux, systemd's sudo Replacement](https://itsfoss.com/newsletter/foss-weekly-24-19/) | [More](channels/FOSS%20Weekly.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/05/08 [1link.fun 科技周刊 | 第 90 期](https://1link.fun/blog/issue/issue90/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
