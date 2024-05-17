@@ -1,3 +1,4 @@
+- [#148 Variable Styles](https://thisweek.gnome.org/posts/2024/05/twig-148/)
 - [#147 Secure Keys](https://thisweek.gnome.org/posts/2024/05/twig-147/)
 - [#146 Editing Markdown](https://thisweek.gnome.org/posts/2024/05/twig-146/)
 - [#145 Quality Over Quantity](https://thisweek.gnome.org/posts/2024/04/twig-145/)

@@ -1,3 +1,4 @@
+- [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [huggingface/lerobot](https://github.com/huggingface/lerobot)
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)

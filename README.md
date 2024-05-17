@@ -1,5 +1,20 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/05/17 [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/05/17 [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/05/17 [#148 Variable Styles](https://thisweek.gnome.org/posts/2024/05/twig-148/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/05/17 [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/17 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/05/17 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -11,12 +26,6 @@
 
 ## FOSS Weekly
 - 2024/05/16 [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/05/16 [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/16 [今日食谱：芋头蒸排骨，酸辣土豆丝，青椒炒鱿鱼，清炒荷兰豆，青瓜肉片汤](https://www.bilibili.com/video/BV1Lr421J7js) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/05/13 [第176期 - 车外风景](https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -62,15 +71,6 @@
 
 ## This Week in KDE
 - 2024/05/11 [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## 科技爱好者周刊
-- 2024/05/10 [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/05/10 [Web Review, Week 2024-19](https://ervin.ipsquad.net/blog/2024/05/10/web-review-week-2024-19/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/05/10 [#147 Secure Keys](https://thisweek.gnome.org/posts/2024/05/twig-147/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/05/08 [1link.fun 科技周刊 | 第 90 期](https://1link.fun/blog/issue/issue90/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)

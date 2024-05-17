@@ -1,3 +1,4 @@
+- [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/)
 - [Web Review, Week 2024-19](https://ervin.ipsquad.net/blog/2024/05/10/web-review-week-2024-19/)
 - [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/)
 - [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/)
