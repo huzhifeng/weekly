@@ -1,3 +1,6 @@
+- [glanceapp/glance](https://github.com/glanceapp/glance)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
+- [google-research/timesfm](https://github.com/google-research/timesfm)
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [huggingface/lerobot](https://github.com/huggingface/lerobot)

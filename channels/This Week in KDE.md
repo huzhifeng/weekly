@@ -1,3 +1,4 @@
+- [This week in KDE: all about those apps](https://pointieststick.com/2024/05/17/this-week-in-kde-all-about-those-apps/)
 - [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/)
 - [This week in KDE: Looking towards Plasma 6.1](https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/)
 - [This week in KDE: megabytes and gigabytes for all](https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/)

@@ -1,5 +1,20 @@
 # 周刊
 
+## CyberClip
+- 2024/05/18 [CyberClip #53 可能性思维](https://shyrz.me/53-possibility-thinking/) | [More](channels/CyberClip.md)
+
+## Python 潮流周刊
+- 2024/05/18 [Python 潮流周刊#51：用 Python 绘制美观的图表](https://pythoncat.top/posts/2024-05-18-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/05/18 [This week in KDE: all about those apps](https://pointieststick.com/2024/05/17/this-week-in-kde-all-about-those-apps/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/05/18 [glanceapp/glance](https://github.com/glanceapp/glance) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/18 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/05/17 [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +23,6 @@
 
 ## This Week in GNOME
 - 2024/05/17 [#148 Variable Styles](https://thisweek.gnome.org/posts/2024/05/twig-148/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/05/17 [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/17 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/05/17 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -51,9 +60,6 @@
 ## 猫鱼周刊
 - 2024/05/12 [猫鱼周刊 vol. 023 新款 iPad 到底值不值得买？](https://ameow.xyz/archives/weekly-023) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## Python 潮流周刊
-- 2024/05/12 [Python 潮流周刊#50：我最喜欢的 Python 3.13 新特性！](https://pythoncat.top/posts/2024-05-12-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 视野修炼
 - 2024/05/12 [视野修炼第83期 | MarsCode](https://sugarat.top/weekly/2024-05-12.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
@@ -68,9 +74,6 @@
 
 ## 胡言乱语
 - 2024/05/11 [20240511的胡言乱语](https://www.bboy.app/2024/05/11/20240511%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## This Week in KDE
-- 2024/05/11 [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/05/08 [1link.fun 科技周刊 | 第 90 期](https://1link.fun/blog/issue/issue90/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)

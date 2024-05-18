@@ -1,3 +1,5 @@
+- [CyberClip #53 可能性思维](https://shyrz.me/53-possibility-thinking/)
+- [CyberClip #52 忙碌成瘾](https://shyrz.me/cyberclip-52-the-addiction-of-busyness/)
 - [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/)
 - [CyberClip #49 如何提出好问题](https://shyrz.me/cyberclip-49-how-to-ask-good-questions/)
 - [CyberClip #48 词汇泛化](https://shyrz.me/cyberclip-48-generalization-of-vocabulary/)
