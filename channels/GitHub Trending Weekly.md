@@ -1,3 +1,5 @@
+- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp)
+- [Mr-Wiseguy/Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp)
 - [glanceapp/glance](https://github.com/glanceapp/glance)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 - [google-research/timesfm](https://github.com/google-research/timesfm)
