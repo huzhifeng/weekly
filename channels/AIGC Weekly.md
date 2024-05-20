@@ -1,3 +1,4 @@
+- [AIGC Weekly #72  繁忙的一周](https://quail.ink/op7418/p/aigc-weekly-72)
 - [AIGC Weekly #71](https://quail.ink/op7418/p/aigc-weekly-71)
 - [AIGC Weekly #70 又该补课了](https://quail.ink/op7418/p/aigc-weekly-70)
 - [AIGC Weekly #69](https://quail.ink/op7418/p/aigc-weekly-69)

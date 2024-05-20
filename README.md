@@ -3,17 +3,41 @@
 ## 潮流周刊
 - 2024/05/20 [第177期 - 五彩花海](https://weekly.tw93.fun/posts/177-%E4%BA%94%E5%BD%A9%E8%8A%B1%E6%B5%B7/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/05/20 [Hacker News Weekly Top 10 @2024-05-20](https://github.com/headllines/hackernews-weekly/issues/233) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/05/20 [一周杂记 in Week 3 May 2024](http://kingsamchen.github.io/2024/05/20/weekly-2024-may-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GeekPlux Letters
+- 2024/05/20 [润美前需处理好的几件事（税务相关）#64](https://letters.geekplux.com/64/) | [More](channels/GeekPlux%20Letters.md)
+
+## AIGC Weekly
+- 2024/05/20 [AIGC Weekly #72  繁忙的一周](https://quail.ink/op7418/p/aigc-weekly-72) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/05/20 [DistroWatch Weekly, Issue 1071](https://distrowatch.com/weekly.php?issue=20240520) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/05/20 [9to5Linux Weekly Roundup: May 19th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-19th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/05/20 [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/20 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/05/19 [猫鱼周刊 vol. 024 如何训练一个自己的LLM](https://ameow.xyz/archives/weekly-024) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/05/19 [视野修炼第84期 | Mako](https://sugarat.top/weekly/2024-05-19.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2024/05/19 [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) | [More](channels/GitHub%20Trending%20Weekly.md)
+## zdyxry Weekly Issue
+- 2024/05/19 [Weekly Issue-我的 Dockerfile 语法需要更新了](https://zdyxry.github.io/2024/05/19/Weekly-Issue-%E6%88%91%E7%9A%84-Dockerfile-%E8%AF%AD%E6%B3%95%E9%9C%80%E8%A6%81%E6%9B%B4%E6%96%B0%E4%BA%86/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## B站每周必看
-- 2024/05/19 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2024/05/18 [05-13~05-19.老胡的周刊（第142期）.md](https://weekly.howie6879.com/2024/05-13~05-19.老胡的周刊（第142期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/05/18 [CyberClip #53 可能性思维](https://shyrz.me/53-possibility-thinking/) | [More](channels/CyberClip.md)
@@ -51,41 +75,17 @@
 ## 泰晓资讯
 - 2024/05/16 [泰晓资讯·5 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-05-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
-## Hacker News Weekly Top 10
-- 2024/05/13 [Hacker News Weekly Top 10 @2024-05-13](https://github.com/headllines/hackernews-weekly/issues/232) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/05/13 [一周杂记 in Week 2 May 2024](http://kingsamchen.github.io/2024/05/13/weekly-2024-may-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/05/13 [AIGC Weekly #71](https://quail.ink/op7418/p/aigc-weekly-71) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/05/13 [DistroWatch Weekly, Issue 1070](https://distrowatch.com/weekly.php?issue=20240513) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/05/13 [9to5Linux Weekly Roundup: May 12th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-12th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## 广场周刊
 - 2024/05/12 [广场周刊（第 22 期）：行万里路](https://immmmm.com/weekly-22-20230512/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
 
-## zdyxry Weekly Issue
-- 2024/05/12 [Weekly Issue-真的需要复杂的解决方案么？](https://zdyxry.github.io/2024/05/12/Weekly-Issue-%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E5%A4%8D%E6%9D%82%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E4%B9%88/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/05/11 [05-06~05-12.老胡的周刊（第141期）.md](https://weekly.howie6879.com/2024/05-06~05-12.老胡的周刊（第141期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
 ## 胡言乱语
 - 2024/05/11 [20240511的胡言乱语](https://www.bboy.app/2024/05/11/20240511%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/05/08 [1link.fun 科技周刊 | 第 90 期](https://1link.fun/blog/issue/issue90/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
-## GeekPlux Letters
-- 2024/05/08 [波士顿之行 #63](https://letters.geekplux.com/63/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 赫周刊
 - 2024/05/05 [新视角：人类与AI的共生未来｜赫周刊 #43](https://www.cliveshd.com/newsletter-43/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)

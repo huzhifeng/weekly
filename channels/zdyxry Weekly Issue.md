@@ -1,3 +1,4 @@
+- [Weekly Issue-我的 Dockerfile 语法需要更新了](https://zdyxry.github.io/2024/05/19/Weekly-Issue-%E6%88%91%E7%9A%84-Dockerfile-%E8%AF%AD%E6%B3%95%E9%9C%80%E8%A6%81%E6%9B%B4%E6%96%B0%E4%BA%86/)
 - [Weekly Issue-真的需要复杂的解决方案么？](https://zdyxry.github.io/2024/05/12/Weekly-Issue-%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E5%A4%8D%E6%9D%82%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E4%B9%88/)
 - [Weekly Issue 2024-05-05](https://zdyxry.github.io/2024/05/05/Weekly-Issue-2024-05-05/)
 - [Weekly Issue 2024-04-28](https://zdyxry.github.io/2024/04/28/Weekly-Issue-2024-04-28/)
