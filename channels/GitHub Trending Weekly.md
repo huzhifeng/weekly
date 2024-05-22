@@ -1,3 +1,4 @@
+- [nocobase/nocobase](https://github.com/nocobase/nocobase)
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp)
 - [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp)

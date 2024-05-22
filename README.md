@@ -1,10 +1,10 @@
 # 周刊
 
 ## GitHub Trending Weekly
-- 2024/05/21 [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/05/22 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/05/21 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/05/22 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/05/20 [第177期 - 五彩花海](https://weekly.tw93.fun/posts/177-%E4%BA%94%E5%BD%A9%E8%8A%B1%E6%B5%B7/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -65,9 +65,6 @@
 
 ## 二丫讲梵学习周刊
 - 2024/05/16 [学习周刊-总第159期-2024年第20周](https://wiki.eryajf.net/pages/e4bd82/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/05/16 [LWN.net Weekly Edition for May 16, 2024](https://lwn.net/Articles/973073/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2024/05/16 [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/) | [More](channels/FOSS%20Weekly.md)
