@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.21: Microsoft's Creepy New Feature, Tiling Window, Fedora Miracle and More](https://itsfoss.com/newsletter/foss-weekly-24-21/)
 - [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/)
 - [FOSS Weekly #24.19: Local AI on Linux, systemd's sudo Replacement](https://itsfoss.com/newsletter/foss-weekly-24-19/)
 - [FOSS Weekly #24.18: Ubuntu MATE Concerns, COSMIC Desktop, Garuda Linux Release and More](https://itsfoss.com/newsletter/foss-weekly-24-18/)

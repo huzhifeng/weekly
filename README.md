@@ -1,10 +1,25 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/05/24 [独立开发变现周刊（第134期） : 视频图片压缩工具月收入2.5K美金](https://www.ezindie.com/weekly/issue-134) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 1Link.Fun 科技周刊
+- 2024/05/23 [1link.fun 科技周刊 | 第 91 期](https://1link.fun/blog/issue/issue91/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/05/23 [学习周刊-总第160期-2024年第21周](https://wiki.eryajf.net/pages/2a7acf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/05/23 [LWN.net Weekly Edition for May 23, 2024](https://lwn.net/Articles/973888/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/05/23 [FOSS Weekly #24.21: Microsoft's Creepy New Feature, Tiling Window, Fedora Miracle and More](https://itsfoss.com/newsletter/foss-weekly-24-21/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/05/22 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/05/23 [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/05/22 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/05/23 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/05/20 [第177期 - 五彩花海](https://weekly.tw93.fun/posts/177-%E4%BA%94%E5%BD%A9%E8%8A%B1%E6%B5%B7/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -23,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2024/05/20 [DistroWatch Weekly, Issue 1071](https://distrowatch.com/weekly.php?issue=20240520) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/05/20 [9to5Linux Weekly Roundup: May 19th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-19th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 猫鱼周刊
 - 2024/05/19 [猫鱼周刊 vol. 024 如何训练一个自己的LLM](https://ameow.xyz/archives/weekly-024) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -57,17 +69,8 @@
 ## This Week in GNOME
 - 2024/05/17 [#148 Variable Styles](https://thisweek.gnome.org/posts/2024/05/twig-148/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/05/17 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
 ## 科技創業週報
 - 2024/05/16 [科技創業週報 #434：生成式AI浪潮興起：AI有多耗電、耗水？｜該怎麼評估自己適不適合管理職](https://blog.starrocket.io/posts/newsletter-2024-05-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2024/05/16 [学习周刊-总第159期-2024年第20周](https://wiki.eryajf.net/pages/e4bd82/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## FOSS Weekly
-- 2024/05/16 [FOSS Weekly #24.20: Linux Kernel 6.9, SnowflakeOS, Nvidia GPU Handling and More](https://itsfoss.com/newsletter/foss-weekly-24-20/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/05/16 [泰晓资讯·5 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-05-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -80,9 +83,6 @@
 
 ## 胡言乱语
 - 2024/05/11 [20240511的胡言乱语](https://www.bboy.app/2024/05/11/20240511%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 1Link.Fun 科技周刊
-- 2024/05/08 [1link.fun 科技周刊 | 第 90 期](https://1link.fun/blog/issue/issue90/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 赫周刊
 - 2024/05/05 [新视角：人类与AI的共生未来｜赫周刊 #43](https://www.cliveshd.com/newsletter-43/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
