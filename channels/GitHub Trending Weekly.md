@@ -1,3 +1,4 @@
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
 - [nocobase/nocobase](https://github.com/nocobase/nocobase)
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp)

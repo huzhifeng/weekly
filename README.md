@@ -1,5 +1,20 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/05/24 [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/05/24 [Web Review, Week 2024-21](https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/05/24 [#149 Installer Installment](https://thisweek.gnome.org/posts/2024/05/twig-149/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/05/24 [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/24 [你把戒指吃下去了啊？...唔？！](https://www.bilibili.com/video/BV1Kt421u7mJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/05/24 [独立开发变现周刊（第134期） : 视频图片压缩工具月收入2.5K美金](https://www.ezindie.com/weekly/issue-134) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2024/05/23 [FOSS Weekly #24.21: Microsoft's Creepy New Feature, Tiling Window, Fedora Miracle and More](https://itsfoss.com/newsletter/foss-weekly-24-21/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/05/23 [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/23 [一个曾毅配了6个玲花～](https://www.bilibili.com/video/BV1ZM4m1d7YG) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/05/20 [第177期 - 五彩花海](https://weekly.tw93.fun/posts/177-%E4%BA%94%E5%BD%A9%E8%8A%B1%E6%B5%B7/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -59,15 +68,6 @@
 
 ## This Week in KDE
 - 2024/05/18 [This week in KDE: all about those apps](https://pointieststick.com/2024/05/17/this-week-in-kde-all-about-those-apps/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## 科技爱好者周刊
-- 2024/05/17 [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/05/17 [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/05/17 [#148 Variable Styles](https://thisweek.gnome.org/posts/2024/05/twig-148/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 科技創業週報
 - 2024/05/16 [科技創業週報 #434：生成式AI浪潮興起：AI有多耗電、耗水？｜該怎麼評估自己適不適合管理職](https://blog.starrocket.io/posts/newsletter-2024-05-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
