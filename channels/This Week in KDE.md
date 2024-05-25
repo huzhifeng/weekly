@@ -1,3 +1,4 @@
+- [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/)
 - [This week in KDE: all about those apps](https://pointieststick.com/2024/05/17/this-week-in-kde-all-about-those-apps/)
 - [This week in KDE: our cup overfloweth with cool stuff for you](https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/)
 - [This week in KDE: Looking towards Plasma 6.1](https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/)

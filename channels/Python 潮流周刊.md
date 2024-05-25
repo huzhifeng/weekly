@@ -1,3 +1,4 @@
+- [Python 潮流周刊#52：Python 处理 Excel 的资源](https://pythoncat.top/posts/2024-05-25-weekly/)
 - [Python 潮流周刊#51：用 Python 绘制美观的图表](https://pythoncat.top/posts/2024-05-18-weekly/)
 - [Python 潮流周刊#50：我最喜欢的 Python 3.13 新特性！](https://pythoncat.top/posts/2024-05-12-weekly/)
 - [Python 潮流周刊#49：谷歌裁员 Python 团队，微软开源 MS-DOS 4.0](https://pythoncat.top/posts/2024-05-04-weekly/)
