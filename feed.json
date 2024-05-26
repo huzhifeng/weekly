@@ -43,6 +43,11 @@
 			"url": "https://ameow.xyz/feed/categories/weekly.xml"
 		},
 		{
+			"channel": "CDT周报",
+			"portal": "https://chinadigitaltimes.net/chinese/weekly-digest",
+			"url": "https://chinadigitaltimes.net/chinese/category/weekly-digest/feed"
+		},
+		{
 			"channel": "拾月通讯",
 			"portal": "https://www.skyue.com/category/newsletter/",
 			"url": "https://www.skyue.com/feed/",
