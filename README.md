@@ -3,6 +3,27 @@
 ## 潮流周刊
 - 2024/05/27 [第178期 - 蜗牛蜗牛](https://weekly.tw93.fun/posts/178-%E8%9C%97%E7%89%9B%E8%9C%97%E7%89%9B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/05/27 [Hacker News Weekly Top 10 @2024-05-27](https://github.com/headllines/hackernews-weekly/issues/234) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/05/27 [一周杂记 in Week 4 May 2024](http://kingsamchen.github.io/2024/05/27/weekly-2024-may-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/05/27 [AIGC Weekly #73](https://quail.ink/op7418/p/aigc-weekly-73) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/05/27 [DistroWatch Weekly, Issue 1072](https://distrowatch.com/weekly.php?issue=20240527) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/05/27 [9to5Linux Weekly Roundup: May 26th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-may-26th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/05/27 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/27 [你把戒指吃下去了啊？...唔？！](https://www.bilibili.com/video/BV1Kt421u7mJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 广场周刊
 - 2024/05/26 [广场周刊（第 23 期）：难以放松](https://immmmm.com/weekly-23-20240526/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
@@ -12,11 +33,8 @@
 ## 视野修炼
 - 2024/05/26 [视野修炼第85期 | 图小小](https://sugarat.top/weekly/2024-05-26.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2024/05/26 [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/26 [你把戒指吃下去了啊？...唔？！](https://www.bilibili.com/video/BV1Kt421u7mJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/05/26 [Weekly Issue-让我们给 WebArchive 捐款吧](https://zdyxry.github.io/2024/05/26/Weekly-Issue-%E8%AE%A9%E6%88%91%E4%BB%AC%E7%BB%99-WebArchive-%E6%8D%90%E6%AC%BE%E5%90%A7/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2024/05/25 [05-20~05-26.老胡的周刊（第143期）.md](https://weekly.howie6879.com/2024/05-20~05-26.老胡的周刊（第143期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -57,23 +75,8 @@
 ## 泰晓资讯
 - 2024/05/23 [泰晓资讯·5 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-05-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
-## Hacker News Weekly Top 10
-- 2024/05/20 [Hacker News Weekly Top 10 @2024-05-20](https://github.com/headllines/hackernews-weekly/issues/233) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/05/20 [一周杂记 in Week 3 May 2024](http://kingsamchen.github.io/2024/05/20/weekly-2024-may-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## GeekPlux Letters
 - 2024/05/20 [润美前需处理好的几件事（税务相关）#64](https://letters.geekplux.com/64/) | [More](channels/GeekPlux%20Letters.md)
-
-## AIGC Weekly
-- 2024/05/20 [AIGC Weekly #72  繁忙的一周](https://quail.ink/op7418/p/aigc-weekly-72) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/05/20 [DistroWatch Weekly, Issue 1071](https://distrowatch.com/weekly.php?issue=20240520) | [More](channels/DistroWatch%20Weekly.md)
-
-## zdyxry Weekly Issue
-- 2024/05/19 [Weekly Issue-我的 Dockerfile 语法需要更新了](https://zdyxry.github.io/2024/05/19/Weekly-Issue-%E6%88%91%E7%9A%84-Dockerfile-%E8%AF%AD%E6%B3%95%E9%9C%80%E8%A6%81%E6%9B%B4%E6%96%B0%E4%BA%86/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## CyberClip
 - 2024/05/18 [CyberClip #53 可能性思维](https://shyrz.me/53-possibility-thinking/) | [More](channels/CyberClip.md)
