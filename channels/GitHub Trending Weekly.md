@@ -1,3 +1,5 @@
+- [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books)
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
 - [KAYOKG/BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
