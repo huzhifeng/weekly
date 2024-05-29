@@ -1,13 +1,19 @@
 # 周刊
 
-## HelloGitHub
-- 2024/05/28 [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [More](channels/HelloGitHub.md)
+## 科技爱好者周刊
+- 2024/05/29 [分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2024/05/29 [20240529的胡言乱语](https://www.bboy.app/2024/05/29/20240529%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GitHub Trending Weekly
-- 2024/05/28 [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/05/29 [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/05/28 [你把戒指吃下去了啊？...唔？！](https://www.bilibili.com/video/BV1Kt421u7mJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/05/29 [你把戒指吃下去了啊？...唔？！](https://www.bilibili.com/video/BV1Kt421u7mJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## HelloGitHub
+- 2024/05/28 [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [More](channels/HelloGitHub.md)
 
 ## 潮流周刊
 - 2024/05/27 [第178期 - 蜗牛蜗牛](https://weekly.tw93.fun/posts/178-%E8%9C%97%E7%89%9B%E8%9C%97%E7%89%9B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,9 +57,6 @@
 ## This Week in KDE
 - 2024/05/25 [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/05/24 [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## Web Review
 - 2024/05/24 [Web Review, Week 2024-21](https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/) | [More](channels/Web%20Review.md)
 
@@ -89,9 +92,6 @@
 
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
-
-## 胡言乱语
-- 2024/05/11 [20240511的胡言乱语](https://www.bboy.app/2024/05/11/20240511%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 赫周刊
 - 2024/05/05 [新视角：人类与AI的共生未来｜赫周刊 #43](https://www.cliveshd.com/newsletter-43/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)

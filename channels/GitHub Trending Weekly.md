@@ -1,3 +1,5 @@
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent)
 - [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books)
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
 - [KAYOKG/BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)
