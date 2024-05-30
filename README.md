@@ -1,16 +1,31 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/05/31 [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 科技創業週報
+- 2024/05/30 [科技創業週報 #436：AI來襲，動畫導演林思翰：這類創意人才不怕失業｜你聽過 5 AM Project 嗎？](https://blog.starrocket.io/posts/newsletter-2024-05-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2024/05/30 [学习周刊-总第161期-2024年第22周](https://wiki.eryajf.net/pages/a02638/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/05/30 [LWN.net Weekly Edition for May 30, 2024](https://lwn.net/Articles/974709/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/05/30 [FOSS Weekly #24.22: Ultramarine Linux, Open Source LLMs, Decibels Music Player and More](https://itsfoss.com/newsletter/foss-weekly-24-22/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2024/05/30 [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/05/30 [你把戒指吃下去了啊？...唔？！](https://www.bilibili.com/video/BV1Kt421u7mJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/05/29 [分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2024/05/29 [20240529的胡言乱语](https://www.bboy.app/2024/05/29/20240529%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2024/05/29 [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/29 [你把戒指吃下去了啊？...唔？！](https://www.bilibili.com/video/BV1Kt421u7mJ) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## HelloGitHub
 - 2024/05/28 [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [More](channels/HelloGitHub.md)
@@ -63,23 +78,8 @@
 ## This Week in GNOME
 - 2024/05/24 [#149 Installer Installment](https://thisweek.gnome.org/posts/2024/05/twig-149/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/05/24 [独立开发变现周刊（第134期） : 视频图片压缩工具月收入2.5K美金](https://www.ezindie.com/weekly/issue-134) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
 ## 1Link.Fun 科技周刊
 - 2024/05/23 [1link.fun 科技周刊 | 第 91 期](https://1link.fun/blog/issue/issue91/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2024/05/23 [科技創業週報 #435：生成式人工智能之於未來的人資效率革命！｜靠「生成式AI」效率翻3倍 達人許旭安親揭秘技](https://blog.starrocket.io/posts/newsletter-2024-05-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2024/05/23 [学习周刊-总第160期-2024年第21周](https://wiki.eryajf.net/pages/2a7acf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/05/23 [LWN.net Weekly Edition for May 23, 2024](https://lwn.net/Articles/973888/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/05/23 [FOSS Weekly #24.21: Microsoft's Creepy New Feature, Tiling Window, Fedora Miracle and More](https://itsfoss.com/newsletter/foss-weekly-24-21/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/05/23 [泰晓资讯·5 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-05-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -105,11 +105,11 @@
 ## 棱镜通讯
 - 2024/04/16 [棱镜通讯 No.110 威廉·吉布森（William Ford Gibson）](https://wangyurui.com/posts/leng-jing-tong-xun-no-110-wei-lian-ji-bu-sen-wil-89a7a855) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## Pseudoyu 周报
+- 2024/04/10 [周报 #57 - 生活在别处（巴厘岛之行）](https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
-
-## Pseudoyu 周报
-- 2024/03/31 [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## PIVOT
 - 2024/03/15 [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/) | [More](channels/PIVOT.md)
@@ -119,7 +119,4 @@
 
 ## 拾月通讯
 - 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## MDH 前端周刊
-- 2023/12/18 [第 0118 期：Electron 28、Safa 17.2、SvelteKit 2、状态管理、Waku、PageSpy](https://mdhweekly.com/weekly/issue-0118) | [More](channels/MDH%20%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A.md)
 

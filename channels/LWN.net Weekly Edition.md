@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for May 30, 2024](https://lwn.net/Articles/974709/)
 - [LWN.net Weekly Edition for May 23, 2024](https://lwn.net/Articles/973888/)
 - [LWN.net Weekly Edition for May 16, 2024](https://lwn.net/Articles/973073/)
 - [LWN.net Weekly Edition for May 9, 2024](https://lwn.net/Articles/972160/)

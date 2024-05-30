@@ -1,3 +1,4 @@
+- [周报 #57 - 生活在别处（巴厘岛之行）](https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410/)
 - [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/)
 - [周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考](https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/)
 - [周报 #54 - 漂流计划、钱包被盗与 Home Server](https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/)
