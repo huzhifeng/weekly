@@ -1,5 +1,23 @@
 # 周刊
 
+## CDT周报
+- 2024/06/01 [【CDT周报】第172期：“主因是什么”构成了超越苏联笑话的作品](https://chinadigitaltimes.net/chinese/708407.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## CyberClip
+- 2024/06/01 [CyberClip #54 错失的快乐](https://shyrz.me/54-joy-of-missing-out/) | [More](channels/CyberClip.md)
+
+## Hacker News Monthly Top 10
+- 2024/06/01 [Hacker News Monthly Top 10 @2024-06-01](https://github.com/headllines/hackernews-monthly/issues/70) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
+
+## Python 潮流周刊
+- 2024/06/01 [Python 潮流周刊#53：我辈楷模，一个约见诺奖得主，一个成为核心开发者](https://pythoncat.top/posts/2024-06-01-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/06/01 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/01 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/05/31 [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -11,12 +29,6 @@
 
 ## This Week in GNOME
 - 2024/05/31 [#150 Multiple Layouts](https://thisweek.gnome.org/posts/2024/05/twig-150/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/05/31 [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/05/31 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/05/31 [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -69,12 +81,6 @@
 ## 老胡的信息周刊
 - 2024/05/25 [05-20~05-26.老胡的周刊（第143期）.md](https://weekly.howie6879.com/2024/05-20~05-26.老胡的周刊（第143期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2024/05/25 [【CDT周报】第171期：伊朗人民欢庆“北京大学名誉教授”之死](https://chinadigitaltimes.net/chinese/708195.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Python 潮流周刊
-- 2024/05/25 [Python 潮流周刊#52：Python 处理 Excel 的资源](https://pythoncat.top/posts/2024-05-25-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## This Week in KDE
 - 2024/05/25 [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/) | [More](channels/This%20Week%20in%20KDE.md)
 
@@ -84,8 +90,8 @@
 ## GeekPlux Letters
 - 2024/05/20 [润美前需处理好的几件事（税务相关）#64](https://letters.geekplux.com/64/) | [More](channels/GeekPlux%20Letters.md)
 
-## CyberClip
-- 2024/05/18 [CyberClip #53 可能性思维](https://shyrz.me/53-possibility-thinking/) | [More](channels/CyberClip.md)
+## Pseudoyu 周报
+- 2024/05/15 [周报 #59 - 沙漠之行、家庭与家人](https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
@@ -95,12 +101,6 @@
 
 ## 艾迪蓝波
 - 2024/05/02 [Vol.22 4月榜单：愿有一得](https://www.idnunber.top/article/f6caac8a-fb04-4a4a-b957-b1f9ef697e62) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Monthly Top 10
-- 2024/05/01 [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
-
-## Pseudoyu 周报
-- 2024/04/30 [周报 #58 - 远程工作这一年](https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 棱镜通讯
 - 2024/04/16 [棱镜通讯 No.110 威廉·吉布森（William Ford Gibson）](https://wangyurui.com/posts/leng-jing-tong-xun-no-110-wei-lian-ji-bu-sen-wil-89a7a855) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

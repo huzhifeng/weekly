@@ -1,3 +1,4 @@
+- [CyberClip #54 错失的快乐](https://shyrz.me/54-joy-of-missing-out/)
 - [CyberClip #53 可能性思维](https://shyrz.me/53-possibility-thinking/)
 - [CyberClip #52 忙碌成瘾](https://shyrz.me/cyberclip-52-the-addiction-of-busyness/)
 - [CyberClip #50 社交网络的终结](https://shyrz.me/cyberclip-50-the-end-of-the-social-network/)

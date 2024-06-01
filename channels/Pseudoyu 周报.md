@@ -1,3 +1,4 @@
+- [周报 #59 - 沙漠之行、家庭与家人](https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515/)
 - [周报 #58 - 远程工作这一年](https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/)
 - [周报 #57 - 生活在别处（巴厘岛之行）](https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410/)
 - [周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/)

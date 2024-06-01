@@ -1,3 +1,4 @@
+- [【CDT周报】第172期：“主因是什么”构成了超越苏联笑话的作品](https://chinadigitaltimes.net/chinese/708407.html)
 - [【CDT周报】第171期：伊朗人民欢庆“北京大学名誉教授”之死](https://chinadigitaltimes.net/chinese/708195.html)
 - [【CDT周报】第170期：一档音综节目，咋就成了“五旬老太守国门”？](https://chinadigitaltimes.net/chinese/707923.html)
 - [【CDT周报】第169期：一个展示了百度管理文化的人，难道不代表最真实的百度？](https://chinadigitaltimes.net/chinese/707732.html)
