@@ -1,3 +1,5 @@
+- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)
+- [ragapp/ragapp](https://github.com/ragapp/ragapp)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent)
 - [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books)
