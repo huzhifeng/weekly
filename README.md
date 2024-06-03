@@ -3,6 +3,27 @@
 ## 潮流周刊
 - 2024/06/03 [第179期 - 喜贡爆炒](https://weekly.tw93.fun/posts/179-%E5%96%9C%E8%B4%A1%E7%88%86%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/06/03 [Hacker News Weekly Top 10 @2024-06-03](https://github.com/headllines/hackernews-weekly/issues/235) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/06/03 [一周杂记 in Week 5 May 2024](http://kingsamchen.github.io/2024/06/03/weekly-2024-may-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/06/03 [AIGC Weekly #74](https://quail.ink/op7418/p/aigc-weekly-74) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/06/03 [DistroWatch Weekly, Issue 1073](https://distrowatch.com/weekly.php?issue=20240603) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/06/03 [9to5Linux Weekly Roundup: June 2nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-2nd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/06/03 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/03 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/06/02 [猫鱼周刊 vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -23,12 +44,6 @@
 
 ## zdyxry Weekly Issue
 - 2024/06/02 [Weekly Issue-告诉别人你可能过得不好，是善良吗](https://zdyxry.github.io/2024/06/02/Weekly-Issue-%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%96%84%E8%89%AF%E5%90%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## GitHub Trending Weekly
-- 2024/06/02 [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/02 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 老胡的信息周刊
 - 2024/06/01 [05-27~06-02.老胡的周刊（第144期）.md](https://weekly.howie6879.com/2024/05-27~06-02.老胡的周刊（第144期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -80,18 +95,6 @@
 
 ## HelloGitHub
 - 2024/05/28 [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [More](channels/HelloGitHub.md)
-
-## Hacker News Weekly Top 10
-- 2024/05/27 [Hacker News Weekly Top 10 @2024-05-27](https://github.com/headllines/hackernews-weekly/issues/234) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/05/27 [一周杂记 in Week 4 May 2024](http://kingsamchen.github.io/2024/05/27/weekly-2024-may-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/05/27 [AIGC Weekly #73](https://quail.ink/op7418/p/aigc-weekly-73) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/05/27 [DistroWatch Weekly, Issue 1072](https://distrowatch.com/weekly.php?issue=20240527) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 广场周刊
 - 2024/05/26 [广场周刊（第 23 期）：难以放松](https://immmmm.com/weekly-23-20240526/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)

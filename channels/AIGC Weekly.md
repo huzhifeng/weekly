@@ -1,3 +1,4 @@
+- [AIGC Weekly #74](https://quail.ink/op7418/p/aigc-weekly-74)
 - [AIGC Weekly #73](https://quail.ink/op7418/p/aigc-weekly-73)
 - [AIGC Weekly #72  繁忙的一周](https://quail.ink/op7418/p/aigc-weekly-72)
 - [AIGC Weekly #71](https://quail.ink/op7418/p/aigc-weekly-71)
