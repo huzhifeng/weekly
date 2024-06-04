@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/06/04 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/04 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/06/03 [第179期 - 喜贡爆炒](https://weekly.tw93.fun/posts/179-%E5%96%9C%E8%B4%A1%E7%88%86%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +23,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/06/03 [9to5Linux Weekly Roundup: June 2nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-2nd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/06/03 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/03 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2024/06/02 [猫鱼周刊 vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)

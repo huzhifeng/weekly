@@ -1,3 +1,4 @@
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs)
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)
 - [ragapp/ragapp](https://github.com/ragapp/ragapp)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
