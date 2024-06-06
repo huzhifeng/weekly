@@ -1,10 +1,28 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/06/07 [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 1Link.Fun 科技周刊
+- 2024/06/06 [1link.fun 科技周刊 | 100 期之后的计划](https://1link.fun/blog/plans-after-issue100/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## 科技創業週報
+- 2024/06/06 [科技創業週報 #437：不想被打敗就加入；不能抵擋 AI，就與AI雙贏 f.t McKinsey｜科技博士李啟龍：「大人機時代」來臨，學會這幾種能力不用怕](https://blog.starrocket.io/posts/newsletter-2024-06-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2024/06/06 [学习周刊-总第162期-2024年第23周](https://wiki.eryajf.net/pages/282b7d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/06/06 [LWN.net Weekly Edition for June 6, 2024](https://lwn.net/Articles/975974/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/06/06 [FOSS Weekly #24.23: Pi 5 as Desktop, Microsoft's Recall Disaster, Pinokio Browser and More](https://itsfoss.com/newsletter/foss-weekly-24-23/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/06/05 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/06/06 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/06/05 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/06/06 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/06/03 [第179期 - 喜贡爆炒](https://weekly.tw93.fun/posts/179-%E5%96%9C%E8%B4%A1%E7%88%86%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -20,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2024/06/03 [DistroWatch Weekly, Issue 1073](https://distrowatch.com/weekly.php?issue=20240603) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/06/03 [9to5Linux Weekly Roundup: June 2nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-2nd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 猫鱼周刊
 - 2024/06/02 [猫鱼周刊 vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -63,29 +78,11 @@
 ## 科技爱好者周刊
 - 2024/05/31 [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 1Link.Fun 科技周刊
-- 2024/05/31 [1link.fun 科技周刊 | 第 92 期](https://1link.fun/blog/issue/issue92/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
 ## Web Review
 - 2024/05/31 [Web Review, Week 2024-22](https://ervin.ipsquad.net/blog/2024/05/31/web-review-week-2024-22/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2024/05/31 [#150 Multiple Layouts](https://thisweek.gnome.org/posts/2024/05/twig-150/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 独立开发变现周刊
-- 2024/05/31 [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2024/05/30 [科技創業週報 #436：AI來襲，動畫導演林思翰：這類創意人才不怕失業｜你聽過 5 AM Project 嗎？](https://blog.starrocket.io/posts/newsletter-2024-05-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2024/05/30 [学习周刊-总第161期-2024年第22周](https://wiki.eryajf.net/pages/a02638/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/05/30 [LWN.net Weekly Edition for May 30, 2024](https://lwn.net/Articles/974709/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/05/30 [FOSS Weekly #24.22: Ultramarine Linux, Open Source LLMs, Decibels Music Player and More](https://itsfoss.com/newsletter/foss-weekly-24-22/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/05/30 [泰晓资讯·6 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-06-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
