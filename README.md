@@ -1,5 +1,20 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/06/07 [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/06/07 [Web Review, Week 2024-23](https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/06/07 [#151 Pride Month](https://thisweek.gnome.org/posts/2024/06/twig-151/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/06/07 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/07 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/06/07 [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +32,6 @@
 
 ## FOSS Weekly
 - 2024/06/06 [FOSS Weekly #24.23: Pi 5 as Desktop, Microsoft's Recall Disaster, Pinokio Browser and More](https://itsfoss.com/newsletter/foss-weekly-24-23/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/06/06 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/06 [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/06/03 [第179期 - 喜贡爆炒](https://weekly.tw93.fun/posts/179-%E5%96%9C%E8%B4%A1%E7%88%86%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -74,15 +83,6 @@
 
 ## Python 潮流周刊
 - 2024/06/01 [Python 潮流周刊#53：我辈楷模，一个约见诺奖得主，一个成为核心开发者](https://pythoncat.top/posts/2024-06-01-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 科技爱好者周刊
-- 2024/05/31 [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/05/31 [Web Review, Week 2024-22](https://ervin.ipsquad.net/blog/2024/05/31/web-review-week-2024-22/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/05/31 [#150 Multiple Layouts](https://thisweek.gnome.org/posts/2024/05/twig-150/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 泰晓资讯
 - 2024/05/30 [泰晓资讯·6 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-06-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

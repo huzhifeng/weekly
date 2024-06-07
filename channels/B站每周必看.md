@@ -1,3 +1,6 @@
+- [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i)
+- [2024毕业歌《去明天》｜bilibili×周深](https://www.bilibili.com/video/BV1cf421R72i)
+- [狗狗打麻将已经走火入魔](https://www.bilibili.com/video/BV1iT421i7mH)
 - [( 相遇的这一天 ，终 于 到 来 了 ）](https://www.bilibili.com/video/BV1Ci421m7G4)
 - [《原神》动画短片———「未行之路」](https://www.bilibili.com/video/BV1bD421G7hy)
 - [《Whataya Want from Mi》](https://www.bilibili.com/video/BV12y41187a4)
