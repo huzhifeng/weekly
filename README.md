@@ -1,5 +1,17 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/06/08 [Python 潮流周刊#54：ChatTTS 强大的文本生成语音模型](https://pythoncat.top/posts/2024-06-08-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/06/08 [These past two weeks in KDE: massive stability work for Plasma 6.1](https://pointieststick.com/2024/06/07/these-past-two-weeks-in-kde-massive-stability-work-for-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/06/08 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/08 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/06/07 [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +20,6 @@
 
 ## This Week in GNOME
 - 2024/06/07 [#151 Pride Month](https://thisweek.gnome.org/posts/2024/06/twig-151/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/06/07 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/07 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/06/07 [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -81,9 +87,6 @@
 ## Hacker News Monthly Top 10
 - 2024/06/01 [Hacker News Monthly Top 10 @2024-06-01](https://github.com/headllines/hackernews-monthly/issues/70) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
-## Python 潮流周刊
-- 2024/06/01 [Python 潮流周刊#53：我辈楷模，一个约见诺奖得主，一个成为核心开发者](https://pythoncat.top/posts/2024-06-01-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 泰晓资讯
 - 2024/05/30 [泰晓资讯·6 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-06-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
@@ -95,9 +98,6 @@
 
 ## 广场周刊
 - 2024/05/26 [广场周刊（第 23 期）：难以放松](https://immmmm.com/weekly-23-20240526/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/05/25 [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## GeekPlux Letters
 - 2024/05/20 [润美前需处理好的几件事（税务相关）#64](https://letters.geekplux.com/64/) | [More](channels/GeekPlux%20Letters.md)

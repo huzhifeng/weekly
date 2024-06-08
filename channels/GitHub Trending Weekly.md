@@ -1,3 +1,4 @@
+- [duckdb/duckdb](https://github.com/duckdb/duckdb)
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey)
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs)
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10)
