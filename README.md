@@ -1,16 +1,25 @@
 # 周刊
 
+## 猫鱼周刊
+- 2024/06/09 [猫鱼周刊 vol. 027 广州特有的松弛感](https://ameow.xyz/archives/weekly-027) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/06/09 [【CDT周报】第173期：依然被屏蔽的历史，依然未结束的抗争](https://chinadigitaltimes.net/chinese/708740.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/06/09 [视野修炼第87期 | 端午安康](https://sugarat.top/weekly/2024-06-09.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## GitHub Trending Weekly
+- 2024/06/09 [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/09 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Python 潮流周刊
 - 2024/06/08 [Python 潮流周刊#54：ChatTTS 强大的文本生成语音模型](https://pythoncat.top/posts/2024-06-08-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
 - 2024/06/08 [These past two weeks in KDE: massive stability work for Plasma 6.1](https://pointieststick.com/2024/06/07/these-past-two-weeks-in-kde-massive-stability-work-for-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/06/08 [danielmiessler/fabric](https://github.com/danielmiessler/fabric) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/08 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技爱好者周刊
 - 2024/06/07 [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -54,12 +63,6 @@
 ## DistroWatch Weekly
 - 2024/06/03 [DistroWatch Weekly, Issue 1073](https://distrowatch.com/weekly.php?issue=20240603) | [More](channels/DistroWatch%20Weekly.md)
 
-## 猫鱼周刊
-- 2024/06/02 [猫鱼周刊 vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2024/06/02 [视野修炼第86期 | CSS 马里奥](https://sugarat.top/weekly/2024-06-02.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## Pseudoyu 周报
 - 2024/06/02 [周报 #60 - 虫子旁、教育理念与 EpubKit](https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
@@ -77,9 +80,6 @@
 
 ## 老胡的信息周刊
 - 2024/06/01 [05-27~06-02.老胡的周刊（第144期）.md](https://weekly.howie6879.com/2024/05-27~06-02.老胡的周刊（第144期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/06/01 [【CDT周报】第172期：“主因是什么”创作出超越苏联笑话的作品](https://chinadigitaltimes.net/chinese/708407.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## CyberClip
 - 2024/06/01 [CyberClip #54 错失的快乐](https://shyrz.me/54-joy-of-missing-out/) | [More](channels/CyberClip.md)
