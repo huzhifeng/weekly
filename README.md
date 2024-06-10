@@ -1,5 +1,29 @@
 # 周刊
 
+## 潮流周刊
+- 2024/06/10 [第180期 - 田园一角](https://weekly.tw93.fun/posts/180-%E7%94%B0%E5%9B%AD%E4%B8%80%E8%A7%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Hacker News Weekly Top 10
+- 2024/06/10 [Hacker News Weekly Top 10 @2024-06-10](https://github.com/headllines/hackernews-weekly/issues/236) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## Python 潮流周刊
+- 2024/06/10 [Python 潮流周刊#55：分享 9 个高质量的技术类信息源！](https://pythoncat.top/posts/2024-06-10-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## GeekPlux Letters
+- 2024/06/10 [外企内部转岗来美的局限性 [润美向] #65](https://letters.geekplux.com/65/) | [More](channels/GeekPlux%20Letters.md)
+
+## DistroWatch Weekly
+- 2024/06/10 [DistroWatch Weekly, Issue 1074](https://distrowatch.com/weekly.php?issue=20240610) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2024/06/10 [VikParuchuri/marker](https://github.com/VikParuchuri/marker) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/10 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/06/09 [06-03~06-10.老胡的周刊（第145期）.md](https://weekly.howie6879.com/2024/06-03~06-10.老胡的周刊（第145期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
 ## 猫鱼周刊
 - 2024/06/09 [猫鱼周刊 vol. 027 广州特有的松弛感](https://ameow.xyz/archives/weekly-027) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -9,14 +33,11 @@
 ## 视野修炼
 - 2024/06/09 [视野修炼第87期 | 端午安康](https://sugarat.top/weekly/2024-06-09.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2024/06/09 [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | [More](channels/GitHub%20Trending%20Weekly.md)
+## zdyxry Weekly Issue
+- 2024/06/09 [Weekly Issue-儿童节的由来](https://zdyxry.github.io/2024/06/09/Weekly-Issue-%E5%84%BF%E7%AB%A5%E8%8A%82%E7%9A%84%E7%94%B1%E6%9D%A5/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## B站每周必看
-- 2024/06/09 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
-## Python 潮流周刊
-- 2024/06/08 [Python 潮流周刊#54：ChatTTS 强大的文本生成语音模型](https://pythoncat.top/posts/2024-06-08-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+## 9to5Linux Weekly Roundup
+- 2024/06/09 [9to5Linux Weekly Roundup: June 9th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-9th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## This Week in KDE
 - 2024/06/08 [These past two weeks in KDE: massive stability work for Plasma 6.1](https://pointieststick.com/2024/06/07/these-past-two-weeks-in-kde-massive-stability-work-for-plasma-6-1/) | [More](channels/This%20Week%20in%20KDE.md)
@@ -48,20 +69,11 @@
 ## FOSS Weekly
 - 2024/06/06 [FOSS Weekly #24.23: Pi 5 as Desktop, Microsoft's Recall Disaster, Pinokio Browser and More](https://itsfoss.com/newsletter/foss-weekly-24-23/) | [More](channels/FOSS%20Weekly.md)
 
-## 潮流周刊
-- 2024/06/03 [第179期 - 喜贡爆炒](https://weekly.tw93.fun/posts/179-%E5%96%9C%E8%B4%A1%E7%88%86%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Weekly Top 10
-- 2024/06/03 [Hacker News Weekly Top 10 @2024-06-03](https://github.com/headllines/hackernews-weekly/issues/235) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
 ## 一周杂记
 - 2024/06/03 [一周杂记 in Week 5 May 2024](http://kingsamchen.github.io/2024/06/03/weekly-2024-may-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2024/06/03 [AIGC Weekly #74](https://quail.ink/op7418/p/aigc-weekly-74) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/06/03 [DistroWatch Weekly, Issue 1073](https://distrowatch.com/weekly.php?issue=20240603) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Pseudoyu 周报
 - 2024/06/02 [周报 #60 - 虫子旁、教育理念与 EpubKit](https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -74,12 +86,6 @@
 
 ## 赫周刊
 - 2024/06/02 [为什么我不再同时做多件事？｜赫周刊 #44](https://www.cliveshd.com/newsletter-44/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
-
-## zdyxry Weekly Issue
-- 2024/06/02 [Weekly Issue-告诉别人你可能过得不好，是善良吗](https://zdyxry.github.io/2024/06/02/Weekly-Issue-%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%96%84%E8%89%AF%E5%90%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/06/01 [05-27~06-02.老胡的周刊（第144期）.md](https://weekly.howie6879.com/2024/05-27~06-02.老胡的周刊（第144期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/06/01 [CyberClip #54 错失的快乐](https://shyrz.me/54-joy-of-missing-out/) | [More](channels/CyberClip.md)
@@ -98,9 +104,6 @@
 
 ## 广场周刊
 - 2024/05/26 [广场周刊（第 23 期）：难以放松](https://immmmm.com/weekly-23-20240526/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
-
-## GeekPlux Letters
-- 2024/05/20 [润美前需处理好的几件事（税务相关）#64](https://letters.geekplux.com/64/) | [More](channels/GeekPlux%20Letters.md)
 
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)

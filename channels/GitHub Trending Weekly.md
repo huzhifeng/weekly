@@ -1,3 +1,5 @@
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb)
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey)
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs)
