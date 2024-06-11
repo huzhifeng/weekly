@@ -1,5 +1,20 @@
 # 周刊
 
+## 一周杂记
+- 2024/06/11 [一周杂记 in Week 1 June 2024](http://kingsamchen.github.io/2024/06/12/weekly-2024-jun-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## 胡言乱语
+- 2024/06/11 [20240611的胡言乱语](https://www.bboy.app/2024/06/11/20240611%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## AIGC Weekly
+- 2024/06/11 [AIGC Weekly #75](https://quail.ink/op7418/p/aigc-weekly-75) | [More](channels/AIGC%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2024/06/11 [xenova/transformers.js](https://github.com/xenova/transformers.js) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/11 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/06/10 [第180期 - 田园一角](https://weekly.tw93.fun/posts/180-%E7%94%B0%E5%9B%AD%E4%B8%80%E8%A7%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -14,12 +29,6 @@
 
 ## DistroWatch Weekly
 - 2024/06/10 [DistroWatch Weekly, Issue 1074](https://distrowatch.com/weekly.php?issue=20240610) | [More](channels/DistroWatch%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/06/10 [VikParuchuri/marker](https://github.com/VikParuchuri/marker) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/10 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 老胡的信息周刊
 - 2024/06/09 [06-03~06-10.老胡的周刊（第145期）.md](https://weekly.howie6879.com/2024/06-03~06-10.老胡的周刊（第145期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -69,12 +78,6 @@
 ## FOSS Weekly
 - 2024/06/06 [FOSS Weekly #24.23: Pi 5 as Desktop, Microsoft's Recall Disaster, Pinokio Browser and More](https://itsfoss.com/newsletter/foss-weekly-24-23/) | [More](channels/FOSS%20Weekly.md)
 
-## 一周杂记
-- 2024/06/03 [一周杂记 in Week 5 May 2024](http://kingsamchen.github.io/2024/06/03/weekly-2024-may-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/06/03 [AIGC Weekly #74](https://quail.ink/op7418/p/aigc-weekly-74) | [More](channels/AIGC%20Weekly.md)
-
 ## Pseudoyu 周报
 - 2024/06/02 [周报 #60 - 虫子旁、教育理念与 EpubKit](https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
@@ -96,9 +99,6 @@
 ## 泰晓资讯
 - 2024/05/30 [泰晓资讯·6 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-06-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
-## 胡言乱语
-- 2024/05/29 [20240529的胡言乱语](https://www.bboy.app/2024/05/29/20240529%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## HelloGitHub
 - 2024/05/28 [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [More](channels/HelloGitHub.md)
 
@@ -119,7 +119,4 @@
 
 ## Giovanni Collazo Notes
 - 2024/03/14 [Notes #12](https://gcollazo.com/notes-12-2/) | [More](channels/Giovanni%20Collazo%20Notes.md)
-
-## 拾月通讯
-- 2024/02/08 [拾月通讯（2024.02）](https://www.skyue.com/24020822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 

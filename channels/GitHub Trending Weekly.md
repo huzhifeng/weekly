@@ -1,3 +1,5 @@
+- [xenova/transformers.js](https://github.com/xenova/transformers.js)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify)
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb)
