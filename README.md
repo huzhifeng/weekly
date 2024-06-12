@@ -1,5 +1,14 @@
 # 周刊
 
+## 1Link.Fun 科技周刊
+- 2024/06/12 [1link.fun 科技周刊 | 第 94 期](https://1link.fun/blog/issue/issue94/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/06/12 [xenova/transformers.js](https://github.com/xenova/transformers.js) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/12 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 一周杂记
 - 2024/06/11 [一周杂记 in Week 1 June 2024](http://kingsamchen.github.io/2024/06/12/weekly-2024-jun-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -8,12 +17,6 @@
 
 ## AIGC Weekly
 - 2024/06/11 [AIGC Weekly #75](https://quail.ink/op7418/p/aigc-weekly-75) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/06/11 [xenova/transformers.js](https://github.com/xenova/transformers.js) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/11 [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/06/10 [第180期 - 田园一角](https://weekly.tw93.fun/posts/180-%E7%94%B0%E5%9B%AD%E4%B8%80%E8%A7%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -62,9 +65,6 @@
 
 ## 独立开发变现周刊
 - 2024/06/07 [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 1Link.Fun 科技周刊
-- 2024/06/06 [1link.fun 科技周刊 | 100 期之后的计划](https://1link.fun/blog/plans-after-issue100/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
 - 2024/06/06 [科技創業週報 #437：不想被打敗就加入；不能抵擋 AI，就與AI雙贏 f.t McKinsey｜科技博士李啟龍：「大人機時代」來臨，學會這幾種能力不用怕](https://blog.starrocket.io/posts/newsletter-2024-06-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

@@ -1,3 +1,4 @@
+- [1link.fun 科技周刊 | 第 94 期](https://1link.fun/blog/issue/issue94/)
 - [1link.fun 科技周刊 | 100 期之后的计划](https://1link.fun/blog/plans-after-issue100/)
 - [1link.fun 科技周刊 | 第 93 期](https://1link.fun/blog/issue/issue93/)
 - [1link.fun 科技周刊 | 第 92 期](https://1link.fun/blog/issue/issue92/)
