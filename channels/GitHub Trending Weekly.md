@@ -1,3 +1,6 @@
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [immich-app/immich](https://github.com/immich-app/immich)
 - [xenova/transformers.js](https://github.com/xenova/transformers.js)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify)
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker)

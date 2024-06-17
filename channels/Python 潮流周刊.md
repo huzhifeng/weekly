@@ -1,3 +1,4 @@
+- [Python 潮流周刊#56：NumPy 2.0 里更快速的字符串函数](https://pythoncat.top/posts/2024-06-15-weekly/)
 - [Python 潮流周刊#55：分享 9 个高质量的技术类信息源！](https://pythoncat.top/posts/2024-06-10-weekly/)
 - [Python 潮流周刊#54：ChatTTS 强大的文本生成语音模型](https://pythoncat.top/posts/2024-06-08-weekly/)
 - [Python 潮流周刊#53：我辈楷模，一个约见诺奖得主，一个成为核心开发者](https://pythoncat.top/posts/2024-06-01-weekly/)

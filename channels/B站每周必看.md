@@ -1,3 +1,6 @@
+- [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t)
+- [《黑神话：悟空》耗时两年创作独立短片 | 直面天命](https://www.bilibili.com/video/BV1e7421R7sR)
+- [【毕导】打个赌，你说不出第二种蓝色的水果](https://www.bilibili.com/video/BV1mT421Y7mE)
 - [感谢大家对植物大战僵尸杂交版的支持！](https://www.bilibili.com/video/BV1ay411h74i)
 - [2024毕业歌《去明天》｜bilibili×周深](https://www.bilibili.com/video/BV1cf421R72i)
 - [狗狗打麻将已经走火入魔](https://www.bilibili.com/video/BV1iT421i7mH)

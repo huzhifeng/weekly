@@ -1,3 +1,4 @@
+- [周报 #61 - 好朋友的婚礼与对婚姻的思考](https://www.pseudoyu.com/zh/2024/06/16/weekly_review_20240616/)
 - [周报 #60 - 虫子旁、教育理念与 EpubKit](https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/)
 - [周报 #59 - 沙漠之行、家庭与家人](https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515/)
 - [周报 #58 - 远程工作这一年](https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/)

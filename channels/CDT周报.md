@@ -1,3 +1,4 @@
+- [【CDT周报】第174期：“中国是世界上公认的最安全的国家之一”](https://chinadigitaltimes.net/chinese/708936.html)
 - [【CDT周报】第173期：依然被屏蔽的历史，依然未结束的抗争](https://chinadigitaltimes.net/chinese/708740.html)
 - [【CDT周报】第172期：“主因是什么”构成了超越苏联笑话的作品](https://chinadigitaltimes.net/chinese/708407.html)
 - [【CDT周报】第171期：伊朗人民欢庆“北京大学名誉教授”之死](https://chinadigitaltimes.net/chinese/708195.html)
