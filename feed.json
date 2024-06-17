@@ -248,6 +248,7 @@
 			"channel": "二丫讲梵学习周刊",
 			"portal": "https://github.com/eryajf/learning-weekly",
 			"url": "https://wiki.eryajf.net/learning-weekly.xml",
+			"filter": ["学习周刊"],
 			"order": "ascending"
 		},
 		{
