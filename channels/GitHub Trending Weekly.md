@@ -1,3 +1,4 @@
+- [idootop/mi-gpt](https://github.com/idootop/mi-gpt)
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - [immich-app/immich](https://github.com/immich-app/immich)

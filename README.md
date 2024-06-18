@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/06/18 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/18 [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/06/17 [第181期 - 水培薄荷](https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +23,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/06/17 [9to5Linux Weekly Roundup: June 16th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-16th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/06/17 [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/17 [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 广场周刊
 - 2024/06/16 [广场周刊（第 24 期）：你成熟了](https://immmmm.com/weekly-24-20240616/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -72,6 +72,9 @@
 ## 独立开发变现周刊
 - 2024/06/14 [独立开发变现周刊（第137期） : 在线写作课程年收入30万美元](https://www.ezindie.com/weekly/issue-137) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2024/06/13 [科技創業週報 #438：「換位思考」的面試攻略｜成就感一定要用身心精力換取嗎？](https://blog.starrocket.io/posts/newsletter-2024-06-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## LWN.net Weekly Edition
 - 2024/06/13 [LWN.net Weekly Edition for June 13, 2024](https://lwn.net/Articles/977365/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
@@ -83,9 +86,6 @@
 
 ## GeekPlux Letters
 - 2024/06/10 [外企内部转岗来美的局限性 [润美向] #65](https://letters.geekplux.com/65/) | [More](channels/GeekPlux%20Letters.md)
-
-## 科技創業週報
-- 2024/06/06 [科技創業週報 #437：不想被打敗就加入；不能抵擋 AI，就與AI雙贏 f.t McKinsey｜科技博士李啟龍：「大人機時代」來臨，學會這幾種能力不用怕](https://blog.starrocket.io/posts/newsletter-2024-06-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 二丫讲梵学习周刊
 - 2024/06/06 [学习周刊-总第162期-2024年第23周](https://wiki.eryajf.net/pages/282b7d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
