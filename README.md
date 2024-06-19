@@ -1,10 +1,13 @@
 # 周刊
 
+## 1Link.Fun 科技周刊
+- 2024/06/19 [1link.fun 科技周刊 | 第 95 期](https://1link.fun/blog/issue/issue95/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2024/06/18 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/06/19 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/06/18 [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/06/19 [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/06/17 [第181期 - 水培薄荷](https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -20,9 +23,6 @@
 
 ## DistroWatch Weekly
 - 2024/06/17 [DistroWatch Weekly, Issue 1075](https://distrowatch.com/weekly.php?issue=20240617) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/06/17 [9to5Linux Weekly Roundup: June 16th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-16th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 广场周刊
 - 2024/06/16 [广场周刊（第 24 期）：你成熟了](https://immmmm.com/weekly-24-20240616/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -77,9 +77,6 @@
 
 ## LWN.net Weekly Edition
 - 2024/06/13 [LWN.net Weekly Edition for June 13, 2024](https://lwn.net/Articles/977365/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## 1Link.Fun 科技周刊
-- 2024/06/12 [1link.fun 科技周刊 | 第 94 期](https://1link.fun/blog/issue/issue94/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2024/06/11 [20240611的胡言乱语](https://www.bboy.app/2024/06/11/20240611%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
