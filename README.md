@@ -1,13 +1,28 @@
 # 周刊
 
-## 1Link.Fun 科技周刊
-- 2024/06/19 [1link.fun 科技周刊 | 第 95 期](https://1link.fun/blog/issue/issue95/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+## 独立开发变现周刊
+- 2024/06/21 [独立开发变现周刊（第138期） : 打造月收入14万美金的SaaS，350万美金售出](https://www.ezindie.com/weekly/issue-138) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 科技創業週報
+- 2024/06/20 [科技創業週報 #439：AIGC工作流：Midjourney創新設計與AI藝術｜當主管每天忙到要爆炸！？](https://blog.starrocket.io/posts/newsletter-2024-06-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 奇趣周刊
+- 2024/06/20 [奇趣周刊 - 第 55 期](https://zishu.me/blog/weekly-55.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/06/20 [LWN.net Weekly Edition for June 20, 2024](https://lwn.net/Articles/978238/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/06/20 [FOSS Weekly #24.25: New Adélie Linux, Lindroid, Arch Install and More](https://itsfoss.com/newsletter/foss-weekly-24-25/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/06/19 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/06/20 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/06/19 [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/06/20 [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 1Link.Fun 科技周刊
+- 2024/06/19 [1link.fun 科技周刊 | 第 95 期](https://1link.fun/blog/issue/issue95/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2024/06/17 [第181期 - 水培薄荷](https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -23,6 +38,9 @@
 
 ## DistroWatch Weekly
 - 2024/06/17 [DistroWatch Weekly, Issue 1075](https://distrowatch.com/weekly.php?issue=20240617) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/06/17 [9to5Linux Weekly Roundup: June 16th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-16th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 广场周刊
 - 2024/06/16 [广场周刊（第 24 期）：你成熟了](https://immmmm.com/weekly-24-20240616/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -63,20 +81,8 @@
 ## Web Review
 - 2024/06/14 [Web Review, Week 2024-24](https://ervin.ipsquad.net/blog/2024/06/14/web-review-week-2024-24/) | [More](channels/Web%20Review.md)
 
-## FOSS Weekly
-- 2024/06/14 [FOSS Weekly #24.24: Pironman, VLC Tips, Amber Lang and 12 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-24-24/) | [More](channels/FOSS%20Weekly.md)
-
 ## This Week in GNOME
 - 2024/06/14 [#152 Bottom Sheets](https://thisweek.gnome.org/posts/2024/06/twig-152/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 独立开发变现周刊
-- 2024/06/14 [独立开发变现周刊（第137期） : 在线写作课程年收入30万美元](https://www.ezindie.com/weekly/issue-137) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2024/06/13 [科技創業週報 #438：「換位思考」的面試攻略｜成就感一定要用身心精力換取嗎？](https://blog.starrocket.io/posts/newsletter-2024-06-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2024/06/13 [LWN.net Weekly Edition for June 13, 2024](https://lwn.net/Articles/977365/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 胡言乱语
 - 2024/06/11 [20240611的胡言乱语](https://www.bboy.app/2024/06/11/20240611%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

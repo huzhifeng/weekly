@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.25: New Adélie Linux, Lindroid, Arch Install and More](https://itsfoss.com/newsletter/foss-weekly-24-25/)
 - [FOSS Weekly #24.24: Pironman, VLC Tips, Amber Lang and 12 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-24-24/)
 - [FOSS Weekly #24.23: Pi 5 as Desktop, Microsoft's Recall Disaster, Pinokio Browser and More](https://itsfoss.com/newsletter/foss-weekly-24-23/)
 - [FOSS Weekly #24.22: Ultramarine Linux, Open Source LLMs, Decibels Music Player and More](https://itsfoss.com/newsletter/foss-weekly-24-22/)
