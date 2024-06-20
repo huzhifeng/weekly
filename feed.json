@@ -43,6 +43,11 @@
 			"url": "https://ameow.xyz/feed/categories/weekly.xml"
 		},
 		{
+			"channel": "奇趣周刊",
+			"portal": "https://zishu.me/categories/weekly/",
+			"url": "https://zishu.me/categories/weekly/index.xml"
+		},
+		{
 			"channel": "CDT周报",
 			"portal": "https://chinadigitaltimes.net/chinese/weekly-digest",
 			"url": "https://chinadigitaltimes.net/chinese/category/weekly-digest/feed"
