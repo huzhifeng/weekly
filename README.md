@@ -1,5 +1,20 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/06/21 [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/06/21 [Web Review, Week 2024-25](https://ervin.ipsquad.net/blog/2024/06/21/web-review-week-2024-25/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/06/21 [#153 Proudly Colorful](https://thisweek.gnome.org/posts/2024/06/twig-153/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/06/21 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/21 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/06/21 [独立开发变现周刊（第138期） : 打造月收入14万美金的SaaS，350万美金售出](https://www.ezindie.com/weekly/issue-138) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -9,17 +24,14 @@
 ## 奇趣周刊
 - 2024/06/20 [奇趣周刊 - 第 55 期](https://zishu.me/blog/weekly-55.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
+## 二丫讲梵学习周刊
+- 2024/06/20 [学习周刊-总第164期-2024年第25周](https://wiki.eryajf.net/pages/617acd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## LWN.net Weekly Edition
 - 2024/06/20 [LWN.net Weekly Edition for June 20, 2024](https://lwn.net/Articles/978238/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2024/06/20 [FOSS Weekly #24.25: New Adélie Linux, Lindroid, Arch Install and More](https://itsfoss.com/newsletter/foss-weekly-24-25/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/06/20 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/20 [自来也老师，这次，我来保护你!](https://www.bilibili.com/video/BV1GS411P74t) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/06/19 [1link.fun 科技周刊 | 第 95 期](https://1link.fun/blog/issue/issue95/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -75,23 +87,11 @@
 ## This Week in KDE
 - 2024/06/15 [This week in KDE: Final Plasma 6.1 polishing and new features for 6.2](https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/06/14 [科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/06/14 [Web Review, Week 2024-24](https://ervin.ipsquad.net/blog/2024/06/14/web-review-week-2024-24/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/06/14 [#152 Bottom Sheets](https://thisweek.gnome.org/posts/2024/06/twig-152/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 胡言乱语
 - 2024/06/11 [20240611的胡言乱语](https://www.bboy.app/2024/06/11/20240611%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GeekPlux Letters
 - 2024/06/10 [外企内部转岗来美的局限性 [润美向] #65](https://letters.geekplux.com/65/) | [More](channels/GeekPlux%20Letters.md)
-
-## 二丫讲梵学习周刊
-- 2024/06/06 [学习周刊-总第162期-2024年第23周](https://wiki.eryajf.net/pages/282b7d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 印记周报
 - 2024/06/02 [周报 #09 – 灿烂的花园](https://yinji.org/5263.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)

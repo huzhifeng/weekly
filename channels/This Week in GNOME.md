@@ -1,3 +1,4 @@
+- [#153 Proudly Colorful](https://thisweek.gnome.org/posts/2024/06/twig-153/)
 - [#152 Bottom Sheets](https://thisweek.gnome.org/posts/2024/06/twig-152/)
 - [#151 Pride Month](https://thisweek.gnome.org/posts/2024/06/twig-151/)
 - [#150 Multiple Layouts](https://thisweek.gnome.org/posts/2024/05/twig-150/)
