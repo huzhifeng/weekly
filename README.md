@@ -1,5 +1,17 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/06/22 [Python 潮流周刊#57：Python 该采用日历版本吗？](https://pythoncat.top/posts/2024-06-22-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/06/22 [This week in KDE: Plasma 6.1 cleanups](https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/06/22 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/22 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/06/21 [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +20,6 @@
 
 ## This Week in GNOME
 - 2024/06/21 [#153 Proudly Colorful](https://thisweek.gnome.org/posts/2024/06/twig-153/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/06/21 [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/21 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/06/21 [独立开发变现周刊（第138期） : 打造月收入14万美金的SaaS，350万美金售出](https://www.ezindie.com/weekly/issue-138) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -80,12 +86,6 @@
 
 ## CyberClip
 - 2024/06/15 [CyberClip #55 互联网的消失](https://shyrz.me/55-the-disappearance-of-the-internet/) | [More](channels/CyberClip.md)
-
-## Python 潮流周刊
-- 2024/06/15 [Python 潮流周刊#56：NumPy 2.0 里更快速的字符串函数](https://pythoncat.top/posts/2024-06-15-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/06/15 [This week in KDE: Final Plasma 6.1 polishing and new features for 6.2](https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 胡言乱语
 - 2024/06/11 [20240611的胡言乱语](https://www.bboy.app/2024/06/11/20240611%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

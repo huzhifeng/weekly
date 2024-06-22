@@ -1,3 +1,5 @@
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 - [google/mesop](https://github.com/google/mesop)
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt)
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)

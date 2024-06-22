@@ -1,3 +1,4 @@
+- [This week in KDE: Plasma 6.1 cleanups](https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/)
 - [This week in KDE: Final Plasma 6.1 polishing and new features for 6.2](https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/)
 - [These past two weeks in KDE: massive stability work for Plasma 6.1](https://pointieststick.com/2024/06/07/these-past-two-weeks-in-kde-massive-stability-work-for-plasma-6-1/)
 - [This week in KDE: Triple buffering and other sources of amazingness](https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/)
