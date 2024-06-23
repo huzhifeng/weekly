@@ -1,3 +1,4 @@
+- [PIVOT Vol.5 终于毕业了！](https://anotherdayu.com/2024/5796/)
 - [PIVOT Vol.4 经验的消失](https://anotherdayu.com/2024/5657/)
 - [PIVOT Vol.3](https://anotherdayu.com/2024/5611/)
 - [PIVOT Vol.2 快乐 + 期望 = 现实](https://anotherdayu.com/2023/5519/)
