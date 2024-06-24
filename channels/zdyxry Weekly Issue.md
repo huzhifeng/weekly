@@ -1,3 +1,4 @@
+- [Weekly Issue-理论上没问题](https://zdyxry.github.io/2024/06/23/Weekly-Issue-%E7%90%86%E8%AE%BA%E4%B8%8A%E6%B2%A1%E9%97%AE%E9%A2%98/)
 - [Weekly Issue-什么是职场 PUA？](https://zdyxry.github.io/2024/06/16/Weekly-Issue-%E4%BB%80%E4%B9%88%E6%98%AF%E8%81%8C%E5%9C%BA-PUA/)
 - [Weekly Issue-儿童节的由来](https://zdyxry.github.io/2024/06/09/Weekly-Issue-%E5%84%BF%E7%AB%A5%E8%8A%82%E7%9A%84%E7%94%B1%E6%9D%A5/)
 - [Weekly Issue-告诉别人你可能过得不好，是善良吗](https://zdyxry.github.io/2024/06/02/Weekly-Issue-%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%96%84%E8%89%AF%E5%90%97/)

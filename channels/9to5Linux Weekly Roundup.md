@@ -1,3 +1,4 @@
+- [9to5Linux Weekly Roundup: June 23rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2024)
 - [9to5Linux Weekly Roundup: June 16th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-16th-2024)
 - [9to5Linux Weekly Roundup: June 9th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-9th-2024)
 - [9to5Linux Weekly Roundup: June 2nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-2nd-2024)
