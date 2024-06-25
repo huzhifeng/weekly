@@ -1,5 +1,14 @@
 # 周刊
 
+## GeekPlux Letters
+- 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
+
+## GitHub Trending Weekly
+- 2024/06/25 [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/25 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/06/24 [第182期 - 煎个牛排](https://weekly.tw93.fun/posts/182-%E7%85%8E%E4%B8%AA%E7%89%9B%E6%8E%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +26,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/06/24 [9to5Linux Weekly Roundup: June 23rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/06/24 [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/24 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2024/06/23 [猫鱼周刊 vol. 029 内地第一家麦当劳](https://ameow.xyz/archives/weekly-029) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -98,9 +101,6 @@
 
 ## 胡言乱语
 - 2024/06/11 [20240611的胡言乱语](https://www.bboy.app/2024/06/11/20240611%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GeekPlux Letters
-- 2024/06/10 [外企内部转岗来美的局限性 [润美向] #65](https://letters.geekplux.com/65/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 艾迪蓝波
 - 2024/06/02 [Vol.23 5月榜单：食南之徒](https://www.idnunber.top/article/0d42bb24-ab39-4d01-afce-2118dc960203) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
