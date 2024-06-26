@@ -1,13 +1,13 @@
 # 周刊
 
-## GeekPlux Letters
-- 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
-
 ## GitHub Trending Weekly
-- 2024/06/25 [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/06/26 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/06/25 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/06/26 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## GeekPlux Letters
+- 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 潮流周刊
 - 2024/06/24 [第182期 - 煎个牛排](https://weekly.tw93.fun/posts/182-%E7%85%8E%E4%B8%AA%E7%89%9B%E6%8E%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
