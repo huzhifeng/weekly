@@ -1,10 +1,22 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/06/28 [独立开发变现周刊（第139期） : 年收入960万美元的翻页书制作工具](https://www.ezindie.com/weekly/issue-139) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 奇趣周刊
+- 2024/06/27 [奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## FOSS Weekly
+- 2024/06/27 [FOSS Weekly #24.26: Tiling Windows, AI Coming to Firefox, EasyOS, PDF Editing in ONLYOFFICE](https://itsfoss.com/newsletter/foss-weekly-24-26/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/06/26 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/06/27 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/06/26 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/06/27 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## LWN.net Weekly Edition
+- 2024/06/26 [LWN.net Weekly Edition for June 27, 2024](https://lwn.net/Articles/979084/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## GeekPlux Letters
 - 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
@@ -66,23 +78,11 @@
 ## This Week in GNOME
 - 2024/06/21 [#153 Proudly Colorful](https://thisweek.gnome.org/posts/2024/06/twig-153/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/06/21 [独立开发变现周刊（第138期） : 打造月收入14万美金的SaaS，350万美金售出](https://www.ezindie.com/weekly/issue-138) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
 ## 科技創業週報
 - 2024/06/20 [科技創業週報 #439：AIGC工作流：Midjourney創新設計與AI藝術｜當主管每天忙到要爆炸！？](https://blog.starrocket.io/posts/newsletter-2024-06-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## 奇趣周刊
-- 2024/06/20 [奇趣周刊 - 第 55 期](https://zishu.me/blog/weekly-55.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
 ## 二丫讲梵学习周刊
 - 2024/06/20 [学习周刊-总第164期-2024年第25周](https://wiki.eryajf.net/pages/617acd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/06/20 [LWN.net Weekly Edition for June 20, 2024](https://lwn.net/Articles/978238/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/06/20 [FOSS Weekly #24.25: New Adélie Linux, Lindroid, Arch Install and More](https://itsfoss.com/newsletter/foss-weekly-24-25/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/06/20 [泰晓资讯·6 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-06-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

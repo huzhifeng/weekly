@@ -1,3 +1,4 @@
+- [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 - [google/mesop](https://github.com/google/mesop)
