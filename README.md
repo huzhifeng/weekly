@@ -1,19 +1,34 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/06/28 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/06/28 [Web Review, Week 2024-26](https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/) | [More](channels/Web%20Review.md)
+
+## HelloGitHub
+- 2024/06/28 [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [More](channels/HelloGitHub.md)
+
+## This Week in GNOME
+- 2024/06/28 [#154 Pride Day!](https://thisweek.gnome.org/posts/2024/06/twig-154/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/06/28 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/28 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/06/28 [独立开发变现周刊（第139期） : 年收入960万美元的翻页书制作工具](https://www.ezindie.com/weekly/issue-139) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 奇趣周刊
 - 2024/06/27 [奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
+## 二丫讲梵学习周刊
+- 2024/06/27 [学习周刊-总第165期-2024年第26周](https://wiki.eryajf.net/pages/48f2ad/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## FOSS Weekly
 - 2024/06/27 [FOSS Weekly #24.26: Tiling Windows, AI Coming to Firefox, EasyOS, PDF Editing in ONLYOFFICE](https://itsfoss.com/newsletter/foss-weekly-24-26/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/06/27 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/27 [3000年前的“神兽”长什么样？](https://www.bilibili.com/video/BV1bw4m1v7pk) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## LWN.net Weekly Edition
 - 2024/06/26 [LWN.net Weekly Edition for June 27, 2024](https://lwn.net/Articles/979084/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -69,20 +84,8 @@
 ## This Week in KDE
 - 2024/06/22 [This week in KDE: Plasma 6.1 cleanups](https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/06/21 [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/06/21 [Web Review, Week 2024-25](https://ervin.ipsquad.net/blog/2024/06/21/web-review-week-2024-25/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/06/21 [#153 Proudly Colorful](https://thisweek.gnome.org/posts/2024/06/twig-153/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 科技創業週報
 - 2024/06/20 [科技創業週報 #439：AIGC工作流：Midjourney創新設計與AI藝術｜當主管每天忙到要爆炸！？](https://blog.starrocket.io/posts/newsletter-2024-06-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2024/06/20 [学习周刊-总第164期-2024年第25周](https://wiki.eryajf.net/pages/617acd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 泰晓资讯
 - 2024/06/20 [泰晓资讯·6 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-06-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -110,9 +113,6 @@
 
 ## Hacker News Monthly Top 10
 - 2024/06/01 [Hacker News Monthly Top 10 @2024-06-01](https://github.com/headllines/hackernews-monthly/issues/70) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
-
-## HelloGitHub
-- 2024/05/28 [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [More](channels/HelloGitHub.md)
 
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
