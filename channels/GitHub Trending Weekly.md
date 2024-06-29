@@ -1,3 +1,4 @@
+- [Doriandarko/maestro](https://github.com/Doriandarko/maestro)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi)
 - [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)

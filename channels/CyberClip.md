@@ -1,3 +1,4 @@
+- [CyberClip #56 好奇心与时间](https://shyrz.me/56-curiosity-and-time/)
 - [CyberClip #55 互联网的消失](https://shyrz.me/55-the-disappearance-of-the-internet/)
 - [CyberClip #54 错失的快乐](https://shyrz.me/54-joy-of-missing-out/)
 - [CyberClip #53 可能性思维](https://shyrz.me/53-possibility-thinking/)

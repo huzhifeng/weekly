@@ -1,3 +1,4 @@
+- [Python 潮流周刊#58：最快运行原型的语言](https://pythoncat.top/posts/2024-06-29-weekly/)
 - [Python 潮流周刊#57：Python 该采用日历版本吗？](https://pythoncat.top/posts/2024-06-22-weekly/)
 - [Python 潮流周刊#56：NumPy 2.0 里更快速的字符串函数](https://pythoncat.top/posts/2024-06-15-weekly/)
 - [Python 潮流周刊#55：分享 9 个高质量的技术类信息源！](https://pythoncat.top/posts/2024-06-10-weekly/)
