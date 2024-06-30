@@ -1,5 +1,29 @@
 # 周刊
 
+## 潮流周刊
+- 2024/07/01 [第183期 - 飞翔的鸟](https://weekly.tw93.fun/posts/183-%E9%A3%9E%E7%BF%94%E7%9A%84%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/06/30 [猫鱼周刊 vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/06/30 [【CDT周报】第176期：一个大写的人，一道照亮世人心灵的光](https://chinadigitaltimes.net/chinese/709296.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/06/30 [视野修炼第90期 | 豆包AI IDE](https://sugarat.top/weekly/2024-06-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 印记周报
+- 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2024/06/30 [Doriandarko/maestro](https://github.com/Doriandarko/maestro) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/06/30 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/06/29 [06-24~06-30.老胡的周刊（第148期）.md](https://weekly.howie6879.com/2024/06-24~06-30.老胡的周刊（第148期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
 ## CyberClip
 - 2024/06/29 [CyberClip #56 好奇心与时间](https://shyrz.me/56-curiosity-and-time/) | [More](channels/CyberClip.md)
 
@@ -8,12 +32,6 @@
 
 ## This Week in KDE
 - 2024/06/29 [This week in KDE: everything, I think](https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/06/29 [Doriandarko/maestro](https://github.com/Doriandarko/maestro) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/29 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技爱好者周刊
 - 2024/06/28 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -48,9 +66,6 @@
 ## GeekPlux Letters
 - 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
 
-## 潮流周刊
-- 2024/06/24 [第182期 - 煎个牛排](https://weekly.tw93.fun/posts/182-%E7%85%8E%E4%B8%AA%E7%89%9B%E6%8E%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## Hacker News Weekly Top 10
 - 2024/06/24 [Hacker News Weekly Top 10 @2024-06-24](https://github.com/headllines/hackernews-weekly/issues/238) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -63,32 +78,14 @@
 ## DistroWatch Weekly
 - 2024/06/24 [DistroWatch Weekly, Issue 1076](https://distrowatch.com/weekly.php?issue=20240624) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2024/06/24 [9to5Linux Weekly Roundup: June 23rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## 猫鱼周刊
-- 2024/06/23 [猫鱼周刊 vol. 029 内地第一家麦当劳](https://ameow.xyz/archives/weekly-029) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/06/23 [【CDT周报】第175期：收30年前的税，放50年后的债](https://chinadigitaltimes.net/chinese/709143.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2024/06/23 [视野修炼第89期 | 2023 年度 JS 报告](https://sugarat.top/weekly/2024-06-23.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## Pseudoyu 周报
 - 2024/06/23 [周报 #62 - 香港之行、5am club 计划与 Rust 学习](https://www.pseudoyu.com/zh/2024/06/23/weekly_review_20240623/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 印记周报
-- 2024/06/23 [周报 #10 – 我毕业了](https://yinji.org/5265.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## zdyxry Weekly Issue
 - 2024/06/23 [Weekly Issue-理论上没问题](https://zdyxry.github.io/2024/06/23/Weekly-Issue-%E7%90%86%E8%AE%BA%E4%B8%8A%E6%B2%A1%E9%97%AE%E9%A2%98/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## PIVOT
 - 2024/06/23 [PIVOT Vol.5 终于毕业了！](https://anotherdayu.com/2024/5796/) | [More](channels/PIVOT.md)
-
-## 老胡的信息周刊
-- 2024/06/22 [06-17~06-23.老胡的周刊（第147期）.md](https://weekly.howie6879.com/2024/06-17~06-23.老胡的周刊（第147期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
 - 2024/06/20 [科技創業週報 #439：AIGC工作流：Midjourney創新設計與AI藝術｜當主管每天忙到要爆炸！？](https://blog.starrocket.io/posts/newsletter-2024-06-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

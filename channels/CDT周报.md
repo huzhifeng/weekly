@@ -1,3 +1,4 @@
+- [【CDT周报】第176期：一个大写的人，一道照亮世人心灵的光](https://chinadigitaltimes.net/chinese/709296.html)
 - [【CDT周报】第175期：收30年前的税，放50年后的债](https://chinadigitaltimes.net/chinese/709143.html)
 - [【CDT周报】第174期：“中国是世界上公认的最安全的国家之一”](https://chinadigitaltimes.net/chinese/708936.html)
 - [【CDT周报】第173期：依然被屏蔽的历史，依然未结束的抗争](https://chinadigitaltimes.net/chinese/708740.html)

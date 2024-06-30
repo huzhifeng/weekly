@@ -1,3 +1,4 @@
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi)
 - [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic)
