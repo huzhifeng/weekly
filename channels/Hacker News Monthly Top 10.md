@@ -1,3 +1,4 @@
+- [Hacker News Monthly Top 10 @2024-07-01](https://github.com/headllines/hackernews-monthly/issues/71)
 - [Hacker News Monthly Top 10 @2024-06-01](https://github.com/headllines/hackernews-monthly/issues/70)
 - [Hacker News Monthly Top 10 @2024-05-01](https://github.com/headllines/hackernews-monthly/issues/69)
 - [Hacker News Monthly Top 10 @2024-04-01](https://github.com/headllines/hackernews-monthly/issues/68)

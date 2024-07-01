@@ -3,6 +3,33 @@
 ## 潮流周刊
 - 2024/07/01 [第183期 - 飞翔的鸟](https://weekly.tw93.fun/posts/183-%E9%A3%9E%E7%BF%94%E7%9A%84%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/07/01 [Hacker News Weekly Top 10 @2024-07-01](https://github.com/headllines/hackernews-weekly/issues/239) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## Hacker News Monthly Top 10
+- 2024/07/01 [Hacker News Monthly Top 10 @2024-07-01](https://github.com/headllines/hackernews-monthly/issues/71) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
+
+## Pseudoyu 周报
+- 2024/07/01 [周报 #63 - 不愉快的订花经历、商家和消费者与日渐 AI 化的人](https://www.pseudoyu.com/zh/2024/07/01/weekly_review_20240701/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2024/07/01 [一周杂记 in Week 4 June 2024](http://kingsamchen.github.io/2024/07/01/weekly-2024-jun-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/07/01 [AIGC Weekly #78](https://quail.ink/op7418/p/aigc-weekly-78) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/07/01 [DistroWatch Weekly, Issue 1077](https://distrowatch.com/weekly.php?issue=20240701) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/07/01 [9to5Linux Weekly Roundup: June 30th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-30th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/07/01 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/01 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/06/30 [猫鱼周刊 vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -15,11 +42,8 @@
 ## 印记周报
 - 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
-## GitHub Trending Weekly
-- 2024/06/30 [Doriandarko/maestro](https://github.com/Doriandarko/maestro) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/06/30 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/06/30 [Weekly Issue-死亡行军](https://zdyxry.github.io/2024/06/30/Weekly-Issue-%E6%AD%BB%E4%BA%A1%E8%A1%8C%E5%86%9B/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2024/06/29 [06-24~06-30.老胡的周刊（第148期）.md](https://weekly.howie6879.com/2024/06-24~06-30.老胡的周刊（第148期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -60,38 +84,20 @@
 ## FOSS Weekly
 - 2024/06/27 [FOSS Weekly #24.26: Tiling Windows, AI Coming to Firefox, EasyOS, PDF Editing in ONLYOFFICE](https://itsfoss.com/newsletter/foss-weekly-24-26/) | [More](channels/FOSS%20Weekly.md)
 
+## 泰晓资讯
+- 2024/06/27 [泰晓资讯·6 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-06-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
 ## LWN.net Weekly Edition
 - 2024/06/26 [LWN.net Weekly Edition for June 27, 2024](https://lwn.net/Articles/979084/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## GeekPlux Letters
 - 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
 
-## Hacker News Weekly Top 10
-- 2024/06/24 [Hacker News Weekly Top 10 @2024-06-24](https://github.com/headllines/hackernews-weekly/issues/238) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/06/24 [一周杂记 in Week 3 June 2024](http://kingsamchen.github.io/2024/06/24/weekly-2024-jun-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/06/24 [AIGC Weekly #77](https://quail.ink/op7418/p/aigc-weekly-77) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/06/24 [DistroWatch Weekly, Issue 1076](https://distrowatch.com/weekly.php?issue=20240624) | [More](channels/DistroWatch%20Weekly.md)
-
-## Pseudoyu 周报
-- 2024/06/23 [周报 #62 - 香港之行、5am club 计划与 Rust 学习](https://www.pseudoyu.com/zh/2024/06/23/weekly_review_20240623/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## zdyxry Weekly Issue
-- 2024/06/23 [Weekly Issue-理论上没问题](https://zdyxry.github.io/2024/06/23/Weekly-Issue-%E7%90%86%E8%AE%BA%E4%B8%8A%E6%B2%A1%E9%97%AE%E9%A2%98/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## PIVOT
 - 2024/06/23 [PIVOT Vol.5 终于毕业了！](https://anotherdayu.com/2024/5796/) | [More](channels/PIVOT.md)
 
 ## 科技創業週報
 - 2024/06/20 [科技創業週報 #439：AIGC工作流：Midjourney創新設計與AI藝術｜當主管每天忙到要爆炸！？](https://blog.starrocket.io/posts/newsletter-2024-06-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 泰晓资讯
-- 2024/06/20 [泰晓资讯·6 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-06-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 广场周刊
 - 2024/06/16 [广场周刊（第 24 期）：你成熟了](https://immmmm.com/weekly-24-20240616/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -107,9 +113,6 @@
 
 ## 赫周刊
 - 2024/06/02 [为什么我不再同时做多件事？｜赫周刊 #44](https://www.cliveshd.com/newsletter-44/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Monthly Top 10
-- 2024/06/01 [Hacker News Monthly Top 10 @2024-06-01](https://github.com/headllines/hackernews-monthly/issues/70) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)

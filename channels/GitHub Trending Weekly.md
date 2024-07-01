@@ -1,3 +1,4 @@
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi)

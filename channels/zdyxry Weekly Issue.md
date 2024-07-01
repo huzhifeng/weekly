@@ -1,3 +1,4 @@
+- [Weekly Issue-死亡行军](https://zdyxry.github.io/2024/06/30/Weekly-Issue-%E6%AD%BB%E4%BA%A1%E8%A1%8C%E5%86%9B/)
 - [Weekly Issue-理论上没问题](https://zdyxry.github.io/2024/06/23/Weekly-Issue-%E7%90%86%E8%AE%BA%E4%B8%8A%E6%B2%A1%E9%97%AE%E9%A2%98/)
 - [Weekly Issue-什么是职场 PUA？](https://zdyxry.github.io/2024/06/16/Weekly-Issue-%E4%BB%80%E4%B9%88%E6%98%AF%E8%81%8C%E5%9C%BA-PUA/)
 - [Weekly Issue-儿童节的由来](https://zdyxry.github.io/2024/06/09/Weekly-Issue-%E5%84%BF%E7%AB%A5%E8%8A%82%E7%9A%84%E7%94%B1%E6%9D%A5/)

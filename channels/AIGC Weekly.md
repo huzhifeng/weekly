@@ -1,3 +1,4 @@
+- [AIGC Weekly #78](https://quail.ink/op7418/p/aigc-weekly-78)
 - [AIGC Weekly #77](https://quail.ink/op7418/p/aigc-weekly-77)
 - [AIGC Weekly #76 新一轮小规模技术爆发](https://quail.ink/op7418/p/aigc-weekly-76)
 - [AIGC Weekly #75](https://quail.ink/op7418/p/aigc-weekly-75)
