@@ -1,3 +1,5 @@
+- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+- [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro)

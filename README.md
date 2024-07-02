@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/07/02 [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/02 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/07/01 [第183期 - 飞翔的鸟](https://weekly.tw93.fun/posts/183-%E9%A3%9E%E7%BF%94%E7%9A%84%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -23,12 +29,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/07/01 [9to5Linux Weekly Roundup: June 30th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-30th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/07/01 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/01 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2024/06/30 [猫鱼周刊 vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
