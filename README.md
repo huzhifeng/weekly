@@ -1,10 +1,16 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/07/03 [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2024/07/03 [20240703的胡言乱语](https://www.bboy.app/2024/07/03/20240703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## GitHub Trending Weekly
-- 2024/07/02 [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/07/03 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/07/02 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/07/03 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/07/01 [第183期 - 飞翔的鸟](https://weekly.tw93.fun/posts/183-%E9%A3%9E%E7%BF%94%E7%9A%84%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -57,9 +63,6 @@
 ## This Week in KDE
 - 2024/06/29 [This week in KDE: everything, I think](https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/06/28 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 1Link.Fun 科技周刊
 - 2024/06/28 [1link.fun 科技周刊 | 第 96 期](https://1link.fun/blog/issue/issue96/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -104,9 +107,6 @@
 
 ## 棱镜通讯
 - 2024/06/15 [棱镜通讯 No.111  巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 胡言乱语
-- 2024/06/11 [20240611的胡言乱语](https://www.bboy.app/2024/06/11/20240611%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 艾迪蓝波
 - 2024/06/02 [Vol.23 5月榜单：食南之徒](https://www.idnunber.top/article/0d42bb24-ab39-4d01-afce-2118dc960203) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
