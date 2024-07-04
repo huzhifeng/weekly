@@ -1,16 +1,28 @@
 # 周刊
 
+## 奇趣周刊
+- 2024/07/04 [奇趣周刊 - 第 57 期](https://zishu.me/blog/weekly-57.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/07/04 [学习周刊-总第166期-2024年第27周](https://wiki.eryajf.net/pages/b17f8f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/07/04 [LWN.net Weekly Edition for July 4, 2024](https://lwn.net/Articles/979852/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/07/04 [FOSS Weekly #24.27: WSL Series, Theia Editor, Deepin Linux's AI Assistant and More](https://itsfoss.com/newsletter/foss-weekly-24-27/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2024/07/04 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/04 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/07/03 [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2024/07/03 [20240703的胡言乱语](https://www.bboy.app/2024/07/03/20240703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2024/07/03 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/03 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/07/01 [第183期 - 飞翔的鸟](https://weekly.tw93.fun/posts/183-%E9%A3%9E%E7%BF%94%E7%9A%84%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -78,29 +90,17 @@
 ## 独立开发变现周刊
 - 2024/06/28 [独立开发变现周刊（第139期） : 年收入960万美元的翻页书制作工具](https://www.ezindie.com/weekly/issue-139) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
-## 奇趣周刊
-- 2024/06/27 [奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/06/27 [学习周刊-总第165期-2024年第26周](https://wiki.eryajf.net/pages/48f2ad/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## FOSS Weekly
-- 2024/06/27 [FOSS Weekly #24.26: Tiling Windows, AI Coming to Firefox, EasyOS, PDF Editing in ONLYOFFICE](https://itsfoss.com/newsletter/foss-weekly-24-26/) | [More](channels/FOSS%20Weekly.md)
+## 科技創業週報
+- 2024/06/27 [科技創業週報 #440：加州大學柏克萊 UC Berkeley AI Hackathon｜面對巨大挑戰時，最令人佩服的嘗試態度](https://blog.starrocket.io/posts/newsletter-2024-06-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 泰晓资讯
 - 2024/06/27 [泰晓资讯·6 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-06-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## LWN.net Weekly Edition
-- 2024/06/26 [LWN.net Weekly Edition for June 27, 2024](https://lwn.net/Articles/979084/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## GeekPlux Letters
 - 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
 
 ## PIVOT
 - 2024/06/23 [PIVOT Vol.5 终于毕业了！](https://anotherdayu.com/2024/5796/) | [More](channels/PIVOT.md)
-
-## 科技創業週報
-- 2024/06/20 [科技創業週報 #439：AIGC工作流：Midjourney創新設計與AI藝術｜當主管每天忙到要爆炸！？](https://blog.starrocket.io/posts/newsletter-2024-06-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 广场周刊
 - 2024/06/16 [广场周刊（第 24 期）：你成熟了](https://immmmm.com/weekly-24-20240616/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
