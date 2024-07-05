@@ -1,5 +1,26 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/07/05 [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 1Link.Fun 科技周刊
+- 2024/07/05 [1link.fun 科技周刊 | 第 97 期](https://1link.fun/blog/issue/issue97/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/07/05 [Web Review, Week 2024-27](https://ervin.ipsquad.net/blog/2024/07/05/web-review-week-2024-27/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/07/05 [#155 Overhauled Keyrings](https://thisweek.gnome.org/posts/2024/07/twig-155/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/07/05 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/05 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 独立开发变现周刊
+- 2024/07/05 [独立开发变现周刊（第140期） : 一个播客嘉宾预订平台月收入22万美元](https://www.ezindie.com/weekly/issue-140) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
 ## 奇趣周刊
 - 2024/07/04 [奇趣周刊 - 第 57 期](https://zishu.me/blog/weekly-57.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
@@ -11,15 +32,6 @@
 
 ## FOSS Weekly
 - 2024/07/04 [FOSS Weekly #24.27: WSL Series, Theia Editor, Deepin Linux's AI Assistant and More](https://itsfoss.com/newsletter/foss-weekly-24-27/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/07/04 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/04 [零经费 自拍《三体2：黑暗森林》（自制动画）第04集](https://www.bilibili.com/video/BV1z1421r7Cg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
-## 科技爱好者周刊
-- 2024/07/03 [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2024/07/03 [20240703的胡言乱语](https://www.bboy.app/2024/07/03/20240703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -75,20 +87,8 @@
 ## This Week in KDE
 - 2024/06/29 [This week in KDE: everything, I think](https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 1Link.Fun 科技周刊
-- 2024/06/28 [1link.fun 科技周刊 | 第 96 期](https://1link.fun/blog/issue/issue96/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/06/28 [Web Review, Week 2024-26](https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/) | [More](channels/Web%20Review.md)
-
 ## HelloGitHub
 - 2024/06/28 [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [More](channels/HelloGitHub.md)
-
-## This Week in GNOME
-- 2024/06/28 [#154 Pride Day!](https://thisweek.gnome.org/posts/2024/06/twig-154/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 独立开发变现周刊
-- 2024/06/28 [独立开发变现周刊（第139期） : 年收入960万美元的翻页书制作工具](https://www.ezindie.com/weekly/issue-139) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
 - 2024/06/27 [科技創業週報 #440：加州大學柏克萊 UC Berkeley AI Hackathon｜面對巨大挑戰時，最令人佩服的嘗試態度](https://blog.starrocket.io/posts/newsletter-2024-06-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
