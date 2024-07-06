@@ -1,5 +1,17 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/07/06 [Python 潮流周刊#59：Polars 1.0 发布了，PyCon US 2024 演讲视频也发布了](https://pythoncat.top/posts/2024-07-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/07/06 [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/07/06 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/06 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/07/05 [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -12,14 +24,11 @@
 ## This Week in GNOME
 - 2024/07/05 [#155 Overhauled Keyrings](https://thisweek.gnome.org/posts/2024/07/twig-155/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## GitHub Trending Weekly
-- 2024/07/05 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/05 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## 独立开发变现周刊
 - 2024/07/05 [独立开发变现周刊（第140期） : 一个播客嘉宾预订平台月收入22万美元](https://www.ezindie.com/weekly/issue-140) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 科技創業週報
+- 2024/07/04 [科技創業週報 #441：Fluently：捲動200萬美金種子輪的語言學習新創｜給年輕的設計師們：你該站出來改變世界](https://blog.starrocket.io/posts/newsletter-2024-07-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 奇趣周刊
 - 2024/07/04 [奇趣周刊 - 第 57 期](https://zishu.me/blog/weekly-57.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -81,17 +90,8 @@
 ## CyberClip
 - 2024/06/29 [CyberClip #56 好奇心与时间](https://shyrz.me/56-curiosity-and-time/) | [More](channels/CyberClip.md)
 
-## Python 潮流周刊
-- 2024/06/29 [Python 潮流周刊#58：最快运行原型的语言](https://pythoncat.top/posts/2024-06-29-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/06/29 [This week in KDE: everything, I think](https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/) | [More](channels/This%20Week%20in%20KDE.md)
-
 ## HelloGitHub
 - 2024/06/28 [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [More](channels/HelloGitHub.md)
-
-## 科技創業週報
-- 2024/06/27 [科技創業週報 #440：加州大學柏克萊 UC Berkeley AI Hackathon｜面對巨大挑戰時，最令人佩服的嘗試態度](https://blog.starrocket.io/posts/newsletter-2024-06-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 泰晓资讯
 - 2024/06/27 [泰晓资讯·6 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-06-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
