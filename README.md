@@ -1,16 +1,37 @@
 # 周刊
 
+## 潮流周刊
+- 2024/07/08 [第184期 - mamala](https://weekly.tw93.fun/posts/184-mamala/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 广场周刊
+- 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/07/07 [猫鱼周刊 vol. 031 Code Review 有用吗？](https://ameow.xyz/archives/mao-yu-zhou-kan-vol.-031-code-review-you-yong-ma) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/07/07 [【CDT周报】第177期：叙利亚的小麦、中国的营养餐补助被“偷”了](https://chinadigitaltimes.net/chinese/709456.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/07/07 [视野修炼第91期 | 惊讶线条](https://sugarat.top/weekly/2024-07-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 艾迪蓝波
+- 2024/07/07 [Vol.24 6月榜单：尊重与反叛](https://www.idnunber.top/article/8662a810-78c9-4bc5-aa9e-631fed068cd1) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## GitHub Trending Weekly
+- 2024/07/07 [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/07 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/07/06 [07-01~07-07.老胡的周刊（第149期）.md](https://weekly.howie6879.com/2024/07-01~07-07.老胡的周刊（第149期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
 ## Python 潮流周刊
 - 2024/07/06 [Python 潮流周刊#59：Polars 1.0 发布了，PyCon US 2024 演讲视频也发布了](https://pythoncat.top/posts/2024-07-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
 - 2024/07/06 [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/07/06 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/06 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技爱好者周刊
 - 2024/07/05 [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -45,9 +66,6 @@
 ## 胡言乱语
 - 2024/07/03 [20240703的胡言乱语](https://www.bboy.app/2024/07/03/20240703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2024/07/01 [第183期 - 飞翔的鸟](https://weekly.tw93.fun/posts/183-%E9%A3%9E%E7%BF%94%E7%9A%84%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## Hacker News Weekly Top 10
 - 2024/07/01 [Hacker News Weekly Top 10 @2024-07-01](https://github.com/headllines/hackernews-weekly/issues/239) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -69,23 +87,11 @@
 ## 9to5Linux Weekly Roundup
 - 2024/07/01 [9to5Linux Weekly Roundup: June 30th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-june-30th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## 猫鱼周刊
-- 2024/06/30 [猫鱼周刊 vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/06/30 [【CDT周报】第176期：一个大写的人，一道照亮世人心灵的光](https://chinadigitaltimes.net/chinese/709296.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2024/06/30 [视野修炼第90期 | 豆包AI IDE](https://sugarat.top/weekly/2024-06-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## 印记周报
 - 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## zdyxry Weekly Issue
 - 2024/06/30 [Weekly Issue-死亡行军](https://zdyxry.github.io/2024/06/30/Weekly-Issue-%E6%AD%BB%E4%BA%A1%E8%A1%8C%E5%86%9B/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/06/29 [06-24~06-30.老胡的周刊（第148期）.md](https://weekly.howie6879.com/2024/06-24~06-30.老胡的周刊（第148期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/06/29 [CyberClip #56 好奇心与时间](https://shyrz.me/56-curiosity-and-time/) | [More](channels/CyberClip.md)
@@ -102,14 +108,8 @@
 ## PIVOT
 - 2024/06/23 [PIVOT Vol.5 终于毕业了！](https://anotherdayu.com/2024/5796/) | [More](channels/PIVOT.md)
 
-## 广场周刊
-- 2024/06/16 [广场周刊（第 24 期）：你成熟了](https://immmmm.com/weekly-24-20240616/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
-
 ## 棱镜通讯
 - 2024/06/15 [棱镜通讯 No.111  巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 艾迪蓝波
-- 2024/06/02 [Vol.23 5月榜单：食南之徒](https://www.idnunber.top/article/0d42bb24-ab39-4d01-afce-2118dc960203) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## 赫周刊
 - 2024/06/02 [为什么我不再同时做多件事？｜赫周刊 #44](https://www.cliveshd.com/newsletter-44/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
