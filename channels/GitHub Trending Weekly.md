@@ -1,3 +1,4 @@
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 - [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
