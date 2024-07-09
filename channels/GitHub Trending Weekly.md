@@ -1,3 +1,4 @@
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 - [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)

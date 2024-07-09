@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/07/09 [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/09 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/07/08 [第184期 - mamala](https://weekly.tw93.fun/posts/184-mamala/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +26,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/07/08 [9to5Linux Weekly Roundup: July 7th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-7th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/07/08 [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/08 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 广场周刊
 - 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -53,6 +53,9 @@
 
 ## This Week in KDE
 - 2024/07/06 [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## 泰晓资讯
+- 2024/07/06 [泰晓资讯·7 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-07-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 科技爱好者周刊
 - 2024/07/05 [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -98,9 +101,6 @@
 
 ## HelloGitHub
 - 2024/06/28 [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [More](channels/HelloGitHub.md)
-
-## 泰晓资讯
-- 2024/06/27 [泰晓资讯·6 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-06-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## GeekPlux Letters
 - 2024/06/25 [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/) | [More](channels/GeekPlux%20Letters.md)
