@@ -3,7 +3,8 @@
 		{
 			"channel": "科技爱好者周刊",
 			"portal": "https://github.com/ruanyf/weekly",
-			"url": "https://ruanyifeng.com/blog/atom.xml"
+			"url": "https://ruanyifeng.com/blog/atom.xml",
+			"filter": ["科技爱好者周刊"]
 		},
 		{
 			"channel": "1Link.Fun 科技周刊",
