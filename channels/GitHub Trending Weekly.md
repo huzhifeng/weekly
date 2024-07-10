@@ -1,3 +1,5 @@
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)

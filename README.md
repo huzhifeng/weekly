@@ -1,10 +1,13 @@
 # 周刊
 
+## Pseudoyu 周报
+- 2024/07/10 [周报 #64 - 生活在此处（《斯通纳》与《Normal People》）](https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
 ## GitHub Trending Weekly
-- 2024/07/09 [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/07/10 [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/07/09 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/07/10 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/07/08 [第184期 - mamala](https://weekly.tw93.fun/posts/184-mamala/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -90,9 +93,6 @@
 ## Hacker News Monthly Top 10
 - 2024/07/01 [Hacker News Monthly Top 10 @2024-07-01](https://github.com/headllines/hackernews-monthly/issues/71) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
-## Pseudoyu 周报
-- 2024/07/01 [周报 #63 - 不愉快的订花经历、商家和消费者与日渐 AI 化的人](https://www.pseudoyu.com/zh/2024/07/01/weekly_review_20240701/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
 ## 印记周报
 - 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
@@ -111,11 +111,11 @@
 ## 棱镜通讯
 - 2024/06/15 [棱镜通讯 No.111  巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
-## 赫周刊
-- 2024/06/02 [为什么我不再同时做多件事？｜赫周刊 #44](https://www.cliveshd.com/newsletter-44/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
-
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
+
+## 赫周刊
+- 2024/04/21 [AI：教我如何生活｜赫周刊 #41](https://www.cliveshd.com/newsletter-41/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
