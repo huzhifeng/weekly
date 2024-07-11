@@ -1,3 +1,5 @@
+- [microsoft/graphrag](https://github.com/microsoft/graphrag)
+- [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)

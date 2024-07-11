@@ -1,13 +1,31 @@
 # 周刊
 
-## Pseudoyu 周报
-- 2024/07/10 [周报 #64 - 生活在此处（《斯通纳》与《Normal People》）](https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+## 独立开发变现周刊
+- 2024/07/12 [独立开发变现周刊（第141期） : 一个MVP开发服务收入6.5万美元](https://www.ezindie.com/weekly/issue-141) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 科技創業週報
+- 2024/07/11 [科技創業週報 #442：雲頂之上的世界，似乎和我們想得不一樣｜在UC Berkeley的黑客松，共想AI如何解決現實問題](https://blog.starrocket.io/posts/newsletter-2024-07-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 奇趣周刊
+- 2024/07/11 [奇趣周刊 - 第 58 期](https://zishu.me/blog/weekly-58.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/07/11 [学习周刊-总第167期-2024年第28周](https://wiki.eryajf.net/pages/5f72a4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/07/11 [LWN.net Weekly Edition for July 11, 2024](https://lwn.net/Articles/980654/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/07/11 [FOSS Weekly #24.28: Mastering Nano, Xfce Distros, Proton's Google Docs Rival and More](https://itsfoss.com/newsletter/foss-weekly-24-28/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/07/10 [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/07/11 [microsoft/graphrag](https://github.com/microsoft/graphrag) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/07/10 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/07/11 [挑战一次花光¥100000块，能否买空便利店，所有的零食？](https://www.bilibili.com/video/BV11i421a7wD) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Pseudoyu 周报
+- 2024/07/10 [周报 #64 - 生活在此处（《斯通纳》与《Normal People》）](https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 潮流周刊
 - 2024/07/08 [第184期 - mamala](https://weekly.tw93.fun/posts/184-mamala/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -72,24 +90,6 @@
 ## This Week in GNOME
 - 2024/07/05 [#155 Overhauled Keyrings](https://thisweek.gnome.org/posts/2024/07/twig-155/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/07/05 [独立开发变现周刊（第140期） : 一个播客嘉宾预订平台月收入22万美元](https://www.ezindie.com/weekly/issue-140) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2024/07/04 [科技創業週報 #441：Fluently：捲動200萬美金種子輪的語言學習新創｜給年輕的設計師們：你該站出來改變世界](https://blog.starrocket.io/posts/newsletter-2024-07-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 奇趣周刊
-- 2024/07/04 [奇趣周刊 - 第 57 期](https://zishu.me/blog/weekly-57.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/07/04 [学习周刊-总第166期-2024年第27周](https://wiki.eryajf.net/pages/b17f8f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/07/04 [LWN.net Weekly Edition for July 4, 2024](https://lwn.net/Articles/979852/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/07/04 [FOSS Weekly #24.27: WSL Series, Theia Editor, Deepin Linux's AI Assistant and More](https://itsfoss.com/newsletter/foss-weekly-24-27/) | [More](channels/FOSS%20Weekly.md)
-
 ## Hacker News Monthly Top 10
 - 2024/07/01 [Hacker News Monthly Top 10 @2024-07-01](https://github.com/headllines/hackernews-monthly/issues/71) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
@@ -114,9 +114,9 @@
 ## Raye's Journey
 - 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
 
-## 赫周刊
-- 2024/04/21 [AI：教我如何生活｜赫周刊 #41](https://www.cliveshd.com/newsletter-41/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
-
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
+
+## 赫周刊
+- 2023/04/02 [Meta退出NFT竞逐，Ticketmaster引入令牌门禁｜【赫周刊】Clive’s Newsletter #37](https://www.cliveshd.com/newsletter-37/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 

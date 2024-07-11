@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.28: Mastering Nano, Xfce Distros, Proton's Google Docs Rival and More](https://itsfoss.com/newsletter/foss-weekly-24-28/)
 - [FOSS Weekly #24.27: WSL Series, Theia Editor, Deepin Linux's AI Assistant and More](https://itsfoss.com/newsletter/foss-weekly-24-27/)
 - [FOSS Weekly #24.26: Tiling Windows, AI Coming to Firefox, EasyOS, PDF Editing in ONLYOFFICE](https://itsfoss.com/newsletter/foss-weekly-24-26/)
 - [FOSS Weekly #24.25: New Adélie Linux, Lindroid, Arch Install and More](https://itsfoss.com/newsletter/foss-weekly-24-25/)
