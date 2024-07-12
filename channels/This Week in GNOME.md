@@ -1,3 +1,4 @@
+- [#156 Happy Hacking](https://thisweek.gnome.org/posts/2024/07/twig-156/)
 - [#155 Overhauled Keyrings](https://thisweek.gnome.org/posts/2024/07/twig-155/)
 - [#154 Pride Day!](https://thisweek.gnome.org/posts/2024/06/twig-154/)
 - [#153 Proudly Colorful](https://thisweek.gnome.org/posts/2024/06/twig-153/)
