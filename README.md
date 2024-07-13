@@ -1,5 +1,14 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/07/13 [Python 潮流周刊#60：Python 的包管理工具真是多啊](https://pythoncat.top/posts/2024-07-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/07/13 [microsoft/graphrag](https://github.com/microsoft/graphrag) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/13 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/07/12 [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -11,12 +20,6 @@
 
 ## This Week in GNOME
 - 2024/07/12 [#156 Happy Hacking](https://thisweek.gnome.org/posts/2024/07/twig-156/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/07/12 [microsoft/graphrag](https://github.com/microsoft/graphrag) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/12 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/07/12 [独立开发变现周刊（第141期） : 一个MVP开发服务收入6.5万美元](https://www.ezindie.com/weekly/issue-141) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -77,9 +80,6 @@
 
 ## 老胡的信息周刊
 - 2024/07/06 [07-01~07-07.老胡的周刊（第149期）.md](https://weekly.howie6879.com/2024/07-01~07-07.老胡的周刊（第149期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Python 潮流周刊
-- 2024/07/06 [Python 潮流周刊#59：Polars 1.0 发布了，PyCon US 2024 演讲视频也发布了](https://pythoncat.top/posts/2024-07-06-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
 - 2024/07/06 [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/) | [More](channels/This%20Week%20in%20KDE.md)
