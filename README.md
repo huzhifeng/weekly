@@ -1,13 +1,28 @@
 # 周刊
 
+## 潮流周刊
+- 2024/07/15 [第185期 - 光照之美](https://weekly.tw93.fun/posts/185-%E5%85%89%E7%85%A7%E4%B9%8B%E7%BE%8E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/07/14 [猫鱼周刊 vol. 032 蓝调时刻](https://ameow.xyz/archives/weekly-032) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/07/14 [【CDT周报】第178期：调查记者都快灭绝了，我们也还吃不上一口放心油](https://chinadigitaltimes.net/chinese/709650.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
 ## Python 潮流周刊
-- 2024/07/13 [Python 潮流周刊#60：Python 的包管理工具真是多啊](https://pythoncat.top/posts/2024-07-13-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+- 2024/07/14 [Python 潮流周刊第 2 季完结了，分享几项总结](https://pythoncat.top/posts/2024-07-14-iweekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2024/07/14 [视野修炼第92期 | 薅牛毛](https://sugarat.top/weekly/2024-07-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## GitHub Trending Weekly
-- 2024/07/13 [microsoft/graphrag](https://github.com/microsoft/graphrag) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/07/14 [microsoft/graphrag](https://github.com/microsoft/graphrag) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/07/13 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/07/14 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/07/13 [07-08~07-14.老胡的周刊（第150期）.md](https://weekly.howie6879.com/2024/07-08~07-14.老胡的周刊（第150期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 科技爱好者周刊
 - 2024/07/12 [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,9 +57,6 @@
 ## Pseudoyu 周报
 - 2024/07/10 [周报 #64 - 生活在此处（《斯通纳》与《Normal People》）](https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2024/07/08 [第184期 - mamala](https://weekly.tw93.fun/posts/184-mamala/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## Hacker News Weekly Top 10
 - 2024/07/08 [Hacker News Weekly Top 10 @2024-07-08](https://github.com/headllines/hackernews-weekly/issues/240) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -63,23 +75,11 @@
 ## 广场周刊
 - 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
-## 猫鱼周刊
-- 2024/07/07 [猫鱼周刊 vol. 031 Code Review 有用吗？](https://ameow.xyz/archives/weekly-031) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/07/07 [【CDT周报】第177期：叙利亚的小麦、中国的营养餐补助被“偷”了](https://chinadigitaltimes.net/chinese/709456.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2024/07/07 [视野修炼第91期 | 惊讶线条](https://sugarat.top/weekly/2024-07-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## 艾迪蓝波
 - 2024/07/07 [Vol.24 6月榜单：尊重与反叛](https://www.idnunber.top/article/8662a810-78c9-4bc5-aa9e-631fed068cd1) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## zdyxry Weekly Issue
 - 2024/07/07 [Weekly Issue-BlueBuild 项目](https://zdyxry.github.io/2024/07/07/Weekly-Issue-BlueBuild-%E9%A1%B9%E7%9B%AE/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/07/06 [07-01~07-07.老胡的周刊（第149期）.md](https://weekly.howie6879.com/2024/07-01~07-07.老胡的周刊（第149期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
 - 2024/07/06 [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/) | [More](channels/This%20Week%20in%20KDE.md)
