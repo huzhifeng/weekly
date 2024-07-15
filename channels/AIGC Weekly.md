@@ -1,3 +1,4 @@
+- [AIGC Weekly #80](https://quail.ink/op7418/p/aigc-weekly-80)
 - [AIGC Weekly #79 国内信息轰炸](https://quail.ink/op7418/p/aigc-weekly-79-)
 - [AIGC Weekly #78](https://quail.ink/op7418/p/aigc-weekly-78)
 - [AIGC Weekly #77](https://quail.ink/op7418/p/aigc-weekly-77)

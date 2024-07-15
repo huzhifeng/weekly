@@ -1,3 +1,4 @@
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis)
