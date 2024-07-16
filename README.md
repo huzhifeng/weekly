@@ -1,5 +1,14 @@
 # 周刊
 
+## 胡言乱语
+- 2024/07/16 [20240716的胡言乱语](https://www.bboy.app/2024/07/16/20240716%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2024/07/16 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/16 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/07/15 [第185期 - 光照之美](https://weekly.tw93.fun/posts/185-%E5%85%89%E7%85%A7%E4%B9%8B%E7%BE%8E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +29,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/07/15 [9to5Linux Weekly Roundup: July 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-14th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## GitHub Trending Weekly
-- 2024/07/15 [microsoft/graphrag](https://github.com/microsoft/graphrag) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/15 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2024/07/14 [猫鱼周刊 vol. 032 蓝调时刻](https://ameow.xyz/archives/weekly-032) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -75,11 +78,11 @@
 ## FOSS Weekly
 - 2024/07/11 [FOSS Weekly #24.28: Mastering Nano, Xfce Distros, Proton's Google Docs Rival and More](https://itsfoss.com/newsletter/foss-weekly-24-28/) | [More](channels/FOSS%20Weekly.md)
 
+## 泰晓资讯
+- 2024/07/11 [泰晓资讯·7 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-07-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
 ## Pseudoyu 周报
 - 2024/07/10 [周报 #64 - 生活在此处（《斯通纳》与《Normal People》）](https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 胡言乱语
-- 2024/07/08 [20240708的胡言乱语](https://www.bboy.app/2024/07/08/20240708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 广场周刊
 - 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -89,9 +92,6 @@
 
 ## This Week in KDE
 - 2024/07/06 [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## 泰晓资讯
-- 2024/07/06 [泰晓资讯·7 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-07-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Hacker News Monthly Top 10
 - 2024/07/01 [Hacker News Monthly Top 10 @2024-07-01](https://github.com/headllines/hackernews-monthly/issues/71) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)

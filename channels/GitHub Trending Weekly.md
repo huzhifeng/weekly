@@ -1,3 +1,4 @@
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
