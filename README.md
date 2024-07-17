@@ -1,13 +1,16 @@
 # 周刊
 
-## 胡言乱语
-- 2024/07/16 [20240716的胡言乱语](https://www.bboy.app/2024/07/16/20240716%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+## Python 潮流周刊
+- 2024/07/17 [万字浓缩版，Python 潮流周刊第 1 季的 800 个链接！](https://pythoncat.top/posts/2024-07-17-iweekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/07/16 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/07/17 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/07/16 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/07/17 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 胡言乱语
+- 2024/07/16 [20240716的胡言乱语](https://www.bboy.app/2024/07/16/20240716%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2024/07/15 [第185期 - 光照之美](https://weekly.tw93.fun/posts/185-%E5%85%89%E7%85%A7%E4%B9%8B%E7%BE%8E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -35,9 +38,6 @@
 
 ## CDT周报
 - 2024/07/14 [【CDT周报】第178期：调查记者都快灭绝了，我们也还吃不上一口放心油](https://chinadigitaltimes.net/chinese/709650.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Python 潮流周刊
-- 2024/07/14 [Python 潮流周刊第 2 季完结了，分享几项总结](https://pythoncat.top/posts/2024-07-14-iweekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/07/14 [视野修炼第92期 | 薅牛毛](https://sugarat.top/weekly/2024-07-14.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)

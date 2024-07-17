@@ -1,3 +1,4 @@
+- [万字浓缩版，Python 潮流周刊第 1 季的 800 个链接！](https://pythoncat.top/posts/2024-07-17-iweekly/)
 - [Python 潮流周刊第 2 季完结了，分享几项总结](https://pythoncat.top/posts/2024-07-14-iweekly/)
 - [Python 潮流周刊#60：Python 的包管理工具真是多啊](https://pythoncat.top/posts/2024-07-13-weekly/)
 - [Python 潮流周刊#59：Polars 1.0 发布了，PyCon US 2024 演讲视频也发布了](https://pythoncat.top/posts/2024-07-06-weekly/)

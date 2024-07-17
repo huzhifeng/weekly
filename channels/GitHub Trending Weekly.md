@@ -1,3 +1,5 @@
+- [pytube/pytube](https://github.com/pytube/pytube)
+- [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag)
