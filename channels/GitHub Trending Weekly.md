@@ -1,3 +1,4 @@
+- [TabbyML/tabby](https://github.com/TabbyML/tabby)
 - [pytube/pytube](https://github.com/pytube/pytube)
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)
