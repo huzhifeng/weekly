@@ -1,5 +1,20 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/07/19 [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/07/19 [Web Review, Week 2024-29](https://ervin.ipsquad.net/blog/2024/07/19/web-review-week-2024-29/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/07/19 [#157 GUADEC 2024](https://thisweek.gnome.org/posts/2024/07/twig-157/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/07/19 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/19 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/07/19 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +32,6 @@
 
 ## FOSS Weekly
 - 2024/07/18 [FOSS Weekly #24.29: Kernel 6.10 Release, LibreChat, Raspberry Pi for Kids, Learning Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-29/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/07/18 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/18 [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Python 潮流周刊
 - 2024/07/17 [万字浓缩版，Python 潮流周刊第 1 季的 800 个链接！](https://pythoncat.top/posts/2024-07-17-iweekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -66,17 +75,8 @@
 ## 老胡的信息周刊
 - 2024/07/13 [07-08~07-14.老胡的周刊（第150期）.md](https://weekly.howie6879.com/2024/07-08~07-14.老胡的周刊（第150期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## 科技爱好者周刊
-- 2024/07/12 [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 1Link.Fun 科技周刊
 - 2024/07/12 [1link.fun 科技周刊 | 第 98 期](https://1link.fun/blog/issue/issue98/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/07/12 [Web Review, Week 2024-28](https://ervin.ipsquad.net/blog/2024/07/12/web-review-week-2024-28/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/07/12 [#156 Happy Hacking](https://thisweek.gnome.org/posts/2024/07/twig-156/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 科技創業週報
 - 2024/07/11 [科技創業週報 #442：雲頂之上的世界，似乎和我們想得不一樣｜在UC Berkeley的黑客松，共想AI如何解決現實問題](https://blog.starrocket.io/posts/newsletter-2024-07-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

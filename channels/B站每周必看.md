@@ -1,3 +1,6 @@
+- [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1)
+- [26年前买回瓦良格号的人，究竟是谁？](https://www.bilibili.com/video/BV1f1421b7Hw)
+- [花一个月时间，帅小伙终于做出了茅台巧克力！](https://www.bilibili.com/video/BV1xW421R74Y)
 - [【何同学】不用脚，你能把球踢多远？](https://www.bilibili.com/video/BV1oH4y1F7P9)
 - [《绝区零》世界观PV | 奇迹的起点](https://www.bilibili.com/video/BV1GE4m1R7k5)
 - [躲狗狗（2）](https://www.bilibili.com/video/BV1pz421q7d8)
