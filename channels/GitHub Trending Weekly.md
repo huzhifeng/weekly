@@ -1,3 +1,4 @@
+- [free-educa/books](https://github.com/free-educa/books)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby)
 - [pytube/pytube](https://github.com/pytube/pytube)
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)

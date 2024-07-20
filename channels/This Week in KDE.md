@@ -1,3 +1,4 @@
+- [This past two weeks in KDE: fixing sticky keys and the worst crashes](https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/)
 - [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/)
 - [This week in KDE: everything, I think](https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/)
 - [This week in KDE: Plasma 6.1 cleanups](https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/)

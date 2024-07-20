@@ -1,5 +1,23 @@
 # 周刊
 
+## 1Link.Fun 科技周刊
+- 2024/07/20 [1link.fun 科技周刊 | 第 99 期](https://1link.fun/blog/issue/issue99/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## CyberClip
+- 2024/07/20 [CyberClip #57 睡眠剥夺](https://shyrz.me/cyberclip-57-sleep-deprivation/) | [More](channels/CyberClip.md)
+
+## Python 潮流周刊
+- 2024/07/20 [Python 潮流周刊#61：PyPI 管理员密钥泄露事件](https://pythoncat.top/posts/2024-07-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/07/20 [This past two weeks in KDE: fixing sticky keys and the worst crashes](https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/07/20 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/20 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/07/19 [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +26,6 @@
 
 ## This Week in GNOME
 - 2024/07/19 [#157 GUADEC 2024](https://thisweek.gnome.org/posts/2024/07/twig-157/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/07/19 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/19 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/07/19 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -32,9 +44,6 @@
 
 ## FOSS Weekly
 - 2024/07/18 [FOSS Weekly #24.29: Kernel 6.10 Release, LibreChat, Raspberry Pi for Kids, Learning Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-29/) | [More](channels/FOSS%20Weekly.md)
-
-## Python 潮流周刊
-- 2024/07/17 [万字浓缩版，Python 潮流周刊第 1 季的 800 个链接！](https://pythoncat.top/posts/2024-07-17-iweekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2024/07/16 [20240716的胡言乱语](https://www.bboy.app/2024/07/16/20240716%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -75,9 +84,6 @@
 ## 老胡的信息周刊
 - 2024/07/13 [07-08~07-14.老胡的周刊（第150期）.md](https://weekly.howie6879.com/2024/07-08~07-14.老胡的周刊（第150期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## 1Link.Fun 科技周刊
-- 2024/07/12 [1link.fun 科技周刊 | 第 98 期](https://1link.fun/blog/issue/issue98/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
 ## 科技創業週報
 - 2024/07/11 [科技創業週報 #442：雲頂之上的世界，似乎和我們想得不一樣｜在UC Berkeley的黑客松，共想AI如何解決現實問題](https://blog.starrocket.io/posts/newsletter-2024-07-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -93,17 +99,11 @@
 ## 艾迪蓝波
 - 2024/07/07 [Vol.24 6月榜单：尊重与反叛](https://www.idnunber.top/article/8662a810-78c9-4bc5-aa9e-631fed068cd1) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
-## This Week in KDE
-- 2024/07/06 [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/) | [More](channels/This%20Week%20in%20KDE.md)
-
 ## Hacker News Monthly Top 10
 - 2024/07/01 [Hacker News Monthly Top 10 @2024-07-01](https://github.com/headllines/hackernews-monthly/issues/71) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## 印记周报
 - 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
-
-## CyberClip
-- 2024/06/29 [CyberClip #56 好奇心与时间](https://shyrz.me/56-curiosity-and-time/) | [More](channels/CyberClip.md)
 
 ## HelloGitHub
 - 2024/06/28 [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [More](channels/HelloGitHub.md)
