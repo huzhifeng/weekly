@@ -1,3 +1,4 @@
+- [周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit](https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/)
 - [周报 #64 - 生活在此处（《斯通纳》与《Normal People》）](https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/)
 - [周报 #63 - 不愉快的订花经历、商家和消费者与日渐 AI 化的人](https://www.pseudoyu.com/zh/2024/07/01/weekly_review_20240701/)
 - [周报 #62 - 香港之行、5am club 计划与 Rust 学习](https://www.pseudoyu.com/zh/2024/06/23/weekly_review_20240623/)
