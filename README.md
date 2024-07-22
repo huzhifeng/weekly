@@ -3,6 +3,24 @@
 ## 潮流周刊
 - 2024/07/22 [第186期 - 青柠冷饮](https://weekly.tw93.fun/posts/186-%E9%9D%92%E6%9F%A0%E5%86%B7%E9%A5%AE/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/07/22 [Hacker News Weekly Top 10 @2024-07-22](https://github.com/headllines/hackernews-weekly/issues/242) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## AIGC Weekly
+- 2024/07/22 [AIGC Weekly #81 小模型扎堆](https://quail.ink/op7418/p/aigc-weekly-81) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/07/22 [DistroWatch Weekly, Issue 1080](https://distrowatch.com/weekly.php?issue=20240722) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/07/22 [9to5Linux Weekly Roundup: July 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-21st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/07/22 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/22 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/07/21 [猫鱼周刊 vol. 033 996 竟然是合法的！](https://ameow.xyz/archives/weekly-033) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -12,14 +30,11 @@
 ## Pseudoyu 周报
 - 2024/07/21 [周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit](https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## GitHub Trending Weekly
-- 2024/07/21 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/21 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## 1Link.Fun 科技周刊
 - 2024/07/20 [1link.fun 科技周刊 | 第 99 期](https://1link.fun/blog/issue/issue99/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## 老胡的信息周刊
+- 2024/07/20 [07-15~07-21.老胡的周刊（第151期）.md](https://weekly.howie6879.com/2024/07-15~07-21.老胡的周刊（第151期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/07/20 [CyberClip #57 睡眠剥夺](https://shyrz.me/cyberclip-57-sleep-deprivation/) | [More](channels/CyberClip.md)
@@ -28,7 +43,7 @@
 - 2024/07/20 [Python 潮流周刊#61：PyPI 管理员密钥泄露事件](https://pythoncat.top/posts/2024-07-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
-- 2024/07/20 [This past two weeks in KDE: fixing sticky keys and the worst crashes](https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/) | [More](channels/This%20Week%20in%20KDE.md)
+- 2024/07/20 [These past two weeks in KDE: fixing sticky keys and the worst crashes](https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 科技爱好者周刊
 - 2024/07/19 [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -60,32 +75,17 @@
 ## 胡言乱语
 - 2024/07/16 [20240716的胡言乱语](https://www.bboy.app/2024/07/16/20240716%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## Hacker News Weekly Top 10
-- 2024/07/15 [Hacker News Weekly Top 10 @2024-07-15](https://github.com/headllines/hackernews-weekly/issues/241) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
 ## 一周杂记
 - 2024/07/15 [一周杂记 in Week 2 July 2024](http://kingsamchen.github.io/2024/07/15/weekly-2024-july-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## GeekPlux Letters
 - 2024/07/15 [美国绿卡、签证和 I94 的区别与联系[润美向] #67](https://letters.geekplux.com/67/) | [More](channels/GeekPlux%20Letters.md)
 
-## AIGC Weekly
-- 2024/07/15 [AIGC Weekly #80](https://quail.ink/op7418/p/aigc-weekly-80) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/07/15 [DistroWatch Weekly, Issue 1079](https://distrowatch.com/weekly.php?issue=20240715) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/07/15 [9to5Linux Weekly Roundup: July 14th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-14th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## CDT周报
 - 2024/07/14 [【CDT周报】第178期：调查记者都快灭绝了，我们也还吃不上一口放心油](https://chinadigitaltimes.net/chinese/709650.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## zdyxry Weekly Issue
-- 2024/07/14 [Weekly Issue-《抓娃娃》](https://zdyxry.github.io/2024/07/14/Weekly-Issue-%E6%8A%93%E5%A8%83%E5%A8%83/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/07/13 [07-08~07-14.老胡的周刊（第150期）.md](https://weekly.howie6879.com/2024/07-08~07-14.老胡的周刊（第150期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+- 2024/07/14 [Weekly Issue-《从21世纪安全撤离》](https://zdyxry.github.io/2024/07/14/Weekly-Issue-%E4%BB%8E21%E4%B8%96%E7%BA%AA%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 科技創業週報
 - 2024/07/11 [科技創業週報 #442：雲頂之上的世界，似乎和我們想得不一樣｜在UC Berkeley的黑客松，共想AI如何解決現實問題](https://blog.starrocket.io/posts/newsletter-2024-07-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
