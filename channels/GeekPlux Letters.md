@@ -1,3 +1,4 @@
+- [不要在网上制造 Slop #68](https://letters.geekplux.com/68/)
 - [美国绿卡、签证和 I94 的区别与联系[润美向] #67](https://letters.geekplux.com/67/)
 - [人生也需要一个反馈机制 #66](https://letters.geekplux.com/66/)
 - [外企内部转岗来美的局限性 [润美向] #65](https://letters.geekplux.com/65/)
