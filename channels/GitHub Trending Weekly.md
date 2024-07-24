@@ -1,3 +1,4 @@
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
 - [free-educa/books](https://github.com/free-educa/books)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby)
 - [pytube/pytube](https://github.com/pytube/pytube)

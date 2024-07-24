@@ -1,16 +1,19 @@
 # 周刊
 
+## CDT周报
+- 2024/07/24 [【CDT周报】第179期：如果负增长也是增长，那开倒车确实也算改革](https://chinadigitaltimes.net/chinese/709818.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2024/07/24 [stanford-oval/storm](https://github.com/stanford-oval/storm) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/24 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 一周杂记
 - 2024/07/23 [一周杂记 in Week 3 July 2024](http://kingsamchen.github.io/2024/07/23/weekly-2024-july-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## GeekPlux Letters
 - 2024/07/23 [不要在网上制造 Slop #68](https://letters.geekplux.com/68/) | [More](channels/GeekPlux%20Letters.md)
-
-## GitHub Trending Weekly
-- 2024/07/23 [stanford-oval/storm](https://github.com/stanford-oval/storm) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/23 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/07/22 [第186期 - 青柠冷饮](https://weekly.tw93.fun/posts/186-%E9%9D%92%E6%9F%A0%E5%86%B7%E9%A5%AE/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -80,9 +83,6 @@
 
 ## 胡言乱语
 - 2024/07/16 [20240716的胡言乱语](https://www.bboy.app/2024/07/16/20240716%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## CDT周报
-- 2024/07/14 [【CDT周报】第178期：调查记者都快灭绝了，我们也还吃不上一口放心油](https://chinadigitaltimes.net/chinese/709650.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## zdyxry Weekly Issue
 - 2024/07/14 [Weekly Issue-《从21世纪安全撤离》](https://zdyxry.github.io/2024/07/14/Weekly-Issue-%E4%BB%8E21%E4%B8%96%E7%BA%AA%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
