@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-30/)
 - [FOSS Weekly #24.29: Kernel 6.10 Release, LibreChat, Raspberry Pi for Kids, Learning Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-29/)
 - [FOSS Weekly #24.28: Mastering Nano, Xfce Distros, Proton's Google Docs Rival and More](https://itsfoss.com/newsletter/foss-weekly-24-28/)
 - [FOSS Weekly #24.27: WSL Series, Theia Editor, Deepin Linux's AI Assistant and More](https://itsfoss.com/newsletter/foss-weekly-24-27/)

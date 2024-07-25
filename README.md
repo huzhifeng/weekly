@@ -1,13 +1,22 @@
 # 周刊
 
-## CDT周报
-- 2024/07/24 [【CDT周报】第179期：如果负增长也是增长，那开倒车确实也算改革](https://chinadigitaltimes.net/chinese/709818.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+## 奇趣周刊
+- 2024/07/25 [奇趣周刊 - 第 60 期](https://zishu.me/blog/weekly-60.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/07/25 [LWN.net Weekly Edition for July 25, 2024](https://lwn.net/Articles/982336/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/07/25 [FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-30/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/07/24 [stanford-oval/storm](https://github.com/stanford-oval/storm) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/07/25 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/07/24 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/07/25 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## CDT周报
+- 2024/07/24 [【CDT周报】第179期：如果负增长也是增长，那开倒车确实也算改革](https://chinadigitaltimes.net/chinese/709818.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 一周杂记
 - 2024/07/23 [一周杂记 in Week 3 July 2024](http://kingsamchen.github.io/2024/07/23/weekly-2024-july-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -66,20 +75,11 @@
 ## 独立开发变现周刊
 - 2024/07/19 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
-## 奇趣周刊
-- 2024/07/18 [奇趣周刊 - 第 59 期](https://zishu.me/blog/weekly-59.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
 ## 二丫讲梵学习周刊
 - 2024/07/18 [学习周刊-总第168期-2024年第29周](https://wiki.eryajf.net/pages/68030a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2024/07/18 [PIVOT Vol.6](https://anotherdayu.com/2024/5830/) | [More](channels/PIVOT.md)
-
-## LWN.net Weekly Edition
-- 2024/07/18 [LWN.net Weekly Edition for July 18, 2024](https://lwn.net/Articles/981628/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/07/18 [FOSS Weekly #24.29: Kernel 6.10 Release, LibreChat, Raspberry Pi for Kids, Learning Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-29/) | [More](channels/FOSS%20Weekly.md)
 
 ## 胡言乱语
 - 2024/07/16 [20240716的胡言乱语](https://www.bboy.app/2024/07/16/20240716%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
