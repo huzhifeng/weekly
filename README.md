@@ -1,5 +1,26 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/07/26 [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/07/26 [Web Review, Week 2024-30](https://ervin.ipsquad.net/blog/2024/07/26/web-review-week-2024-30/) | [More](channels/Web%20Review.md)
+
+## HelloGitHub
+- 2024/07/26 [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [More](channels/HelloGitHub.md)
+
+## 二丫讲梵学习周刊
+- 2024/07/26 [学习周刊-总第169期-2024年第30周](https://wiki.eryajf.net/pages/627a24/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2024/07/26 [#158 Mini Edition](https://thisweek.gnome.org/posts/2024/07/twig-158/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/07/26 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/26 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 奇趣周刊
 - 2024/07/25 [奇趣周刊 - 第 60 期](https://zishu.me/blog/weekly-60.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +29,6 @@
 
 ## FOSS Weekly
 - 2024/07/25 [FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-30/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/07/25 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/25 [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## CDT周报
 - 2024/07/24 [【CDT周报】第179期：如果负增长也是增长，那开倒车确实也算改革](https://chinadigitaltimes.net/chinese/709818.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -39,6 +54,9 @@
 ## 9to5Linux Weekly Roundup
 - 2024/07/22 [9to5Linux Weekly Roundup: July 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-21st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
+## Ubuntu Weekly Newsletter
+- 2024/07/22 [Ubuntu Weekly Newsletter Issue 850](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-850/46596) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
 ## 猫鱼周刊
 - 2024/07/21 [猫鱼周刊 vol. 033 996 竟然是合法的！](https://ameow.xyz/archives/weekly-033) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -63,20 +81,8 @@
 ## This Week in KDE
 - 2024/07/20 [These past two weeks in KDE: fixing sticky keys and the worst crashes](https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/07/19 [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/07/19 [Web Review, Week 2024-29](https://ervin.ipsquad.net/blog/2024/07/19/web-review-week-2024-29/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/07/19 [#157 GUADEC 2024](https://thisweek.gnome.org/posts/2024/07/twig-157/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 独立开发变现周刊
 - 2024/07/19 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/07/18 [学习周刊-总第168期-2024年第29周](https://wiki.eryajf.net/pages/68030a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2024/07/18 [PIVOT Vol.6](https://anotherdayu.com/2024/5830/) | [More](channels/PIVOT.md)
@@ -104,9 +110,6 @@
 
 ## 印记周报
 - 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
-
-## HelloGitHub
-- 2024/06/28 [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [More](channels/HelloGitHub.md)
 
 ## 棱镜通讯
 - 2024/06/15 [棱镜通讯 No.111  巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

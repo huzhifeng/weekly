@@ -1,3 +1,4 @@
+- [#158 Mini Edition](https://thisweek.gnome.org/posts/2024/07/twig-158/)
 - [#157 GUADEC 2024](https://thisweek.gnome.org/posts/2024/07/twig-157/)
 - [#156 Happy Hacking](https://thisweek.gnome.org/posts/2024/07/twig-156/)
 - [#155 Overhauled Keyrings](https://thisweek.gnome.org/posts/2024/07/twig-155/)
