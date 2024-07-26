@@ -292,6 +292,12 @@
 			"filter": ["Weekly"]
 		},
 		{
+			"channel": "Ubuntu Weekly Newsletter",
+			"portal": "https://discourse.ubuntu.com/c/uwn/124",
+			"url": "https://discourse.ubuntu.com/c/uwn/124.rss",
+			"filter": ["Ubuntu Weekly Newsletter Issue"]
+		},
+		{
 			"channel": "This Week in GNOME",
 			"portal": "https://thisweek.gnome.org/",
 			"url": "https://thisweek.gnome.org/index.xml"
