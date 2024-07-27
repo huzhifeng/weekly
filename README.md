@@ -1,5 +1,17 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/07/27 [Python 潮流周刊#62：试用自由线程 Python](https://pythoncat.top/posts/2024-07-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/07/27 [This week in KDE: features and UI polish](https://pointieststick.com/2024/07/26/this-week-in-kde-features-and-ui-polish/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/07/27 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/27 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/07/26 [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -14,12 +26,6 @@
 
 ## This Week in GNOME
 - 2024/07/26 [#158 Mini Edition](https://thisweek.gnome.org/posts/2024/07/twig-158/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/07/26 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/26 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 奇趣周刊
 - 2024/07/25 [奇趣周刊 - 第 60 期](https://zishu.me/blog/weekly-60.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -74,12 +80,6 @@
 
 ## CyberClip
 - 2024/07/20 [CyberClip #57 睡眠剥夺](https://shyrz.me/cyberclip-57-sleep-deprivation/) | [More](channels/CyberClip.md)
-
-## Python 潮流周刊
-- 2024/07/20 [Python 潮流周刊#61：PyPI 管理员密钥泄露事件](https://pythoncat.top/posts/2024-07-20-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/07/20 [These past two weeks in KDE: fixing sticky keys and the worst crashes](https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 独立开发变现周刊
 - 2024/07/19 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
