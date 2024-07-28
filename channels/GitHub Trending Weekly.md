@@ -1,3 +1,4 @@
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
 - [free-educa/books](https://github.com/free-educa/books)
