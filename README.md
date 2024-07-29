@@ -3,6 +3,30 @@
 ## 潮流周刊
 - 2024/07/29 [第187期 - 我想开了](https://weekly.tw93.fun/posts/187-%E6%88%91%E6%83%B3%E5%BC%80%E4%BA%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2024/07/29 [【CDT周报】第180期：旱灾洪灾都挡不住粮食的年年增产](https://chinadigitaltimes.net/chinese/710000.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Hacker News Weekly Top 10
+- 2024/07/29 [Hacker News Weekly Top 10 @2024-07-29](https://github.com/headllines/hackernews-weekly/issues/243) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/07/29 [一周杂记 in Week 4 July 2024](http://kingsamchen.github.io/2024/07/29/weekly-2024-july-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2024/07/29 [DistroWatch Weekly, Issue 1081](https://distrowatch.com/weekly.php?issue=20240729) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/07/29 [9to5Linux Weekly Roundup: July 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2024/07/29 [Ubuntu Weekly Newsletter Issue 851](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-851/46780) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2024/07/29 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/29 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/07/28 [猫鱼周刊 vol. 034 防御性编程还是防裁员编程](https://ameow.xyz/archives/weekly-034) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -12,14 +36,11 @@
 ## 胡言乱语
 - 2024/07/28 [20240728的胡言乱语](https://www.bboy.app/2024/07/28/20240728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
+## zdyxry Weekly Issue
+- 2024/07/28 [Weekly Issue-如何对故障进行分类](https://zdyxry.github.io/2024/07/28/Weekly-Issue-%E5%A6%82%E4%BD%95%E5%AF%B9%E6%95%85%E9%9A%9C%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## AIGC Weekly
 - 2024/07/28 [AIGC Weekly #82 合成数据和推理能力](https://quail.ink/op7418/p/aigc-weekly-82-composite-data-and-reasoning-ability) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/07/28 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/28 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 老胡的信息周刊
 - 2024/07/27 [07-22~07-28.老胡的周刊（第152期）.md](https://weekly.howie6879.com/2024/07-22~07-28.老胡的周刊（第152期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -54,26 +75,8 @@
 ## FOSS Weekly
 - 2024/07/25 [FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-30/) | [More](channels/FOSS%20Weekly.md)
 
-## CDT周报
-- 2024/07/24 [【CDT周报】第179期：如果负增长也是增长，那开倒车确实也算改革](https://chinadigitaltimes.net/chinese/709818.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2024/07/23 [一周杂记 in Week 3 July 2024](http://kingsamchen.github.io/2024/07/23/weekly-2024-july-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## GeekPlux Letters
 - 2024/07/23 [不要在网上制造 Slop #68](https://letters.geekplux.com/68/) | [More](channels/GeekPlux%20Letters.md)
-
-## Hacker News Weekly Top 10
-- 2024/07/22 [Hacker News Weekly Top 10 @2024-07-22](https://github.com/headllines/hackernews-weekly/issues/242) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## DistroWatch Weekly
-- 2024/07/22 [DistroWatch Weekly, Issue 1080](https://distrowatch.com/weekly.php?issue=20240722) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/07/22 [9to5Linux Weekly Roundup: July 21st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-21st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/07/22 [Ubuntu Weekly Newsletter Issue 850](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-850/46596) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2024/07/21 [周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit](https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -89,9 +92,6 @@
 
 ## PIVOT
 - 2024/07/18 [PIVOT Vol.6](https://anotherdayu.com/2024/5830/) | [More](channels/PIVOT.md)
-
-## zdyxry Weekly Issue
-- 2024/07/14 [Weekly Issue-《从21世纪安全撤离》](https://zdyxry.github.io/2024/07/14/Weekly-Issue-%E4%BB%8E21%E4%B8%96%E7%BA%AA%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 科技創業週報
 - 2024/07/11 [科技創業週報 #442：雲頂之上的世界，似乎和我們想得不一樣｜在UC Berkeley的黑客松，共想AI如何解決現實問題](https://blog.starrocket.io/posts/newsletter-2024-07-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
