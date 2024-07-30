@@ -1,5 +1,14 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/07/30 [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/07/30 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 1Link.Fun 科技周刊
+- 2024/07/29 [1link.fun 科技周刊 | 第 100 期 🎉](https://1link.fun/blog/issue/issue100/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
 ## 潮流周刊
 - 2024/07/29 [第187期 - 我想开了](https://weekly.tw93.fun/posts/187-%E6%88%91%E6%83%B3%E5%BC%80%E4%BA%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,17 +24,8 @@
 ## DistroWatch Weekly
 - 2024/07/29 [DistroWatch Weekly, Issue 1081](https://distrowatch.com/weekly.php?issue=20240729) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2024/07/29 [9to5Linux Weekly Roundup: July 28th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-july-28th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2024/07/29 [Ubuntu Weekly Newsletter Issue 851](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-851/46780) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2024/07/29 [mem0ai/mem0](https://github.com/mem0ai/mem0) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/07/29 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2024/07/28 [猫鱼周刊 vol. 034 防御性编程还是防裁员编程](https://ameow.xyz/archives/weekly-034) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -80,9 +80,6 @@
 
 ## Pseudoyu 周报
 - 2024/07/21 [周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit](https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 1Link.Fun 科技周刊
-- 2024/07/20 [1link.fun 科技周刊 | 第 99 期](https://1link.fun/blog/issue/issue99/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/07/20 [CyberClip #57 睡眠剥夺](https://shyrz.me/cyberclip-57-sleep-deprivation/) | [More](channels/CyberClip.md)
