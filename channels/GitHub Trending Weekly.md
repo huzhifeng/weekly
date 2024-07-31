@@ -1,3 +1,5 @@
+- [Netflix/maestro](https://github.com/Netflix/maestro)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
