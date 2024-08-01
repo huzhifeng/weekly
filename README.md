@@ -1,13 +1,37 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/08/03 [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 科技創業週報
+- 2024/08/01 [科技創業週報 #445：技術債的真相｜國科會提出《人工智慧基本法》草案 建構AI發展規範與治理框架](https://blog.starrocket.io/posts/newsletter-2024-08-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 奇趣周刊
+- 2024/08/01 [奇趣周刊 - 第 61 期](https://zishu.me/blog/weekly-61.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## Hacker News Monthly Top 10
+- 2024/08/01 [Hacker News Monthly Top 10 @2024-08-01](https://github.com/headllines/hackernews-monthly/issues/72) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
+
+## LWN.net Weekly Edition
+- 2024/08/01 [LWN.net Weekly Edition for August 1, 2024](https://lwn.net/Articles/983267/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/08/01 [FOSS Weekly #24.31: Mint 22 Review, Vanilla OS 2, Fun with Linux Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-31/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/07/31 [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/08/01 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/07/31 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/08/01 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 二丫讲梵学习周刊
+- 2024/07/31 [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2024/07/30 [周报 #66 - 10x 工程师、技术热情与个人工具箱](https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Raye's Journey
+- 2024/07/30 [周报#29 人有悲欢离合](https://xlog.app/api/redirection?characterId=51803&noteId=1759) | [More](channels/Raye%27s%20Journey.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/07/29 [1link.fun 科技周刊 | 第 100 期 🎉](https://1link.fun/blog/issue/issue100/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -66,20 +90,8 @@
 ## HelloGitHub
 - 2024/07/26 [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [More](channels/HelloGitHub.md)
 
-## 二丫讲梵学习周刊
-- 2024/07/26 [学习周刊-总第169期-2024年第30周](https://wiki.eryajf.net/pages/627a24/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in GNOME
 - 2024/07/26 [#158 Mini Edition](https://thisweek.gnome.org/posts/2024/07/twig-158/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 奇趣周刊
-- 2024/07/25 [奇趣周刊 - 第 60 期](https://zishu.me/blog/weekly-60.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/07/25 [LWN.net Weekly Edition for July 25, 2024](https://lwn.net/Articles/982336/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/07/25 [FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-30/) | [More](channels/FOSS%20Weekly.md)
 
 ## GeekPlux Letters
 - 2024/07/23 [不要在网上制造 Slop #68](https://letters.geekplux.com/68/) | [More](channels/GeekPlux%20Letters.md)
@@ -87,14 +99,8 @@
 ## CyberClip
 - 2024/07/20 [CyberClip #57 睡眠剥夺](https://shyrz.me/cyberclip-57-sleep-deprivation/) | [More](channels/CyberClip.md)
 
-## 独立开发变现周刊
-- 2024/07/19 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
 ## PIVOT
 - 2024/07/18 [PIVOT Vol.6](https://anotherdayu.com/2024/5830/) | [More](channels/PIVOT.md)
-
-## 科技創業週報
-- 2024/07/11 [科技創業週報 #442：雲頂之上的世界，似乎和我們想得不一樣｜在UC Berkeley的黑客松，共想AI如何解決現實問題](https://blog.starrocket.io/posts/newsletter-2024-07-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 泰晓资讯
 - 2024/07/11 [泰晓资讯·7 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-07-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -105,17 +111,11 @@
 ## 艾迪蓝波
 - 2024/07/07 [Vol.24 6月榜单：尊重与反叛](https://www.idnunber.top/article/8662a810-78c9-4bc5-aa9e-631fed068cd1) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
-## Hacker News Monthly Top 10
-- 2024/07/01 [Hacker News Monthly Top 10 @2024-07-01](https://github.com/headllines/hackernews-monthly/issues/71) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
-
 ## 印记周报
 - 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 棱镜通讯
 - 2024/06/15 [棱镜通讯 No.111  巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Raye's Journey
-- 2024/05/12 [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678) | [More](channels/Raye%27s%20Journey.md)
 
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
