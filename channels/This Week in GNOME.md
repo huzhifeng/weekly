@@ -1,3 +1,4 @@
+- [#159 Mounting Disks](https://thisweek.gnome.org/posts/2024/08/twig-159/)
 - [#158 Mini Edition](https://thisweek.gnome.org/posts/2024/07/twig-158/)
 - [#157 GUADEC 2024](https://thisweek.gnome.org/posts/2024/07/twig-157/)
 - [#156 Happy Hacking](https://thisweek.gnome.org/posts/2024/07/twig-156/)
