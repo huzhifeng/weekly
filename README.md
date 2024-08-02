@@ -3,6 +3,24 @@
 ## 独立开发变现周刊
 - 2024/08/03 [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
+## 科技爱好者周刊
+- 2024/08/02 [科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/08/02 [Web Review, Week 2024-31](https://ervin.ipsquad.net/blog/2024/08/02/web-review-week-2024-31/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2024/08/02 [20240802的胡言乱语](https://www.bboy.app/2024/08/02/20240802%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## This Week in GNOME
+- 2024/08/02 [#159 Mounting Disks](https://thisweek.gnome.org/posts/2024/08/twig-159/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/08/02 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/02 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技創業週報
 - 2024/08/01 [科技創業週報 #445：技術債的真相｜國科會提出《人工智慧基本法》草案 建構AI發展規範與治理框架](https://blog.starrocket.io/posts/newsletter-2024-08-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -17,12 +35,6 @@
 
 ## FOSS Weekly
 - 2024/08/01 [FOSS Weekly #24.31: Mint 22 Review, Vanilla OS 2, Fun with Linux Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-31/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/08/01 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/01 [啊？这游戏很难吗！！！](https://www.bilibili.com/video/BV13z421i75E) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 二丫讲梵学习周刊
 - 2024/07/31 [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -63,9 +75,6 @@
 ## 视野修炼
 - 2024/07/28 [视野修炼第94期 | 2024 开发者调查报告](https://sugarat.top/weekly/2024-07-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## 胡言乱语
-- 2024/07/28 [20240728的胡言乱语](https://www.bboy.app/2024/07/28/20240728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## zdyxry Weekly Issue
 - 2024/07/28 [Weekly Issue-如何对故障进行分类](https://zdyxry.github.io/2024/07/28/Weekly-Issue-%E5%A6%82%E4%BD%95%E5%AF%B9%E6%95%85%E9%9A%9C%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
@@ -81,17 +90,8 @@
 ## This Week in KDE
 - 2024/07/27 [This week in KDE: features and UI polish](https://pointieststick.com/2024/07/26/this-week-in-kde-features-and-ui-polish/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/07/26 [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/07/26 [Web Review, Week 2024-30](https://ervin.ipsquad.net/blog/2024/07/26/web-review-week-2024-30/) | [More](channels/Web%20Review.md)
-
 ## HelloGitHub
 - 2024/07/26 [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [More](channels/HelloGitHub.md)
-
-## This Week in GNOME
-- 2024/07/26 [#158 Mini Edition](https://thisweek.gnome.org/posts/2024/07/twig-158/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## GeekPlux Letters
 - 2024/07/23 [不要在网上制造 Slop #68](https://letters.geekplux.com/68/) | [More](channels/GeekPlux%20Letters.md)
