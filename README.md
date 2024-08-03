@@ -1,5 +1,20 @@
 # 周刊
 
+## 拾月通讯
+- 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## Python 潮流周刊
+- 2024/08/03 [Python 潮流周刊#63：开发 Python Web 项目](https://pythoncat.top/posts/2024-08-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/08/03 [This week in KDE: Discover and more](https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/08/03 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/03 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/08/03 [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -14,12 +29,6 @@
 
 ## This Week in GNOME
 - 2024/08/02 [#159 Mounting Disks](https://thisweek.gnome.org/posts/2024/08/twig-159/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/08/02 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/02 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2024/08/01 [科技創業週報 #445：技術債的真相｜國科會提出《人工智慧基本法》草案 建構AI發展規範與治理框架](https://blog.starrocket.io/posts/newsletter-2024-08-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -83,12 +92,6 @@
 
 ## 老胡的信息周刊
 - 2024/07/27 [07-22~07-28.老胡的周刊（第152期）.md](https://weekly.howie6879.com/2024/07-22~07-28.老胡的周刊（第152期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Python 潮流周刊
-- 2024/07/27 [Python 潮流周刊#62：试用自由线程 Python](https://pythoncat.top/posts/2024-07-27-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/07/27 [This week in KDE: features and UI polish](https://pointieststick.com/2024/07/26/this-week-in-kde-features-and-ui-polish/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## HelloGitHub
 - 2024/07/26 [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [More](channels/HelloGitHub.md)

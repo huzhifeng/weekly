@@ -1,3 +1,4 @@
+- [This week in KDE: Discover and more](https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/)
 - [This week in KDE: features and UI polish](https://pointieststick.com/2024/07/26/this-week-in-kde-features-and-ui-polish/)
 - [This past two weeks in KDE: fixing sticky keys and the worst crashes](https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/)
 - [This week in KDE: autoscrolling](https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/)
