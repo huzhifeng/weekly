@@ -1,3 +1,4 @@
+- [Python 潮流周刊#63：开发 Python Web 项目](https://pythoncat.top/posts/2024-08-03-weekly/)
 - [Python 潮流周刊#62：试用自由线程 Python](https://pythoncat.top/posts/2024-07-27-weekly/)
 - [Python 潮流周刊#61：PyPI 管理员密钥泄露事件](https://pythoncat.top/posts/2024-07-20-weekly/)
 - [万字浓缩版，Python 潮流周刊第 1 季的 800 个链接！](https://pythoncat.top/posts/2024-07-17-iweekly/)
