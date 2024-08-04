@@ -1,19 +1,40 @@
 # 周刊
 
+## 潮流周刊
+- 2024/08/05 [第188期 - 水墨蓝天](https://weekly.tw93.fun/posts/188-%E6%B0%B4%E5%A2%A8%E8%93%9D%E5%A4%A9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/08/04 [猫鱼周刊 vol. 035 什么是好的技术博客？](https://ameow.xyz/archives/weekly-035) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/08/04 [【CDT周报】第181期：我担心哪天我的上网证被吊销了](https://chinadigitaltimes.net/chinese/710252.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/08/04 [视野修炼第95期 | 终端里展示图片](https://sugarat.top/weekly/2024-08-04.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## AIGC Weekly
+- 2024/08/04 [AIGC Weekly #83](https://quail.ink/op7418/p/aigc-weekly-83) | [More](channels/AIGC%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2024/08/04 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/04 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/08/03 [07-29~08-04.老胡的周刊（第153期）.md](https://weekly.howie6879.com/2024/07-29~08-04.老胡的周刊（第153期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## Python 潮流周刊
 - 2024/08/03 [Python 潮流周刊#63：开发 Python Web 项目](https://pythoncat.top/posts/2024-08-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Raye's Journey
+- 2024/08/03 [周报#30 ENFJ人格、双月湾拾遗与阅读笔记](https://xlog.app/api/redirection?characterId=51803&noteId=1761) | [More](channels/Raye%27s%20Journey.md)
+
 ## This Week in KDE
 - 2024/08/03 [This week in KDE: Discover and more](https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/08/03 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/03 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/08/03 [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -51,17 +72,8 @@
 ## Pseudoyu 周报
 - 2024/07/30 [周报 #66 - 10x 工程师、技术热情与个人工具箱](https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## Raye's Journey
-- 2024/07/30 [周报#29 人有悲欢离合](https://xlog.app/api/redirection?characterId=51803&noteId=1759) | [More](channels/Raye%27s%20Journey.md)
-
 ## 1Link.Fun 科技周刊
 - 2024/07/29 [1link.fun 科技周刊 | 第 100 期 🎉](https://1link.fun/blog/issue/issue100/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
-## 潮流周刊
-- 2024/07/29 [第187期 - 我想开了](https://weekly.tw93.fun/posts/187-%E6%88%91%E6%83%B3%E5%BC%80%E4%BA%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/07/29 [【CDT周报】第180期：旱灾洪灾都挡不住粮食的年年增产](https://chinadigitaltimes.net/chinese/710000.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## Hacker News Weekly Top 10
 - 2024/07/29 [Hacker News Weekly Top 10 @2024-07-29](https://github.com/headllines/hackernews-weekly/issues/243) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
@@ -78,20 +90,8 @@
 ## Ubuntu Weekly Newsletter
 - 2024/07/29 [Ubuntu Weekly Newsletter Issue 851](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-851/46780) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2024/07/28 [猫鱼周刊 vol. 034 防御性编程还是防裁员编程](https://ameow.xyz/archives/weekly-034) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2024/07/28 [视野修炼第94期 | 2024 开发者调查报告](https://sugarat.top/weekly/2024-07-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## zdyxry Weekly Issue
 - 2024/07/28 [Weekly Issue-如何对故障进行分类](https://zdyxry.github.io/2024/07/28/Weekly-Issue-%E5%A6%82%E4%BD%95%E5%AF%B9%E6%95%85%E9%9A%9C%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2024/07/28 [AIGC Weekly #82 合成数据和推理能力](https://quail.ink/op7418/p/aigc-weekly-82-composite-data-and-reasoning-ability) | [More](channels/AIGC%20Weekly.md)
-
-## 老胡的信息周刊
-- 2024/07/27 [07-22~07-28.老胡的周刊（第152期）.md](https://weekly.howie6879.com/2024/07-22~07-28.老胡的周刊（第152期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2024/07/26 [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [More](channels/HelloGitHub.md)
