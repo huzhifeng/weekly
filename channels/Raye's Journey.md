@@ -1,3 +1,4 @@
+- [周报#30 ENFJ人格、双月湾拾遗与阅读笔记](https://xlog.app/api/redirection?characterId=51803&noteId=1761)
 - [周报#29 人有悲欢离合](https://xlog.app/api/redirection?characterId=51803&noteId=1759)
 - [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678)
 - [周报#27 推迟两个月的更新、深圳的大雨和一些杂七杂八的记录](https://xlog.app/api/redirection?characterId=51803&noteId=1669)
