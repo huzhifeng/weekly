@@ -1,3 +1,4 @@
+- [Weekly Issue- 结构化拖延](https://zdyxry.github.io/2024/08/04/Weekly-Issue-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8B%96%E5%BB%B6/)
 - [Weekly Issue-如何对故障进行分类](https://zdyxry.github.io/2024/07/28/Weekly-Issue-%E5%A6%82%E4%BD%95%E5%AF%B9%E6%95%85%E9%9A%9C%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB/)
 - [Weekly Issue-《从21世纪安全撤离》](https://zdyxry.github.io/2024/07/21/Weekly-Issue-%E4%BB%8E21%E4%B8%96%E7%BA%AA%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB/)
 - [Weekly Issue-《从21世纪安全撤离》](https://zdyxry.github.io/2024/07/14/Weekly-Issue-%E4%BB%8E21%E4%B8%96%E7%BA%AA%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB/)
