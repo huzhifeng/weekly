@@ -1,3 +1,4 @@
+- [bol-van/zapret](https://github.com/bol-van/zapret)
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 - [Netflix/maestro](https://github.com/Netflix/maestro)
