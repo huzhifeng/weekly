@@ -1,3 +1,4 @@
+- [1link.fun 科技周刊 | 第 94 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40)
 - [1link.fun 科技周刊 | 第 101 期](https://1link.fun/blog/issue/issue101/)
 - [1link.fun 科技周刊 | 第 100 期 🎉](https://1link.fun/blog/issue/issue100/)
 - [1link.fun 科技周刊 | 第 99 期](https://1link.fun/blog/issue/issue99/)
