@@ -1,3 +1,4 @@
+- [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764)
 - [周报#30 ENFJ人格、双月湾拾遗与阅读笔记](https://xlog.app/api/redirection?characterId=51803&noteId=1761)
 - [周报#29 人有悲欢离合](https://xlog.app/api/redirection?characterId=51803&noteId=1759)
 - [周报#28 万恶的调休、零点城市与无尽的失眠](https://xlog.app/api/redirection?characterId=51803&noteId=1678)

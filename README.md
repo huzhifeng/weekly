@@ -1,5 +1,17 @@
 # 周刊
 
+## 艾迪蓝波
+- 2024/08/06 [Vol.25 7月榜单：草民](https://www.idnunber.top/article/1cac7cb9-9258-47c8-b306-f11cbf90a1e9) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## PIVOT
+- 2024/08/06 [PIVOT Vol.7](https://anotherdayu.com/2024/5845/) | [More](channels/PIVOT.md)
+
+## GitHub Trending Weekly
+- 2024/08/06 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/06 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/08/05 [第188期 - 水墨蓝天](https://weekly.tw93.fun/posts/188-%E6%B0%B4%E5%A2%A8%E8%93%9D%E5%A4%A9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -12,26 +24,23 @@
 ## DistroWatch Weekly
 - 2024/08/05 [DistroWatch Weekly, Issue 1082](https://distrowatch.com/weekly.php?issue=20240805) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2024/08/05 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/05 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Ubuntu Weekly Newsletter
+- 2024/08/05 [Ubuntu Weekly Newsletter Issue 852](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-852/46949) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 1Link.Fun 科技周刊
-- 2024/08/04 [1link.fun 科技周刊 | 第 101 期](https://1link.fun/blog/issue/issue101/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+- 2024/08/04 [1link.fun 科技周刊 | 第 101 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 猫鱼周刊
 - 2024/08/04 [猫鱼周刊 vol. 035 什么是好的技术博客？](https://ameow.xyz/archives/weekly-035) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/08/04 [【CDT周报】第181期：我担心哪天我的上网证被吊销了](https://chinadigitaltimes.net/chinese/710252.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 视野修炼
 - 2024/08/04 [视野修炼第95期 | 终端里展示图片](https://sugarat.top/weekly/2024-08-04.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Pseudoyu 周报
 - 2024/08/04 [周报 #67 - 使用 follow 重塑我的信息输入系统](https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Raye's Journey
+- 2024/08/04 [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764) | [More](channels/Raye%27s%20Journey.md)
 
 ## zdyxry Weekly Issue
 - 2024/08/04 [Weekly Issue- 结构化拖延](https://zdyxry.github.io/2024/08/04/Weekly-Issue-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8B%96%E5%BB%B6/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -50,9 +59,6 @@
 
 ## Python 潮流周刊
 - 2024/08/03 [Python 潮流周刊#63：开发 Python Web 项目](https://pythoncat.top/posts/2024-08-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## Raye's Journey
-- 2024/08/03 [周报#30 ENFJ人格、双月湾拾遗与阅读笔记](https://xlog.app/api/redirection?characterId=51803&noteId=1761) | [More](channels/Raye%27s%20Journey.md)
 
 ## This Week in KDE
 - 2024/08/03 [This week in KDE: Discover and more](https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
@@ -90,9 +96,6 @@
 ## 二丫讲梵学习周刊
 - 2024/07/31 [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## Ubuntu Weekly Newsletter
-- 2024/07/29 [Ubuntu Weekly Newsletter Issue 851](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-851/46780) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## HelloGitHub
 - 2024/07/26 [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [More](channels/HelloGitHub.md)
 
@@ -102,17 +105,11 @@
 ## CyberClip
 - 2024/07/20 [CyberClip #57 睡眠剥夺](https://shyrz.me/cyberclip-57-sleep-deprivation/) | [More](channels/CyberClip.md)
 
-## PIVOT
-- 2024/07/18 [PIVOT Vol.6](https://anotherdayu.com/2024/5830/) | [More](channels/PIVOT.md)
-
 ## 泰晓资讯
 - 2024/07/11 [泰晓资讯·7 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-07-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 广场周刊
 - 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
-
-## 艾迪蓝波
-- 2024/07/07 [Vol.24 6月榜单：尊重与反叛](https://www.idnunber.top/article/8662a810-78c9-4bc5-aa9e-631fed068cd1) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## 印记周报
 - 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
