@@ -1,16 +1,16 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/08/07 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/07 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 艾迪蓝波
 - 2024/08/06 [Vol.25 7月榜单：草民](https://www.idnunber.top/article/1cac7cb9-9258-47c8-b306-f11cbf90a1e9) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## PIVOT
 - 2024/08/06 [PIVOT Vol.7](https://anotherdayu.com/2024/5845/) | [More](channels/PIVOT.md)
-
-## GitHub Trending Weekly
-- 2024/08/06 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/06 [《抬您上泰山》](https://www.bilibili.com/video/BV1tz421i7zb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/08/05 [第188期 - 水墨蓝天](https://weekly.tw93.fun/posts/188-%E6%B0%B4%E5%A2%A8%E8%93%9D%E5%A4%A9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -32,6 +32,9 @@
 
 ## 猫鱼周刊
 - 2024/08/04 [猫鱼周刊 vol. 035 什么是好的技术博客？](https://ameow.xyz/archives/weekly-035) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/08/04 [【CDT周报】第181期：我担心哪天我的上网证被吊销了](https://chinadigitaltimes.net/chinese/710252.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 视野修炼
 - 2024/08/04 [视野修炼第95期 | 终端里展示图片](https://sugarat.top/weekly/2024-08-04.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
