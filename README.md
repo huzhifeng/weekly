@@ -1,5 +1,23 @@
 # 周刊
 
+## 1Link.Fun 科技周刊
+- 2024/08/10 [1link.fun 科技周刊 | 第 102 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## CyberClip
+- 2024/08/10 [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/) | [More](channels/CyberClip.md)
+
+## Python 潮流周刊
+- 2024/08/10 [Python 潮流周刊#64：Python 的函数调用还很慢么？](https://pythoncat.top/posts/2024-08-10-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/08/10 [This week in KDE: SVG Breeze cursors and more thumbnails](https://pointieststick.com/2024/08/09/this-week-in-kde-svg-breeze-cursors-and-more-thumbnails/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/08/10 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/10 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/08/09 [科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +26,6 @@
 
 ## This Week in GNOME
 - 2024/08/09 [#160 Web Happenings](https://thisweek.gnome.org/posts/2024/08/twig-160/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/08/09 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/09 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/08/09 [独立开发变现周刊（第144期） : 一个在线签名工具年收入24万美元](https://www.ezindie.com/weekly/issue-144) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -54,9 +66,6 @@
 ## Ubuntu Weekly Newsletter
 - 2024/08/05 [Ubuntu Weekly Newsletter Issue 852](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-852/46949) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 1Link.Fun 科技周刊
-- 2024/08/04 [1link.fun 科技周刊 | 第 101 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
 ## 猫鱼周刊
 - 2024/08/04 [猫鱼周刊 vol. 035 什么是好的技术博客？](https://ameow.xyz/archives/weekly-035) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -87,12 +96,6 @@
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
-## Python 潮流周刊
-- 2024/08/03 [Python 潮流周刊#63：开发 Python Web 项目](https://pythoncat.top/posts/2024-08-03-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/08/03 [This week in KDE: Discover and more](https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
-
 ## 胡言乱语
 - 2024/08/02 [20240802的胡言乱语](https://www.bboy.app/2024/08/02/20240802%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -107,9 +110,6 @@
 
 ## GeekPlux Letters
 - 2024/07/23 [不要在网上制造 Slop #68](https://letters.geekplux.com/68/) | [More](channels/GeekPlux%20Letters.md)
-
-## CyberClip
-- 2024/07/20 [CyberClip #57 睡眠剥夺](https://shyrz.me/cyberclip-57-sleep-deprivation/) | [More](channels/CyberClip.md)
 
 ## 广场周刊
 - 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)

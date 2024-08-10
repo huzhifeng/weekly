@@ -1,3 +1,4 @@
+- [teableio/teable](https://github.com/teableio/teable)
 - [RSSNext/Follow](https://github.com/RSSNext/Follow)
 - [RSSNext/follow](https://github.com/RSSNext/follow)
 - [bol-van/zapret](https://github.com/bol-van/zapret)
