@@ -1,7 +1,28 @@
 # 周刊
 
+## 潮流周刊
+- 2024/08/12 [第189期 - 无印良品](https://weekly.tw93.fun/posts/189-%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/08/11 [猫鱼周刊 vol. 036 人工智能的相关法律](https://ameow.xyz/archives/weekly-036) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/08/11 [【CDT周报】第182期：生前当韭菜，死后成耗材](https://chinadigitaltimes.net/chinese/710471.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/08/11 [视野修炼第96期 | 即时媒体格式转换](https://sugarat.top/weekly/2024-08-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## GitHub Trending Weekly
+- 2024/08/11 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/11 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 1Link.Fun 科技周刊
 - 2024/08/10 [1link.fun 科技周刊 | 第 102 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## 老胡的信息周刊
+- 2024/08/10 [08-05~08-11.老胡的周刊（第154期）.md](https://weekly.howie6879.com/2024/08-05~08-11.老胡的周刊（第154期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/08/10 [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/) | [More](channels/CyberClip.md)
@@ -11,12 +32,6 @@
 
 ## This Week in KDE
 - 2024/08/10 [This week in KDE: SVG Breeze cursors and more thumbnails](https://pointieststick.com/2024/08/09/this-week-in-kde-svg-breeze-cursors-and-more-thumbnails/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/08/10 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/10 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技爱好者周刊
 - 2024/08/09 [科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -51,9 +66,6 @@
 ## PIVOT
 - 2024/08/06 [PIVOT Vol.7](https://anotherdayu.com/2024/5845/) | [More](channels/PIVOT.md)
 
-## 潮流周刊
-- 2024/08/05 [第188期 - 水墨蓝天](https://weekly.tw93.fun/posts/188-%E6%B0%B4%E5%A2%A8%E8%93%9D%E5%A4%A9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## Hacker News Weekly Top 10
 - 2024/08/05 [Hacker News Weekly Top 10 @2024-08-05](https://github.com/headllines/hackernews-weekly/issues/244) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -65,15 +77,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/08/05 [Ubuntu Weekly Newsletter Issue 852](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-852/46949) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 猫鱼周刊
-- 2024/08/04 [猫鱼周刊 vol. 035 什么是好的技术博客？](https://ameow.xyz/archives/weekly-035) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/08/04 [【CDT周报】第181期：我担心哪天我的上网证被吊销了](https://chinadigitaltimes.net/chinese/710252.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2024/08/04 [视野修炼第95期 | 终端里展示图片](https://sugarat.top/weekly/2024-08-04.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Pseudoyu 周报
 - 2024/08/04 [周报 #67 - 使用 follow 重塑我的信息输入系统](https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -89,9 +92,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2024/08/04 [9to5Linux Weekly Roundup: August 4th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-4th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## 老胡的信息周刊
-- 2024/08/03 [07-29~08-04.老胡的周刊（第153期）.md](https://weekly.howie6879.com/2024/07-29~08-04.老胡的周刊（第153期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
