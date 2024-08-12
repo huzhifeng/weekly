@@ -1,3 +1,4 @@
+- [hufrea/byedpi](https://github.com/hufrea/byedpi)
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)
 - [teableio/teable](https://github.com/teableio/teable)
 - [RSSNext/Follow](https://github.com/RSSNext/Follow)

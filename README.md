@@ -3,6 +3,24 @@
 ## 潮流周刊
 - 2024/08/12 [第189期 - 无印良品](https://weekly.tw93.fun/posts/189-%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/08/12 [Hacker News Weekly Top 10 @2024-08-12](https://github.com/headllines/hackernews-weekly/issues/245) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## AIGC Weekly
+- 2024/08/12 [AIGC Weekly #84](https://quail.ink/op7418/p/aigc-weekly-84) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/08/12 [DistroWatch Weekly, Issue 1083](https://distrowatch.com/weekly.php?issue=20240812) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/08/12 [9to5Linux Weekly Roundup: August 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-11th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/08/12 [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/12 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/08/11 [猫鱼周刊 vol. 036 人工智能的相关法律](https://ameow.xyz/archives/weekly-036) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -12,11 +30,8 @@
 ## 视野修炼
 - 2024/08/11 [视野修炼第96期 | 即时媒体格式转换](https://sugarat.top/weekly/2024-08-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2024/08/11 [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/11 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/08/11 [Weekly Issue-Talos 发行版](https://zdyxry.github.io/2024/08/11/Weekly-Issue-Talos-%E5%8F%91%E8%A1%8C%E7%89%88/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/08/10 [1link.fun 科技周刊 | 第 102 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -66,14 +81,8 @@
 ## PIVOT
 - 2024/08/06 [PIVOT Vol.7](https://anotherdayu.com/2024/5845/) | [More](channels/PIVOT.md)
 
-## Hacker News Weekly Top 10
-- 2024/08/05 [Hacker News Weekly Top 10 @2024-08-05](https://github.com/headllines/hackernews-weekly/issues/244) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
 ## 一周杂记
 - 2024/08/05 [一周杂记 in Week 1 Aug 2024](http://kingsamchen.github.io/2024/08/05/weekly-2024-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2024/08/05 [DistroWatch Weekly, Issue 1082](https://distrowatch.com/weekly.php?issue=20240805) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/08/05 [Ubuntu Weekly Newsletter Issue 852](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-852/46949) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -83,15 +92,6 @@
 
 ## Raye's Journey
 - 2024/08/04 [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764) | [More](channels/Raye%27s%20Journey.md)
-
-## zdyxry Weekly Issue
-- 2024/08/04 [Weekly Issue- 结构化拖延](https://zdyxry.github.io/2024/08/04/Weekly-Issue-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8B%96%E5%BB%B6/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2024/08/04 [AIGC Weekly #83](https://quail.ink/op7418/p/aigc-weekly-83) | [More](channels/AIGC%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/08/04 [9to5Linux Weekly Roundup: August 4th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-4th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)

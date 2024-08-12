@@ -1,3 +1,4 @@
+- [AIGC Weekly #84](https://quail.ink/op7418/p/aigc-weekly-84)
 - [AIGC Weekly #83](https://quail.ink/op7418/p/aigc-weekly-83)
 - [AIGC Weekly #82 合成数据和推理能力](https://quail.ink/op7418/p/aigc-weekly-82-composite-data-and-reasoning-ability)
 - [AIGC Weekly #81 小模型扎堆](https://quail.ink/op7418/p/aigc-weekly-81)
