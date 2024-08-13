@@ -1,10 +1,19 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/08/13 [teableio/teable](https://github.com/teableio/teable) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/13 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/08/12 [第189期 - 无印良品](https://weekly.tw93.fun/posts/189-%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## Hacker News Weekly Top 10
 - 2024/08/12 [Hacker News Weekly Top 10 @2024-08-12](https://github.com/headllines/hackernews-weekly/issues/245) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/08/12 [一周杂记 in Week 2 Aug 2024](http://kingsamchen.github.io/2024/08/12/weekly-2024-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2024/08/12 [AIGC Weekly #84](https://quail.ink/op7418/p/aigc-weekly-84) | [More](channels/AIGC%20Weekly.md)
@@ -15,11 +24,8 @@
 ## 9to5Linux Weekly Roundup
 - 2024/08/12 [9to5Linux Weekly Roundup: August 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-11th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2024/08/12 [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/12 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Ubuntu Weekly Newsletter
+- 2024/08/12 [Ubuntu Weekly Newsletter Issue 853](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-853/47114) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2024/08/11 [猫鱼周刊 vol. 036 人工智能的相关法律](https://ameow.xyz/archives/weekly-036) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -80,12 +86,6 @@
 
 ## PIVOT
 - 2024/08/06 [PIVOT Vol.7](https://anotherdayu.com/2024/5845/) | [More](channels/PIVOT.md)
-
-## 一周杂记
-- 2024/08/05 [一周杂记 in Week 1 Aug 2024](http://kingsamchen.github.io/2024/08/05/weekly-2024-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/08/05 [Ubuntu Weekly Newsletter Issue 852](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-852/46949) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2024/08/04 [周报 #67 - 使用 follow 重塑我的信息输入系统](https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
