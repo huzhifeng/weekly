@@ -1,3 +1,4 @@
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)
 - [hufrea/byedpi](https://github.com/hufrea/byedpi)
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)

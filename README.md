@@ -1,10 +1,13 @@
 # 周刊
 
+## 胡言乱语
+- 2024/08/14 [20240814的胡言乱语](https://www.bboy.app/2024/08/14/20240814%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## GitHub Trending Weekly
-- 2024/08/13 [teableio/teable](https://github.com/teableio/teable) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/08/14 [teableio/teable](https://github.com/teableio/teable) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/08/13 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/08/14 [10年后，900万了](https://www.bilibili.com/video/BV1jT42167Xb) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/08/12 [第189期 - 无印良品](https://weekly.tw93.fun/posts/189-%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -95,9 +98,6 @@
 
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## 胡言乱语
-- 2024/08/02 [20240802的胡言乱语](https://www.bboy.app/2024/08/02/20240802%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 科技創業週報
 - 2024/08/01 [科技創業週報#445：找一份躺平工作，不好嗎？｜地緣政治博弈：小國如何在AI競爭中獲得先機](https://blog.starrocket.io/posts/newsletter-2024-08-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
