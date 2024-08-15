@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.33: COSMIC Desktop Arrives, KDE Widgets, Chrome Extensions, and More](https://itsfoss.com/newsletter/foss-weekly-24-33/)
 - [FOSS Weekly #24.32: Armbian, Immutable Manjaro, Backing Up VM, APT Improvement and More](https://itsfoss.com/newsletter/foss-weekly-24-32/)
 - [FOSS Weekly #24.31: Mint 22 Review, Vanilla OS 2, Fun with Linux Commands and More](https://itsfoss.com/newsletter/foss-weekly-24-31/)
 - [FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-30/)

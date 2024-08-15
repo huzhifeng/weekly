@@ -1,3 +1,4 @@
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)
 - [hufrea/byedpi](https://github.com/hufrea/byedpi)
