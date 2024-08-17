@@ -1,3 +1,4 @@
+- [Python 潮流周刊#65：CSV 有点糟糕](https://pythoncat.top/posts/2024-08-17-weekly/)
 - [Python 潮流周刊#64：Python 的函数调用还很慢么？](https://pythoncat.top/posts/2024-08-10-weekly/)
 - [Python 潮流周刊#63：开发 Python Web 项目](https://pythoncat.top/posts/2024-08-03-weekly/)
 - [Python 潮流周刊#62：试用自由线程 Python](https://pythoncat.top/posts/2024-07-27-weekly/)

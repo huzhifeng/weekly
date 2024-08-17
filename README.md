@@ -1,5 +1,17 @@
 # 周刊
 
+## Python 潮流周刊
+- 2024/08/17 [Python 潮流周刊#65：CSV 有点糟糕](https://pythoncat.top/posts/2024-08-17-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/08/17 [This week in KDE: System Settings modernization and Wayland color management](https://pointieststick.com/2024/08/16/this-week-in-kde-system-settings-modernization-and-wayland-color-management/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/08/17 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/17 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/08/16 [科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +20,6 @@
 
 ## This Week in GNOME
 - 2024/08/16 [#161 End-to-End Tests](https://thisweek.gnome.org/posts/2024/08/twig-161/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/08/16 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/16 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/08/16 [独立开发变现周刊（第145期） : 世界上最好的简历生成器，年收入 250 万美元](https://www.ezindie.com/weekly/issue-145) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -74,12 +80,6 @@
 
 ## CyberClip
 - 2024/08/10 [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/) | [More](channels/CyberClip.md)
-
-## Python 潮流周刊
-- 2024/08/10 [Python 潮流周刊#64：Python 的函数调用还很慢么？](https://pythoncat.top/posts/2024-08-10-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## This Week in KDE
-- 2024/08/10 [This week in KDE: SVG Breeze cursors and more thumbnails](https://pointieststick.com/2024/08/09/this-week-in-kde-svg-breeze-cursors-and-more-thumbnails/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 泰晓资讯
 - 2024/08/08 [泰晓资讯·8 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-08-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
