@@ -1,3 +1,4 @@
+- [Weekly Issue-《躁动的无意识》](https://zdyxry.github.io/2024/08/18/Weekly-Issue-%E8%BA%81%E5%8A%A8%E7%9A%84%E6%97%A0%E6%84%8F%E8%AF%86/)
 - [Weekly Issue-Talos 发行版](https://zdyxry.github.io/2024/08/11/Weekly-Issue-Talos-%E5%8F%91%E8%A1%8C%E7%89%88/)
 - [Weekly Issue- 结构化拖延](https://zdyxry.github.io/2024/08/04/Weekly-Issue-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8B%96%E5%BB%B6/)
 - [Weekly Issue-如何对故障进行分类](https://zdyxry.github.io/2024/07/28/Weekly-Issue-%E5%A6%82%E4%BD%95%E5%AF%B9%E6%95%85%E9%9A%9C%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB/)

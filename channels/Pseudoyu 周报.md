@@ -1,3 +1,5 @@
+- [周报 #69 - AI Coding 体验与学习的源动力](https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/)
+- [周报 #68 - 关于写博客这件事与我生活的色彩](https://www.pseudoyu.com/zh/2024/08/18/weekly_review_20240818/)
 - [周报 #67 - 使用 follow 重塑我的信息输入系统](https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/)
 - [周报 #66 - 10x 工程师、技术热情与个人工具箱](https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/)
 - [周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit](https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/)

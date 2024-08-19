@@ -3,6 +3,36 @@
 ## 潮流周刊
 - 2024/08/19 [第190期 - 螃蟹螃蟹](https://weekly.tw93.fun/posts/190-%E8%9E%83%E8%9F%B9%E8%9E%83%E8%9F%B9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2024/08/19 [【CDT周报】第183期：当外卖骑手被压迫时，结果并不总是下跪](https://chinadigitaltimes.net/chinese/710687.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Hacker News Weekly Top 10
+- 2024/08/19 [Hacker News Weekly Top 10 @2024-08-19](https://github.com/headllines/hackernews-weekly/issues/246) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/08/19 [一周杂记 in Week 3 Aug 2024](http://kingsamchen.github.io/2024/08/19/weekly-2024-aug-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GeekPlux Letters
+- 2024/08/19 [股票贴现与"时间贴现"](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
+
+## AIGC Weekly
+- 2024/08/19 [AIGC Weekly #85](https://quail.ink/op7418/p/aigc-weekly-85) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/08/19 [DistroWatch Weekly, Issue 1084](https://distrowatch.com/weekly.php?issue=20240819) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/08/19 [9to5Linux Weekly Roundup: August 18th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-18th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2024/08/19 [Ubuntu Weekly Newsletter Issue 854](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-854/47301) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2024/08/19 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/19 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 1Link.Fun 科技周刊
 - 2024/08/18 [1Link.Fun 科技周刊 | 第 103 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -12,11 +42,11 @@
 ## 视野修炼
 - 2024/08/18 [视野修炼第97期 | ?=提案](https://sugarat.top/weekly/2024-08-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2024/08/18 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Weekly.md)
+## Pseudoyu 周报
+- 2024/08/18 [周报 #69 - AI Coding 体验与学习的源动力](https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## B站每周必看
-- 2024/08/18 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/08/18 [Weekly Issue-《躁动的无意识》](https://zdyxry.github.io/2024/08/18/Weekly-Issue-%E8%BA%81%E5%8A%A8%E7%9A%84%E6%97%A0%E6%84%8F%E8%AF%86/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2024/08/17 [08-12~08-18.老胡的周刊（第155期）.md](https://weekly.howie6879.com/2024/08-12~08-18.老胡的周刊（第155期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -57,30 +87,6 @@
 ## 胡言乱语
 - 2024/08/14 [20240814的胡言乱语](https://www.bboy.app/2024/08/14/20240814%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## Hacker News Weekly Top 10
-- 2024/08/12 [Hacker News Weekly Top 10 @2024-08-12](https://github.com/headllines/hackernews-weekly/issues/245) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/08/12 [一周杂记 in Week 2 Aug 2024](http://kingsamchen.github.io/2024/08/12/weekly-2024-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/08/12 [AIGC Weekly #84](https://quail.ink/op7418/p/aigc-weekly-84) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/08/12 [DistroWatch Weekly, Issue 1083](https://distrowatch.com/weekly.php?issue=20240812) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/08/12 [9to5Linux Weekly Roundup: August 11th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-11th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/08/12 [Ubuntu Weekly Newsletter Issue 853](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-853/47114) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## CDT周报
-- 2024/08/11 [【CDT周报】第182期：生前当韭菜，死后成耗材](https://chinadigitaltimes.net/chinese/710471.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## zdyxry Weekly Issue
-- 2024/08/11 [Weekly Issue-Talos 发行版](https://zdyxry.github.io/2024/08/11/Weekly-Issue-Talos-%E5%8F%91%E8%A1%8C%E7%89%88/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## CyberClip
 - 2024/08/10 [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/) | [More](channels/CyberClip.md)
 
@@ -92,9 +98,6 @@
 
 ## PIVOT
 - 2024/08/06 [PIVOT Vol.7](https://anotherdayu.com/2024/5845/) | [More](channels/PIVOT.md)
-
-## Pseudoyu 周报
-- 2024/08/04 [周报 #67 - 使用 follow 重塑我的信息输入系统](https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## Raye's Journey
 - 2024/08/04 [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764) | [More](channels/Raye%27s%20Journey.md)
@@ -108,9 +111,6 @@
 ## HelloGitHub
 - 2024/07/26 [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [More](channels/HelloGitHub.md)
 
-## GeekPlux Letters
-- 2024/07/23 [不要在网上制造 Slop #68](https://letters.geekplux.com/68/) | [More](channels/GeekPlux%20Letters.md)
-
 ## 广场周刊
 - 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
@@ -122,7 +122,4 @@
 
 ## 涛然自得周刊
 - 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
-
-## 赫周刊
-- 2023/04/02 [Meta退出NFT竞逐，Ticketmaster引入令牌门禁｜【赫周刊】Clive’s Newsletter #37](https://www.cliveshd.com/newsletter-37/) | [More](channels/%E8%B5%AB%E5%91%A8%E5%88%8A.md)
 
