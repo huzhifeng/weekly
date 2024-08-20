@@ -1,3 +1,4 @@
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
 - [versotile-org/verso](https://github.com/versotile-org/verso)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo)

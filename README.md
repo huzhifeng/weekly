@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/08/20 [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/20 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/08/19 [第190期 - 螃蟹螃蟹](https://weekly.tw93.fun/posts/190-%E8%9E%83%E8%9F%B9%E8%9E%83%E8%9F%B9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -26,12 +32,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/08/19 [Ubuntu Weekly Newsletter Issue 854](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-854/47301) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2024/08/19 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/19 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/08/18 [1Link.Fun 科技周刊 | 第 103 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
