@@ -1,3 +1,4 @@
+- [toss/es-toolkit](https://github.com/toss/es-toolkit)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
 - [versotile-org/verso](https://github.com/versotile-org/verso)

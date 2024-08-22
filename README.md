@@ -1,10 +1,25 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/08/23 [独立开发变现周刊（第146期） : 一个月收入8千美金的网红分析工具](https://www.ezindie.com/weekly/issue-146) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 奇趣周刊
+- 2024/08/22 [奇趣周刊 - 第 64 期](https://zishu.me/blog/weekly-64.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/08/22 [学习周刊-总第173期-2024年第34周](https://wiki.eryajf.net/pages/b52310/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/08/22 [LWN.net Weekly Edition for August 22, 2024](https://lwn.net/Articles/985783/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/08/22 [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/08/21 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/08/22 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/08/21 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/08/22 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/08/19 [第190期 - 螃蟹螃蟹](https://weekly.tw93.fun/posts/190-%E8%9E%83%E8%9F%B9%E8%9E%83%E8%9F%B9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -66,32 +81,17 @@
 ## This Week in GNOME
 - 2024/08/16 [#161 End-to-End Tests](https://thisweek.gnome.org/posts/2024/08/twig-161/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/08/16 [独立开发变现周刊（第145期） : 世界上最好的简历生成器，年收入 250 万美元](https://www.ezindie.com/weekly/issue-145) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## 奇趣周刊
-- 2024/08/15 [奇趣周刊 - 第 63 期](https://zishu.me/blog/weekly-63.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/08/15 [学习周刊-总第172期-2024年第33周](https://wiki.eryajf.net/pages/8d036c/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/08/15 [LWN.net Weekly Edition for August 15, 2024](https://lwn.net/Articles/984770/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/08/15 [FOSS Weekly #24.33: COSMIC Desktop Arrives, KDE Widgets, Chrome Extensions, and More](https://itsfoss.com/newsletter/foss-weekly-24-33/) | [More](channels/FOSS%20Weekly.md)
+## 泰晓资讯
+- 2024/08/15 [泰晓资讯·8 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-08-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 胡言乱语
 - 2024/08/14 [20240814的胡言乱语](https://www.bboy.app/2024/08/14/20240814%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## CyberClip
 - 2024/08/10 [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/) | [More](channels/CyberClip.md)
-
-## 泰晓资讯
-- 2024/08/08 [泰晓资讯·8 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-08-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 艾迪蓝波
 - 2024/08/06 [Vol.25 7月榜单：草民](https://www.idnunber.top/article/1cac7cb9-9258-47c8-b306-f11cbf90a1e9) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
