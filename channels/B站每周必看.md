@@ -1,3 +1,6 @@
+- [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X)
+- [探秘法国奥运会！冠军庆功宴！都吃什么？](https://www.bilibili.com/video/BV11M4m1y7Sz)
+- [全国第1人，全盲玩家靠听声辨位打过黑神话第1个boss](https://www.bilibili.com/video/BV1vz421i7mM)
 - [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH)
 - [细品](https://www.bilibili.com/video/BV1tm42137zL)
 - [七夕节老番茄想和自己玩游戏](https://www.bilibili.com/video/BV1dE4m1R7LG)

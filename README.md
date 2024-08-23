@@ -1,5 +1,23 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/08/23 [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/08/23 [Web Review, Week 2024-34](https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2024/08/23 [20240823的胡言乱语](https://www.bboy.app/2024/08/23/20240823%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## This Week in GNOME
+- 2024/08/23 [#162 Late Friday Edition](https://thisweek.gnome.org/posts/2024/08/twig-162/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/08/23 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/23 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/08/23 [独立开发变现周刊（第146期） : 一个月收入8千美金的网红分析工具](https://www.ezindie.com/weekly/issue-146) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -14,12 +32,6 @@
 
 ## FOSS Weekly
 - 2024/08/22 [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/08/22 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/22 [你说我打的是老板儿子？（狂喜）](https://www.bilibili.com/video/BV1ub421J7vH) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/08/19 [第190期 - 螃蟹螃蟹](https://weekly.tw93.fun/posts/190-%E8%9E%83%E8%9F%B9%E8%9E%83%E8%9F%B9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -72,23 +84,11 @@
 ## This Week in KDE
 - 2024/08/17 [This week in KDE: System Settings modernization and Wayland color management](https://pointieststick.com/2024/08/16/this-week-in-kde-system-settings-modernization-and-wayland-color-management/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/08/16 [科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/08/16 [Web Review, Week 2024-33](https://ervin.ipsquad.net/blog/2024/08/16/web-review-week-2024-33/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/08/16 [#161 End-to-End Tests](https://thisweek.gnome.org/posts/2024/08/twig-161/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 泰晓资讯
 - 2024/08/15 [泰晓资讯·8 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-08-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 胡言乱语
-- 2024/08/14 [20240814的胡言乱语](https://www.bboy.app/2024/08/14/20240814%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## CyberClip
 - 2024/08/10 [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/) | [More](channels/CyberClip.md)
