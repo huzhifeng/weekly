@@ -1,19 +1,34 @@
 # 周刊
 
+## 潮流周刊
+- 2024/08/26 [第191期 - 一绿山墙](https://weekly.tw93.fun/posts/191-%E4%B8%80%E7%BB%BF%E5%B1%B1%E5%A2%99/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/08/25 [猫鱼周刊 vol. 038 人生是旷野，不是轨道](https://ameow.xyz/archives/weekly-038) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/08/25 [【CDT周报】第184期：《黑神话：悟空》——“人心若是烧没了，修好一座破庙又有什么用呢？”](https://chinadigitaltimes.net/chinese/710876.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/08/25 [视野修炼第98期 | Node原生支持TS](https://sugarat.top/weekly/2024-08-25.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## GitHub Trending Weekly
+- 2024/08/25 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/25 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 1Link.Fun 科技周刊
 - 2024/08/24 [1Link.Fun 科技周刊 | 第 104 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## 老胡的信息周刊
+- 2024/08/24 [08-19~08-25.老胡的周刊（第156期）.md](https://weekly.howie6879.com/2024/08-19~08-25.老胡的周刊（第156期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Python 潮流周刊
 - 2024/08/24 [Python 潮流周刊#66：Python 的预处理器](https://pythoncat.top/posts/2024-08-24-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
 - 2024/08/24 [This week in KDE: per-monitor brightness control and “update then shut down”](https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/08/24 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/24 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技爱好者周刊
 - 2024/08/23 [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,12 +57,6 @@
 ## FOSS Weekly
 - 2024/08/22 [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/) | [More](channels/FOSS%20Weekly.md)
 
-## 潮流周刊
-- 2024/08/19 [第190期 - 螃蟹螃蟹](https://weekly.tw93.fun/posts/190-%E8%9E%83%E8%9F%B9%E8%9E%83%E8%9F%B9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/08/19 [【CDT周报】第183期：当外卖骑手被压迫时，结果并不总是下跪](https://chinadigitaltimes.net/chinese/710687.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## Hacker News Weekly Top 10
 - 2024/08/19 [Hacker News Weekly Top 10 @2024-08-19](https://github.com/headllines/hackernews-weekly/issues/246) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
@@ -69,20 +78,11 @@
 ## Ubuntu Weekly Newsletter
 - 2024/08/19 [Ubuntu Weekly Newsletter Issue 854](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-854/47301) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2024/08/18 [猫鱼周刊 vol. 037 云服务厂商的赚钱法宝](https://ameow.xyz/archives/weekly-037) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2024/08/18 [视野修炼第97期 | ?=提案](https://sugarat.top/weekly/2024-08-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## Pseudoyu 周报
 - 2024/08/18 [周报 #69 - AI Coding 体验与学习的源动力](https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## zdyxry Weekly Issue
 - 2024/08/18 [Weekly Issue-《躁动的无意识》](https://zdyxry.github.io/2024/08/18/Weekly-Issue-%E8%BA%81%E5%8A%A8%E7%9A%84%E6%97%A0%E6%84%8F%E8%AF%86/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/08/17 [08-12~08-18.老胡的周刊（第155期）.md](https://weekly.howie6879.com/2024/08-12~08-18.老胡的周刊（第155期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

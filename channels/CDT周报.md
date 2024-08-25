@@ -1,3 +1,4 @@
+- [【CDT周报】第184期：《黑神话：悟空》——“人心若是烧没了，修好一座破庙又有什么用呢？”](https://chinadigitaltimes.net/chinese/710876.html)
 - [【CDT周报】第183期：当外卖骑手被压迫时，结果并不总是下跪](https://chinadigitaltimes.net/chinese/710687.html)
 - [【CDT周报】第182期：生前当韭菜，死后成耗材](https://chinadigitaltimes.net/chinese/710471.html)
 - [【CDT周报】第181期：我担心哪天我的上网证被吊销了](https://chinadigitaltimes.net/chinese/710252.html)
