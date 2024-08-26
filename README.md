@@ -3,6 +3,27 @@
 ## 潮流周刊
 - 2024/08/26 [第191期 - 一绿山墙](https://weekly.tw93.fun/posts/191-%E4%B8%80%E7%BB%BF%E5%B1%B1%E5%A2%99/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2024/08/26 [Hacker News Weekly Top 10 @2024-08-26](https://github.com/headllines/hackernews-weekly/issues/247) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/08/26 [一周杂记 in Week 4 Aug 2024](http://kingsamchen.github.io/2024/08/26/weekly-2024-aug-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/08/26 [AIGC Weekly #86](https://quail.ink/op7418/p/aigc-weekly-86) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/08/26 [DistroWatch Weekly, Issue 1085](https://distrowatch.com/weekly.php?issue=20240826) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/08/26 [9to5Linux Weekly Roundup: August 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-25th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/08/26 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/26 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/08/25 [猫鱼周刊 vol. 038 人生是旷野，不是轨道](https://ameow.xyz/archives/weekly-038) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -12,11 +33,8 @@
 ## 视野修炼
 - 2024/08/25 [视野修炼第98期 | Node原生支持TS](https://sugarat.top/weekly/2024-08-25.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2024/08/25 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/25 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/08/25 [Weekly Issue-是商业行为还是厌女](https://zdyxry.github.io/2024/08/25/Weekly-Issue-%E6%98%AF%E5%95%86%E4%B8%9A%E8%A1%8C%E4%B8%BA%E8%BF%98%E6%98%AF%E5%8E%8C%E5%A5%B3/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/08/24 [1Link.Fun 科技周刊 | 第 104 期](https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -57,32 +75,14 @@
 ## FOSS Weekly
 - 2024/08/22 [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/) | [More](channels/FOSS%20Weekly.md)
 
-## Hacker News Weekly Top 10
-- 2024/08/19 [Hacker News Weekly Top 10 @2024-08-19](https://github.com/headllines/hackernews-weekly/issues/246) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/08/19 [一周杂记 in Week 3 Aug 2024](http://kingsamchen.github.io/2024/08/19/weekly-2024-aug-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现"](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
-
-## AIGC Weekly
-- 2024/08/19 [AIGC Weekly #85](https://quail.ink/op7418/p/aigc-weekly-85) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/08/19 [DistroWatch Weekly, Issue 1084](https://distrowatch.com/weekly.php?issue=20240819) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/08/19 [9to5Linux Weekly Roundup: August 18th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-18th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/08/19 [Ubuntu Weekly Newsletter Issue 854](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-854/47301) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2024/08/18 [周报 #69 - AI Coding 体验与学习的源动力](https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## zdyxry Weekly Issue
-- 2024/08/18 [Weekly Issue-《躁动的无意识》](https://zdyxry.github.io/2024/08/18/Weekly-Issue-%E8%BA%81%E5%8A%A8%E7%9A%84%E6%97%A0%E6%84%8F%E8%AF%86/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

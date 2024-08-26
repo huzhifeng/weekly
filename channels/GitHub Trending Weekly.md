@@ -1,3 +1,4 @@
+- [s0md3v/roop](https://github.com/s0md3v/roop)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
