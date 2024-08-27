@@ -1,3 +1,5 @@
+- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 - [s0md3v/roop](https://github.com/s0md3v/roop)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik)

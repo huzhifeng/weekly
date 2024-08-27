@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/08/27 [s0md3v/roop](https://github.com/s0md3v/roop) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/27 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/08/26 [第191期 - 一绿山墙](https://weekly.tw93.fun/posts/191-%E4%B8%80%E7%BB%BF%E5%B1%B1%E5%A2%99/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -18,11 +24,8 @@
 ## 9to5Linux Weekly Roundup
 - 2024/08/26 [9to5Linux Weekly Roundup: August 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-25th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2024/08/26 [goauthentik/authentik](https://github.com/goauthentik/authentik) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/26 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Ubuntu Weekly Newsletter
+- 2024/08/26 [Ubuntu Weekly Newsletter Issue 855](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-855/47504) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2024/08/25 [猫鱼周刊 vol. 038 人生是旷野，不是轨道](https://ameow.xyz/archives/weekly-038) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -77,9 +80,6 @@
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现"](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/08/19 [Ubuntu Weekly Newsletter Issue 854](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-854/47301) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2024/08/18 [周报 #69 - AI Coding 体验与学习的源动力](https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
