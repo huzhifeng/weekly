@@ -107,12 +107,6 @@
 			"filter": ["Hacker News Monthly"]
 		},
 		{
-			"channel": "Python 潮流周刊",
-			"portal": "https://github.com/chinesehuazhou/python-weekly",
-			"url": "https://pythoncat.top/rss.xml",
-			"filter": ["潮流周刊"]
-		},
-		{
 			"channel": "MDH 前端周刊",
 			"portal": "https://github.com/sorrycc/weekly",
 			"url": "https://mdhweekly.com/rss.xml"
