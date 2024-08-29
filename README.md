@@ -1,13 +1,28 @@
 # 周刊
 
-## HelloGitHub
-- 2024/08/28 [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101) | [More](channels/HelloGitHub.md)
+## 独立开发变现周刊
+- 2024/08/30 [独立开发变现周刊（第147期） : 月收入12万美元的浏览器截图扩展](https://www.ezindie.com/weekly/issue-147) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 奇趣周刊
+- 2024/08/29 [奇趣周刊 - 第 65 期](https://zishu.me/blog/weekly-65.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/08/29 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/08/29 [LWN.net Weekly Edition for August 29, 2024](https://lwn.net/Articles/986853/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/08/29 [FOSS Weekly #24.35: COSMIC Desktop, Refresh OS, Konsole Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-35/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/08/28 [s0md3v/roop](https://github.com/s0md3v/roop) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/08/29 [s0md3v/roop](https://github.com/s0md3v/roop) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/08/28 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/08/29 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## HelloGitHub
+- 2024/08/28 [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101) | [More](channels/HelloGitHub.md)
 
 ## 潮流周刊
 - 2024/08/26 [第191期 - 一绿山墙](https://weekly.tw93.fun/posts/191-%E4%B8%80%E7%BB%BF%E5%B1%B1%E5%A2%99/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -48,9 +63,6 @@
 ## 老胡的信息周刊
 - 2024/08/24 [08-19~08-25.老胡的周刊（第156期）.md](https://weekly.howie6879.com/2024/08-19~08-25.老胡的周刊（第156期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## Python 潮流周刊
-- 2024/08/24 [Python 潮流周刊#66：Python 的预处理器](https://pythoncat.top/posts/2024-08-24-weekly/) | [More](channels/Python%20%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## This Week in KDE
 - 2024/08/24 [This week in KDE: per-monitor brightness control and “update then shut down”](https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/) | [More](channels/This%20Week%20in%20KDE.md)
 
@@ -65,21 +77,6 @@
 
 ## This Week in GNOME
 - 2024/08/23 [#162 Late Friday Edition](https://thisweek.gnome.org/posts/2024/08/twig-162/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 独立开发变现周刊
-- 2024/08/23 [独立开发变现周刊（第146期） : 一个月收入8千美金的网红分析工具](https://www.ezindie.com/weekly/issue-146) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 奇趣周刊
-- 2024/08/22 [奇趣周刊 - 第 64 期](https://zishu.me/blog/weekly-64.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/08/22 [学习周刊-总第173期-2024年第34周](https://wiki.eryajf.net/pages/b52310/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/08/22 [LWN.net Weekly Edition for August 22, 2024](https://lwn.net/Articles/985783/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/08/22 [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/) | [More](channels/FOSS%20Weekly.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现"](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

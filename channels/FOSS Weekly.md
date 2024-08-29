@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.35: COSMIC Desktop, Refresh OS, Konsole Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-35/)
 - [FOSS Weekly #24.34: Deepin 23, Archcraft Experience, Linux in Schools and More](https://itsfoss.com/newsletter/foss-weekly-24-34/)
 - [FOSS Weekly #24.33: COSMIC Desktop Arrives, KDE Widgets, Chrome Extensions, and More](https://itsfoss.com/newsletter/foss-weekly-24-33/)
 - [FOSS Weekly #24.32: Armbian, Immutable Manjaro, Backing Up VM, APT Improvement and More](https://itsfoss.com/newsletter/foss-weekly-24-32/)
