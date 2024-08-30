@@ -1,3 +1,6 @@
+- [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg)
+- [游戏加速100倍+极限模式+一格物品栏通关MC!](https://www.bilibili.com/video/BV1Lb421E7dn)
+- [不要拘泥于单一棍法，进来感受齐天大圣的魅力！无伤寅虎](https://www.bilibili.com/video/BV1NBWSeeEFe)
 - [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X)
 - [探秘法国奥运会！冠军庆功宴！都吃什么？](https://www.bilibili.com/video/BV11M4m1y7Sz)
 - [全国第1人，全盲玩家靠听声辨位打过黑神话第1个boss](https://www.bilibili.com/video/BV1vz421i7mM)

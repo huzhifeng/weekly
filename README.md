@@ -1,5 +1,20 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/08/30 [科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/08/30 [Web Review, Week 2024-35](https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/08/30 [#163 Public Transit](https://thisweek.gnome.org/posts/2024/08/twig-163/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/08/30 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/30 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/08/30 [独立开发变现周刊（第147期） : 月收入12万美元的浏览器截图扩展](https://www.ezindie.com/weekly/issue-147) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
@@ -15,12 +30,6 @@
 ## FOSS Weekly
 - 2024/08/29 [FOSS Weekly #24.35: COSMIC Desktop, Refresh OS, Konsole Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-35/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2024/08/29 [s0md3v/roop](https://github.com/s0md3v/roop) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/29 [纯黑《黑神话：悟空》全程无伤攻略解说 第一期](https://www.bilibili.com/video/BV114421U75X) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## HelloGitHub
 - 2024/08/28 [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101) | [More](channels/HelloGitHub.md)
 
@@ -35,9 +44,6 @@
 
 ## AIGC Weekly
 - 2024/08/26 [AIGC Weekly #86](https://quail.ink/op7418/p/aigc-weekly-86) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/08/26 [DistroWatch Weekly, Issue 1085](https://distrowatch.com/weekly.php?issue=20240826) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
 - 2024/08/26 [9to5Linux Weekly Roundup: August 25th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-august-25th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
@@ -66,17 +72,8 @@
 ## This Week in KDE
 - 2024/08/24 [This week in KDE: per-monitor brightness control and “update then shut down”](https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/08/23 [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/08/23 [Web Review, Week 2024-34](https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/) | [More](channels/Web%20Review.md)
-
 ## 胡言乱语
 - 2024/08/23 [20240823的胡言乱语](https://www.bboy.app/2024/08/23/20240823%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## This Week in GNOME
-- 2024/08/23 [#162 Late Friday Edition](https://thisweek.gnome.org/posts/2024/08/twig-162/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现"](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
