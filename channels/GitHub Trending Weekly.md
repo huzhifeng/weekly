@@ -1,3 +1,5 @@
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb)
 - [Permify/permify](https://github.com/Permify/permify)
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)

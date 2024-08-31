@@ -1,5 +1,14 @@
 # 周刊
 
+## CyberClip
+- 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
+
+## GitHub Trending Weekly
+- 2024/08/31 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/08/31 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/08/30 [科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -9,11 +18,8 @@
 ## This Week in GNOME
 - 2024/08/30 [#163 Public Transit](https://thisweek.gnome.org/posts/2024/08/twig-163/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## GitHub Trending Weekly
-- 2024/08/30 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/08/30 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## This Week in KDE
+- 2024/08/30 [This week in Plasma: inhibiting inhibitions and more!](https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 独立开发变现周刊
 - 2024/08/30 [独立开发变现周刊（第147期） : 月收入12万美元的浏览器截图扩展](https://www.ezindie.com/weekly/issue-147) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -69,9 +75,6 @@
 ## 老胡的信息周刊
 - 2024/08/24 [08-19~08-25.老胡的周刊（第156期）.md](https://weekly.howie6879.com/2024/08-19~08-25.老胡的周刊（第156期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## This Week in KDE
-- 2024/08/24 [This week in KDE: per-monitor brightness control and “update then shut down”](https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/) | [More](channels/This%20Week%20in%20KDE.md)
-
 ## 胡言乱语
 - 2024/08/23 [20240823的胡言乱语](https://www.bboy.app/2024/08/23/20240823%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -86,9 +89,6 @@
 
 ## 泰晓资讯
 - 2024/08/15 [泰晓资讯·8 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-08-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## CyberClip
-- 2024/08/10 [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/) | [More](channels/CyberClip.md)
 
 ## 艾迪蓝波
 - 2024/08/06 [Vol.25 7月榜单：草民](https://www.idnunber.top/article/1cac7cb9-9258-47c8-b306-f11cbf90a1e9) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)

@@ -1,3 +1,4 @@
+- [This week in Plasma: inhibiting inhibitions and more!](https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/)
 - [This week in KDE: per-monitor brightness control and “update then shut down”](https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/)
 - [This week in KDE: System Settings modernization and Wayland color management](https://pointieststick.com/2024/08/16/this-week-in-kde-system-settings-modernization-and-wayland-color-management/)
 - [This week in KDE: SVG Breeze cursors and more thumbnails](https://pointieststick.com/2024/08/09/this-week-in-kde-svg-breeze-cursors-and-more-thumbnails/)
