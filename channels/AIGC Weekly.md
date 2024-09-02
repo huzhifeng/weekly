@@ -1,3 +1,4 @@
+- [AIGC Weekly #87](https://quail.ink/op7418/p/aigc-weekly-87)
 - [AIGC Weekly #86](https://quail.ink/op7418/p/aigc-weekly-86)
 - [AIGC Weekly #85](https://quail.ink/op7418/p/aigc-weekly-85)
 - [AIGC Weekly #84](https://quail.ink/op7418/p/aigc-weekly-84)

@@ -1,3 +1,4 @@
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb)
