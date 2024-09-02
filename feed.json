@@ -35,7 +35,8 @@
 		},
 		{
 			"channel": "潮流周刊",
-			"portal": "https://github.com/tw93/weekly",
+			"portal": "https://weekly.tw93.fun/",
+			"portal2": "https://github.com/tw93/weekly",
 			"url": "https://weekly.tw93.fun/rss.xml"
 		},
 		{
