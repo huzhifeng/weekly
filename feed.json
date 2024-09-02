@@ -39,6 +39,12 @@
 			"url": "https://weekly.tw93.fun/rss.xml"
 		},
 		{
+			"channel": "FAV0周刊",
+			"portal": "https://fav0.com/",
+			"portal2": "https://github.com/Justin3go/FAV0",
+			"url": "https://fav0.com/feed.xml"
+		},
+		{
 			"channel": "猫鱼周刊",
 			"portal": "https://ameow.xyz/categories/weekly",
 			"url": "https://ameow.xyz/feed/categories/weekly.xml"
