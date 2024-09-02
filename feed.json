@@ -48,6 +48,7 @@
 		{
 			"channel": "猫鱼周刊",
 			"portal": "https://ameow.xyz/categories/weekly",
+			"portal2": "https://github.com/LeslieLeung/cat-fish-weekly",
 			"url": "https://ameow.xyz/feed/categories/weekly.xml"
 		},
 		{
