@@ -1,5 +1,14 @@
 # 周刊
 
+## Pseudoyu 周报
+- 2024/09/03 [周报 #71 - Indie App 体验计划](https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2024/09/03 [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/09/03 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/09/02 [第192期 - 青皮橘子](https://weekly.tw93.fun/posts/192-%E9%9D%92%E7%9A%AE%E6%A9%98%E5%AD%90/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -24,12 +33,6 @@
 ## Ubuntu Weekly Newsletter
 - 2024/09/02 [Ubuntu Weekly Newsletter Issue 856](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-856/47726) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2024/09/02 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/09/02 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## 1Link.Fun 科技周刊
 - 2024/09/01 [1Link.Fun 科技周刊 | 第 105 期](https://1link.fun/blog/issue/issue105/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -44,9 +47,6 @@
 
 ## 视野修炼
 - 2024/09/01 [视野修炼第99期 | Rspack 1.0](https://sugarat.top/weekly/2024-09-01.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## Pseudoyu 周报
-- 2024/09/01 [周报 #70 - 消失的附近，Burnout 与 Boreout](https://www.pseudoyu.com/zh/2024/09/01/weekly_review_20240901/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## zdyxry Weekly Issue
 - 2024/09/01 [Weekly Issue-我的姥姥](https://zdyxry.github.io/2024/09/01/Weekly-Issue-%E6%88%91%E7%9A%84%E5%A7%A5%E5%A7%A5/) | [More](channels/zdyxry%20Weekly%20Issue.md)
