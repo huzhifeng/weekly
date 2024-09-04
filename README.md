@@ -1,13 +1,13 @@
 # 周刊
 
-## Pseudoyu 周报
-- 2024/09/03 [周报 #71 - Indie App 体验计划](https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
 ## GitHub Trending Weekly
-- 2024/09/03 [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/09/04 [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/09/03 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/09/04 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Pseudoyu 周报
+- 2024/09/03 [周报 #71 - Indie App 体验计划](https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 潮流周刊
 - 2024/09/02 [第192期 - 青皮橘子](https://weekly.tw93.fun/posts/192-%E9%9D%92%E7%9A%AE%E6%A9%98%E5%AD%90/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
