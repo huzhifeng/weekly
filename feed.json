@@ -329,6 +329,12 @@
 			"filter": ["泰晓资讯"]
 		},
 		{
+			"channel": "独立开发者出海周刊",
+			"portal": "https://gapis.money/",
+			"portal2": "https://github.com/weijunext/gapis.money",
+			"url": "https://gapis.money/rss.xml"
+		},
+		{
 			"channel": "独立开发变现周刊",
 			"portal": "https://www.ezindie.com/weekly",
 			"portal2": "https://github.com/ljinkai/weekly",
