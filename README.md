@@ -1,10 +1,22 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/09/06 [独立开发变现周刊（第148期） : 一个年收入18万美元的编程学习社区](https://www.ezindie.com/weekly/issue-148) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 奇趣周刊
+- 2024/09/05 [奇趣周刊 - 第 66 期](https://zishu.me/blog/weekly-66.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/09/05 [LWN.net Weekly Edition for September 5, 2024](https://lwn.net/Articles/987605/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/09/05 [FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More](https://itsfoss.com/newsletter/foss-weekly-24-36/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/09/04 [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/09/05 [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/09/04 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/09/05 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Pseudoyu 周报
 - 2024/09/03 [周报 #71 - Indie App 体验计划](https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -32,6 +44,9 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/09/02 [Ubuntu Weekly Newsletter Issue 856](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-856/47726) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## 独立开发者出海周刊
+- 2024/09/02 [第17期：独立开发者出海产品分发渠道](https://gapis.money/weekly/2024-09-02_017) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/09/01 [1Link.Fun 科技周刊 | 第 105 期](https://1link.fun/blog/issue/issue105/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -69,26 +84,17 @@
 ## This Week in KDE
 - 2024/08/30 [This week in Plasma: inhibiting inhibitions and more!](https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 独立开发变现周刊
-- 2024/08/30 [独立开发变现周刊（第147期） : 月收入12万美元的浏览器截图扩展](https://www.ezindie.com/weekly/issue-147) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 奇趣周刊
-- 2024/08/29 [奇趣周刊 - 第 65 期](https://zishu.me/blog/weekly-65.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
 ## 二丫讲梵学习周刊
 - 2024/08/29 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/08/29 [LWN.net Weekly Edition for August 29, 2024](https://lwn.net/Articles/986853/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/08/29 [FOSS Weekly #24.35: COSMIC Desktop, Refresh OS, Konsole Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-35/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/08/29 [泰晓资讯·8 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-08-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## HelloGitHub
 - 2024/08/28 [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101) | [More](channels/HelloGitHub.md)
+
+## 大橘和朋友们的周刊
+- 2024/08/25 [第011期 - 云下山谷](https://rrorangeandfriends.site/posts/2024/011) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现"](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
