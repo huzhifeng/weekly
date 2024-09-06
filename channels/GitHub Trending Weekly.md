@@ -1,3 +1,4 @@
+- [anthropics/courses](https://github.com/anthropics/courses)
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)

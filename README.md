@@ -1,22 +1,34 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/09/06 [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2024/09/06 [Web Review, Week 2024-36](https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/09/06 [#164 Updated Translations](https://thisweek.gnome.org/posts/2024/09/twig-164/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/09/06 [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/09/06 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/09/06 [独立开发变现周刊（第148期） : 一个年收入18万美元的编程学习社区](https://www.ezindie.com/weekly/issue-148) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 奇趣周刊
 - 2024/09/05 [奇趣周刊 - 第 66 期](https://zishu.me/blog/weekly-66.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
+## 二丫讲梵学习周刊
+- 2024/09/05 [学习周刊-总第175期-2024年第36周](https://wiki.eryajf.net/pages/ad8c56/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## LWN.net Weekly Edition
 - 2024/09/05 [LWN.net Weekly Edition for September 5, 2024](https://lwn.net/Articles/987605/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2024/09/05 [FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More](https://itsfoss.com/newsletter/foss-weekly-24-36/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/09/05 [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/09/05 [“独属于中国人浪漫的彩蛋”](https://www.bilibili.com/video/BV1QLWoeaEBg) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Pseudoyu 周报
 - 2024/09/03 [周报 #71 - Indie App 体验计划](https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -72,20 +84,8 @@
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
 
-## 科技爱好者周刊
-- 2024/08/30 [科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/08/30 [Web Review, Week 2024-35](https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/08/30 [#163 Public Transit](https://thisweek.gnome.org/posts/2024/08/twig-163/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## This Week in KDE
 - 2024/08/30 [This week in Plasma: inhibiting inhibitions and more!](https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## 二丫讲梵学习周刊
-- 2024/08/29 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 泰晓资讯
 - 2024/08/29 [泰晓资讯·8 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-08-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

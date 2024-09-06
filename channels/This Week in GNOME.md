@@ -1,3 +1,4 @@
+- [#164 Updated Translations](https://thisweek.gnome.org/posts/2024/09/twig-164/)
 - [#163 Public Transit](https://thisweek.gnome.org/posts/2024/08/twig-163/)
 - [#162 Late Friday Edition](https://thisweek.gnome.org/posts/2024/08/twig-162/)
 - [#161 End-to-End Tests](https://thisweek.gnome.org/posts/2024/08/twig-161/)
