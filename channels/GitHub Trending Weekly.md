@@ -1,3 +1,4 @@
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [anthropics/courses](https://github.com/anthropics/courses)
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl)

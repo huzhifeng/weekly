@@ -1,5 +1,14 @@
 # 周刊
 
+## This Week in KDE
+- 2024/09/07 [This week in Plasma: Stabilization for 6.2](https://pointieststick.com/2024/09/07/this-week-in-plasma-stabilization-for-6-2/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/09/07 [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/09/07 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 科技爱好者周刊
 - 2024/09/06 [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,12 +17,6 @@
 
 ## This Week in GNOME
 - 2024/09/06 [#164 Updated Translations](https://thisweek.gnome.org/posts/2024/09/twig-164/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/09/06 [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/09/06 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/09/06 [独立开发变现周刊（第148期） : 一个年收入18万美元的编程学习社区](https://www.ezindie.com/weekly/issue-148) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -83,9 +86,6 @@
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
-
-## This Week in KDE
-- 2024/08/30 [This week in Plasma: inhibiting inhibitions and more!](https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 泰晓资讯
 - 2024/08/29 [泰晓资讯·8 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-08-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
