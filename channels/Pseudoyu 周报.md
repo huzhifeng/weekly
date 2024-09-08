@@ -1,3 +1,4 @@
+- [周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）](https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/)
 - [周报 #71 - Indie App 体验计划](https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/)
 - [周报 #70 - 消失的附近，Burnout 与 Boreout](https://www.pseudoyu.com/zh/2024/09/01/weekly_review_20240901/)
 - [周报 #69 - AI Coding 体验与学习的源动力](https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/)

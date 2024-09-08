@@ -1,3 +1,4 @@
+- [014期--羊皮卷风格](https://fav0.com/posts/2024/014)
 - [013期--思考致富](https://fav0.com/posts/2024/013)
 - [012期--智变时代](https://fav0.com/posts/2024/012)
 - [011期--懈怠了](https://fav0.com/posts/2024/011)
