@@ -6,6 +6,33 @@
 ## FAV0周刊
 - 2024/09/09 [014期--羊皮卷风格](https://fav0.com/posts/2024/014) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2024/09/09 [【CDT周报】第186期：中国社保养老司法民生又输日本多少呢？](https://chinadigitaltimes.net/chinese/711259.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/09 [Hacker News Weekly Top 10 @2024-09-09](https://github.com/headllines/hackernews-weekly/issues/249) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2024/09/09 [一周杂记 in Week 1 Sep 2024](http://kingsamchen.github.io/2024/09/09/weekly-2024-sep-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/09/09 [AIGC Weekly #88](https://quail.ink/op7418/p/aigc-weekly-88) | [More](channels/AIGC%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/09/09 [9to5Linux Weekly Roundup: September 8th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-8th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2024/09/09 [Ubuntu Weekly Newsletter Issue 857](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-857/47922) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2024/09/09 [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/09/09 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 独立开发者出海周刊
+- 2024/09/09 [第18期：马斯克都开始玩悟空了](https://gapis.money/weekly/2024-09-09_018) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## 1Link.Fun 科技周刊
 - 2024/09/08 [1Link.Fun 科技周刊 | 第 106 期](https://1link.fun/blog/issue/issue106/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -24,11 +51,8 @@
 ## 胡言乱语
 - 2024/09/08 [20240908的胡言乱语](https://www.bboy.app/2024/09/08/20240908%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## GitHub Trending Weekly
-- 2024/09/08 [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/09/08 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/09/08 [Weekly Issue-AWS好难用](https://zdyxry.github.io/2024/09/08/Weekly-Issue-AWS%E5%A5%BD%E9%9A%BE%E7%94%A8/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## This Week in KDE
 - 2024/09/07 [This week in Plasma: Stabilization for 6.2](https://pointieststick.com/2024/09/07/this-week-in-plasma-stabilization-for-6-2/) | [More](channels/This%20Week%20in%20KDE.md)
@@ -60,38 +84,14 @@
 ## FOSS Weekly
 - 2024/09/05 [FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More](https://itsfoss.com/newsletter/foss-weekly-24-36/) | [More](channels/FOSS%20Weekly.md)
 
-## CDT周报
-- 2024/09/02 [【CDT周报】第185期：从“住房养老金”到“砸锅卖铁”，一个“造梗治国”的草台班子?](https://chinadigitaltimes.net/chinese/711065.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/02 [Hacker News Weekly Top 10 @2024-09-02](https://github.com/headllines/hackernews-weekly/issues/248) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2024/09/02 [一周杂记 in Week 5 Aug 2024](http://kingsamchen.github.io/2024/09/02/weekly-2024-aug-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/09/02 [AIGC Weekly #87](https://quail.ink/op7418/p/aigc-weekly-87) | [More](channels/AIGC%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/09/02 [9to5Linux Weekly Roundup: September 1st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-1st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/09/02 [Ubuntu Weekly Newsletter Issue 856](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-856/47726) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 独立开发者出海周刊
-- 2024/09/02 [第17期：独立开发者出海产品分发渠道](https://gapis.money/weekly/2024-09-02_017) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+## 泰晓资讯
+- 2024/09/05 [泰晓资讯·9 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-09-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Hacker News Monthly Top 10
 - 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
-## zdyxry Weekly Issue
-- 2024/09/01 [Weekly Issue-我的姥姥](https://zdyxry.github.io/2024/09/01/Weekly-Issue-%E6%88%91%E7%9A%84%E5%A7%A5%E5%A7%A5/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
-
-## 泰晓资讯
-- 2024/08/29 [泰晓资讯·8 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-08-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## HelloGitHub
 - 2024/08/28 [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101) | [More](channels/HelloGitHub.md)
