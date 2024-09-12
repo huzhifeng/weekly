@@ -1,10 +1,25 @@
 # 周刊
 
+## 独立开发变现周刊
+- 2024/09/13 [独立开发变现周刊（第149期） : 每月收入100万美元的 AI 写作 SaaS](https://www.ezindie.com/weekly/issue-149) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 奇趣周刊
+- 2024/09/12 [奇趣周刊 - 第 67 期](https://zishu.me/blog/weekly-67.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/09/12 [学习周刊-总第176期-2024年第37周](https://wiki.eryajf.net/pages/8764bf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/09/12 [LWN.net Weekly Edition for September 12, 2024](https://lwn.net/Articles/988984/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/09/12 [FOSS Weekly #24.37: CLI File Managers, elementary OS Status, Self-hosting Wikipedia and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-37/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/09/10 [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/09/12 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/09/10 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/09/12 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/09/09 [第193期 - 猫的陪伴](https://weekly.tw93.fun/posts/193-%E7%8C%AB%E7%9A%84%E9%99%AA%E4%BC%B4/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -23,9 +38,6 @@
 
 ## AIGC Weekly
 - 2024/09/09 [AIGC Weekly #88](https://quail.ink/op7418/p/aigc-weekly-88) | [More](channels/AIGC%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/09/09 [9to5Linux Weekly Roundup: September 8th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-8th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/09/09 [Ubuntu Weekly Newsletter Issue 857](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-857/47922) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -68,21 +80,6 @@
 
 ## This Week in GNOME
 - 2024/09/06 [#164 Updated Translations](https://thisweek.gnome.org/posts/2024/09/twig-164/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 独立开发变现周刊
-- 2024/09/06 [独立开发变现周刊（第148期） : 一个年收入18万美元的编程学习社区](https://www.ezindie.com/weekly/issue-148) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 奇趣周刊
-- 2024/09/05 [奇趣周刊 - 第 66 期](https://zishu.me/blog/weekly-66.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/09/05 [学习周刊-总第175期-2024年第36周](https://wiki.eryajf.net/pages/ad8c56/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/09/05 [LWN.net Weekly Edition for September 5, 2024](https://lwn.net/Articles/987605/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/09/05 [FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More](https://itsfoss.com/newsletter/foss-weekly-24-36/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/09/05 [泰晓资讯·9 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-09-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
