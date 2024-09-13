@@ -1,7 +1,19 @@
 # 周刊
 
+## This Week in GNOME
+- 2024/09/13 [#165 Signing Documents](https://thisweek.gnome.org/posts/2024/09/twig-165/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/09/13 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/09/13 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 独立开发变现周刊
 - 2024/09/13 [独立开发变现周刊（第149期） : 每月收入100万美元的 AI 写作 SaaS](https://www.ezindie.com/weekly/issue-149) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 科技爱好者周刊
+- 2024/09/12 [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 奇趣周刊
 - 2024/09/12 [奇趣周刊 - 第 67 期](https://zishu.me/blog/weekly-67.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -14,12 +26,6 @@
 
 ## FOSS Weekly
 - 2024/09/12 [FOSS Weekly #24.37: CLI File Managers, elementary OS Status, Self-hosting Wikipedia and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-37/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/09/12 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/09/12 [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/09/09 [第193期 - 猫的陪伴](https://weekly.tw93.fun/posts/193-%E7%8C%AB%E7%9A%84%E9%99%AA%E4%BC%B4/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -69,23 +75,14 @@
 ## This Week in KDE
 - 2024/09/07 [This week in Plasma: Stabilization for 6.2](https://pointieststick.com/2024/09/07/this-week-in-plasma-stabilization-for-6-2/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## 科技爱好者周刊
-- 2024/09/06 [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 老胡的信息周刊
 - 2024/09/06 [09-02~09-07.老胡的周刊（第158期）.md](https://weekly.howie6879.com/2024/09-02~09-07.老胡的周刊（第158期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2024/09/06 [Web Review, Week 2024-36](https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/) | [More](channels/Web%20Review.md)
 
-## This Week in GNOME
-- 2024/09/06 [#164 Updated Translations](https://thisweek.gnome.org/posts/2024/09/twig-164/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 泰晓资讯
 - 2024/09/05 [泰晓资讯·9 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-09-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## Hacker News Monthly Top 10
-- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
