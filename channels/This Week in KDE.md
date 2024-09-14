@@ -1,3 +1,4 @@
+- [This week in Plasma: 6.2 beta release!](https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/)
 - [This week in Plasma: Stabilization for 6.2](https://pointieststick.com/2024/09/07/this-week-in-plasma-stabilization-for-6-2/)
 - [This week in Plasma: inhibiting inhibitions and more!](https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/)
 - [This week in KDE: per-monitor brightness control and “update then shut down”](https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/)

@@ -1,3 +1,6 @@
+- [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8)
+- [超级偷子](https://www.bilibili.com/video/BV1VQH9eWEBE)
+- [【年度巨制】琪计划：出击【2024崩坏3同人大电影】](https://www.bilibili.com/video/BV1UxpEe7Ej3)
 - [老师....你投屏没关](https://www.bilibili.com/video/BV19r421K7ST)
 - [《黑神话：八戒》3分钟实机演示](https://www.bilibili.com/video/BV1EcHgezEyF)
 - [全球排名第一披萨！一年卖30万个，到底多好吃？](https://www.bilibili.com/video/BV1Di421r7rd)

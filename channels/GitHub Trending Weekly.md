@@ -1,3 +1,4 @@
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
