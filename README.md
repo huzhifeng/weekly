@@ -1,16 +1,25 @@
 # 周刊
 
+## 大橘和朋友们的周刊
+- 2024/09/15 [第014期 - 云隐山幽](https://rrorangeandfriends.site/posts/2024/014) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/09/15 [猫鱼周刊 vol. 041 中秋快乐！](https://ameow.xyz/archives/weekly-041) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2024/09/15 [20240915的胡言乱语](https://www.bboy.app/2024/09/15/20240915%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2024/09/15 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/09/15 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2024/09/14 [Web Review, Week 2024-37](https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/) | [More](channels/Web%20Review.md)
 
 ## This Week in KDE
 - 2024/09/14 [This week in Plasma: 6.2 beta release!](https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/09/14 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/09/14 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## This Week in GNOME
 - 2024/09/13 [#165 Signing Documents](https://thisweek.gnome.org/posts/2024/09/twig-165/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -60,20 +69,11 @@
 ## 1Link.Fun 科技周刊
 - 2024/09/08 [1Link.Fun 科技周刊 | 第 106 期](https://1link.fun/blog/issue/issue106/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
-## 大橘和朋友们的周刊
-- 2024/09/08 [第013期 - 夜行未央](https://rrorangeandfriends.site/posts/2024/013) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## 猫鱼周刊
-- 2024/09/08 [猫鱼周刊 vol. 040 记录二战中沉没的每一艘船](https://ameow.xyz/archives/weekly-040) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 视野修炼
 - 2024/09/08 [视野修炼第100期 | CSS observer](https://sugarat.top/weekly/2024-09-08.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Pseudoyu 周报
 - 2024/09/08 [周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）](https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 胡言乱语
-- 2024/09/08 [20240908的胡言乱语](https://www.bboy.app/2024/09/08/20240908%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## zdyxry Weekly Issue
 - 2024/09/08 [Weekly Issue-AWS好难用](https://zdyxry.github.io/2024/09/08/Weekly-Issue-AWS%E5%A5%BD%E9%9A%BE%E7%94%A8/) | [More](channels/zdyxry%20Weekly%20Issue.md)
