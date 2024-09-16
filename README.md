@@ -1,5 +1,23 @@
 # 周刊
 
+## 视野修炼
+- 2024/09/16 [视野修炼第101期 | 垂直居中](https://sugarat.top/weekly/2024-09-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 一周杂记
+- 2024/09/16 [一周杂记 in Week 2 Sep 2024](http://kingsamchen.github.io/2024/09/16/weekly-2024-sep-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/09/16 [9to5Linux Weekly Roundup: September 15th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-15th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2024/09/16 [Ubuntu Weekly Newsletter Issue 858](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-858/48085) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2024/09/16 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/09/16 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 大橘和朋友们的周刊
 - 2024/09/15 [第014期 - 云隐山幽](https://rrorangeandfriends.site/posts/2024/014) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
@@ -9,11 +27,8 @@
 ## 胡言乱语
 - 2024/09/15 [20240915的胡言乱语](https://www.bboy.app/2024/09/15/20240915%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## GitHub Trending Weekly
-- 2024/09/15 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/09/15 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2024/09/15 [Weekly Issue-迎中秋](https://zdyxry.github.io/2024/09/15/Weekly-Issue-%E8%BF%8E%E4%B8%AD%E7%A7%8B/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Web Review
 - 2024/09/14 [Web Review, Week 2024-37](https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/) | [More](channels/Web%20Review.md)
@@ -54,14 +69,8 @@
 ## Hacker News Weekly Top 10
 - 2024/09/09 [Hacker News Weekly Top 10 @2024-09-09](https://github.com/headllines/hackernews-weekly/issues/249) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
-## 一周杂记
-- 2024/09/09 [一周杂记 in Week 1 Sep 2024](http://kingsamchen.github.io/2024/09/09/weekly-2024-sep-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## AIGC Weekly
 - 2024/09/09 [AIGC Weekly #88](https://quail.ink/op7418/p/aigc-weekly-88) | [More](channels/AIGC%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/09/09 [Ubuntu Weekly Newsletter Issue 857](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-857/47922) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 独立开发者出海周刊
 - 2024/09/09 [第18期：马斯克都开始玩悟空了](https://gapis.money/weekly/2024-09-09_018) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -69,14 +78,8 @@
 ## 1Link.Fun 科技周刊
 - 2024/09/08 [1Link.Fun 科技周刊 | 第 106 期](https://1link.fun/blog/issue/issue106/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
-## 视野修炼
-- 2024/09/08 [视野修炼第100期 | CSS observer](https://sugarat.top/weekly/2024-09-08.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## Pseudoyu 周报
 - 2024/09/08 [周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）](https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## zdyxry Weekly Issue
-- 2024/09/08 [Weekly Issue-AWS好难用](https://zdyxry.github.io/2024/09/08/Weekly-Issue-AWS%E5%A5%BD%E9%9A%BE%E7%94%A8/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2024/09/06 [09-02~09-07.老胡的周刊（第158期）.md](https://weekly.howie6879.com/2024/09-02~09-07.老胡的周刊（第158期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
