@@ -1,3 +1,5 @@
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
+- [DiceDB/dice](https://github.com/DiceDB/dice)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
