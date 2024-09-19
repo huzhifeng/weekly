@@ -1,13 +1,25 @@
 # 周刊
 
-## GitHub Trending Weekly
-- 2024/09/18 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 独立开发变现周刊
+- 2024/09/20 [独立开发变现周刊（第150期） : 通过4个SaaS赚取40万欧元](https://www.ezindie.com/weekly/issue-150) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
-## B站每周必看
-- 2024/09/18 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 奇趣周刊
+- 2024/09/19 [奇趣周刊 - 第 68 期](https://zishu.me/blog/weekly-68.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/09/19 [LWN.net Weekly Edition for September 19, 2024](https://lwn.net/Articles/989982/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/09/19 [FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-38/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2024/09/19 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 视野修炼
 - 2024/09/16 [视野修炼第101期 | 垂直居中](https://sugarat.top/weekly/2024-09-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -24,6 +36,9 @@
 ## 大橘和朋友们的周刊
 - 2024/09/15 [第014期 - 云隐山幽](https://rrorangeandfriends.site/posts/2024/014) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
+## 猫鱼周刊
+- 2024/09/15 [猫鱼周刊 vol. 041 中秋快乐！](https://ameow.xyz/archives/weekly-041) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
 ## 胡言乱语
 - 2024/09/15 [20240915的胡言乱语](https://www.bboy.app/2024/09/15/20240915%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -39,23 +54,11 @@
 ## This Week in GNOME
 - 2024/09/13 [#165 Signing Documents](https://thisweek.gnome.org/posts/2024/09/twig-165/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/09/13 [独立开发变现周刊（第149期） : 每月收入100万美元的 AI 写作 SaaS](https://www.ezindie.com/weekly/issue-149) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
 ## 科技爱好者周刊
 - 2024/09/12 [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 奇趣周刊
-- 2024/09/12 [奇趣周刊 - 第 67 期](https://zishu.me/blog/weekly-67.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
 ## 二丫讲梵学习周刊
 - 2024/09/12 [学习周刊-总第176期-2024年第37周](https://wiki.eryajf.net/pages/8764bf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/09/12 [LWN.net Weekly Edition for September 12, 2024](https://lwn.net/Articles/988984/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/09/12 [FOSS Weekly #24.37: CLI File Managers, elementary OS Status, Self-hosting Wikipedia and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-37/) | [More](channels/FOSS%20Weekly.md)
 
 ## 潮流周刊
 - 2024/09/09 [第193期 - 猫的陪伴](https://weekly.tw93.fun/posts/193-%E7%8C%AB%E7%9A%84%E9%99%AA%E4%BC%B4/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -65,9 +68,6 @@
 
 ## CDT周报
 - 2024/09/09 [【CDT周报】第186期：中国社保养老司法民生又输日本多少呢？](https://chinadigitaltimes.net/chinese/711259.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/09 [Hacker News Weekly Top 10 @2024-09-09](https://github.com/headllines/hackernews-weekly/issues/249) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## AIGC Weekly
 - 2024/09/09 [AIGC Weekly #88](https://quail.ink/op7418/p/aigc-weekly-88) | [More](channels/AIGC%20Weekly.md)
@@ -113,9 +113,6 @@
 
 ## 广场周刊
 - 2024/07/07 [广场月刊（第 1 期）：顿感生活](https://immmmm.com/month-1-20240707/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
-
-## 印记周报
-- 2024/06/30 [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 棱镜通讯
 - 2024/06/15 [棱镜通讯 No.111  巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

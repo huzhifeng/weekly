@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-38/)
 - [FOSS Weekly #24.37: CLI File Managers, elementary OS Status, Self-hosting Wikipedia and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-37/)
 - [FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More](https://itsfoss.com/newsletter/foss-weekly-24-36/)
 - [FOSS Weekly #24.35: COSMIC Desktop, Refresh OS, Konsole Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-35/)
