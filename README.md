@@ -1,5 +1,14 @@
 # 周刊
 
+## 大橘和朋友们的周刊
+- 2024/09/21 [第015期 - 浮绿潋滟](https://rrorangeandfriends.site/posts/2024/015) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/09/21 [This week in Plasma: polishing like mad](https://pointieststick.com/2024/09/20/this-week-in-plasma-polishing-like-mad/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/09/21 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
 ## 科技爱好者周刊
 - 2024/09/20 [科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -8,9 +17,6 @@
 
 ## This Week in GNOME
 - 2024/09/20 [#166 Forty-seven!](https://thisweek.gnome.org/posts/2024/09/twig-166/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## B站每周必看
-- 2024/09/20 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/09/20 [独立开发变现周刊（第150期） : 通过4个SaaS赚取40万欧元](https://www.ezindie.com/weekly/issue-150) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -27,6 +33,9 @@
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
 ## 视野修炼
 - 2024/09/16 [视野修炼第101期 | 垂直居中](https://sugarat.top/weekly/2024-09-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
@@ -42,9 +51,6 @@
 ## 老胡的信息周刊
 - 2024/09/15 [09-09~09-16.老胡的周刊（第159期）.md](https://weekly.howie6879.com/2024/09-09~09-16.老胡的周刊（第159期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## 大橘和朋友们的周刊
-- 2024/09/15 [第014期 - 云隐山幽](https://rrorangeandfriends.site/posts/2024/014) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
 ## 猫鱼周刊
 - 2024/09/15 [猫鱼周刊 vol. 041 中秋快乐！](https://ameow.xyz/archives/weekly-041) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -53,9 +59,6 @@
 
 ## zdyxry Weekly Issue
 - 2024/09/15 [Weekly Issue-迎中秋](https://zdyxry.github.io/2024/09/15/Weekly-Issue-%E8%BF%8E%E4%B8%AD%E7%A7%8B/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## This Week in KDE
-- 2024/09/14 [This week in Plasma: 6.2 beta release!](https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/) | [More](channels/This%20Week%20in%20KDE.md)
 
 ## 二丫讲梵学习周刊
 - 2024/09/12 [学习周刊-总第176期-2024年第37周](https://wiki.eryajf.net/pages/8764bf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -80,9 +83,6 @@
 
 ## 泰晓资讯
 - 2024/09/05 [泰晓资讯·9 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-09-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## Hacker News Monthly Top 10
-- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
