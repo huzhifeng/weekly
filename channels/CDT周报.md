@@ -1,3 +1,4 @@
+- [【CDT周报】第187期：这名深圳孩子的离世，正在摧毁刚筑起的高楼与常识](https://chinadigitaltimes.net/chinese/711663.html)
 - [【CDT周报】第186期：中国社保养老司法民生又输日本多少呢？](https://chinadigitaltimes.net/chinese/711259.html)
 - [【CDT周报】第185期：从“住房养老金”到“砸锅卖铁”，一个“造梗治国”的草台班子?](https://chinadigitaltimes.net/chinese/711065.html)
 - [【CDT周报】第184期：《黑神话：悟空》——“人心若是烧没了，修好一座破庙又有什么用呢？”](https://chinadigitaltimes.net/chinese/710876.html)
