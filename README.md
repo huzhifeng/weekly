@@ -1,5 +1,11 @@
 # 周刊
 
+## 胡言乱语
+- 2024/09/24 [20240924的胡言乱语](https://www.bboy.app/2024/09/24/20240924%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2024/09/24 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
 ## 潮流周刊
 - 2024/09/23 [第194期 - 暮色落霞](https://weekly.tw93.fun/posts/194-%E6%9A%AE%E8%89%B2%E8%90%BD%E9%9C%9E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -17,9 +23,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/09/23 [Ubuntu Weekly Newsletter Issue 859](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-859/48254) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## B站每周必看
-- 2024/09/23 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发者出海周刊
 - 2024/09/23 [第19期：OpenAI 发布 Prompt 指南](https://gapis.money/weekly/2024-09-23_019) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -75,14 +78,11 @@
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
 ## 老胡的信息周刊
 - 2024/09/15 [09-09~09-16.老胡的周刊（第159期）.md](https://weekly.howie6879.com/2024/09-09~09-16.老胡的周刊（第159期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 胡言乱语
-- 2024/09/15 [20240915的胡言乱语](https://www.bboy.app/2024/09/15/20240915%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## Hacker News Monthly Top 10
-- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
