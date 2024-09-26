@@ -1,13 +1,25 @@
 # 周刊
 
-## 艾迪蓝波
-- 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+## 奇趣周刊
+- 2024/09/26 [奇趣周刊 - 第 69 期](https://zishu.me/blog/weekly-69.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/09/26 [学习周刊-总第178期-2024年第39周](https://wiki.eryajf.net/pages/398abb/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/09/26 [LWN.net Weekly Edition for September 26, 2024](https://lwn.net/Articles/990791/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/09/26 [FOSS Weekly #24.39: New File Manager, Webcam Issue in Ubuntu, GNOME 47 Release and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-39/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/09/25 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/09/26 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/09/25 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/09/26 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 艾迪蓝波
+- 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
 ## 胡言乱语
 - 2024/09/24 [20240924的胡言乱语](https://www.bboy.app/2024/09/24/20240924%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -48,9 +60,6 @@
 ## zdyxry Weekly Issue
 - 2024/09/22 [Weekly Issue-《精英的傲慢》](https://zdyxry.github.io/2024/09/22/Weekly-Issue-%E7%B2%BE%E8%8B%B1%E7%9A%84%E5%82%B2%E6%85%A2/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 二丫讲梵学习周刊
-- 2024/09/22 [学习周刊-总第177期-2024年第38周](https://wiki.eryajf.net/pages/91004b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## 大橘和朋友们的周刊
 - 2024/09/21 [第015期 - 浮绿潋滟](https://rrorangeandfriends.site/posts/2024/015) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
@@ -69,29 +78,14 @@
 ## 独立开发变现周刊
 - 2024/09/20 [独立开发变现周刊（第150期） : 通过4个SaaS赚取40万欧元](https://www.ezindie.com/weekly/issue-150) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
-## 奇趣周刊
-- 2024/09/19 [奇趣周刊 - 第 68 期](https://zishu.me/blog/weekly-68.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/09/19 [LWN.net Weekly Edition for September 19, 2024](https://lwn.net/Articles/989982/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/09/19 [FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-38/) | [More](channels/FOSS%20Weekly.md)
-
 ## 泰晓资讯
 - 2024/09/19 [泰晓资讯·9 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-09-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
 ## 老胡的信息周刊
 - 2024/09/15 [09-09~09-16.老胡的周刊（第159期）.md](https://weekly.howie6879.com/2024/09-09~09-16.老胡的周刊（第159期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Monthly Top 10
-- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
