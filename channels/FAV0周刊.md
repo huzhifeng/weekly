@@ -1,3 +1,4 @@
+- [016期--A股大涨](https://fav0.com/posts/2024/016)
 - [015期--旅行的遗憾](https://fav0.com/posts/2024/015)
 - [014期--羊皮卷风格](https://fav0.com/posts/2024/014)
 - [013期--思考致富](https://fav0.com/posts/2024/013)
