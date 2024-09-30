@@ -1,13 +1,31 @@
 # 周刊
 
+## CDT周报
+- 2024/09/30 [【CDT周报】第188期：古有拍照勾魂，今有苹果爆炸](https://chinadigitaltimes.net/chinese/711840.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2024/09/30 [一周杂记 in Week 4 Sep 2024](http://kingsamchen.github.io/2024/09/30/weekly-2024-sep-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/09/30 [AIGC Weekly #90](https://quail.ink/op7418/p/aigc-weekly-90) | [More](channels/AIGC%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/09/30 [9to5Linux Weekly Roundup: September 29th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-29th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2024/09/30 [Ubuntu Weekly Newsletter Issue 860](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-860/48428) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2024/09/30 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## 独立开发者出海周刊
+- 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2024/09/29 [016期--A股大涨](https://fav0.com/posts/2024/016) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2024/09/29 [视野修炼第103期 | 优雅的移除事件](https://sugarat.top/weekly/2024-09-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## GitHub Trending Weekly
-- 2024/09/29 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 老胡的信息周刊
 - 2024/09/28 [09-23~09-29.老胡的周刊（第161期）.md](https://weekly.howie6879.com/2024/09-23~09-29.老胡的周刊（第161期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -54,24 +72,6 @@
 ## 潮流周刊
 - 2024/09/23 [第194期 - 暮色落霞](https://weekly.tw93.fun/posts/194-%E6%9A%AE%E8%89%B2%E8%90%BD%E9%9C%9E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2024/09/23 [【CDT周报】第187期：这名深圳孩子的离世，正在摧毁刚筑起的高楼与常识](https://chinadigitaltimes.net/chinese/711663.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2024/09/23 [一周杂记 in Week 3 Sep 2024](http://kingsamchen.github.io/2024/09/23/weekly-2024-sep-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/09/23 [AIGC Weekly #89](https://quail.ink/op7418/p/aigc-weekly-89) | [More](channels/AIGC%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/09/23 [9to5Linux Weekly Roundup: September 22nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-22nd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/09/23 [Ubuntu Weekly Newsletter Issue 859](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-859/48254) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 独立开发者出海周刊
-- 2024/09/23 [第19期：OpenAI 发布 Prompt 指南](https://gapis.money/weekly/2024-09-23_019) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
 ## 1Link.Fun 科技周刊
 - 2024/09/22 [1Link.Fun 科技周刊 | 第 107 期](https://1link.fun/blog/issue/issue107/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -94,7 +94,7 @@
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
 
 ## GeekPlux Letters
-- 2024/08/19 [股票贴现与"时间贴现"](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
+- 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
