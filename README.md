@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/10/01 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/01 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## CDT周报
 - 2024/09/30 [【CDT周报】第188期：古有拍照勾魂，今有苹果爆炸](https://chinadigitaltimes.net/chinese/711840.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -14,9 +20,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/09/30 [Ubuntu Weekly Newsletter Issue 860](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-860/48428) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2024/09/30 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## 独立开发者出海周刊
 - 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
