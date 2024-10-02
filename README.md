@@ -1,10 +1,10 @@
 # 周刊
 
 ## GitHub Trending Weekly
-- 2024/10/01 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/10/02 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/10/01 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/10/02 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## CDT周报
 - 2024/09/30 [【CDT周报】第188期：古有拍照勾魂，今有苹果爆炸](https://chinadigitaltimes.net/chinese/711840.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
