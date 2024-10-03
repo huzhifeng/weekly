@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for October 3, 2024](https://lwn.net/Articles/991771/)
 - [LWN.net Weekly Edition for September 26, 2024](https://lwn.net/Articles/990791/)
 - [LWN.net Weekly Edition for September 19, 2024](https://lwn.net/Articles/989982/)
 - [LWN.net Weekly Edition for September 12, 2024](https://lwn.net/Articles/988984/)
