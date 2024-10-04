@@ -1,5 +1,11 @@
 # 周刊
 
+## Web Review
+- 2024/10/04 [Web Review, Week 2024-40](https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/10/04 [#168 Testing Portals](https://thisweek.gnome.org/posts/2024/10/twig-168/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## 奇趣周刊
 - 2024/10/03 [奇趣周刊 - 第 70 期](https://zishu.me/blog/weekly-70.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
@@ -9,9 +15,6 @@
 ## FOSS Weekly
 - 2024/10/03 [FOSS Weekly #24.40: Deprecated Commands, SSD Temp, Aria2App, Spotify Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-40/) | [More](channels/FOSS%20Weekly.md)
 
-## B站每周必看
-- 2024/10/03 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## CDT周报
 - 2024/09/30 [【CDT周报】第188期：古有拍照勾魂，今有苹果爆炸](https://chinadigitaltimes.net/chinese/711840.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -20,6 +23,9 @@
 
 ## AIGC Weekly
 - 2024/09/30 [AIGC Weekly #90](https://quail.ink/op7418/p/aigc-weekly-90) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2024/09/30 [DistroWatch Weekly, Issue 1090](https://distrowatch.com/weekly.php?issue=20240930) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
 - 2024/09/30 [9to5Linux Weekly Roundup: September 29th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-29th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
@@ -47,12 +53,6 @@
 
 ## 科技爱好者周刊
 - 2024/09/27 [科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/09/27 [Web Review, Week 2024-39](https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/09/27 [#167 Linking Apps](https://thisweek.gnome.org/posts/2024/09/twig-167/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 独立开发变现周刊
 - 2024/09/27 [独立开发变现周刊（第151期） : 一个年收入1800万美元的支付业务](https://www.ezindie.com/weekly/issue-151) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -86,6 +86,9 @@
 
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)

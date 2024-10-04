@@ -1,3 +1,4 @@
+- [#168 Testing Portals](https://thisweek.gnome.org/posts/2024/10/twig-168/)
 - [#167 Linking Apps](https://thisweek.gnome.org/posts/2024/09/twig-167/)
 - [#166 Forty-seven!](https://thisweek.gnome.org/posts/2024/09/twig-166/)
 - [#165 Signing Documents](https://thisweek.gnome.org/posts/2024/09/twig-165/)
