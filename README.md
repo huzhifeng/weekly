@@ -1,5 +1,17 @@
 # 周刊
 
+## 二丫讲梵学习周刊
+- 2024/10/05 [学习周刊-总第179期-2024年第40周](https://wiki.eryajf.net/pages/9454ad/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in KDE
+- 2024/10/05 [This week in Plasma: 6.2 is nigh](https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/) | [More](channels/This%20Week%20in%20KDE.md)
+
+## GitHub Trending Weekly
+- 2024/10/05 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/05 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2024/10/04 [Web Review, Week 2024-40](https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/) | [More](channels/Web%20Review.md)
 
@@ -48,9 +60,6 @@
 ## 大橘和朋友们的周刊
 - 2024/09/28 [第016期 - 橙霞漫天](https://rrorangeandfriends.site/posts/2024/016) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
-## This Week in KDE
-- 2024/09/28 [This week in Plasma: converging 6.2](https://pointieststick.com/2024/09/27/this-week-in-plasma-converging-6-2/) | [More](channels/This%20Week%20in%20KDE.md)
-
 ## 科技爱好者周刊
 - 2024/09/27 [科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -59,9 +68,6 @@
 
 ## HelloGitHub
 - 2024/09/26 [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [More](channels/HelloGitHub.md)
-
-## 二丫讲梵学习周刊
-- 2024/09/26 [学习周刊-总第178期-2024年第39周](https://wiki.eryajf.net/pages/398abb/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
@@ -89,6 +95,9 @@
 
 ## Hacker News Weekly Top 10
 - 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## Hacker News Monthly Top 10
+- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)

@@ -1,3 +1,4 @@
+- [This week in Plasma: 6.2 is nigh](https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/)
 - [This week in Plasma: converging 6.2](https://pointieststick.com/2024/09/27/this-week-in-plasma-converging-6-2/)
 - [This week in Plasma: polishing like mad](https://pointieststick.com/2024/09/20/this-week-in-plasma-polishing-like-mad/)
 - [This week in Plasma: 6.2 beta release!](https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/)
