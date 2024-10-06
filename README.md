@@ -1,16 +1,19 @@
 # 周刊
 
+## 猫鱼周刊
+- 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/10/06 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/06 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 二丫讲梵学习周刊
 - 2024/10/05 [学习周刊-总第179期-2024年第40周](https://wiki.eryajf.net/pages/9454ad/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## This Week in KDE
 - 2024/10/05 [This week in Plasma: 6.2 is nigh](https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/) | [More](channels/This%20Week%20in%20KDE.md)
-
-## GitHub Trending Weekly
-- 2024/10/05 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/10/05 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Web Review
 - 2024/10/04 [Web Review, Week 2024-40](https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/) | [More](channels/Web%20Review.md)
@@ -81,9 +84,6 @@
 ## 1Link.Fun 科技周刊
 - 2024/09/22 [1Link.Fun 科技周刊 | 第 107 期](https://1link.fun/blog/issue/issue107/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
-## 猫鱼周刊
-- 2024/09/22 [猫鱼周刊 vol. 042 NLP 已死？](https://ameow.xyz/archives/weekly-042) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## zdyxry Weekly Issue
 - 2024/09/22 [Weekly Issue-《精英的傲慢》](https://zdyxry.github.io/2024/09/22/Weekly-Issue-%E7%B2%BE%E8%8B%B1%E7%9A%84%E5%82%B2%E6%85%A2/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
@@ -95,9 +95,6 @@
 
 ## Hacker News Weekly Top 10
 - 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## Hacker News Monthly Top 10
-- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
