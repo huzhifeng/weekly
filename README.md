@@ -1,13 +1,25 @@
 # 周刊
 
+## 视野修炼
+- 2024/10/07 [视野修炼第104期 | 下一代 JavaScript 工具链](https://sugarat.top/weekly/2024-10-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## DistroWatch Weekly
+- 2024/10/07 [DistroWatch Weekly, Issue 1091](https://distrowatch.com/weekly.php?issue=20241007) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/10/07 [9to5Linux Weekly Roundup: October 6th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-6th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2024/10/07 [Ubuntu Weekly Newsletter Issue 861](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-861/48570) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## B站每周必看
+- 2024/10/07 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2024/10/06 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/10/06 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2024/10/05 [09-30~10-06.老胡的周刊（第162期）.md](https://weekly.howie6879.com/2024/09-30~10-06.老胡的周刊（第162期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 二丫讲梵学习周刊
 - 2024/10/05 [学习周刊-总第179期-2024年第40周](https://wiki.eryajf.net/pages/9454ad/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -39,26 +51,11 @@
 ## AIGC Weekly
 - 2024/09/30 [AIGC Weekly #90](https://quail.ink/op7418/p/aigc-weekly-90) | [More](channels/AIGC%20Weekly.md)
 
-## DistroWatch Weekly
-- 2024/09/30 [DistroWatch Weekly, Issue 1090](https://distrowatch.com/weekly.php?issue=20240930) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/09/30 [9to5Linux Weekly Roundup: September 29th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-september-29th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/09/30 [Ubuntu Weekly Newsletter Issue 860](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-860/48428) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 独立开发者出海周刊
 - 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
 ## FAV0周刊
 - 2024/09/29 [016期--A股大涨](https://fav0.com/posts/2024/016) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2024/09/29 [视野修炼第103期 | 优雅的移除事件](https://sugarat.top/weekly/2024-09-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 老胡的信息周刊
-- 2024/09/28 [09-23~09-29.老胡的周刊（第161期）.md](https://weekly.howie6879.com/2024/09-23~09-29.老胡的周刊（第161期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 大橘和朋友们的周刊
 - 2024/09/28 [第016期 - 橙霞漫天](https://rrorangeandfriends.site/posts/2024/016) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
