@@ -1,7 +1,16 @@
 # 周刊
 
+## 一周杂记
+- 2024/10/08 [一周杂记 in Week 1 Oct 2024](http://kingsamchen.github.io/2024/10/08/weekly-2024-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## CDT周报
+- 2024/10/07 [【CDT周报】第189期：国庆期间，上海没有砍人，西安没有下雪](https://chinadigitaltimes.net/chinese/712007.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
 ## 视野修炼
 - 2024/10/07 [视野修炼第104期 | 下一代 JavaScript 工具链](https://sugarat.top/weekly/2024-10-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## AIGC Weekly
+- 2024/10/07 [AIGC Weekly #91](https://quail.ink/op7418/p/aigc-weekly-91) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2024/10/07 [DistroWatch Weekly, Issue 1091](https://distrowatch.com/weekly.php?issue=20241007) | [More](channels/DistroWatch%20Weekly.md)
@@ -11,9 +20,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/10/07 [Ubuntu Weekly Newsletter Issue 861](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-861/48570) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## B站每周必看
-- 2024/10/07 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -41,15 +47,6 @@
 
 ## FOSS Weekly
 - 2024/10/03 [FOSS Weekly #24.40: Deprecated Commands, SSD Temp, Aria2App, Spotify Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-40/) | [More](channels/FOSS%20Weekly.md)
-
-## CDT周报
-- 2024/09/30 [【CDT周报】第188期：古有拍照勾魂，今有苹果爆炸](https://chinadigitaltimes.net/chinese/711840.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2024/09/30 [一周杂记 in Week 4 Sep 2024](http://kingsamchen.github.io/2024/09/30/weekly-2024-sep-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/09/30 [AIGC Weekly #90](https://quail.ink/op7418/p/aigc-weekly-90) | [More](channels/AIGC%20Weekly.md)
 
 ## 独立开发者出海周刊
 - 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
