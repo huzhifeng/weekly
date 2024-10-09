@@ -1,5 +1,11 @@
 # 周刊
 
+## GitHub Trending Weekly
+- 2024/10/09 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/09 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 一周杂记
 - 2024/10/08 [一周杂记 in Week 1 Oct 2024](http://kingsamchen.github.io/2024/10/08/weekly-2024-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -86,9 +92,6 @@
 
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## CyberClip
 - 2024/08/31 [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/) | [More](channels/CyberClip.md)
