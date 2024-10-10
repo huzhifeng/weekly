@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/)
 - [FOSS Weekly #24.40: Deprecated Commands, SSD Temp, Aria2App, Spotify Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-40/)
 - [FOSS Weekly #24.39: New File Manager, Webcam Issue in Ubuntu, GNOME 47 Release and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-39/)
 - [FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-38/)

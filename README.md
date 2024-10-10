@@ -1,10 +1,22 @@
 # 周刊
 
+## 奇趣周刊
+- 2024/10/10 [奇趣周刊 - 第 71 期](https://zishu.me/blog/weekly-71.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/10/10 [学习周刊-总第180期-2024年第41周](https://wiki.eryajf.net/pages/6dc85f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/10/10 [LWN.net Weekly Edition for October 10, 2024](https://lwn.net/Articles/992718/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/10/10 [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/10/09 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/10/10 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## B站每周必看
-- 2024/10/09 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/10/10 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 一周杂记
 - 2024/10/08 [一周杂记 in Week 1 Oct 2024](http://kingsamchen.github.io/2024/10/08/weekly-2024-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -33,9 +45,6 @@
 ## 老胡的信息周刊
 - 2024/10/05 [09-30~10-06.老胡的周刊（第162期）.md](https://weekly.howie6879.com/2024/09-30~10-06.老胡的周刊（第162期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## 二丫讲梵学习周刊
-- 2024/10/05 [学习周刊-总第179期-2024年第40周](https://wiki.eryajf.net/pages/9454ad/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in KDE
 - 2024/10/05 [This week in Plasma: 6.2 is nigh](https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/) | [More](channels/This%20Week%20in%20KDE.md)
 
@@ -44,15 +53,6 @@
 
 ## This Week in GNOME
 - 2024/10/04 [#168 Testing Portals](https://thisweek.gnome.org/posts/2024/10/twig-168/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 奇趣周刊
-- 2024/10/03 [奇趣周刊 - 第 70 期](https://zishu.me/blog/weekly-70.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/10/03 [LWN.net Weekly Edition for October 3, 2024](https://lwn.net/Articles/991771/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/10/03 [FOSS Weekly #24.40: Deprecated Commands, SSD Temp, Aria2App, Spotify Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-40/) | [More](channels/FOSS%20Weekly.md)
 
 ## 独立开发者出海周刊
 - 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
