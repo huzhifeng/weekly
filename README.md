@@ -1,5 +1,17 @@
 # 周刊
 
+## Web Review
+- 2024/10/11 [Web Review, Week 2024-41](https://ervin.ipsquad.net/blog/2024/10/11/web-review-week-2024-41/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/10/11 [#169 Wrapped Boxes](https://thisweek.gnome.org/posts/2024/10/twig-169/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## B站每周必看
+- 2024/10/11 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 独立开发变现周刊
+- 2024/10/11 [独立开发变现周刊（第152期） : 一个年收入18万美金的设计工具](https://www.ezindie.com/weekly/issue-152) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
 ## 奇趣周刊
 - 2024/10/10 [奇趣周刊 - 第 71 期](https://zishu.me/blog/weekly-71.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
@@ -11,12 +23,6 @@
 
 ## FOSS Weekly
 - 2024/10/10 [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/10/10 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/10/10 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 一周杂记
 - 2024/10/08 [一周杂记 in Week 1 Oct 2024](http://kingsamchen.github.io/2024/10/08/weekly-2024-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -48,12 +54,6 @@
 ## This Week in KDE
 - 2024/10/05 [This week in Plasma: 6.2 is nigh](https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/) | [More](channels/This%20Week%20in%20KDE.md)
 
-## Web Review
-- 2024/10/04 [Web Review, Week 2024-40](https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/10/04 [#168 Testing Portals](https://thisweek.gnome.org/posts/2024/10/twig-168/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 独立开发者出海周刊
 - 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
@@ -62,12 +62,6 @@
 
 ## 大橘和朋友们的周刊
 - 2024/09/28 [第016期 - 橙霞漫天](https://rrorangeandfriends.site/posts/2024/016) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## 科技爱好者周刊
-- 2024/09/27 [科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 独立开发变现周刊
-- 2024/09/27 [独立开发变现周刊（第151期） : 一个年收入1800万美元的支付业务](https://www.ezindie.com/weekly/issue-151) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2024/09/26 [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [More](channels/HelloGitHub.md)
