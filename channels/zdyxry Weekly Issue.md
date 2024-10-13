@@ -1,3 +1,4 @@
+- [Weekly Issue-《爱欲之死》](https://zdyxry.github.io/2024/10/13/Weekly-Issue-%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB/)
 - [Weekly Issue-《精英的傲慢》](https://zdyxry.github.io/2024/09/22/Weekly-Issue-%E7%B2%BE%E8%8B%B1%E7%9A%84%E5%82%B2%E6%85%A2/)
 - [Weekly Issue-迎中秋](https://zdyxry.github.io/2024/09/15/Weekly-Issue-%E8%BF%8E%E4%B8%AD%E7%A7%8B/)
 - [Weekly Issue-AWS好难用](https://zdyxry.github.io/2024/09/08/Weekly-Issue-AWS%E5%A5%BD%E9%9A%BE%E7%94%A8/)

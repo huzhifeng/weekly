@@ -1,7 +1,22 @@
 # 周刊
 
+## 潮流周刊
+- 2024/10/14 [第195期 - BELLOCO](https://weekly.tw93.fun/posts/195-BELLOCO/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## FAV0周刊
+- 2024/10/13 [017期--计算机只是工具](https://fav0.com/posts/2024/017) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2024/10/13 [视野修炼第105期 | AI驱动全栈应用开发](https://sugarat.top/weekly/2024-10-13.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## zdyxry Weekly Issue
+- 2024/10/13 [Weekly Issue-《爱欲之死》](https://zdyxry.github.io/2024/10/13/Weekly-Issue-%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## 1Link.Fun 科技周刊
 - 2024/10/12 [1Link.Fun 科技周刊 | 第 108 期](https://1link.fun/blog/issue/issue108/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## 老胡的信息周刊
+- 2024/10/12 [10-07~10-13.老胡的周刊（第163期）.md](https://weekly.howie6879.com/2024/10-07~10-13.老胡的周刊（第163期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 大橘和朋友们的周刊
 - 2024/10/12 [第017期 - 池畔闲趣](https://rrorangeandfriends.site/posts/2024/017) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -39,9 +54,6 @@
 ## 一周杂记
 - 2024/10/08 [一周杂记 in Week 1 Oct 2024](http://kingsamchen.github.io/2024/10/08/weekly-2024-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## 视野修炼
-- 2024/10/07 [视野修炼第104期 | 下一代 JavaScript 工具链](https://sugarat.top/weekly/2024-10-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## AIGC Weekly
 - 2024/10/07 [AIGC Weekly #91](https://quail.ink/op7418/p/aigc-weekly-91) | [More](channels/AIGC%20Weekly.md)
 
@@ -54,14 +66,8 @@
 ## 猫鱼周刊
 - 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## 老胡的信息周刊
-- 2024/10/05 [09-30~10-06.老胡的周刊（第162期）.md](https://weekly.howie6879.com/2024/09-30~10-06.老胡的周刊（第162期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
 ## 独立开发者出海周刊
 - 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
-## FAV0周刊
-- 2024/09/29 [016期--A股大涨](https://fav0.com/posts/2024/016) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2024/09/26 [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [More](channels/HelloGitHub.md)
@@ -71,12 +77,6 @@
 
 ## 胡言乱语
 - 2024/09/24 [20240924的胡言乱语](https://www.bboy.app/2024/09/24/20240924%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 潮流周刊
-- 2024/09/23 [第194期 - 暮色落霞](https://weekly.tw93.fun/posts/194-%E6%9A%AE%E8%89%B2%E8%90%BD%E9%9C%9E/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## zdyxry Weekly Issue
-- 2024/09/22 [Weekly Issue-《精英的傲慢》](https://zdyxry.github.io/2024/09/22/Weekly-Issue-%E7%B2%BE%E8%8B%B1%E7%9A%84%E5%82%B2%E6%85%A2/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 泰晓资讯
 - 2024/09/19 [泰晓资讯·9 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-09-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
