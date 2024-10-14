@@ -3,6 +3,24 @@
 ## 潮流周刊
 - 2024/10/14 [第195期 - BELLOCO](https://weekly.tw93.fun/posts/195-BELLOCO/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 一周杂记
+- 2024/10/14 [一周杂记 in Week 2 Oct 2024](http://kingsamchen.github.io/2024/10/14/weekly-2024-oct-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2024/10/14 [DistroWatch Weekly, Issue 1092](https://distrowatch.com/weekly.php?issue=20241014) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/10/14 [9to5Linux Weekly Roundup: October 13th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-13th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/10/14 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/14 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 独立开发者出海周刊
+- 2024/10/14 [第21期：.io域名会消失吗？](https://gapis.money/weekly/2024-10-14_021) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2024/10/13 [017期--计算机只是工具](https://fav0.com/posts/2024/017) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -11,6 +29,9 @@
 
 ## zdyxry Weekly Issue
 - 2024/10/13 [Weekly Issue-《爱欲之死》](https://zdyxry.github.io/2024/10/13/Weekly-Issue-%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## AIGC Weekly
+- 2024/10/13 [AIGC Weekly #92 下周将开启付费订阅](https://quail.ink/op7418/p/aigc-weekly-92-important-announcement) | [More](channels/AIGC%20Weekly.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/10/12 [1Link.Fun 科技周刊 | 第 108 期](https://1link.fun/blog/issue/issue108/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -23,9 +44,6 @@
 
 ## CDT周报
 - 2024/10/12 [【CDT周报】第190期：为什么要强行让113岁的管75岁的叫母亲？](https://chinadigitaltimes.net/chinese/712111.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## CyberClip
-- 2024/10/12 [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/) | [More](channels/CyberClip.md)
 
 ## 科技爱好者周刊
 - 2024/10/11 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -51,23 +69,14 @@
 ## FOSS Weekly
 - 2024/10/10 [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/) | [More](channels/FOSS%20Weekly.md)
 
-## 一周杂记
-- 2024/10/08 [一周杂记 in Week 1 Oct 2024](http://kingsamchen.github.io/2024/10/08/weekly-2024-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2024/10/07 [AIGC Weekly #91](https://quail.ink/op7418/p/aigc-weekly-91) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2024/10/07 [DistroWatch Weekly, Issue 1091](https://distrowatch.com/weekly.php?issue=20241007) | [More](channels/DistroWatch%20Weekly.md)
+## 泰晓资讯
+- 2024/10/10 [泰晓资讯·10 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/10/07 [Ubuntu Weekly Newsletter Issue 861](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-861/48570) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 独立开发者出海周刊
-- 2024/09/30 [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2024/09/26 [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [More](channels/HelloGitHub.md)
@@ -78,14 +87,8 @@
 ## 胡言乱语
 - 2024/09/24 [20240924的胡言乱语](https://www.bboy.app/2024/09/24/20240924%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 泰晓资讯
-- 2024/09/19 [泰晓资讯·9 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-09-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
