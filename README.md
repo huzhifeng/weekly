@@ -1,5 +1,14 @@
 # 周刊
 
+## PIVOT
+- 2024/10/15 [PIVOT Vol.8](https://anotherdayu.com/2024/5958/) | [More](channels/PIVOT.md)
+
+## GitHub Trending Weekly
+- 2024/10/15 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/15 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2024/10/14 [第195期 - BELLOCO](https://weekly.tw93.fun/posts/195-BELLOCO/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -12,11 +21,8 @@
 ## 9to5Linux Weekly Roundup
 - 2024/10/14 [9to5Linux Weekly Roundup: October 13th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-october-13th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2024/10/14 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/10/14 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Ubuntu Weekly Newsletter
+- 2024/10/14 [Ubuntu Weekly Newsletter Issue 862](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-862/48785) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 独立开发者出海周刊
 - 2024/10/14 [第21期：.io域名会消失吗？](https://gapis.money/weekly/2024-10-14_021) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -45,6 +51,9 @@
 ## CDT周报
 - 2024/10/12 [【CDT周报】第190期：为什么要强行让113岁的管75岁的叫母亲？](https://chinadigitaltimes.net/chinese/712111.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
+## CyberClip
+- 2024/10/12 [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/) | [More](channels/CyberClip.md)
+
 ## 科技爱好者周刊
 - 2024/10/11 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -72,9 +81,6 @@
 ## 泰晓资讯
 - 2024/10/10 [泰晓资讯·10 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
-## Ubuntu Weekly Newsletter
-- 2024/10/07 [Ubuntu Weekly Newsletter Issue 861](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-861/48570) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -95,9 +101,6 @@
 
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## PIVOT
-- 2024/08/06 [PIVOT Vol.7](https://anotherdayu.com/2024/5845/) | [More](channels/PIVOT.md)
 
 ## Raye's Journey
 - 2024/08/04 [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764) | [More](channels/Raye%27s%20Journey.md)
