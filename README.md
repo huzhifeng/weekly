@@ -1,13 +1,10 @@
 # 周刊
 
+## 胡言乱语
+- 2024/10/16 [20241016的胡言乱语](https://www.bboy.app/2024/10/16/20241016%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## PIVOT
 - 2024/10/15 [PIVOT Vol.8](https://anotherdayu.com/2024/5958/) | [More](channels/PIVOT.md)
-
-## GitHub Trending Weekly
-- 2024/10/15 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/10/15 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/10/14 [第195期 - BELLOCO](https://weekly.tw93.fun/posts/195-BELLOCO/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -81,6 +78,9 @@
 ## 泰晓资讯
 - 2024/10/10 [泰晓资讯·10 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
+## 壹苇可航
+- 2024/10/08 [Vol.88 天青色等烟雨](https://letter.justgoidea.com/p/202426) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
 ## 猫鱼周刊
 - 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -90,11 +90,11 @@
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
-## 胡言乱语
-- 2024/09/24 [20240924的胡言乱语](https://www.bboy.app/2024/09/24/20240924%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## Pseudoyu 周报
 - 2024/09/17 [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
