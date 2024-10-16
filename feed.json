@@ -81,8 +81,9 @@
 		},
 		{
 			"channel": "壹苇可航",
-			"portal": "https://justgoidea.com/newsletter/",
-			"url": "https://justgoidea.com/atom.xml",
+			"portal": "https://letter.justgoidea.com/",
+			"portal2": "https://quail.ink/justgoidea",
+			"url": "https://quail.ink/justgoidea/feed/atom",
 			"filter": ["Vol."]
 		},
 		{
