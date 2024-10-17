@@ -4,6 +4,7 @@
 			"channel": "科技爱好者周刊",
 			"portal": "https://github.com/ruanyf/weekly",
 			"url": "https://ruanyifeng.com/blog/atom.xml",
+			"pin": 1,
 			"filter": ["科技爱好者周刊"]
 		},
 		{
@@ -84,6 +85,7 @@
 			"portal": "https://letter.justgoidea.com/",
 			"portal2": "https://quail.ink/justgoidea",
 			"url": "https://quail.ink/justgoidea/feed/atom",
+			"pin": 1,
 			"filter": ["Vol."]
 		},
 		{

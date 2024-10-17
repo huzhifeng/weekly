@@ -103,6 +103,7 @@ def main():
                     'channel': feed['channel'],
                     'title': entry.title,
                     'link': entry.link,
+                    'pin': feed['pin'] if 'pin' in feed else 0,
                     'published': time.strftime(
                         '%Y/%m/%d', entry.published_parsed if entry.has_key(
                         'published_parsed') else entry.updated_parsed)
@@ -116,6 +117,7 @@ def main():
 
     if len(latest_items) > 0:
         latest_items = sorted(latest_items, key=lambda x: x['published'], reverse=True)
+        latest_items = sorted(latest_items, key=lambda x: x['pin'], reverse=True)
         generate_readme(latest_items)
 
 if __name__ == '__main__':
