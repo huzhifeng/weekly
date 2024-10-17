@@ -1,5 +1,26 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/10/11 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 壹苇可航
+- 2024/10/08 [Vol.88 天青色等烟雨](https://letter.justgoidea.com/p/202426) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## 独立开发变现周刊
+- 2024/10/18 [独立开发变现周刊（第153期） : 一个网站UI组件库每月收入8万美元](https://www.ezindie.com/weekly/issue-153) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 奇趣周刊
+- 2024/10/17 [奇趣周刊 - 第 72 期](https://zishu.me/blog/weekly-72.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/10/17 [学习周刊-总第181期-2024年第42周](https://wiki.eryajf.net/pages/4abe84/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/10/17 [LWN.net Weekly Edition for October 17, 2024](https://lwn.net/Articles/993610/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/10/17 [FOSS Weekly #24.42: Ubuntu 24.10, Redox OS Review, LLMs on Pi, KDE Plasma 6.2, Linux Terminal on Android and More](https://itsfoss.com/newsletter/foss-weekly-24-42/) | [More](channels/FOSS%20Weekly.md)
+
 ## 胡言乱语
 - 2024/10/16 [20241016的胡言乱语](https://www.bboy.app/2024/10/16/20241016%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -51,35 +72,14 @@
 ## CyberClip
 - 2024/10/12 [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/) | [More](channels/CyberClip.md)
 
-## 科技爱好者周刊
-- 2024/10/11 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## Web Review
 - 2024/10/11 [Web Review, Week 2024-41](https://ervin.ipsquad.net/blog/2024/10/11/web-review-week-2024-41/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2024/10/11 [#169 Wrapped Boxes](https://thisweek.gnome.org/posts/2024/10/twig-169/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/10/11 [独立开发变现周刊（第152期） : 一个年收入18万美金的设计工具](https://www.ezindie.com/weekly/issue-152) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 奇趣周刊
-- 2024/10/10 [奇趣周刊 - 第 71 期](https://zishu.me/blog/weekly-71.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/10/10 [学习周刊-总第180期-2024年第41周](https://wiki.eryajf.net/pages/6dc85f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/10/10 [LWN.net Weekly Edition for October 10, 2024](https://lwn.net/Articles/992718/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/10/10 [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/) | [More](channels/FOSS%20Weekly.md)
-
 ## 泰晓资讯
 - 2024/10/10 [泰晓资讯·10 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 壹苇可航
-- 2024/10/08 [Vol.88 天青色等烟雨](https://letter.justgoidea.com/p/202426) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
 ## 猫鱼周刊
 - 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
