@@ -1,3 +1,4 @@
+- [#170 Portal Updates](https://thisweek.gnome.org/posts/2024/10/twig-170/)
 - [#169 Wrapped Boxes](https://thisweek.gnome.org/posts/2024/10/twig-169/)
 - [#168 Testing Portals](https://thisweek.gnome.org/posts/2024/10/twig-168/)
 - [#167 Linking Apps](https://thisweek.gnome.org/posts/2024/09/twig-167/)

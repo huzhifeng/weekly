@@ -1,10 +1,16 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/10/11 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/10/17 [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2024/10/08 [Vol.88 天青色等烟雨](https://letter.justgoidea.com/p/202426) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2024/10/18 [Web Review, Week 2024-42](https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/10/18 [#170 Portal Updates](https://thisweek.gnome.org/posts/2024/10/twig-170/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 独立开发变现周刊
 - 2024/10/18 [独立开发变现周刊（第153期） : 一个网站UI组件库每月收入8万美元](https://www.ezindie.com/weekly/issue-153) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -71,12 +77,6 @@
 
 ## CyberClip
 - 2024/10/12 [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/) | [More](channels/CyberClip.md)
-
-## Web Review
-- 2024/10/11 [Web Review, Week 2024-41](https://ervin.ipsquad.net/blog/2024/10/11/web-review-week-2024-41/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/10/11 [#169 Wrapped Boxes](https://thisweek.gnome.org/posts/2024/10/twig-169/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 泰晓资讯
 - 2024/10/10 [泰晓资讯·10 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
