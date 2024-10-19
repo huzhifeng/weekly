@@ -1,3 +1,4 @@
+- [【CDT周报】第191期：我们想要好好说话不说“黑话烂梗”，可您不让啊](https://chinadigitaltimes.net/chinese/712290.html)
 - [【CDT周报】第190期：为什么要强行让113岁的管75岁的叫母亲？](https://chinadigitaltimes.net/chinese/712111.html)
 - [【CDT周报】第189期：国庆期间，上海没有砍人，西安没有下雪](https://chinadigitaltimes.net/chinese/712007.html)
 - [【CDT周报】第188期：古有拍照勾魂，今有苹果爆炸](https://chinadigitaltimes.net/chinese/711840.html)

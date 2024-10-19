@@ -6,6 +6,18 @@
 ## 壹苇可航
 - 2024/10/08 [Vol.88 天青色等烟雨](https://letter.justgoidea.com/p/202426) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 大橘和朋友们的周刊
+- 2024/10/19 [第018期 - 云间曙光](https://rrorangeandfriends.site/posts/2024/018) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/10/19 [【CDT周报】第191期：我们想要好好说话不说“黑话烂梗”，可您不让啊](https://chinadigitaltimes.net/chinese/712290.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2024/10/19 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/19 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2024/10/18 [Web Review, Week 2024-42](https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/) | [More](channels/Web%20Review.md)
 
@@ -69,20 +81,11 @@
 ## 老胡的信息周刊
 - 2024/10/12 [10-07~10-13.老胡的周刊（第163期）.md](https://weekly.howie6879.com/2024/10-07~10-13.老胡的周刊（第163期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## 大橘和朋友们的周刊
-- 2024/10/12 [第017期 - 池畔闲趣](https://rrorangeandfriends.site/posts/2024/017) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/10/12 [【CDT周报】第190期：为什么要强行让113岁的管75岁的叫母亲？](https://chinadigitaltimes.net/chinese/712111.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## CyberClip
 - 2024/10/12 [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/) | [More](channels/CyberClip.md)
 
 ## 泰晓资讯
 - 2024/10/10 [泰晓资讯·10 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 猫鱼周刊
-- 2024/10/06 [猫鱼周刊 vol. 043 临期食物盲盒](https://ameow.xyz/archives/weekly-043) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2024/09/26 [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [More](channels/HelloGitHub.md)
@@ -95,6 +98,9 @@
 
 ## Hacker News Weekly Top 10
 - 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## Hacker News Monthly Top 10
+- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
