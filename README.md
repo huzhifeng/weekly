@@ -6,17 +6,23 @@
 ## 壹苇可航
 - 2024/10/08 [Vol.88 天青色等烟雨](https://letter.justgoidea.com/p/202426) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2024/10/21 [第196期 - 新显示器](https://weekly.tw93.fun/posts/196-%E6%96%B0%E6%98%BE%E7%A4%BA%E5%99%A8/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## FAV0周刊
+- 2024/10/20 [018期--Perplexity分析股票](https://fav0.com/posts/2024/018) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/10/20 [猫鱼周刊 vol. 044 独立博客自省问卷](https://ameow.xyz/archives/weekly-044) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2024/10/20 [视野修炼第106期 | Node23值得关注的新特性](https://sugarat.top/weekly/2024-10-20.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
 ## 大橘和朋友们的周刊
 - 2024/10/19 [第018期 - 云间曙光](https://rrorangeandfriends.site/posts/2024/018) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2024/10/19 [【CDT周报】第191期：我们想要好好说话不说“黑话烂梗”，可您不让啊](https://chinadigitaltimes.net/chinese/712290.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2024/10/19 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## B站每周必看
-- 2024/10/19 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Web Review
 - 2024/10/18 [Web Review, Week 2024-42](https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/) | [More](channels/Web%20Review.md)
@@ -45,9 +51,6 @@
 ## PIVOT
 - 2024/10/15 [PIVOT Vol.8](https://anotherdayu.com/2024/5958/) | [More](channels/PIVOT.md)
 
-## 潮流周刊
-- 2024/10/14 [第195期 - BELLOCO](https://weekly.tw93.fun/posts/195-BELLOCO/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2024/10/14 [一周杂记 in Week 2 Oct 2024](http://kingsamchen.github.io/2024/10/14/weekly-2024-oct-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -62,12 +65,6 @@
 
 ## 独立开发者出海周刊
 - 2024/10/14 [第21期：.io域名会消失吗？](https://gapis.money/weekly/2024-10-14_021) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
-## FAV0周刊
-- 2024/10/13 [017期--计算机只是工具](https://fav0.com/posts/2024/017) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2024/10/13 [视野修炼第105期 | AI驱动全栈应用开发](https://sugarat.top/weekly/2024-10-13.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## zdyxry Weekly Issue
 - 2024/10/13 [Weekly Issue-《爱欲之死》](https://zdyxry.github.io/2024/10/13/Weekly-Issue-%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -98,9 +95,6 @@
 
 ## Hacker News Weekly Top 10
 - 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## Hacker News Monthly Top 10
-- 2024/09/01 [Hacker News Monthly Top 10 @2024-09-01](https://github.com/headllines/hackernews-monthly/issues/73) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
