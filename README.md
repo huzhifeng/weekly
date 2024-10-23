@@ -6,14 +6,20 @@
 ## 科技爱好者周刊
 - 2024/10/17 [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Pseudoyu 周报
+- 2024/10/23 [周报 #76 - 关于 Audlting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2024/10/23 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/23 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 胡言乱语
 - 2024/10/22 [20241022的胡言乱语](https://www.bboy.app/2024/10/22/20241022%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2024/10/21 [第196期 - 新显示器](https://weekly.tw93.fun/posts/196-%E6%96%B0%E6%98%BE%E7%A4%BA%E5%99%A8/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## Pseudoyu 周报
-- 2024/10/21 [周报 #74 - 清迈异闻录](https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 一周杂记
 - 2024/10/21 [一周杂记 in Week 3 Oct 2024](http://kingsamchen.github.io/2024/10/21/weekly-2024-oct-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -93,17 +99,11 @@
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
 
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## Raye's Journey
-- 2024/08/04 [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764) | [More](channels/Raye%27s%20Journey.md)
 
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)

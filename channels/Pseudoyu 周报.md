@@ -1,3 +1,5 @@
+- [周报 #76 - 关于 Audlting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/)
+- [周报 #75 - 回答 Dayu 关于独立博客的 9 个问题](https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/)
 - [周报 #74 - 清迈异闻录](https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021/)
 - [周报 #73 - 《社交网络》、Ego 与中秋的现充生活](https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/)
 - [周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）](https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/)
