@@ -6,14 +6,29 @@
 ## 科技爱好者周刊
 - 2024/10/17 [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Pseudoyu 周报
-- 2024/10/23 [周报 #76 - 关于 Audlting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+## 独立开发变现周刊
+- 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2024/10/23 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 1Link.Fun 科技周刊
+- 2024/10/24 [1Link.Fun 科技周刊 | 第 109 期](https://1link.fun/blog/issue/issue109/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## 奇趣周刊
+- 2024/10/24 [奇趣周刊 - 第 73 期](https://zishu.me/blog/weekly-73.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/10/24 [学习周刊-总第182期-2024年第43周](https://wiki.eryajf.net/pages/225eaf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/10/24 [LWN.net Weekly Edition for October 24, 2024](https://lwn.net/Articles/994575/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/10/24 [FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More](https://itsfoss.com/newsletter/foss-weekly-24-43/) | [More](channels/FOSS%20Weekly.md)
 
 ## B站每周必看
-- 2024/10/23 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/10/24 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Pseudoyu 周报
+- 2024/10/23 [周报 #76 - 关于 Adulting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 胡言乱语
 - 2024/10/22 [20241022的胡言乱语](https://www.bboy.app/2024/10/22/20241022%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -66,26 +81,8 @@
 ## This Week in GNOME
 - 2024/10/18 [#170 Portal Updates](https://thisweek.gnome.org/posts/2024/10/twig-170/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 独立开发变现周刊
-- 2024/10/18 [独立开发变现周刊（第153期） : 一个网站UI组件库每月收入8万美元](https://www.ezindie.com/weekly/issue-153) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 奇趣周刊
-- 2024/10/17 [奇趣周刊 - 第 72 期](https://zishu.me/blog/weekly-72.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/10/17 [学习周刊-总第181期-2024年第42周](https://wiki.eryajf.net/pages/4abe84/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/10/17 [LWN.net Weekly Edition for October 17, 2024](https://lwn.net/Articles/993610/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/10/17 [FOSS Weekly #24.42: Ubuntu 24.10, Redox OS Review, LLMs on Pi, KDE Plasma 6.2, Linux Terminal on Android and More](https://itsfoss.com/newsletter/foss-weekly-24-42/) | [More](channels/FOSS%20Weekly.md)
-
 ## PIVOT
 - 2024/10/15 [PIVOT Vol.8](https://anotherdayu.com/2024/5958/) | [More](channels/PIVOT.md)
-
-## 1Link.Fun 科技周刊
-- 2024/10/12 [1Link.Fun 科技周刊 | 第 108 期](https://1link.fun/blog/issue/issue108/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/10/12 [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/) | [More](channels/CyberClip.md)
@@ -104,6 +101,9 @@
 
 ## 科技創業週報
 - 2024/08/15 [科技創業週報#447：在SAAS服務推出之前｜設計師再進擊，你可以學寫程式](https://blog.starrocket.io/posts/newsletter-2024-08-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## Raye's Journey
+- 2024/08/04 [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764) | [More](channels/Raye%27s%20Journey.md)
 
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)

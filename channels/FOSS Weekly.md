@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More](https://itsfoss.com/newsletter/foss-weekly-24-43/)
 - [FOSS Weekly #24.42: Ubuntu 24.10, Redox OS Review, LLMs on Pi, KDE Plasma 6.2, Linux Terminal on Android and More](https://itsfoss.com/newsletter/foss-weekly-24-42/)
 - [FOSS Weekly #24.41: elementary OS 8 Features, Thunderbird Tips, NotebookLM, Open Source Internships and More](https://itsfoss.com/newsletter/foss-weekly-24-41/)
 - [FOSS Weekly #24.40: Deprecated Commands, SSD Temp, Aria2App, Spotify Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-24-40/)
