@@ -1,10 +1,25 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/10/25 [科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2024/10/22 [Vol.89 自由的意义](https://letter.justgoidea.com/p/202427) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2024/10/17 [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2024/10/25 [Web Review, Week 2024-43](https://ervin.ipsquad.net/blog/2024/10/25/web-review-week-2024-43/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2024/10/25 [20241025的胡言乱语](https://www.bboy.app/2024/10/25/20241025%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## This Week in GNOME
+- 2024/10/25 [#171 Point of Interest](https://thisweek.gnome.org/posts/2024/10/twig-171/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/10/25 [RSSNext/Follow](https://github.com/RSSNext/Follow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## B站每周必看
+- 2024/10/25 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
@@ -24,14 +39,8 @@
 ## FOSS Weekly
 - 2024/10/24 [FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More](https://itsfoss.com/newsletter/foss-weekly-24-43/) | [More](channels/FOSS%20Weekly.md)
 
-## B站每周必看
-- 2024/10/24 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## Pseudoyu 周报
 - 2024/10/23 [周报 #76 - 关于 Adulting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 胡言乱语
-- 2024/10/22 [20241022的胡言乱语](https://www.bboy.app/2024/10/22/20241022%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2024/10/21 [第196期 - 新显示器](https://weekly.tw93.fun/posts/196-%E6%96%B0%E6%98%BE%E7%A4%BA%E5%99%A8/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -74,12 +83,6 @@
 
 ## CDT周报
 - 2024/10/19 [【CDT周报】第191期：我们想要好好说话不说“黑话烂梗”，可您不让啊](https://chinadigitaltimes.net/chinese/712290.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Web Review
-- 2024/10/18 [Web Review, Week 2024-42](https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/10/18 [#170 Portal Updates](https://thisweek.gnome.org/posts/2024/10/twig-170/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## PIVOT
 - 2024/10/15 [PIVOT Vol.8](https://anotherdayu.com/2024/5958/) | [More](channels/PIVOT.md)
