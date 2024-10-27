@@ -6,6 +6,27 @@
 ## 壹苇可航
 - 2024/10/22 [Vol.89 自由的意义](https://letter.justgoidea.com/p/202427) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2024/10/28 [第197期 - 喂流浪猫](https://weekly.tw93.fun/posts/197-%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## FAV0周刊
+- 2024/10/27 [019期--聊聊开源](https://fav0.com/posts/2024/019) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/10/27 [猫鱼周刊 vol. 045 技术无国界，但利益有](https://ameow.xyz/archives/weekly-045) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/10/27 [【CDT周报】第192期：他说共产党不让他活了，你们却说他喝多了](https://chinadigitaltimes.net/chinese/712488.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/10/27 [视野修炼第107期 | 2024 CSS 现状](https://sugarat.top/weekly/2024-10-27.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## AIGC Weekly
+- 2024/10/27 [AIGC Weekly #94](https://quail.ink/op7418/p/aigc-weekly-94) | [More](channels/AIGC%20Weekly.md)
+
+## 老胡的信息周刊
+- 2024/10/26 [10-21~10-27.老胡的周刊（第165期）.md](https://weekly.howie6879.com/2024/10-21~10-27.老胡的周刊（第165期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
 ## Web Review
 - 2024/10/25 [Web Review, Week 2024-43](https://ervin.ipsquad.net/blog/2024/10/25/web-review-week-2024-43/) | [More](channels/Web%20Review.md)
 
@@ -36,9 +57,6 @@
 ## Pseudoyu 周报
 - 2024/10/23 [周报 #76 - 关于 Adulting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2024/10/21 [第196期 - 新显示器](https://weekly.tw93.fun/posts/196-%E6%96%B0%E6%98%BE%E7%A4%BA%E5%99%A8/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2024/10/21 [一周杂记 in Week 3 Oct 2024](http://kingsamchen.github.io/2024/10/21/weekly-2024-oct-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -54,29 +72,11 @@
 ## 独立开发者出海周刊
 - 2024/10/21 [第22期：多邻国真的可以帮助学英语吗？](https://gapis.money/weekly/2024-10-21_022) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
-## FAV0周刊
-- 2024/10/20 [018期--Perplexity分析股票](https://fav0.com/posts/2024/018) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 猫鱼周刊
-- 2024/10/20 [猫鱼周刊 vol. 044 独立博客自省问卷](https://ameow.xyz/archives/weekly-044) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2024/10/20 [视野修炼第106期 | Node23值得关注的新特性](https://sugarat.top/weekly/2024-10-20.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## zdyxry Weekly Issue
 - 2024/10/20 [Weekly Issue-《逃走的人》](https://zdyxry.github.io/2024/10/20/Weekly-Issue-%E9%80%83%E8%B5%B0%E7%9A%84%E4%BA%BA/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## AIGC Weekly
-- 2024/10/20 [AIGC Weekly #93](https://quail.ink/op7418/p/aigc-weekly-93) | [More](channels/AIGC%20Weekly.md)
-
-## 老胡的信息周刊
-- 2024/10/19 [10-14~10-20.老胡的周刊（第164期）.md](https://weekly.howie6879.com/2024/10-14~10-20.老胡的周刊（第164期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
 ## 大橘和朋友们的周刊
 - 2024/10/19 [第018期 - 云间曙光](https://rrorangeandfriends.site/posts/2024/018) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/10/19 [【CDT周报】第191期：我们想要好好说话不说“黑话烂梗”，可您不让啊](https://chinadigitaltimes.net/chinese/712290.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## PIVOT
 - 2024/10/15 [PIVOT Vol.8](https://anotherdayu.com/2024/5958/) | [More](channels/PIVOT.md)
@@ -92,6 +92,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
