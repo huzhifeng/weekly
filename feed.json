@@ -325,6 +325,12 @@
 			"limit": 3
 		},
 		{
+			"channel": "GitHub Trending Monthly",
+			"portal": "https://github.com/trending?since=monthly",
+			"url": "https://mshibanami.github.io/GitHubTrendingRSS/monthly/all.xml",
+			"limit": 3
+		},
+		{
 			"channel": "B站每周必看",
 			"portal": "https://www.bilibili.com/v/popular/weekly",
 			"url": "https://rsshub.app/bilibili/weekly",

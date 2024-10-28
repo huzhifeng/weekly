@@ -97,7 +97,7 @@ def main():
                 elif '1Link.Fun 科技周刊' in feed['channel']:
                     if 'xiaobot.net' in entry.link and entry.has_key('guid'):
                         entry.link = entry['guid']
-                elif feed['channel'] in ['GitHub Trending Weekly', 'B站每周必看']:
+                elif feed['channel'] in ['GitHub Trending Weekly', 'GitHub Trending Monthly', 'B站每周必看']:
                     entry['published_parsed'] = time.localtime()
                 item = {
                     'channel': feed['channel'],
