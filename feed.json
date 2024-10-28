@@ -321,7 +321,7 @@
 		{
 			"channel": "GitHub Trending Weekly",
 			"portal": "https://github.com/trending?since=weekly",
-			"url": "https://rsshub.app/github/trending/weekly/any",
+			"url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml",
 			"limit": 3
 		},
 		{
