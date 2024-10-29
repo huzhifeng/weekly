@@ -1,3 +1,5 @@
+- [sveltejs/svelte](https://github.com/sveltejs/svelte)
+- [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
 - [DiceDB/dice](https://github.com/DiceDB/dice)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)

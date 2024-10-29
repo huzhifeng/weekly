@@ -1,3 +1,4 @@
+- [Weekly Issue-《打破社交媒体棱镜》](https://zdyxry.github.io/2024/10/27/Weekly-Issue-%E6%89%93%E7%A0%B4%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%A3%B1%E9%95%9C/)
 - [Weekly Issue-《逃走的人》](https://zdyxry.github.io/2024/10/20/Weekly-Issue-%E9%80%83%E8%B5%B0%E7%9A%84%E4%BA%BA/)
 - [Weekly Issue-《爱欲之死》](https://zdyxry.github.io/2024/10/13/Weekly-Issue-%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB/)
 - [Weekly Issue-《精英的傲慢》](https://zdyxry.github.io/2024/09/22/Weekly-Issue-%E7%B2%BE%E8%8B%B1%E7%9A%84%E5%82%B2%E6%85%A2/)

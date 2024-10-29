@@ -1,0 +1,3 @@
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya)
+- [3b1b/videos](https://github.com/3b1b/videos)
+- [3b1b/manim](https://github.com/3b1b/manim)
