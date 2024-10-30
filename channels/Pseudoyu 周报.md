@@ -1,3 +1,4 @@
+- [周报 #77 - 一间只属于自己的房间（对亲密关系的思考）](https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/)
 - [周报 #76 - 关于 Audlting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/)
 - [周报 #75 - 回答 Dayu 关于独立博客的 9 个问题](https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/)
 - [周报 #74 - 清迈异闻录](https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021/)

@@ -6,14 +6,14 @@
 ## 壹苇可航
 - 2024/10/22 [Vol.89 自由的意义](https://letter.justgoidea.com/p/202427) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## Pseudoyu 周报
+- 2024/10/30 [周报 #77 - 一间只属于自己的房间（对亲密关系的思考）](https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
 ## GitHub Trending Weekly
-- 2024/10/29 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/10/30 [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/10/29 [VikParuchuri/surya](https://github.com/VikParuchuri/surya) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/10/29 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/10/30 [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/10/28 [1Link.Fun 科技周刊 | 第 110 期](https://1link.fun/blog/issue/issue110/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -86,9 +86,6 @@
 
 ## 泰晓资讯
 - 2024/10/24 [泰晓资讯·10 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-10-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## Pseudoyu 周报
-- 2024/10/23 [周报 #76 - 关于 Adulting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 大橘和朋友们的周刊
 - 2024/10/19 [第018期 - 云间曙光](https://rrorangeandfriends.site/posts/2024/018) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,4 @@
+- [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
