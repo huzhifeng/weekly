@@ -1,3 +1,5 @@
+- [hcengineering/platform](https://github.com/hcengineering/platform)
+- [phidatahq/phidata](https://github.com/phidatahq/phidata)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe)

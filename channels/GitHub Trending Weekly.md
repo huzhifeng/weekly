@@ -1,3 +1,6 @@
+- [asterinas/asterinas](https://github.com/asterinas/asterinas)
+- [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 - [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)
