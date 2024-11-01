@@ -1,3 +1,6 @@
+- [formbricks/formbricks](https://github.com/formbricks/formbricks)
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
 - [hcengineering/platform](https://github.com/hcengineering/platform)
 - [phidatahq/phidata](https://github.com/phidatahq/phidata)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim)

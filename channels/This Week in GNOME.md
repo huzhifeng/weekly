@@ -1,3 +1,4 @@
+- [#172 Valencia](https://thisweek.gnome.org/posts/2024/11/twig-172/)
 - [#171 Point of Interest](https://thisweek.gnome.org/posts/2024/10/twig-171/)
 - [#170 Portal Updates](https://thisweek.gnome.org/posts/2024/10/twig-170/)
 - [#169 Wrapped Boxes](https://thisweek.gnome.org/posts/2024/10/twig-169/)

@@ -1,3 +1,4 @@
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 - [asterinas/asterinas](https://github.com/asterinas/asterinas)
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
