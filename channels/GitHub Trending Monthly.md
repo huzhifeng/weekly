@@ -1,3 +1,5 @@
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 - [formbricks/formbricks](https://github.com/formbricks/formbricks)
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)

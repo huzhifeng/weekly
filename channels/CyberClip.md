@@ -1,3 +1,4 @@
+- [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/)
 - [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/)
 - [CyberClip #59 社媒之毒](https://shyrz.me/cyberclip-59-toxic-social-media/)
 - [CyberClip #58 婚姻的祛魅](https://shyrz.me/cyberclip-58-the-disenchantment-of-marriage/)

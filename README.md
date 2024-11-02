@@ -6,20 +6,29 @@
 ## 壹苇可航
 - 2024/10/22 [Vol.89 自由的意义](https://letter.justgoidea.com/p/202427) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 大橘和朋友们的周刊
+- 2024/11/02 [第019期 - 花香满屋](https://rrorangeandfriends.site/posts/2024/019) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## CyberClip
+- 2024/11/02 [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/) | [More](channels/CyberClip.md)
+
+## PIVOT
+- 2024/11/02 [PIVOT Vol.9 组会分享什么？一些有趣的科研论文](https://anotherdayu.com/2024/5997/) | [More](channels/PIVOT.md)
+
+## GitHub Trending Weekly
+- 2024/11/02 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/02 [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2024/11/02 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2024/11/01 [Web Review, Week 2024-44](https://ervin.ipsquad.net/blog/2024/11/01/web-review-week-2024-44/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2024/11/01 [#172 Valencia](https://thisweek.gnome.org/posts/2024/11/twig-172/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/11/01 [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/01 [formbricks/formbricks](https://github.com/formbricks/formbricks) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/11/01 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 奇趣周刊
 - 2024/10/31 [奇趣周刊 - 第 74 期](https://zishu.me/blog/weekly-74.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -86,15 +95,6 @@
 
 ## 泰晓资讯
 - 2024/10/24 [泰晓资讯·10 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-10-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 大橘和朋友们的周刊
-- 2024/10/19 [第018期 - 云间曙光](https://rrorangeandfriends.site/posts/2024/018) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## PIVOT
-- 2024/10/15 [PIVOT Vol.8](https://anotherdayu.com/2024/5958/) | [More](channels/PIVOT.md)
-
-## CyberClip
-- 2024/10/12 [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/) | [More](channels/CyberClip.md)
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
