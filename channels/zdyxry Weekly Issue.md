@@ -1,3 +1,4 @@
+- [Weekly Issue-《外面是夏天》](https://zdyxry.github.io/2024/11/03/Weekly-Issue-%E5%A4%96%E9%9D%A2%E6%98%AF%E5%A4%8F%E5%A4%A9/)
 - [Weekly Issue-《打破社交媒体棱镜》](https://zdyxry.github.io/2024/10/27/Weekly-Issue-%E6%89%93%E7%A0%B4%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%A3%B1%E9%95%9C/)
 - [Weekly Issue-《逃走的人》](https://zdyxry.github.io/2024/10/20/Weekly-Issue-%E9%80%83%E8%B5%B0%E7%9A%84%E4%BA%BA/)
 - [Weekly Issue-《爱欲之死》](https://zdyxry.github.io/2024/10/13/Weekly-Issue-%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB/)

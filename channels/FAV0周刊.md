@@ -1,3 +1,4 @@
+- [020期--大钱与小钱](https://fav0.com/posts/2024/020)
 - [019期--聊聊开源](https://fav0.com/posts/2024/019)
 - [018期--Perplexity分析股票](https://fav0.com/posts/2024/018)
 - [017期--计算机只是工具](https://fav0.com/posts/2024/017)

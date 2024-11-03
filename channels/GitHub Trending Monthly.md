@@ -1,3 +1,4 @@
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 - [formbricks/formbricks](https://github.com/formbricks/formbricks)

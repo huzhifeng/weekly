@@ -1,3 +1,4 @@
+- [AIGC Weekly #95](https://quail.ink/op7418/p/aigc-weekly-95)
 - [AIGC Weekly #94](https://quail.ink/op7418/p/aigc-weekly-94)
 - [AIGC Weekly #93](https://quail.ink/op7418/p/aigc-weekly-93)
 - [AIGC Weekly #92 下周将开启付费订阅](https://quail.ink/op7418/p/aigc-weekly-92-important-announcement)
