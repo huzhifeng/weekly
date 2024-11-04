@@ -9,6 +9,24 @@
 ## 潮流周刊
 - 2024/11/04 [第198期 - 千层金树](https://weekly.tw93.fun/posts/198-%E5%8D%83%E5%B1%82%E9%87%91%E6%A0%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Pseudoyu 周报
+- 2024/11/04 [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## DistroWatch Weekly
+- 2024/11/04 [DistroWatch Weekly, Issue 1095](https://distrowatch.com/weekly.php?issue=20241104) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/11/04 [9to5Linux Weekly Roundup: November 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-3rd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/11/04 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/04 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 独立开发者出海周刊
+- 2024/11/04 [第24期：一个独立开发者用25万用户换来的破产课](https://gapis.money/weekly/2024-11-04_24) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2024/11/03 [020期--大钱与小钱](https://fav0.com/posts/2024/020) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -26,15 +44,6 @@
 
 ## AIGC Weekly
 - 2024/11/03 [AIGC Weekly #95](https://quail.ink/op7418/p/aigc-weekly-95) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/11/03 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/03 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/11/03 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 老胡的信息周刊
 - 2024/11/02 [10-28~11-03.老胡的周刊（第166期）.md](https://weekly.howie6879.com/2024/10-28~11-03.老胡的周刊（第166期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -66,8 +75,8 @@
 ## FOSS Weekly
 - 2024/10/31 [FOSS Weekly #24.44: Fedora 41 Release, Russia in Linux Kernel, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-24-44/) | [More](channels/FOSS%20Weekly.md)
 
-## Pseudoyu 周报
-- 2024/10/30 [周报 #77 - 一间只属于自己的房间（对亲密关系的思考）](https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+## 泰晓资讯
+- 2024/10/31 [泰晓资讯·11 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/10/28 [1Link.Fun 科技周刊 | 第 110 期](https://1link.fun/blog/issue/issue110/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -78,14 +87,8 @@
 ## 一周杂记
 - 2024/10/28 [一周杂记 in Week 4 Oct 2024](http://kingsamchen.github.io/2024/10/28/weekly-2024-oct-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## DistroWatch Weekly
-- 2024/10/28 [DistroWatch Weekly, Issue 1094](https://distrowatch.com/weekly.php?issue=20241028) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2024/10/28 [Ubuntu Weekly Newsletter Issue 864](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-864/49219) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 独立开发者出海周刊
-- 2024/10/28 [第23期：4年内打造月入1万美元、7.5万订阅者的 Newsletter](https://gapis.money/weekly/2024-10-28_023) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2024/10/25 [20241025的胡言乱语](https://www.bboy.app/2024/10/25/20241025%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -93,11 +96,11 @@
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
-## 泰晓资讯
-- 2024/10/24 [泰晓资讯·10 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-10-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 科技創業週報
 - 2024/09/12 [科技創業週報#451：逃出演算法主流海嘯，找到真實的自己｜讓 ChatGPT成為你的工作夥伴](https://blog.starrocket.io/posts/newsletter-2024-09-12/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

@@ -1,3 +1,4 @@
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 - [cline/cline](https://github.com/cline/cline)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
