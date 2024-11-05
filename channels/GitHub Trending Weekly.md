@@ -1,3 +1,5 @@
+- [sst/sst](https://github.com/sst/sst)
+- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier)
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 - [cline/cline](https://github.com/cline/cline)
