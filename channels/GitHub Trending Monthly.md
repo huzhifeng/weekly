@@ -1,3 +1,4 @@
+- [twentyhq/twenty](https://github.com/twentyhq/twenty)
 - [cline/cline](https://github.com/cline/cline)
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)

@@ -6,11 +6,14 @@
 ## 科技爱好者周刊
 - 2024/11/01 [科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Raye's Journey
+- 2024/11/06 [周报#32 第三次感动](https://xlog.app/api/redirection?characterId=51803&noteId=1806) | [More](channels/Raye%27s%20Journey.md)
+
 ## GitHub Trending Weekly
-- 2024/11/05 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/11/06 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/11/05 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/11/06 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2024/11/04 [第198期 - 千层金树](https://weekly.tw93.fun/posts/198-%E5%8D%83%E5%B1%82%E9%87%91%E6%A0%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -60,6 +63,9 @@
 ## CyberClip
 - 2024/11/02 [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/) | [More](channels/CyberClip.md)
 
+## PIVOT
+- 2024/11/02 [PIVOT Vol.9 组会分享什么？一些有趣的科研论文](https://anotherdayu.com/2024/5997/) | [More](channels/PIVOT.md)
+
 ## Web Review
 - 2024/11/01 [Web Review, Week 2024-44](https://ervin.ipsquad.net/blog/2024/11/01/web-review-week-2024-44/) | [More](channels/Web%20Review.md)
 
@@ -99,11 +105,11 @@
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
-
-## Raye's Journey
-- 2024/08/04 [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764) | [More](channels/Raye%27s%20Journey.md)
 
 ## 拾月通讯
 - 2024/08/03 [拾月通讯（第37期）](https://www.skyue.com/24080317.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
