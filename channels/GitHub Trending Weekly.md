@@ -1,3 +1,4 @@
+- [usememos/memos](https://github.com/usememos/memos)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 - [sst/sst](https://github.com/sst/sst)
 - [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier)

@@ -6,14 +6,29 @@
 ## 科技爱好者周刊
 - 2024/11/01 [科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Raye's Journey
-- 2024/11/06 [周报#32 第三次感动](https://xlog.app/api/redirection?characterId=51803&noteId=1806) | [More](channels/Raye%27s%20Journey.md)
+## 奇趣周刊
+- 2024/11/07 [奇趣周刊 - 第 75 期](https://zishu.me/blog/weekly-75.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2024/11/07 [20241107的胡言乱语](https://www.bboy.app/2024/11/07/20241107%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2024/11/07 [学习周刊-总第184期-2024年第45周](https://wiki.eryajf.net/pages/88fc71/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/11/07 [LWN.net Weekly Edition for November 7, 2024](https://lwn.net/Articles/996377/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/11/07 [FOSS Weekly #24.45: Firefox-Brave Fight, Linux Security, Mint Desktop Effects and More](https://itsfoss.com/newsletter/foss-weekly-24-45/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/11/06 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/11/07 [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/11/06 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/11/07 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Raye's Journey
+- 2024/11/06 [周报#32 第三次感动](https://xlog.app/api/redirection?characterId=51803&noteId=1806) | [More](channels/Raye%27s%20Journey.md)
 
 ## 潮流周刊
 - 2024/11/04 [第198期 - 千层金树](https://weekly.tw93.fun/posts/198-%E5%8D%83%E5%B1%82%E9%87%91%E6%A0%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -75,18 +90,6 @@
 ## 科技創業週報
 - 2024/10/31 [科技創業週報#456：量子電腦會否繼 AI 後成為另一個戰場？｜九成的求職者都靠人脈找工作！](https://blog.starrocket.io/posts/newsletter-2024-10-31/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## 奇趣周刊
-- 2024/10/31 [奇趣周刊 - 第 74 期](https://zishu.me/blog/weekly-74.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/10/31 [学习周刊-总第183期-2024年第44周](https://wiki.eryajf.net/pages/ad9674/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/10/31 [LWN.net Weekly Edition for October 31, 2024](https://lwn.net/Articles/995490/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/10/31 [FOSS Weekly #24.44: Fedora 41 Release, Russia in Linux Kernel, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-24-44/) | [More](channels/FOSS%20Weekly.md)
-
 ## 泰晓资讯
 - 2024/10/31 [泰晓资讯·11 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
@@ -95,9 +98,6 @@
 
 ## HelloGitHub
 - 2024/10/28 [HelloGitHub 第 103 期](https://hellogithub.com/periodical/volume/103) | [More](channels/HelloGitHub.md)
-
-## 胡言乱语
-- 2024/10/25 [20241025的胡言乱语](https://www.bboy.app/2024/10/25/20241025%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
