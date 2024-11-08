@@ -1,3 +1,5 @@
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [usememos/memos](https://github.com/usememos/memos)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 - [sst/sst](https://github.com/sst/sst)

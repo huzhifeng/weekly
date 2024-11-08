@@ -1,10 +1,22 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/11/08 [科技爱好者周刊（第 324 期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2024/11/05 [Vol.90 生活本是简简单单](https://letter.justgoidea.com/p/202428) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2024/11/01 [科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2024/11/08 [Web Review, Week 2024-45](https://ervin.ipsquad.net/blog/2024/11/08/web-review-week-2024-45/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/11/08 [#173 Text Annotations](https://thisweek.gnome.org/posts/2024/11/twig-173/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/11/08 [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/08 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2024/11/07 [奇趣周刊 - 第 75 期](https://zishu.me/blog/weekly-75.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -20,12 +32,6 @@
 
 ## FOSS Weekly
 - 2024/11/07 [FOSS Weekly #24.45: Firefox-Brave Fight, Linux Security, Mint Desktop Effects and More](https://itsfoss.com/newsletter/foss-weekly-24-45/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/11/07 [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/07 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Raye's Journey
 - 2024/11/06 [周报#32 第三次感动](https://xlog.app/api/redirection?characterId=51803&noteId=1806) | [More](channels/Raye%27s%20Journey.md)
@@ -80,12 +86,6 @@
 
 ## PIVOT
 - 2024/11/02 [PIVOT Vol.9 组会分享什么？一些有趣的科研论文](https://anotherdayu.com/2024/5997/) | [More](channels/PIVOT.md)
-
-## Web Review
-- 2024/11/01 [Web Review, Week 2024-44](https://ervin.ipsquad.net/blog/2024/11/01/web-review-week-2024-44/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/11/01 [#172 Valencia](https://thisweek.gnome.org/posts/2024/11/twig-172/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 科技創業週報
 - 2024/10/31 [科技創業週報#456：量子電腦會否繼 AI 後成為另一個戰場？｜九成的求職者都靠人脈找工作！](https://blog.starrocket.io/posts/newsletter-2024-10-31/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
