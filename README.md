@@ -6,17 +6,20 @@
 ## 壹苇可航
 - 2024/11/05 [Vol.90 生活本是简简单单](https://letter.justgoidea.com/p/202428) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 大橘和朋友们的周刊
+- 2024/11/09 [第020期 - 暮光潋滟，海上余晖](https://rrorangeandfriends.site/posts/2024/020) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/11/09 [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/09 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2024/11/08 [Web Review, Week 2024-45](https://ervin.ipsquad.net/blog/2024/11/08/web-review-week-2024-45/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2024/11/08 [#173 Text Annotations](https://thisweek.gnome.org/posts/2024/11/twig-173/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/11/08 [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/08 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2024/11/07 [奇趣周刊 - 第 75 期](https://zishu.me/blog/weekly-75.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -77,9 +80,6 @@
 
 ## 老胡的信息周刊
 - 2024/11/02 [10-28~11-03.老胡的周刊（第166期）.md](https://weekly.howie6879.com/2024/10-28~11-03.老胡的周刊（第166期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 大橘和朋友们的周刊
-- 2024/11/02 [第019期 - 花香满屋](https://rrorangeandfriends.site/posts/2024/019) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/11/02 [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/) | [More](channels/CyberClip.md)

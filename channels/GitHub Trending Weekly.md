@@ -1,3 +1,4 @@
+- [kestra-io/kestra](https://github.com/kestra-io/kestra)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [usememos/memos](https://github.com/usememos/memos)
