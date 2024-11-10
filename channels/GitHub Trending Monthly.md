@@ -1,3 +1,4 @@
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty)
 - [cline/cline](https://github.com/cline/cline)

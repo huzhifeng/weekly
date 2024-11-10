@@ -1,3 +1,4 @@
+- [【CDT周报】第194期：“全票当选”何尝不是一场彻头彻尾的造假闹剧](https://chinadigitaltimes.net/chinese/712932.html)
 - [【CDT周报】第193期：“万梗节”无法被禁止，它不在巨鹿路，就在其他路](https://chinadigitaltimes.net/chinese/712679.html)
 - [【CDT周报】第192期：他说共产党不让他活了，你们却说他喝多了](https://chinadigitaltimes.net/chinese/712488.html)
 - [【CDT周报】第191期：我们想要好好说话不说“黑话烂梗”，可您不让啊](https://chinadigitaltimes.net/chinese/712290.html)

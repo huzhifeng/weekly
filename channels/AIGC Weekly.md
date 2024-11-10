@@ -1,3 +1,4 @@
+- [AIGC Weekly #96 大选影响没啥新闻](https://quail.ink/op7418/p/aigc-weekly-96-election-impact-no-news)
 - [AIGC Weekly #95](https://quail.ink/op7418/p/aigc-weekly-95)
 - [AIGC Weekly #94](https://quail.ink/op7418/p/aigc-weekly-94)
 - [AIGC Weekly #93](https://quail.ink/op7418/p/aigc-weekly-93)
