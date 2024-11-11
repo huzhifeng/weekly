@@ -1,3 +1,4 @@
+- [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812)
 - [周报#32 第三次感动](https://xlog.app/api/redirection?characterId=51803&noteId=1806)
 - [周报#31 北京之行、跑步与猫片](https://xlog.app/api/redirection?characterId=51803&noteId=1764)
 - [周报#30 ENFJ人格、双月湾拾遗与阅读笔记](https://xlog.app/api/redirection?characterId=51803&noteId=1761)

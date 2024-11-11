@@ -9,6 +9,24 @@
 ## 潮流周刊
 - 2024/11/11 [第199期 - 键盘鼠标](https://weekly.tw93.fun/posts/199-%E9%94%AE%E7%9B%98%E9%BC%A0%E6%A0%87/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Raye's Journey
+- 2024/11/11 [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812) | [More](channels/Raye%27s%20Journey.md)
+
+## DistroWatch Weekly
+- 2024/11/11 [DistroWatch Weekly, Issue 1096](https://distrowatch.com/weekly.php?issue=20241111) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/11/11 [9to5Linux Weekly Roundup: November 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-10th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/11/11 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/11 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 独立开发者出海周刊
+- 2024/11/11 [第25期：「idea分享」浏览器里的图片批处理工具构想](https://gapis.money/weekly/2024-11-11_025) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2024/11/10 [021期--社交媒体儿童禁令 & 打造个人ip](https://fav0.com/posts/2024/021) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -21,17 +39,14 @@
 ## 视野修炼
 - 2024/11/10 [视野修炼第109期 | VSCode主题定制](https://sugarat.top/weekly/2024-11-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
+## 一周杂记
+- 2024/11/10 [一周杂记 in Week 1 Nov 2024](http://kingsamchen.github.io/2024/11/11/weekly-2024-nov-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2024/11/10 [Weekly Issue-《好东西》](https://zdyxry.github.io/2024/11/10/Weekly-Issue-%E5%A5%BD%E4%B8%9C%E8%A5%BF/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## AIGC Weekly
 - 2024/11/10 [AIGC Weekly #96 大选影响没啥新闻](https://quail.ink/op7418/p/aigc-weekly-96-election-impact-no-news) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/11/10 [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/10 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/11/10 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 老胡的信息周刊
 - 2024/11/09 [11-04~11-10.老胡的周刊（第167期）.md](https://weekly.howie6879.com/2024/11-04~11-10.老胡的周刊（第167期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -60,29 +75,11 @@
 ## FOSS Weekly
 - 2024/11/07 [FOSS Weekly #24.45: Firefox-Brave Fight, Linux Security, Mint Desktop Effects and More](https://itsfoss.com/newsletter/foss-weekly-24-45/) | [More](channels/FOSS%20Weekly.md)
 
-## Raye's Journey
-- 2024/11/06 [周报#32 第三次感动](https://xlog.app/api/redirection?characterId=51803&noteId=1806) | [More](channels/Raye%27s%20Journey.md)
-
 ## Pseudoyu 周报
 - 2024/11/04 [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## DistroWatch Weekly
-- 2024/11/04 [DistroWatch Weekly, Issue 1095](https://distrowatch.com/weekly.php?issue=20241104) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/11/04 [9to5Linux Weekly Roundup: November 3rd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-3rd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2024/11/04 [Ubuntu Weekly Newsletter Issue 865](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-865/49385) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 独立开发者出海周刊
-- 2024/11/04 [第24期：一个独立开发者用25万用户换来的破产课](https://gapis.money/weekly/2024-11-04_24) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2024/11/03 [一周杂记 in Week 5 Oct 2024](http://kingsamchen.github.io/2024/11/04/weekly-2024-oct-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2024/11/03 [Weekly Issue-《外面是夏天》](https://zdyxry.github.io/2024/11/03/Weekly-Issue-%E5%A4%96%E9%9D%A2%E6%98%AF%E5%A4%8F%E5%A4%A9/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## CyberClip
 - 2024/11/02 [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/) | [More](channels/CyberClip.md)
@@ -107,6 +104,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

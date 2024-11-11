@@ -1,3 +1,5 @@
+- [DS4SD/docling](https://github.com/DS4SD/docling)
+- [karthink/gptel](https://github.com/karthink/gptel)
 - [localsend/localsend](https://github.com/localsend/localsend)
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra)
