@@ -1,3 +1,5 @@
+- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 - [DS4SD/docling](https://github.com/DS4SD/docling)
 - [karthink/gptel](https://github.com/karthink/gptel)
 - [localsend/localsend](https://github.com/localsend/localsend)
