@@ -1,3 +1,5 @@
+- [getmaxun/maxun](https://github.com/getmaxun/maxun)
+- [dataease/dataease](https://github.com/dataease/dataease)
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 - [DS4SD/docling](https://github.com/DS4SD/docling)
