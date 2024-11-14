@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.46: New OpenEuler Series, VLC Tips, Mozilla Woes, OpenCoder and More](https://itsfoss.com/newsletter/foss-weekly-24-46/)
 - [FOSS Weekly #24.45: Firefox-Brave Fight, Linux Security, Mint Desktop Effects and More](https://itsfoss.com/newsletter/foss-weekly-24-45/)
 - [FOSS Weekly #24.44: Fedora 41 Release, Russia in Linux Kernel, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-24-44/)
 - [FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More](https://itsfoss.com/newsletter/foss-weekly-24-43/)

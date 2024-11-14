@@ -6,17 +6,26 @@
 ## 壹苇可航
 - 2024/11/05 [Vol.90 生活本是简简单单](https://letter.justgoidea.com/p/202428) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 胡言乱语
-- 2024/11/13 [20241113的胡言乱语](https://www.bboy.app/2024/11/13/20241113%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+## 奇趣周刊
+- 2024/11/14 [奇趣周刊 - 第 76 期](https://zishu.me/blog/weekly-76.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/11/14 [学习周刊-总第185期-2024年第46周](https://wiki.eryajf.net/pages/068556/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/11/14 [LWN.net Weekly Edition for November 14, 2024](https://lwn.net/Articles/997293/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/11/14 [FOSS Weekly #24.46: New OpenEuler Series, VLC Tips, Mozilla Woes, OpenCoder and More](https://itsfoss.com/newsletter/foss-weekly-24-46/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/11/13 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/11/14 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/11/13 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/11/14 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
 
-## B站每周必看
-- 2024/11/13 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 胡言乱语
+- 2024/11/13 [20241113的胡言乱语](https://www.bboy.app/2024/11/13/20241113%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2024/11/11 [第199期 - 键盘鼠标](https://weekly.tw93.fun/posts/199-%E9%94%AE%E7%9B%98%E9%BC%A0%E6%A0%87/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -69,23 +78,14 @@
 ## This Week in GNOME
 - 2024/11/08 [#173 Text Annotations](https://thisweek.gnome.org/posts/2024/11/twig-173/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 奇趣周刊
-- 2024/11/07 [奇趣周刊 - 第 75 期](https://zishu.me/blog/weekly-75.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/11/07 [学习周刊-总第184期-2024年第45周](https://wiki.eryajf.net/pages/88fc71/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/11/07 [LWN.net Weekly Edition for November 7, 2024](https://lwn.net/Articles/996377/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/11/07 [FOSS Weekly #24.45: Firefox-Brave Fight, Linux Security, Mint Desktop Effects and More](https://itsfoss.com/newsletter/foss-weekly-24-45/) | [More](channels/FOSS%20Weekly.md)
-
 ## Pseudoyu 周报
 - 2024/11/04 [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## CyberClip
 - 2024/11/02 [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/) | [More](channels/CyberClip.md)
+
+## PIVOT
+- 2024/11/02 [PIVOT Vol.9 组会分享什么？一些有趣的科研论文](https://anotherdayu.com/2024/5997/) | [More](channels/PIVOT.md)
 
 ## 科技創業週報
 - 2024/10/31 [科技創業週報#456：量子電腦會否繼 AI 後成為另一個戰場？｜九成的求職者都靠人脈找工作！](https://blog.starrocket.io/posts/newsletter-2024-10-31/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -104,6 +104,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

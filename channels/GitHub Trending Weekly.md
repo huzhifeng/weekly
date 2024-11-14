@@ -1,3 +1,4 @@
+- [ai16z/eliza](https://github.com/ai16z/eliza)
 - [getmaxun/maxun](https://github.com/getmaxun/maxun)
 - [dataease/dataease](https://github.com/dataease/dataease)
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)

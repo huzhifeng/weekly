@@ -1,3 +1,5 @@
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+- [DS4SD/docling](https://github.com/DS4SD/docling)
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
 - [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)
 - [dockur/windows](https://github.com/dockur/windows)
