@@ -1,3 +1,4 @@
+- [angular/angular](https://github.com/angular/angular)
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)
 - [ai16z/eliza](https://github.com/ai16z/eliza)
 - [getmaxun/maxun](https://github.com/getmaxun/maxun)

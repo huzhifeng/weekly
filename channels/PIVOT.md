@@ -1,3 +1,4 @@
+- [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/)
 - [PIVOT Vol.9 组会分享什么？一些有趣的科研论文](https://anotherdayu.com/2024/5997/)
 - [PIVOT Vol.8](https://anotherdayu.com/2024/5958/)
 - [PIVOT Vol.7](https://anotherdayu.com/2024/5845/)

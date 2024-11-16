@@ -6,17 +6,26 @@
 ## 壹苇可航
 - 2024/11/05 [Vol.90 生活本是简简单单](https://letter.justgoidea.com/p/202428) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 涛然自得周刊
+- 2024/11/16 [鸟枪换炮，再也没有拖延的借口了！](http://heyitao.com/post/new-macbook-pro-m4-pro) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
+
+## CyberClip
+- 2024/11/16 [CyberClip #62 生育困境](https://shyrz.me/cyberclip-62-procreation-dilemma/) | [More](channels/CyberClip.md)
+
+## GitHub Trending Weekly
+- 2024/11/16 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/16 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2024/11/15 [Web Review, Week 2024-46](https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/) | [More](channels/Web%20Review.md)
 
+## PIVOT
+- 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
+
 ## This Week in GNOME
 - 2024/11/15 [#174 Choosing Formats](https://thisweek.gnome.org/posts/2024/11/twig-174/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/11/15 [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/15 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2024/11/14 [奇趣周刊 - 第 76 期](https://zishu.me/blog/weekly-76.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -81,9 +90,6 @@
 ## Pseudoyu 周报
 - 2024/11/04 [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## CyberClip
-- 2024/11/02 [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/) | [More](channels/CyberClip.md)
-
 ## 科技創業週報
 - 2024/10/31 [科技創業週報#456：量子電腦會否繼 AI 後成為另一個戰場？｜九成的求職者都靠人脈找工作！](https://blog.starrocket.io/posts/newsletter-2024-10-31/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -102,9 +108,6 @@
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
 
@@ -116,7 +119,4 @@
 
 ## 棱镜通讯
 - 2024/06/15 [棱镜通讯 No.111  巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 涛然自得周刊
-- 2024/04/06 [涛然自得周刊 No.25 ：我们的好奇心是如何消失的](http://heyitao.com/post/beyond-code-weekly-025) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
 
