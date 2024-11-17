@@ -1,3 +1,5 @@
+- [LibraHp/GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
+- [kijai/ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper)
 - [angular/angular](https://github.com/angular/angular)
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)
 - [ai16z/eliza](https://github.com/ai16z/eliza)
