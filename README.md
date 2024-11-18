@@ -9,6 +9,24 @@
 ## 潮流周刊
 - 2024/11/18 [第200期 - 云海日落](https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 一周杂记
+- 2024/11/18 [一周杂记 in Week 2 Nov 2024](http://kingsamchen.github.io/2024/11/18/weekly-2024-nov-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2024/11/18 [DistroWatch Weekly, Issue 1097](https://distrowatch.com/weekly.php?issue=20241118) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/11/18 [9to5Linux Weekly Roundup: November 17th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-17th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/11/18 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/18 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 独立开发者出海周刊
+- 2024/11/18 [第26期：两小时上站的背后](https://gapis.money/weekly/2024-11-18_026) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2024/11/17 [022期--拖延与完美主义](https://fav0.com/posts/2024/022) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -21,23 +39,26 @@
 ## 视野修炼
 - 2024/11/17 [视野修炼第110期 | 紫色的纪念](https://sugarat.top/weekly/2024-11-17.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
+## zdyxry Weekly Issue
+- 2024/11/17 [Weekly Issue-《茁壮》](https://zdyxry.github.io/2024/11/17/Weekly-Issue-%E8%8C%81%E5%A3%AE/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## AIGC Weekly
 - 2024/11/17 [AIGC Weekly #97 AI编程赛道卷起来了](https://quail.ink/op7418/p/aigc-weekly-97-ai-programming-competition) | [More](channels/AIGC%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2024/11/17 [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/17 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 涛然自得周刊
 - 2024/11/16 [鸟枪换炮，再也没有拖延的借口了！](http://heyitao.com/post/new-macbook-pro-m4-pro) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
+
+## 老胡的信息周刊
+- 2024/11/16 [11-11~11-17.老胡的周刊（第168期）.md](https://weekly.howie6879.com/2024/11-11~11-17.老胡的周刊（第168期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2024/11/16 [CyberClip #62 生育困境](https://shyrz.me/cyberclip-62-procreation-dilemma/) | [More](channels/CyberClip.md)
 
 ## Web Review
 - 2024/11/15 [Web Review, Week 2024-46](https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/) | [More](channels/Web%20Review.md)
+
+## PIVOT
+- 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
 
 ## This Week in GNOME
 - 2024/11/15 [#174 Choosing Formats](https://thisweek.gnome.org/posts/2024/11/twig-174/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -60,26 +81,8 @@
 ## Raye's Journey
 - 2024/11/11 [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812) | [More](channels/Raye%27s%20Journey.md)
 
-## DistroWatch Weekly
-- 2024/11/11 [DistroWatch Weekly, Issue 1096](https://distrowatch.com/weekly.php?issue=20241111) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/11/11 [9to5Linux Weekly Roundup: November 10th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-10th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2024/11/11 [Ubuntu Weekly Newsletter Issue 866](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-866/49562) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 独立开发者出海周刊
-- 2024/11/11 [第25期：「idea分享」浏览器里的图片批处理工具构想](https://gapis.money/weekly/2024-11-11_025) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2024/11/10 [一周杂记 in Week 1 Nov 2024](http://kingsamchen.github.io/2024/11/11/weekly-2024-nov-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2024/11/10 [Weekly Issue-《好东西》](https://zdyxry.github.io/2024/11/10/Weekly-Issue-%E5%A5%BD%E4%B8%9C%E8%A5%BF/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2024/11/09 [11-04~11-10.老胡的周刊（第167期）.md](https://weekly.howie6879.com/2024/11-04~11-10.老胡的周刊（第167期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 大橘和朋友们的周刊
 - 2024/11/09 [第020期 - 暮光潋滟，海上余晖](https://rrorangeandfriends.site/posts/2024/020) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

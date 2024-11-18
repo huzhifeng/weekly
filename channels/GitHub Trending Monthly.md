@@ -1,3 +1,4 @@
+- [microsoft/autogen](https://github.com/microsoft/autogen)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [DS4SD/docling](https://github.com/DS4SD/docling)
