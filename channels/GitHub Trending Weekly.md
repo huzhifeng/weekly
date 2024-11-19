@@ -1,3 +1,5 @@
+- [keras-team/keras](https://github.com/keras-team/keras)
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
 - [LibraHp/GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
 - [kijai/ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper)
 - [angular/angular](https://github.com/angular/angular)

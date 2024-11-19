@@ -1,10 +1,16 @@
 # 周刊
 
+## 壹苇可航
+- 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
 ## 科技爱好者周刊
 - 2024/11/15 [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 壹苇可航
-- 2024/11/05 [Vol.90 生活本是简简单单](https://letter.justgoidea.com/p/202428) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+## GitHub Trending Weekly
+- 2024/11/19 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/19 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2024/11/18 [第200期 - 云海日落](https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -18,11 +24,8 @@
 ## 9to5Linux Weekly Roundup
 - 2024/11/18 [9to5Linux Weekly Roundup: November 17th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-17th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2024/11/18 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/18 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2024/11/18 [Ubuntu Weekly Newsletter Issue 867](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-867/49814) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 独立开发者出海周刊
 - 2024/11/18 [第26期：两小时上站的背后](https://gapis.money/weekly/2024-11-18_026) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -57,9 +60,6 @@
 ## Web Review
 - 2024/11/15 [Web Review, Week 2024-46](https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/) | [More](channels/Web%20Review.md)
 
-## PIVOT
-- 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
-
 ## This Week in GNOME
 - 2024/11/15 [#174 Choosing Formats](https://thisweek.gnome.org/posts/2024/11/twig-174/) | [More](channels/This%20Week%20in%20GNOME.md)
 
@@ -80,9 +80,6 @@
 
 ## Raye's Journey
 - 2024/11/11 [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812) | [More](channels/Raye%27s%20Journey.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/11/11 [Ubuntu Weekly Newsletter Issue 866](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-866/49562) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 大橘和朋友们的周刊
 - 2024/11/09 [第020期 - 暮光潋滟，海上余晖](https://rrorangeandfriends.site/posts/2024/020) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
