@@ -1,3 +1,4 @@
+- [dockur/macos](https://github.com/dockur/macos)
 - [keras-team/keras](https://github.com/keras-team/keras)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
 - [LibraHp/GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)

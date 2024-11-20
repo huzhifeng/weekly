@@ -6,11 +6,14 @@
 ## 科技爱好者周刊
 - 2024/11/15 [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 胡言乱语
+- 2024/11/20 [20241120的胡言乱语](https://www.bboy.app/2024/11/20/20241120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## GitHub Trending Weekly
-- 2024/11/19 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/11/20 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/11/19 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/11/20 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2024/11/18 [第200期 - 云海日落](https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -60,8 +63,14 @@
 ## Web Review
 - 2024/11/15 [Web Review, Week 2024-46](https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/) | [More](channels/Web%20Review.md)
 
+## PIVOT
+- 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
+
 ## This Week in GNOME
 - 2024/11/15 [#174 Choosing Formats](https://thisweek.gnome.org/posts/2024/11/twig-174/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## 科技創業週報
+- 2024/11/14 [科技創業週報#458：2025 AI 帶來的十大創業機會｜打造你的產品，從關注使用者產生需求的旅程開始](https://blog.starrocket.io/posts/newsletter-2024-11-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 奇趣周刊
 - 2024/11/14 [奇趣周刊 - 第 76 期](https://zishu.me/blog/weekly-76.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -75,9 +84,6 @@
 ## FOSS Weekly
 - 2024/11/14 [FOSS Weekly #24.46: New OpenEuler Series, VLC Tips, Mozilla Woes, OpenCoder and More](https://itsfoss.com/newsletter/foss-weekly-24-46/) | [More](channels/FOSS%20Weekly.md)
 
-## 胡言乱语
-- 2024/11/13 [20241113的胡言乱语](https://www.bboy.app/2024/11/13/20241113%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## Raye's Journey
 - 2024/11/11 [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812) | [More](channels/Raye%27s%20Journey.md)
 
@@ -86,9 +92,6 @@
 
 ## Pseudoyu 周报
 - 2024/11/04 [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 科技創業週報
-- 2024/10/31 [科技創業週報#456：量子電腦會否繼 AI 後成為另一個戰場？｜九成的求職者都靠人脈找工作！](https://blog.starrocket.io/posts/newsletter-2024-10-31/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 泰晓资讯
 - 2024/10/31 [泰晓资讯·11 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
