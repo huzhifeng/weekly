@@ -1,3 +1,4 @@
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 - [dockur/macos](https://github.com/dockur/macos)
 - [keras-team/keras](https://github.com/keras-team/keras)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
