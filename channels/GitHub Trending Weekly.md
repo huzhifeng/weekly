@@ -1,3 +1,5 @@
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+- [payloadcms/payload](https://github.com/payloadcms/payload)
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 - [dockur/macos](https://github.com/dockur/macos)
 - [keras-team/keras](https://github.com/keras-team/keras)

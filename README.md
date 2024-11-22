@@ -1,10 +1,19 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/11/22 [科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2024/11/15 [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2024/11/22 [Web Review, Week 2024-47](https://ervin.ipsquad.net/blog/2024/11/22/web-review-week-2024-47/) | [More](channels/Web%20Review.md)
+
+## GitHub Trending Weekly
+- 2024/11/22 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/22 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2024/11/21 [奇趣周刊 - 第 77 期](https://zishu.me/blog/weekly-77.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -17,15 +26,6 @@
 
 ## FOSS Weekly
 - 2024/11/21 [FOSS Weekly #24.47: Kernel 6.12, Using Conky, Benchmarking Linux, New AnduinOS Distro and More](https://itsfoss.com/newsletter/foss-weekly-24-47/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/11/21 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/21 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/11/21 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 胡言乱语
 - 2024/11/20 [20241120的胡言乱语](https://www.bboy.app/2024/11/20/20241120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -75,9 +75,6 @@
 ## CyberClip
 - 2024/11/16 [CyberClip #62 生育困境](https://shyrz.me/cyberclip-62-procreation-dilemma/) | [More](channels/CyberClip.md)
 
-## Web Review
-- 2024/11/15 [Web Review, Week 2024-46](https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/) | [More](channels/Web%20Review.md)
-
 ## PIVOT
 - 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
 
@@ -110,6 +107,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
