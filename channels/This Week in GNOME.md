@@ -1,3 +1,4 @@
+- [#175 Magic](https://thisweek.gnome.org/posts/2024/11/twig-175/)
 - [#174 Choosing Formats](https://thisweek.gnome.org/posts/2024/11/twig-174/)
 - [#173 Text Annotations](https://thisweek.gnome.org/posts/2024/11/twig-173/)
 - [#172 Valencia](https://thisweek.gnome.org/posts/2024/11/twig-172/)
