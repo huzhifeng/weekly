@@ -6,17 +6,32 @@
 ## 壹苇可航
 - 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2024/11/25 [第201期 - 山里木屋](https://weekly.tw93.fun/posts/201-%E5%B1%B1%E9%87%8C%E6%9C%A8%E5%B1%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2024/11/24 [猫鱼周刊 vol. 049 养生营销号](https://ameow.xyz/archives/weekly-049) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2024/11/24 [【CDT周报】第196期：政治的专政，让每个个体都躺倒在砧板上](https://chinadigitaltimes.net/chinese/713380.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 视野修炼
+- 2024/11/24 [视野修炼第111期 | 读文件 API 性能对比](https://sugarat.top/weekly/2024-11-24.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## AIGC Weekly
+- 2024/11/24 [AIGC Weekly #98](https://quail.ink/op7418/p/aigc-weekly-98) | [More](channels/AIGC%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2024/11/24 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/24 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 广场周刊
 - 2024/11/23 [广场周刊（回顾篇）：那么平常](https://immmmm.com/weekly-review-2024/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
 ## 大橘和朋友们的周刊
 - 2024/11/23 [第021期 - 翠影轻摇](https://rrorangeandfriends.site/posts/2024/021) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2024/11/23 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/23 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2024/11/22 [Web Review, Week 2024-47](https://ervin.ipsquad.net/blog/2024/11/22/web-review-week-2024-47/) | [More](channels/Web%20Review.md)
@@ -39,9 +54,6 @@
 ## 胡言乱语
 - 2024/11/20 [20241120的胡言乱语](https://www.bboy.app/2024/11/20/20241120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2024/11/18 [第200期 - 云海日落](https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2024/11/18 [一周杂记 in Week 2 Nov 2024](http://kingsamchen.github.io/2024/11/18/weekly-2024-nov-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -60,20 +72,8 @@
 ## FAV0周刊
 - 2024/11/17 [022期--拖延与完美主义](https://fav0.com/posts/2024/022) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
-## 猫鱼周刊
-- 2024/11/17 [猫鱼周刊 vol. 048 世界是个巨大的草台班子](https://ameow.xyz/archives/weekly-048) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/11/17 [【CDT周报】第195期：只有通报，没有真相；蝼蚁之命，轻于蝴蝶](https://chinadigitaltimes.net/chinese/713155.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2024/11/17 [视野修炼第110期 | 紫色的纪念](https://sugarat.top/weekly/2024-11-17.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## zdyxry Weekly Issue
 - 2024/11/17 [Weekly Issue-《茁壮》](https://zdyxry.github.io/2024/11/17/Weekly-Issue-%E8%8C%81%E5%A3%AE/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2024/11/17 [AIGC Weekly #97 AI编程赛道卷起来了](https://quail.ink/op7418/p/aigc-weekly-97-ai-programming-competition) | [More](channels/AIGC%20Weekly.md)
 
 ## 涛然自得周刊
 - 2024/11/16 [鸟枪换炮，再也没有拖延的借口了！](http://heyitao.com/post/new-macbook-pro-m4-pro) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)

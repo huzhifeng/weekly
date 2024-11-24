@@ -1,3 +1,4 @@
+- [AIGC Weekly #98](https://quail.ink/op7418/p/aigc-weekly-98)
 - [AIGC Weekly #97 AI编程赛道卷起来了](https://quail.ink/op7418/p/aigc-weekly-97-ai-programming-competition)
 - [AIGC Weekly #96 大选影响没啥新闻](https://quail.ink/op7418/p/aigc-weekly-96-election-impact-no-news)
 - [AIGC Weekly #95](https://quail.ink/op7418/p/aigc-weekly-95)
