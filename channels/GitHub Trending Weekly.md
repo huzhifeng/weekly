@@ -1,3 +1,4 @@
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
 - [payloadcms/payload](https://github.com/payloadcms/payload)
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
