@@ -1,3 +1,4 @@
+- [Ubuntu Weekly Newsletter Issue 868](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-868/50152)
 - [Ubuntu Weekly Newsletter Issue 867](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-867/49814)
 - [Ubuntu Weekly Newsletter Issue 866](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-866/49562)
 - [Ubuntu Weekly Newsletter Issue 865](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-865/49385)

@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2024/11/26 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/26 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2024/11/25 [第201期 - 山里木屋](https://weekly.tw93.fun/posts/201-%E5%B1%B1%E9%87%8C%E6%9C%A8%E5%B1%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,11 +21,8 @@
 ## 9to5Linux Weekly Roundup
 - 2024/11/25 [9to5Linux Weekly Roundup: November 24th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-24th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2024/11/25 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/25 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2024/11/25 [Ubuntu Weekly Newsletter Issue 868](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-868/50152) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 独立开发者出海周刊
 - 2024/11/25 [第27期：机器如人，人如机器？](https://gapis.money/weekly/2024-11-25_027) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -60,6 +63,9 @@
 ## This Week in GNOME
 - 2024/11/22 [#175 Magic](https://thisweek.gnome.org/posts/2024/11/twig-175/) | [More](channels/This%20Week%20in%20GNOME.md)
 
+## 科技創業週報
+- 2024/11/21 [科技創業週報#459：明知員工會不開心，亞馬遜為何堅持取消WFH？「員工內部信件全文」曝真實原因｜學設計，未必是要成為一名設計師](https://blog.starrocket.io/posts/newsletter-2024-11-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## 奇趣周刊
 - 2024/11/21 [奇趣周刊 - 第 77 期](https://zishu.me/blog/weekly-77.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
@@ -75,9 +81,6 @@
 ## 胡言乱语
 - 2024/11/20 [20241120的胡言乱语](https://www.bboy.app/2024/11/20/20241120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## Ubuntu Weekly Newsletter
-- 2024/11/18 [Ubuntu Weekly Newsletter Issue 867](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-867/49814) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## FAV0周刊
 - 2024/11/17 [022期--拖延与完美主义](https://fav0.com/posts/2024/022) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -89,9 +92,6 @@
 
 ## PIVOT
 - 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
-
-## 科技創業週報
-- 2024/11/14 [科技創業週報#458：2025 AI 帶來的十大創業機會｜打造你的產品，從關注使用者產生需求的旅程開始](https://blog.starrocket.io/posts/newsletter-2024-11-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## Raye's Journey
 - 2024/11/11 [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812) | [More](channels/Raye%27s%20Journey.md)
