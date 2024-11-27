@@ -1,3 +1,4 @@
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)

@@ -6,11 +6,14 @@
 ## 壹苇可航
 - 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## FOSS Weekly
+- 2024/11/27 [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/11/26 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/11/27 [bluesky-social/atproto](https://github.com/bluesky-social/atproto) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/11/26 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/11/27 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2024/11/25 [第201期 - 山里木屋](https://weekly.tw93.fun/posts/201-%E5%B1%B1%E9%87%8C%E6%9C%A8%E5%B1%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -75,9 +78,6 @@
 ## LWN.net Weekly Edition
 - 2024/11/21 [LWN.net Weekly Edition for November 21, 2024](https://lwn.net/Articles/998144/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## FOSS Weekly
-- 2024/11/21 [FOSS Weekly #24.47: Kernel 6.12, Using Conky, Benchmarking Linux, New AnduinOS Distro and More](https://itsfoss.com/newsletter/foss-weekly-24-47/) | [More](channels/FOSS%20Weekly.md)
-
 ## 胡言乱语
 - 2024/11/20 [20241120的胡言乱语](https://www.bboy.app/2024/11/20/20241120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -113,9 +113,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
