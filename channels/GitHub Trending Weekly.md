@@ -1,3 +1,5 @@
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)
+- [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)

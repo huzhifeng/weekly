@@ -6,14 +6,26 @@
 ## 壹苇可航
 - 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## FOSS Weekly
-- 2024/11/27 [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/) | [More](channels/FOSS%20Weekly.md)
+## 奇趣周刊
+- 2024/11/28 [奇趣周刊 - 第 78 期](https://zishu.me/blog/weekly-78.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## HelloGitHub
+- 2024/11/28 [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104) | [More](channels/HelloGitHub.md)
+
+## Raye's Journey
+- 2024/11/28 [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838) | [More](channels/Raye%27s%20Journey.md)
+
+## 二丫讲梵学习周刊
+- 2024/11/28 [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2024/11/27 [bluesky-social/atproto](https://github.com/bluesky-social/atproto) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/11/28 [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/11/27 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/11/28 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## FOSS Weekly
+- 2024/11/27 [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/) | [More](channels/FOSS%20Weekly.md)
 
 ## 潮流周刊
 - 2024/11/25 [第201期 - 山里木屋](https://weekly.tw93.fun/posts/201-%E5%B1%B1%E9%87%8C%E6%9C%A8%E5%B1%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -69,12 +81,6 @@
 ## 科技創業週報
 - 2024/11/21 [科技創業週報#459：明知員工會不開心，亞馬遜為何堅持取消WFH？「員工內部信件全文」曝真實原因｜學設計，未必是要成為一名設計師](https://blog.starrocket.io/posts/newsletter-2024-11-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## 奇趣周刊
-- 2024/11/21 [奇趣周刊 - 第 77 期](https://zishu.me/blog/weekly-77.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2024/11/21 [学习周刊-总第186期-2024年第47周](https://wiki.eryajf.net/pages/6c583e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## LWN.net Weekly Edition
 - 2024/11/21 [LWN.net Weekly Edition for November 21, 2024](https://lwn.net/Articles/998144/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
@@ -93,9 +99,6 @@
 ## PIVOT
 - 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
 
-## Raye's Journey
-- 2024/11/11 [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812) | [More](channels/Raye%27s%20Journey.md)
-
 ## Pseudoyu 周报
 - 2024/11/04 [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
@@ -105,14 +108,14 @@
 ## 1Link.Fun 科技周刊
 - 2024/10/28 [1Link.Fun 科技周刊 | 第 110 期](https://1link.fun/blog/issue/issue110/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
-## HelloGitHub
-- 2024/10/28 [HelloGitHub 第 103 期](https://hellogithub.com/periodical/volume/103) | [More](channels/HelloGitHub.md)
-
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
