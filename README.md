@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/11/22 [科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/11/29 [科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2024/11/29 [Web Review, Week 2024-48](https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/) | [More](channels/Web%20Review.md)
+
+## Pseudoyu 周报
+- 2024/11/29 [周报 #79 - 清迈旅居、曼谷之行与 Follow](https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## This Week in GNOME
+- 2024/11/29 [#176 Command History](https://thisweek.gnome.org/posts/2024/11/twig-176/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/11/29 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/29 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2024/11/28 [奇趣周刊 - 第 78 期](https://zishu.me/blog/weekly-78.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -17,12 +32,6 @@
 
 ## 二丫讲梵学习周刊
 - 2024/11/28 [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2024/11/28 [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/28 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## FOSS Weekly
 - 2024/11/27 [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/) | [More](channels/FOSS%20Weekly.md)
@@ -72,12 +81,6 @@
 ## 大橘和朋友们的周刊
 - 2024/11/23 [第021期 - 翠影轻摇](https://rrorangeandfriends.site/posts/2024/021) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2024/11/22 [Web Review, Week 2024-47](https://ervin.ipsquad.net/blog/2024/11/22/web-review-week-2024-47/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/11/22 [#175 Magic](https://thisweek.gnome.org/posts/2024/11/twig-175/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 科技創業週報
 - 2024/11/21 [科技創業週報#459：明知員工會不開心，亞馬遜為何堅持取消WFH？「員工內部信件全文」曝真實原因｜學設計，未必是要成為一名設計師](https://blog.starrocket.io/posts/newsletter-2024-11-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -98,9 +101,6 @@
 
 ## PIVOT
 - 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
-
-## Pseudoyu 周报
-- 2024/11/04 [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 泰晓资讯
 - 2024/10/31 [泰晓资讯·11 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-10-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
