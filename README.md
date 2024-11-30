@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## CDT周报
+- 2024/11/30 [【CDT周报】第197期：中国恢复对日免签，到底还恨不恨？在线等](https://chinadigitaltimes.net/chinese/713555.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2024/11/30 [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/11/30 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2024/11/29 [Web Review, Week 2024-48](https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +23,6 @@
 
 ## This Week in GNOME
 - 2024/11/29 [#176 Command History](https://thisweek.gnome.org/posts/2024/11/twig-176/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/11/29 [krahets/hello-algo](https://github.com/krahets/hello-algo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/11/29 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2024/11/28 [奇趣周刊 - 第 78 期](https://zishu.me/blog/weekly-78.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -42,9 +45,6 @@
 ## DistroWatch Weekly
 - 2024/11/25 [DistroWatch Weekly, Issue 1098](https://distrowatch.com/weekly.php?issue=20241125) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2024/11/25 [9to5Linux Weekly Roundup: November 24th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-november-24th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2024/11/25 [Ubuntu Weekly Newsletter Issue 868](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-868/50152) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -53,9 +53,6 @@
 
 ## 猫鱼周刊
 - 2024/11/24 [猫鱼周刊 vol. 049 养生营销号](https://ameow.xyz/archives/weekly-049) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/11/24 [【CDT周报】第196期：政治的专政，让每个个体都躺倒在砧板上](https://chinadigitaltimes.net/chinese/713380.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 十五周刊
 - 2024/11/24 [十五周刊 - 124](https://haydenhayden.com/weekly/weekly-124) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
@@ -113,9 +110,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

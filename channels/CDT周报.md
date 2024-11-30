@@ -1,3 +1,4 @@
+- [【CDT周报】第197期：中国恢复对日免签，到底还恨不恨？在线等](https://chinadigitaltimes.net/chinese/713555.html)
 - [【CDT周报】第196期：政治的专政，让每个个体都躺倒在砧板上](https://chinadigitaltimes.net/chinese/713380.html)
 - [【CDT周报】第195期：只有通报，没有真相；蝼蚁之命，轻于蝴蝶](https://chinadigitaltimes.net/chinese/713155.html)
 - [【CDT周报】第194期：“全票当选”何尝不是一场彻头彻尾的造假闹剧](https://chinadigitaltimes.net/chinese/712932.html)
