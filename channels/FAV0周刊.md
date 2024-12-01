@@ -1,3 +1,4 @@
+- [023期--停滞不前](https://fav0.com/posts/2024/023)
 - [022期--拖延与完美主义](https://fav0.com/posts/2024/022)
 - [021期--社交媒体儿童禁令 & 打造个人ip](https://fav0.com/posts/2024/021)
 - [020期--大钱与小钱](https://fav0.com/posts/2024/020)
