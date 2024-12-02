@@ -1,3 +1,4 @@
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)

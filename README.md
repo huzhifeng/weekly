@@ -9,6 +9,21 @@
 ## 潮流周刊
 - 2024/12/02 [第202期 - 夕阳西下](https://weekly.tw93.fun/posts/202-%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## DistroWatch Weekly
+- 2024/12/02 [DistroWatch Weekly, Issue 1099](https://distrowatch.com/weekly.php?issue=20241202) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2024/12/02 [9to5Linux Weekly Roundup: December 1st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-1st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2024/12/02 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/02 [payloadcms/payload](https://github.com/payloadcms/payload) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 独立开发者出海周刊
+- 2024/12/02 [第28期：「idea分享」把AI作为公正第三方进行价值评估](https://gapis.money/weekly/2024-12-02_028) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2024/12/01 [023期--停滞不前](https://fav0.com/posts/2024/023) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -21,14 +36,14 @@
 ## 视野修炼
 - 2024/12/01 [视野修炼第112期 | GitHub 数据分析](https://sugarat.top/weekly/2024-12-01.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
+## 一周杂记
+- 2024/12/01 [一周杂记 in Week 4 Nov 2024](http://kingsamchen.github.io/2024/12/01/weekly-2024-nov-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2024/12/01 [Weekly Issue-栖霞山](https://zdyxry.github.io/2024/12/01/Weekly-Issue-%E6%A0%96%E9%9C%9E%E5%B1%B1/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## AIGC Weekly
 - 2024/12/01 [AIGC Weekly #99](https://quail.ink/op7418/p/aigc-weekly-99) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/12/01 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/01 [payloadcms/payload](https://github.com/payloadcms/payload) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2024/11/30 [【CDT周报】第197期：中国恢复对日免签，到底还恨不恨？在线等](https://chinadigitaltimes.net/chinese/713555.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -57,23 +72,11 @@
 ## FOSS Weekly
 - 2024/11/27 [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/) | [More](channels/FOSS%20Weekly.md)
 
-## DistroWatch Weekly
-- 2024/11/25 [DistroWatch Weekly, Issue 1098](https://distrowatch.com/weekly.php?issue=20241125) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2024/11/25 [Ubuntu Weekly Newsletter Issue 868](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-868/50152) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 独立开发者出海周刊
-- 2024/11/25 [第27期：机器如人，人如机器？](https://gapis.money/weekly/2024-11-25_027) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
 ## 猫鱼周刊
 - 2024/11/24 [猫鱼周刊 vol. 049 养生营销号](https://ameow.xyz/archives/weekly-049) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2024/11/24 [一周杂记 in Week 3 Nov 2024](http://kingsamchen.github.io/2024/11/24/weekly-2024-nov-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2024/11/24 [Weekly Issue-《素食者》](https://zdyxry.github.io/2024/11/24/Weekly-Issue-%E7%B4%A0%E9%A3%9F%E8%80%85/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2024/11/23 [11-18~11-24.老胡的周刊（第169期）.md](https://weekly.howie6879.com/2024/11-18~11-24.老胡的周刊（第169期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
