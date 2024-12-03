@@ -1,10 +1,16 @@
 # 周刊
 
+## 壹苇可航
+- 2024/12/03 [Vol.92 从食物寻找一个国家的灵魂](https://letter.justgoidea.com/p/202430) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
 ## 科技爱好者周刊
 - 2024/11/29 [科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 壹苇可航
-- 2024/11/19 [Vol.91 距离感、安全感与相向同行](https://letter.justgoidea.com/p/vol-91-distance-safety-and-walking-together) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+## GitHub Trending Weekly
+- 2024/12/03 [aidenybai/react-scan](https://github.com/aidenybai/react-scan) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/03 [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2024/12/02 [第202期 - 夕阳西下](https://weekly.tw93.fun/posts/202-%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -15,11 +21,8 @@
 ## 9to5Linux Weekly Roundup
 - 2024/12/02 [9to5Linux Weekly Roundup: December 1st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-1st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2024/12/02 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/02 [payloadcms/payload](https://github.com/payloadcms/payload) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2024/12/02 [Ubuntu Weekly Newsletter Issue 869](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-869/50534) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 独立开发者出海周刊
 - 2024/12/02 [第28期：「idea分享」把AI作为公正第三方进行价值评估](https://gapis.money/weekly/2024-12-02_028) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -71,9 +74,6 @@
 
 ## FOSS Weekly
 - 2024/11/27 [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/) | [More](channels/FOSS%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/11/25 [Ubuntu Weekly Newsletter Issue 868](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-868/50152) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2024/11/24 [猫鱼周刊 vol. 049 养生营销号](https://ameow.xyz/archives/weekly-049) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,6 @@
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+- [shader-slang/slang](https://github.com/shader-slang/slang)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
