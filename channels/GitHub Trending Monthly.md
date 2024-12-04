@@ -1,3 +1,5 @@
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+- [mudler/LocalAI](https://github.com/mudler/LocalAI)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 - [ai16z/eliza](https://github.com/ai16z/eliza)
