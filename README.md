@@ -6,14 +6,26 @@
 ## 科技爱好者周刊
 - 2024/11/29 [科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 奇趣周刊
+- 2024/12/05 [奇趣周刊 - 第 79 期](https://zishu.me/blog/weekly-79.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2024/12/05 [学习周刊-总第188期-2024年第49周](https://wiki.eryajf.net/pages/323bb0/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/12/05 [LWN.net Weekly Edition for December 5, 2024](https://lwn.net/Articles/998950/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/12/05 [FOSS Weekly #24.49: KDE's Own Distro, Cinnamon 6.4, OpenWrt's First Router, Bootkit Malware in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-49/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/12/04 [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/12/05 [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/12/04 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/12/05 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2024/12/04 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2024/12/05 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2024/12/02 [第202期 - 夕阳西下](https://weekly.tw93.fun/posts/202-%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -63,23 +75,14 @@
 ## This Week in GNOME
 - 2024/11/29 [#176 Command History](https://thisweek.gnome.org/posts/2024/11/twig-176/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 奇趣周刊
-- 2024/11/28 [奇趣周刊 - 第 78 期](https://zishu.me/blog/weekly-78.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
 ## HelloGitHub
 - 2024/11/28 [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104) | [More](channels/HelloGitHub.md)
 
 ## Raye's Journey
 - 2024/11/28 [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838) | [More](channels/Raye%27s%20Journey.md)
 
-## 二丫讲梵学习周刊
-- 2024/11/28 [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## 泰晓资讯
 - 2024/11/28 [泰晓资讯·11 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-11-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## FOSS Weekly
-- 2024/11/27 [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/) | [More](channels/FOSS%20Weekly.md)
 
 ## 猫鱼周刊
 - 2024/11/24 [猫鱼周刊 vol. 049 养生营销号](https://ameow.xyz/archives/weekly-049) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -95,9 +98,6 @@
 
 ## 科技創業週報
 - 2024/11/21 [科技創業週報#459：明知員工會不開心，亞馬遜為何堅持取消WFH？「員工內部信件全文」曝真實原因｜學設計，未必是要成為一名設計師](https://blog.starrocket.io/posts/newsletter-2024-11-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2024/11/21 [LWN.net Weekly Edition for November 21, 2024](https://lwn.net/Articles/998144/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 胡言乱语
 - 2024/11/20 [20241120的胡言乱语](https://www.bboy.app/2024/11/20/20241120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

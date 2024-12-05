@@ -1,3 +1,4 @@
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)

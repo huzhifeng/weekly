@@ -1,3 +1,4 @@
+- [FOSS Weekly #24.49: KDE's Own Distro, Cinnamon 6.4, OpenWrt's First Router, Bootkit Malware in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-49/)
 - [FOSS Weekly #24.48: Archcraft, elementary 8 Release, Hyprland Guides, New COSMIC Release and More](https://itsfoss.com/newsletter/foss-weekly-24-48/)
 - [FOSS Weekly #24.47: Kernel 6.12, Using Conky, Benchmarking Linux, New AnduinOS Distro and More](https://itsfoss.com/newsletter/foss-weekly-24-47/)
 - [FOSS Weekly #24.46: New OpenEuler Series, VLC Tips, Mozilla Woes, OpenCoder and More](https://itsfoss.com/newsletter/foss-weekly-24-46/)
