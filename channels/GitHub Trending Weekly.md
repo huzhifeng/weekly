@@ -1,3 +1,5 @@
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [myhhub/stock](https://github.com/myhhub/stock)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api)

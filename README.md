@@ -1,10 +1,25 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/12/06 [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2024/12/03 [Vol.92 从食物寻找一个国家的灵魂](https://letter.justgoidea.com/p/202430) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2024/11/29 [科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2024/12/06 [Web Review, Week 2024-49](https://ervin.ipsquad.net/blog/2024/12/06/web-review-week-2024-49/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/12/06 [#177 Scrolling Performance](https://thisweek.gnome.org/posts/2024/12/twig-177/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/12/06 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/06 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2024/12/06 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 奇趣周刊
 - 2024/12/05 [奇趣周刊 - 第 79 期](https://zishu.me/blog/weekly-79.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -18,23 +33,11 @@
 ## FOSS Weekly
 - 2024/12/05 [FOSS Weekly #24.49: KDE's Own Distro, Cinnamon 6.4, OpenWrt's First Router, Bootkit Malware in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-49/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2024/12/05 [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/05 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/12/05 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## 潮流周刊
 - 2024/12/02 [第202期 - 夕阳西下](https://weekly.tw93.fun/posts/202-%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## DistroWatch Weekly
 - 2024/12/02 [DistroWatch Weekly, Issue 1099](https://distrowatch.com/weekly.php?issue=20241202) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/12/02 [9to5Linux Weekly Roundup: December 1st, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-1st-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/12/02 [Ubuntu Weekly Newsletter Issue 869](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-869/50534) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -66,14 +69,8 @@
 ## CDT周报
 - 2024/11/30 [【CDT周报】第197期：中国恢复对日免签，到底还恨不恨？在线等](https://chinadigitaltimes.net/chinese/713555.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
-## Web Review
-- 2024/11/29 [Web Review, Week 2024-48](https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/) | [More](channels/Web%20Review.md)
-
 ## Pseudoyu 周报
 - 2024/11/29 [周报 #79 - 清迈旅居、曼谷之行与 Follow](https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in GNOME
-- 2024/11/29 [#176 Command History](https://thisweek.gnome.org/posts/2024/11/twig-176/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## HelloGitHub
 - 2024/11/28 [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104) | [More](channels/HelloGitHub.md)
