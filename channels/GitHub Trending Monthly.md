@@ -1,3 +1,4 @@
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI)
