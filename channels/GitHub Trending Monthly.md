@@ -1,3 +1,4 @@
+- [krahets/hello-algo](https://github.com/krahets/hello-algo)
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU)

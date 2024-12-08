@@ -1,3 +1,4 @@
+- [AIGC Weekly #100🎉](https://quail.ink/op7418/p/aigc-weekly-100)
 - [AIGC Weekly #99](https://quail.ink/op7418/p/aigc-weekly-99)
 - [AIGC Weekly #98](https://quail.ink/op7418/p/aigc-weekly-98)
 - [AIGC Weekly #97 AI编程赛道卷起来了](https://quail.ink/op7418/p/aigc-weekly-97-ai-programming-competition)

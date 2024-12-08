@@ -1,3 +1,5 @@
+- [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [myhhub/stock](https://github.com/myhhub/stock)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
