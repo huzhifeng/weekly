@@ -89,6 +89,12 @@
 			"filter": ["Vol."]
 		},
 		{
+			"channel": "Taxodium",
+			"portal": "https://taxodium.ink/",
+			"url": "https://taxodium.ink/rss.xml",
+			"filter": ["Weekly"]
+		},
+		{
 			"channel": "CyberClip",
 			"portal": "https://shyrz.me/newsletter/",
 			"url": "https://shyrz.me/rss/",
