@@ -9,6 +9,21 @@
 ## 潮流周刊
 - 2024/12/09 [第203期 - 银杏季节](https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## DistroWatch Weekly
+- 2024/12/09 [DistroWatch Weekly, Issue 1100](https://distrowatch.com/weekly.php?issue=20241209) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2024/12/09 [Ubuntu Weekly Newsletter Issue 870](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-870/50864) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2024/12/09 [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/09 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 独立开发者出海周刊
+- 2024/12/09 [第29期：征集周刊改版 idea💡](https://gapis.money/weekly/2024-12-09_029) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2024/12/08 [024期--副业项目困扰我](https://fav0.com/posts/2024/024) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -33,14 +48,11 @@
 ## AIGC Weekly
 - 2024/12/08 [AIGC Weekly #100🎉](https://quail.ink/op7418/p/aigc-weekly-100) | [More](channels/AIGC%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2024/12/08 [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 9to5Linux Weekly Roundup
+- 2024/12/08 [9to5Linux Weekly Roundup: December 8th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-8th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Monthly
-- 2024/12/08 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/12/08 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2024/12/07 [11-25~12-08.老胡的周刊（第170期）.md](https://weekly.howie6879.com/2024/11-25~12-08.老胡的周刊（第170期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2024/12/06 [Web Review, Week 2024-49](https://ervin.ipsquad.net/blog/2024/12/06/web-review-week-2024-49/) | [More](channels/Web%20Review.md)
@@ -60,17 +72,11 @@
 ## FOSS Weekly
 - 2024/12/05 [FOSS Weekly #24.49: KDE's Own Distro, Cinnamon 6.4, OpenWrt's First Router, Bootkit Malware in Linux and More](https://itsfoss.com/newsletter/foss-weekly-24-49/) | [More](channels/FOSS%20Weekly.md)
 
-## DistroWatch Weekly
-- 2024/12/02 [DistroWatch Weekly, Issue 1099](https://distrowatch.com/weekly.php?issue=20241202) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2024/12/02 [Ubuntu Weekly Newsletter Issue 869](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-869/50534) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 独立开发者出海周刊
-- 2024/12/02 [第28期：「idea分享」把AI作为公正第三方进行价值评估](https://gapis.money/weekly/2024-12-02_028) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## Taxodium
+- 2024/12/01 [Weekly#18](https://taxodium.ink/18.html) | [More](channels/Taxodium.md)
 
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
@@ -86,9 +92,6 @@
 
 ## 泰晓资讯
 - 2024/11/28 [泰晓资讯·11 月 / 第三期 / 2024](https://tinylab.org/tinylab-weekly-11-3rd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 老胡的信息周刊
-- 2024/11/23 [11-18~11-24.老胡的周刊（第169期）.md](https://weekly.howie6879.com/2024/11-18~11-24.老胡的周刊（第169期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 广场周刊
 - 2024/11/23 [广场周刊（回顾篇）：那么平常](https://immmmm.com/weekly-review-2024/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -116,6 +119,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
