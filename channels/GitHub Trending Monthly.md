@@ -1,3 +1,4 @@
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo)
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj)

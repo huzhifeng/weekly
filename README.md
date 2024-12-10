@@ -6,20 +6,23 @@
 ## 壹苇可航
 - 2024/12/03 [Vol.92 从食物寻找一个国家的灵魂](https://letter.justgoidea.com/p/202430) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2024/12/10 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/10 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2024/12/09 [第203期 - 银杏季节](https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Taxodium
+- 2024/12/09 [Weekly#19](https://taxodium.ink/19.html) | [More](channels/Taxodium.md)
 
 ## DistroWatch Weekly
 - 2024/12/09 [DistroWatch Weekly, Issue 1100](https://distrowatch.com/weekly.php?issue=20241209) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/12/09 [Ubuntu Weekly Newsletter Issue 870](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-870/50864) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2024/12/09 [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/09 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 独立开发者出海周刊
 - 2024/12/09 [第29期：征集周刊改版 idea💡](https://gapis.money/weekly/2024-12-09_029) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -74,9 +77,6 @@
 
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Taxodium
-- 2024/12/01 [Weekly#18](https://taxodium.ink/18.html) | [More](channels/Taxodium.md)
 
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
