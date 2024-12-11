@@ -7,10 +7,16 @@
 - 2024/12/03 [Vol.92 从食物寻找一个国家的灵魂](https://letter.justgoidea.com/p/202430) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
 ## GitHub Trending Weekly
-- 2024/12/10 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/12/11 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/12/10 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/12/11 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2024/12/11 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Pseudoyu 周报
+- 2024/12/10 [周报 #80 - 关于求婚、爱情与婚姻](https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 潮流周刊
 - 2024/12/09 [第203期 - 银杏季节](https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -81,9 +87,6 @@
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
 
-## Pseudoyu 周报
-- 2024/11/29 [周报 #79 - 清迈旅居、曼谷之行与 Follow](https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
 ## HelloGitHub
 - 2024/11/28 [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104) | [More](channels/HelloGitHub.md)
 
@@ -119,9 +122,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

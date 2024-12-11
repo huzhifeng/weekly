@@ -1,3 +1,4 @@
+- [周报 #80 - 关于求婚、爱情与婚姻](https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/)
 - [周报 #79 - 清迈旅居、曼谷之行与 Follow](https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/)
 - [周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记](https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/)
 - [周报 #77 - 一间只属于自己的房间（对亲密关系的思考）](https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/)

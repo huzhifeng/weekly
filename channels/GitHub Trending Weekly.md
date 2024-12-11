@@ -1,3 +1,5 @@
+- [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
