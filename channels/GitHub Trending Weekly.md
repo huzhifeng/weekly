@@ -1,3 +1,4 @@
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
 - [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
