@@ -1,3 +1,4 @@
+- [#178 Fuzz Testing](https://thisweek.gnome.org/posts/2024/12/twig-178/)
 - [#177 Scrolling Performance](https://thisweek.gnome.org/posts/2024/12/twig-177/)
 - [#176 Command History](https://thisweek.gnome.org/posts/2024/11/twig-176/)
 - [#175 Magic](https://thisweek.gnome.org/posts/2024/11/twig-175/)

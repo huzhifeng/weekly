@@ -1,3 +1,5 @@
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
 - [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)

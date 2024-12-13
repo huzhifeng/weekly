@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/12/06 [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/12/13 [科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2024/12/03 [Vol.92 从食物寻找一个国家的灵魂](https://letter.justgoidea.com/p/202430) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2024/12/13 [Web Review, Week 2024-50](https://ervin.ipsquad.net/blog/2024/12/13/web-review-week-2024-50/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/12/13 [#178 Fuzz Testing](https://thisweek.gnome.org/posts/2024/12/twig-178/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/12/13 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/13 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2024/12/12 [学习周刊-总第189期-2024年第50周](https://wiki.eryajf.net/pages/8b5257/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +26,6 @@
 
 ## FOSS Weekly
 - 2024/12/12 [FOSS Weekly #24.50: Beautiful Distros, Open Source for Windows, Thunar Tweaks, Hyprpaper and More](https://itsfoss.com/newsletter/foss-weekly-24-50/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/12/12 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/12 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Pseudoyu 周报
 - 2024/12/10 [周报 #80 - 关于求婚、爱情与婚姻](https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -68,12 +74,6 @@
 
 ## 老胡的信息周刊
 - 2024/12/07 [11-25~12-08.老胡的周刊（第170期）.md](https://weekly.howie6879.com/2024/11-25~12-08.老胡的周刊（第170期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2024/12/06 [Web Review, Week 2024-49](https://ervin.ipsquad.net/blog/2024/12/06/web-review-week-2024-49/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/12/06 [#177 Scrolling Performance](https://thisweek.gnome.org/posts/2024/12/twig-177/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 奇趣周刊
 - 2024/12/05 [奇趣周刊 - 第 79 期](https://zishu.me/blog/weekly-79.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
