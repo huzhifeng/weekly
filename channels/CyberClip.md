@@ -1,3 +1,4 @@
+- [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/)
 - [CyberClip #62 生育困境](https://shyrz.me/cyberclip-62-procreation-dilemma/)
 - [CyberClip #61 知识诅咒](https://shyrz.me/cyberclip-61-curse-of-knowledge/)
 - [CyberClip #60 社媒之谎](https://shyrz.me/cyberclip-60-lying-social-media/)

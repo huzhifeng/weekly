@@ -1,3 +1,4 @@
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
