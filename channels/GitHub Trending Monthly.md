@@ -1,3 +1,4 @@
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo)

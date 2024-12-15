@@ -1,3 +1,4 @@
+- [【CDT周报】第199期：“给吃给喝十几年，怎么就是拐了”](https://chinadigitaltimes.net/chinese/713987.html)
 - [【CDT周报】第198期：不该改的、不能改的坚决不改](https://chinadigitaltimes.net/chinese/713726.html)
 - [【CDT周报】第197期：中国恢复对日免签，到底还恨不恨？在线等](https://chinadigitaltimes.net/chinese/713555.html)
 - [【CDT周报】第196期：政治的专政，让每个个体都躺倒在砧板上](https://chinadigitaltimes.net/chinese/713380.html)

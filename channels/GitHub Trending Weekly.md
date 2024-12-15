@@ -1,3 +1,4 @@
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
