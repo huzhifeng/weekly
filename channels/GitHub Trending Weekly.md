@@ -1,3 +1,5 @@
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook)

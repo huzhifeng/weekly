@@ -1,3 +1,4 @@
+- [2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 - [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
