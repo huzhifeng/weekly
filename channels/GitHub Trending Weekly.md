@@ -1,3 +1,6 @@
+- [shardeum/shardeum](https://github.com/shardeum/shardeum)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)

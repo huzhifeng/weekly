@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for December 19, 2024](https://lwn.net/Articles/1001869/)
 - [LWN.net Weekly Edition for December 12, 2024](https://lwn.net/Articles/1000812/)
 - [LWN.net Weekly Edition for December 5, 2024](https://lwn.net/Articles/998950/)
 - [LWN.net Weekly Edition for November 21, 2024](https://lwn.net/Articles/998144/)
