@@ -1,10 +1,25 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2024/12/20 [科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2024/12/13 [科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2024/12/20 [Web Review, Week 2024-51](https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2024/12/20 [#179 Reduced Memory Usage](https://thisweek.gnome.org/posts/2024/12/twig-179/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/12/20 [shardeum/shardeum](https://github.com/shardeum/shardeum) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/20 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2024/12/20 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 二丫讲梵学习周刊
 - 2024/12/19 [学习周刊-总第190期-2024年第51周](https://wiki.eryajf.net/pages/f01fbd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,15 +29,6 @@
 
 ## FOSS Weekly
 - 2024/12/19 [FOSS Weekly #24.51: OBS Tip, New Linux Tools, Fun With Terminal, New Releases and More](https://itsfoss.com/newsletter/foss-weekly-24-51/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/12/19 [shardeum/shardeum](https://github.com/shardeum/shardeum) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/19 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/12/19 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 胡言乱语
 - 2024/12/17 [20241217的胡言乱语](https://www.bboy.app/2024/12/17/20241217%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -65,12 +71,6 @@
 
 ## CyberClip
 - 2024/12/14 [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/) | [More](channels/CyberClip.md)
-
-## Web Review
-- 2024/12/13 [Web Review, Week 2024-50](https://ervin.ipsquad.net/blog/2024/12/13/web-review-week-2024-50/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/12/13 [#178 Fuzz Testing](https://thisweek.gnome.org/posts/2024/12/twig-178/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Pseudoyu 周报
 - 2024/12/10 [周报 #80 - 关于求婚、爱情与婚姻](https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)

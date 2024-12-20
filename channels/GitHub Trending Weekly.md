@@ -1,3 +1,4 @@
+- [junegunn/fzf](https://github.com/junegunn/fzf)
 - [shardeum/shardeum](https://github.com/shardeum/shardeum)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)

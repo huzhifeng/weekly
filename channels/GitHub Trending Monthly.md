@@ -1,3 +1,4 @@
+- [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 - [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
