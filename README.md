@@ -6,20 +6,17 @@
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2024/12/21 [mherrmann/helium](https://github.com/mherrmann/helium) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/21 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2024/12/20 [Web Review, Week 2024-51](https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2024/12/20 [#179 Reduced Memory Usage](https://thisweek.gnome.org/posts/2024/12/twig-179/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/12/20 [shardeum/shardeum](https://github.com/shardeum/shardeum) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/20 [ai16z/eliza](https://github.com/ai16z/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/12/20 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 二丫讲梵学习周刊
 - 2024/12/19 [学习周刊-总第190期-2024年第51周](https://wiki.eryajf.net/pages/f01fbd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -41,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2024/12/16 [DistroWatch Weekly, Issue 1101](https://distrowatch.com/weekly.php?issue=20241216) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2024/12/16 [9to5Linux Weekly Roundup: December 15th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-15th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/12/16 [Ubuntu Weekly Newsletter Issue 871](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-871/51380) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)

@@ -1,3 +1,5 @@
+- [mherrmann/helium](https://github.com/mherrmann/helium)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea)
 - [junegunn/fzf](https://github.com/junegunn/fzf)
 - [shardeum/shardeum](https://github.com/shardeum/shardeum)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)

@@ -1,3 +1,4 @@
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
