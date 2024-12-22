@@ -1,3 +1,4 @@
+- [025期--AI时代更需要模板](https://fav0.com/posts/2024/025)
 - [024期--副业项目困扰我](https://fav0.com/posts/2024/024)
 - [023期--停滞不前](https://fav0.com/posts/2024/023)
 - [022期--拖延与完美主义](https://fav0.com/posts/2024/022)

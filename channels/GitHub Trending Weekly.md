@@ -1,3 +1,4 @@
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
 - [mherrmann/helium](https://github.com/mherrmann/helium)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea)
 - [junegunn/fzf](https://github.com/junegunn/fzf)
