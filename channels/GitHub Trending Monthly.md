@@ -1,3 +1,5 @@
+- [elizaOS/eliza](https://github.com/elizaOS/eliza)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN)
