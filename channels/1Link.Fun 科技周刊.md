@@ -1,3 +1,4 @@
+- [1Link.Fun 科技周刊 | 第 115 期](https://1link.fun/blog/issue/issue115/)
 - [1Link.Fun 科技周刊 | 第 114 期](https://1link.fun/blog/issue/issue114/)
 - [1Link.Fun 科技周刊 | 第 113 期](https://1link.fun/blog/issue/issue113/)
 - [1Link.Fun 科技周刊 | 第 112 期](https://1link.fun/blog/issue/issue112/)

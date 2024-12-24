@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 1Link.Fun 科技周刊
+- 2024/12/24 [1Link.Fun 科技周刊 | 第 115 期](https://1link.fun/blog/issue/issue115/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2024/12/24 [shardeum/shardeum](https://github.com/shardeum/shardeum) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/24 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2024/12/23 [第205期 - 听张信哲](https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,20 +24,11 @@
 ## 胡言乱语
 - 2024/12/23 [20241223的胡言乱语](https://www.bboy.app/2024/12/23/20241223%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## DistroWatch Weekly
-- 2024/12/23 [DistroWatch Weekly, Issue 1102](https://distrowatch.com/weekly.php?issue=20241223) | [More](channels/DistroWatch%20Weekly.md)
-
 ## 9to5Linux Weekly Roundup
 - 2024/12/23 [9to5Linux Weekly Roundup: December 22nd, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-22nd-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2024/12/23 [shardeum/shardeum](https://github.com/shardeum/shardeum) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/23 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2024/12/23 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Ubuntu Weekly Newsletter
+- 2024/12/23 [Ubuntu Weekly Newsletter Issue 872](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-872/51833) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 独立开发者出海周刊
 - 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -78,12 +78,6 @@
 ## 泰晓资讯
 - 2024/12/19 [泰晓资讯·12 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-12-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
-## Ubuntu Weekly Newsletter
-- 2024/12/16 [Ubuntu Weekly Newsletter Issue 871](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-871/51380) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 1Link.Fun 科技周刊
-- 2024/12/15 [1Link.Fun 科技周刊 | 第 114 期](https://1link.fun/blog/issue/issue114/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
 ## CyberClip
 - 2024/12/14 [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/) | [More](channels/CyberClip.md)
 
@@ -122,6 +116,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
