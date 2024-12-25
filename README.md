@@ -6,14 +6,14 @@
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 1Link.Fun 科技周刊
-- 2024/12/24 [1Link.Fun 科技周刊 | 第 115 期](https://1link.fun/blog/issue/issue115/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
 ## GitHub Trending Weekly
-- 2024/12/24 [shardeum/shardeum](https://github.com/shardeum/shardeum) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/12/25 [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/12/24 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/12/25 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 1Link.Fun 科技周刊
+- 2024/12/24 [1Link.Fun 科技周刊 | 第 115 期](https://1link.fun/blog/issue/issue115/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2024/12/23 [第205期 - 听张信哲](https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)

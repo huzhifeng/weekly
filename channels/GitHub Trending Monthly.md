@@ -1,3 +1,5 @@
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 - [elizaOS/eliza](https://github.com/elizaOS/eliza)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
