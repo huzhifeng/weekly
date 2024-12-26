@@ -1,3 +1,4 @@
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 - [elizaOS/eliza](https://github.com/elizaOS/eliza)

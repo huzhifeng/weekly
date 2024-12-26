@@ -6,11 +6,20 @@
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2024/12/26 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2024/12/26 [LWN.net Weekly Edition for December 26, 2024](https://lwn.net/Articles/1002827/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2024/12/26 [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2024/12/25 [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/12/26 [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/12/25 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/12/26 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/12/24 [1Link.Fun 科技周刊 | 第 115 期](https://1link.fun/blog/issue/issue115/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -65,15 +74,6 @@
 
 ## This Week in GNOME
 - 2024/12/20 [#179 Reduced Memory Usage](https://thisweek.gnome.org/posts/2024/12/twig-179/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 二丫讲梵学习周刊
-- 2024/12/19 [学习周刊-总第190期-2024年第51周](https://wiki.eryajf.net/pages/f01fbd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/12/19 [LWN.net Weekly Edition for December 19, 2024](https://lwn.net/Articles/1001869/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/12/19 [FOSS Weekly #24.51: OBS Tip, New Linux Tools, Fun With Terminal, New Releases and More](https://itsfoss.com/newsletter/foss-weekly-24-51/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/12/19 [泰晓资讯·12 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-12-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

@@ -1,3 +1,5 @@
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo)
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
