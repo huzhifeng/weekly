@@ -1,3 +1,5 @@
+- [gorhill/uBlock](https://github.com/gorhill/uBlock)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw)
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)

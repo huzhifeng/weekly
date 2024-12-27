@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2024/12/20 [科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2024/12/27 [科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2024/12/27 [Web Review, Week 2024-52](https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/) | [More](channels/Web%20Review.md)
+
+## HelloGitHub
+- 2024/12/27 [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [More](channels/HelloGitHub.md)
+
+## This Week in GNOME
+- 2024/12/27 [#180 Image Editing](https://thisweek.gnome.org/posts/2024/12/twig-180/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2024/12/27 [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/27 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2024/12/26 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2024/12/26 [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2024/12/26 [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/26 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 1Link.Fun 科技周刊
 - 2024/12/24 [1Link.Fun 科技周刊 | 第 115 期](https://1link.fun/blog/issue/issue115/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -69,12 +78,6 @@
 ## 老胡的信息周刊
 - 2024/12/21 [12-16~12-22.老胡的周刊（第172期）.md](https://weekly.howie6879.com/2024/12-16~12-22.老胡的周刊（第172期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2024/12/20 [Web Review, Week 2024-51](https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2024/12/20 [#179 Reduced Memory Usage](https://thisweek.gnome.org/posts/2024/12/twig-179/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 泰晓资讯
 - 2024/12/19 [泰晓资讯·12 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-12-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
@@ -92,9 +95,6 @@
 
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
-
-## HelloGitHub
-- 2024/11/28 [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104) | [More](channels/HelloGitHub.md)
 
 ## Raye's Journey
 - 2024/11/28 [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838) | [More](channels/Raye%27s%20Journey.md)
