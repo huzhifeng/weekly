@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## Pseudoyu 周报
+- 2024/12/28 [周报 #81 - Engaged -> Married 与时间的尺度](https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2024/12/28 [sxyazi/yazi](https://github.com/sxyazi/yazi) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/28 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2024/12/27 [Web Review, Week 2024-52](https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +23,6 @@
 
 ## This Week in GNOME
 - 2024/12/27 [#180 Image Editing](https://thisweek.gnome.org/posts/2024/12/twig-180/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2024/12/27 [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/27 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2024/12/26 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -83,9 +86,6 @@
 
 ## CyberClip
 - 2024/12/14 [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/) | [More](channels/CyberClip.md)
-
-## Pseudoyu 周报
-- 2024/12/10 [周报 #80 - 关于求婚、爱情与婚姻](https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 奇趣周刊
 - 2024/12/05 [奇趣周刊 - 第 79 期](https://zishu.me/blog/weekly-79.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)

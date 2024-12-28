@@ -1,3 +1,4 @@
+- [raysan5/raylib](https://github.com/raysan5/raylib)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw)
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
