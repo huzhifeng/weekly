@@ -6,14 +6,32 @@
 ## 壹苇可航
 - 2024/12/17 [Vol.93 "Xmas" 的词源考究](https://letter.justgoidea.com/p/2024031) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## Pseudoyu 周报
-- 2024/12/28 [周报 #81 - Engaged -> Married 与时间的尺度](https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+## 潮流周刊
+- 2024/12/30 [第206期 - 标致的狗](https://weekly.tw93.fun/posts/206-%E6%A0%87%E8%87%B4%E7%9A%84%E7%8B%97/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2024/12/29 [视野修炼第115期 | 今年最后一期](https://sugarat.top/weekly/2024-12-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 一周杂记
+- 2024/12/29 [一周杂记 in Week 4 Dec 2024](http://kingsamchen.github.io/2024/12/29/weekly-2024-dec-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2024/12/29 [AIGC Weekly #103 圣诞节没啥内容](https://quaily.com/op7418/p/aigc-weekly-103-christmas-no-content) | [More](channels/AIGC%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2024/12/28 [sxyazi/yazi](https://github.com/sxyazi/yazi) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2024/12/29 [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/12/28 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2024/12/29 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2024/12/29 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 老胡的信息周刊
+- 2024/12/28 [12-23~12-29.老胡的周刊（第173期）.md](https://weekly.howie6879.com/2024/12-23~12-29.老胡的周刊（第173期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
+## Pseudoyu 周报
+- 2024/12/28 [周报 #81 - Engaged -> Married 与时间的尺度](https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## Web Review
 - 2024/12/27 [Web Review, Week 2024-52](https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/) | [More](channels/Web%20Review.md)
@@ -33,11 +51,11 @@
 ## FOSS Weekly
 - 2024/12/26 [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/) | [More](channels/FOSS%20Weekly.md)
 
+## 泰晓资讯
+- 2024/12/26 [泰晓资讯·12 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-12-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
 ## 1Link.Fun 科技周刊
 - 2024/12/24 [1Link.Fun 科技周刊 | 第 115 期](https://1link.fun/blog/issue/issue115/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
-## 潮流周刊
-- 2024/12/23 [第205期 - 听张信哲](https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## FAV0周刊
 - 2024/12/23 [025期--AI时代更需要模板](https://fav0.com/posts/2024/025) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
@@ -60,29 +78,11 @@
 ## 猫鱼周刊
 - 2024/12/22 [猫鱼周刊 vol. 052 OpenAI 也翻车，基础设施暴雷](https://ameow.xyz/archives/weekly-052) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2024/12/22 [【CDT周报】第200期：“如何让女人老老实实、服服帖帖生孩子”](https://chinadigitaltimes.net/chinese/714231.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## Taxodium
 - 2024/12/22 [Weekly#20](https://taxodium.ink/20.html) | [More](channels/Taxodium.md)
 
-## 视野修炼
-- 2024/12/22 [视野修炼第114期 | 2024JS现状调查结果](https://sugarat.top/weekly/2024-12-22.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 一周杂记
-- 2024/12/22 [一周杂记 in Week 3 Dec 2024](http://kingsamchen.github.io/2024/12/22/weekly-2024-dec-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## zdyxry Weekly Issue
 - 2024/12/22 [Weekly Issue-《数据化决策》](https://zdyxry.github.io/2024/12/22/Weekly-Issue-%E6%95%B0%E6%8D%AE%E5%8C%96%E5%86%B3%E7%AD%96/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2024/12/22 [AIGC Weekly #102🎄](https://quaily.com/op7418/p/aigc-weekly-102) | [More](channels/AIGC%20Weekly.md)
-
-## 老胡的信息周刊
-- 2024/12/21 [12-16~12-22.老胡的周刊（第172期）.md](https://weekly.howie6879.com/2024/12-16~12-22.老胡的周刊（第172期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 泰晓资讯
-- 2024/12/19 [泰晓资讯·12 月 / 第一期 / 2024](https://tinylab.org/tinylab-weekly-12-1st-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## CyberClip
 - 2024/12/14 [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/) | [More](channels/CyberClip.md)
@@ -95,9 +95,6 @@
 
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
-
-## Raye's Journey
-- 2024/11/28 [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838) | [More](channels/Raye%27s%20Journey.md)
 
 ## 广场周刊
 - 2024/11/23 [广场周刊（回顾篇）：那么平常](https://immmmm.com/weekly-review-2024/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
@@ -116,9 +113,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

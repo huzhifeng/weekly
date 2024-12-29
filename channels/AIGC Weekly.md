@@ -1,3 +1,4 @@
+- [AIGC Weekly #103 圣诞节没啥内容](https://quaily.com/op7418/p/aigc-weekly-103-christmas-no-content)
 - [AIGC Weekly #102🎄](https://quaily.com/op7418/p/aigc-weekly-102)
 - [AIGC Weekly #101](https://quaily.com/op7418/p/aigc-weekly-101)
 - [AIGC Weekly #100🎉](https://quaily.com/op7418/p/aigc-weekly-100)
