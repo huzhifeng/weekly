@@ -1,3 +1,5 @@
+- [imputnet/cobalt](https://github.com/imputnet/cobalt)
+- [jdx/mise](https://github.com/jdx/mise)
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
