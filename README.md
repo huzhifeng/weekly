@@ -6,6 +6,12 @@
 ## 科技爱好者周刊
 - 2024/12/27 [科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2024/12/31 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2024/12/31 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2024/12/30 [第206期 - 标致的狗](https://weekly.tw93.fun/posts/206-%E6%A0%87%E8%87%B4%E7%9A%84%E7%8B%97/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -14,12 +20,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/12/30 [Ubuntu Weekly Newsletter Issue 873](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-873/52241) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2024/12/30 [teableio/teable](https://github.com/teableio/teable) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2024/12/30 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 视野修炼
 - 2024/12/29 [视野修炼第115期 | 今年最后一期](https://sugarat.top/weekly/2024-12-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)

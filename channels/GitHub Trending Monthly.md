@@ -1,3 +1,5 @@
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt)
 - [jdx/mise](https://github.com/jdx/mise)
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
