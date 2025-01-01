@@ -1,3 +1,4 @@
+- [elizaOS/eliza](https://github.com/elizaOS/eliza)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)

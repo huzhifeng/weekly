@@ -6,11 +6,14 @@
 ## 科技爱好者周刊
 - 2024/12/27 [科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 奇趣周刊
+- 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2024/12/31 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/01 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2024/12/31 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/01 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2024/12/30 [第206期 - 标致的狗](https://weekly.tw93.fun/posts/206-%E6%A0%87%E8%87%B4%E7%9A%84%E7%8B%97/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -20,9 +23,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/12/30 [Ubuntu Weekly Newsletter Issue 873](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-873/52241) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 视野修炼
-- 2024/12/29 [视野修炼第115期 | 今年最后一期](https://sugarat.top/weekly/2024-12-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 一周杂记
 - 2024/12/29 [一周杂记 in Week 4 Dec 2024](http://kingsamchen.github.io/2024/12/29/weekly-2024-dec-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -72,6 +72,9 @@
 ## 胡言乱语
 - 2024/12/23 [20241223的胡言乱语](https://www.bboy.app/2024/12/23/20241223%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
+## DistroWatch Weekly
+- 2024/12/23 [DistroWatch Weekly, Issue 1102](https://distrowatch.com/weekly.php?issue=20241223) | [More](channels/DistroWatch%20Weekly.md)
+
 ## 独立开发者出海周刊
 - 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
@@ -89,9 +92,6 @@
 
 ## CyberClip
 - 2024/12/14 [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/) | [More](channels/CyberClip.md)
-
-## 奇趣周刊
-- 2024/12/05 [奇趣周刊 - 第 79 期](https://zishu.me/blog/weekly-79.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -119,6 +119,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
