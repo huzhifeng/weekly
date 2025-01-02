@@ -6,14 +6,17 @@
 ## 科技爱好者周刊
 - 2024/12/27 [科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 奇趣周刊
-- 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+## FOSS Weekly
+- 2025/01/02 [FOSS Weekly #25.01: 2 New Free Books, Homelab Dashboards, Plan 9 and More](https://itsfoss.com/newsletter/foss-weekly-25-01/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/01/01 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/02 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/01 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/02 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 奇趣周刊
+- 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2024/12/30 [第206期 - 标致的狗](https://weekly.tw93.fun/posts/206-%E6%A0%87%E8%87%B4%E7%9A%84%E7%8B%97/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -23,6 +26,9 @@
 
 ## Ubuntu Weekly Newsletter
 - 2024/12/30 [Ubuntu Weekly Newsletter Issue 873](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-873/52241) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## 视野修炼
+- 2024/12/29 [视野修炼第115期 | 今年最后一期](https://sugarat.top/weekly/2024-12-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 一周杂记
 - 2024/12/29 [一周杂记 in Week 4 Dec 2024](http://kingsamchen.github.io/2024/12/29/weekly-2024-dec-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -56,9 +62,6 @@
 
 ## LWN.net Weekly Edition
 - 2024/12/26 [LWN.net Weekly Edition for December 26, 2024](https://lwn.net/Articles/1002827/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2024/12/26 [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2024/12/26 [泰晓资讯·12 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-12-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -119,9 +122,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

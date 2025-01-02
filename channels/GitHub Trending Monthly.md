@@ -1,3 +1,4 @@
+- [myhhub/stock](https://github.com/myhhub/stock)
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt)

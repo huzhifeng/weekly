@@ -1,3 +1,4 @@
+- [3b1b/manim](https://github.com/3b1b/manim)
 - [elizaOS/eliza](https://github.com/elizaOS/eliza)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)

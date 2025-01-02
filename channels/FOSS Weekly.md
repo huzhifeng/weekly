@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.01: 2 New Free Books, Homelab Dashboards, Plan 9 and More](https://itsfoss.com/newsletter/foss-weekly-25-01/)
 - [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/)
 - [FOSS Weekly #24.51: OBS Tip, New Linux Tools, Fun With Terminal, New Releases and More](https://itsfoss.com/newsletter/foss-weekly-24-51/)
 - [FOSS Weekly #24.50: Beautiful Distros, Open Source for Windows, Thunar Tweaks, Hyprpaper and More](https://itsfoss.com/newsletter/foss-weekly-24-50/)
