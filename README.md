@@ -1,19 +1,31 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2025/01/03 [科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2024/12/30 [Vol.94 新年快乐](https://letter.justgoidea.com/p/2024032) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2024/12/27 [科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2025/01/03 [Web Review, Week 2025-01](https://ervin.ipsquad.net/blog/2025/01/03/web-review-week-2025-01/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/01/03 [#181 Happy New Year!](https://thisweek.gnome.org/posts/2025/01/twig-181/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/01/03 [This Week in Self-Hosted (3 January 2025)](https://selfh.st/newsletter/2025-01-03/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/01/03 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/03 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/01/03 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## FOSS Weekly
 - 2025/01/02 [FOSS Weekly #25.01: 2 New Free Books, Homelab Dashboards, Plan 9 and More](https://itsfoss.com/newsletter/foss-weekly-25-01/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/01/02 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/02 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -45,17 +57,8 @@
 ## Pseudoyu 周报
 - 2024/12/28 [周报 #81 - Engaged -> Married 与时间的尺度](https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## Web Review
-- 2024/12/27 [Web Review, Week 2024-52](https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/) | [More](channels/Web%20Review.md)
-
 ## HelloGitHub
 - 2024/12/27 [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [More](channels/HelloGitHub.md)
-
-## This Week in GNOME
-- 2024/12/27 [#180 Image Editing](https://thisweek.gnome.org/posts/2024/12/twig-180/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2024/12/27 [This Week in Self-Hosted (27 December 2024)](https://selfh.st/newsletter/2024-12-27/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 二丫讲梵学习周刊
 - 2024/12/26 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
