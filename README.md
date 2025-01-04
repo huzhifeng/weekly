@@ -6,6 +6,21 @@
 ## 壹苇可航
 - 2024/12/30 [Vol.94 新年快乐](https://letter.justgoidea.com/p/2024032) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 老胡的信息周刊
+- 2025/01/04 [01-01~01-05.老胡的周刊（第174期）.md](https://weekly.howie6879.com/2025/01-01~01-05.老胡的周刊（第174期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/01/04 [【CDT周报】第201期：治大国如反美亲美，下次反美静候通知](https://chinadigitaltimes.net/chinese/714629.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## CyberClip
+- 2025/01/04 [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/) | [More](channels/CyberClip.md)
+
+## GitHub Trending Weekly
+- 2025/01/04 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/04 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/01/03 [Web Review, Week 2025-01](https://ervin.ipsquad.net/blog/2025/01/03/web-review-week-2025-01/) | [More](channels/Web%20Review.md)
 
@@ -14,15 +29,6 @@
 
 ## This Week in Self-Hosted
 - 2025/01/03 [This Week in Self-Hosted (3 January 2025)](https://selfh.st/newsletter/2025-01-03/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/01/03 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/03 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/01/03 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## FOSS Weekly
 - 2025/01/02 [FOSS Weekly #25.01: 2 New Free Books, Homelab Dashboards, Plan 9 and More](https://itsfoss.com/newsletter/foss-weekly-25-01/) | [More](channels/FOSS%20Weekly.md)
@@ -50,9 +56,6 @@
 
 ## AIGC Weekly
 - 2024/12/29 [AIGC Weekly #103 圣诞节没啥内容](https://quaily.com/op7418/p/aigc-weekly-103-christmas-no-content) | [More](channels/AIGC%20Weekly.md)
-
-## 老胡的信息周刊
-- 2024/12/28 [12-23~12-29.老胡的周刊（第173期）.md](https://weekly.howie6879.com/2024/12-23~12-29.老胡的周刊（第173期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2024/12/28 [周报 #81 - Engaged -> Married 与时间的尺度](https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -87,17 +90,8 @@
 ## 大橘和朋友们的周刊
 - 2024/12/22 [第023期 - 游象鼻山](https://rrorangeandfriends.site/posts/2024/023) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
-## 猫鱼周刊
-- 2024/12/22 [猫鱼周刊 vol. 052 OpenAI 也翻车，基础设施暴雷](https://ameow.xyz/archives/weekly-052) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2024/12/22 [【CDT周报】第200期：“如何让女人老老实实、服服帖帖生孩子”](https://chinadigitaltimes.net/chinese/714231.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## Taxodium
 - 2024/12/22 [Weekly#20](https://taxodium.ink/20.html) | [More](channels/Taxodium.md)
-
-## CyberClip
-- 2024/12/14 [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/) | [More](channels/CyberClip.md)
 
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -125,6 +119,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
