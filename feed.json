@@ -20,6 +20,11 @@
 			"filter": ["科技創業週報"]
 		},
 		{
+			"channel": "虹线周刊",
+			"portal": "https://weekly.1q43.blog/",
+			"url": "https://weekly.1q43.blog/rss/feed.xml"
+		},
+		{
 			"channel": "涛然自得周刊",
 			"portal": "https://github.com/imhet/beyond-code-weekly",
 			"url": "https://heyitao.com/feed"
