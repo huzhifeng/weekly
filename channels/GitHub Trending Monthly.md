@@ -1,3 +1,4 @@
+- [ruanyf/weekly](https://github.com/ruanyf/weekly)
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse)
 - [myhhub/stock](https://github.com/myhhub/stock)
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)

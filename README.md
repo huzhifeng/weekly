@@ -12,6 +12,24 @@
 ## FAV0周刊
 - 2025/01/06 [026期--独立开发营销](https://fav0.com/posts/2025/026) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
+## Pseudoyu 周报
+- 2025/01/06 [周报 #82 - Brand New Year 与写日记](https://www.pseudoyu.com/zh/2025/01/06/weekly_review_82/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2025/01/06 [AIGC Weekly #104 元旦依旧没啥内容](https://quaily.com/op7418/p/aigc-weekly-104-yuan-dan-yi-jiu-mei-sha-nei-rong) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/01/06 [DistroWatch Weekly, Issue 1103](https://distrowatch.com/weekly.php?issue=20250106) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/01/06 [9to5Linux Weekly Roundup: January 5th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-5th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2025/01/06 [janhq/jan](https://github.com/janhq/jan) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/06 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 1Link.Fun 科技周刊
 - 2025/01/05 [1Link.Fun 科技周刊 | 第 116 期](https://1link.fun/blog/issue/issue116/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -21,11 +39,11 @@
 ## 视野修炼
 - 2025/01/05 [视野修炼第116期 | NB Ping](https://sugarat.top/weekly/2025-01-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2025/01/05 [janhq/jan](https://github.com/janhq/jan) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 一周杂记
+- 2025/01/05 [一周杂记 in Week 1 Jan 2025](http://kingsamchen.github.io/2025/01/06/weekly-2025-jan-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## GitHub Trending Monthly
-- 2025/01/05 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+## zdyxry Weekly Issue
+- 2025/01/05 [Weekly Issue- 迎接2025](https://zdyxry.github.io/2025/01/05/Weekly-Issue-%E8%BF%8E%E6%8E%A52025/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2025/01/04 [01-01~01-05.老胡的周刊（第174期）.md](https://weekly.howie6879.com/2025/01-01~01-05.老胡的周刊（第174期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -51,23 +69,11 @@
 ## 奇趣周刊
 - 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
-## 9to5Linux Weekly Roundup
-- 2024/12/30 [9to5Linux Weekly Roundup: December 29th, 2024](https://9to5linux.com/9to5linux-weekly-roundup-december-29th-2024) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+## 虹线周刊
+- 2024/12/30 [2024#53 商场的相变](https://weekly.1q43.blog/article/165ca795c956807cb0d1ca7915a6192c) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## Ubuntu Weekly Newsletter
 - 2024/12/30 [Ubuntu Weekly Newsletter Issue 873](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-873/52241) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 一周杂记
-- 2024/12/29 [一周杂记 in Week 4 Dec 2024](http://kingsamchen.github.io/2024/12/29/weekly-2024-dec-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2024/12/29 [Weekly Issue-《一往无前》](https://zdyxry.github.io/2024/12/29/Weekly-Issue-%E4%B8%80%E5%BE%80%E6%97%A0%E5%89%8D/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2024/12/29 [AIGC Weekly #103 圣诞节没啥内容](https://quaily.com/op7418/p/aigc-weekly-103-christmas-no-content) | [More](channels/AIGC%20Weekly.md)
-
-## Pseudoyu 周报
-- 2024/12/28 [周报 #81 - Engaged -> Married 与时间的尺度](https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## HelloGitHub
 - 2024/12/27 [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [More](channels/HelloGitHub.md)
@@ -81,14 +87,8 @@
 ## 泰晓资讯
 - 2024/12/26 [泰晓资讯·12 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-12-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
-## 虹线周刊
-- 2024/12/23 [2024#52 在第八日启程](https://weekly.1q43.blog/article/15eca795c95680c38ba3e7056538c292) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
 ## 胡言乱语
 - 2024/12/23 [20241223的胡言乱语](https://www.bboy.app/2024/12/23/20241223%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## DistroWatch Weekly
-- 2024/12/23 [DistroWatch Weekly, Issue 1102](https://distrowatch.com/weekly.php?issue=20241223) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 独立开发者出海周刊
 - 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
@@ -125,6 +125,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

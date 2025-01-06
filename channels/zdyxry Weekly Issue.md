@@ -1,3 +1,4 @@
+- [Weekly Issue- 迎接2025](https://zdyxry.github.io/2025/01/05/Weekly-Issue-%E8%BF%8E%E6%8E%A52025/)
 - [Weekly Issue-《一往无前》](https://zdyxry.github.io/2024/12/29/Weekly-Issue-%E4%B8%80%E5%BE%80%E6%97%A0%E5%89%8D/)
 - [Weekly Issue-《数据化决策》](https://zdyxry.github.io/2024/12/22/Weekly-Issue-%E6%95%B0%E6%8D%AE%E5%8C%96%E5%86%B3%E7%AD%96/)
 - [Weekly Issue-《人人都是播客》](https://zdyxry.github.io/2024/12/15/Weekly-Issue-%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E6%92%AD%E5%AE%A2/)

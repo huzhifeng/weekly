@@ -1,3 +1,4 @@
+- [周报 #82 - Brand New Year 与写日记](https://www.pseudoyu.com/zh/2025/01/06/weekly_review_82/)
 - [周报 #81 - Engaged -> Married 与时间的尺度](https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/)
 - [周报 #80 - 关于求婚、爱情与婚姻](https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/)
 - [周报 #79 - 清迈旅居、曼谷之行与 Follow](https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/)
