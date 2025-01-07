@@ -1,3 +1,4 @@
+- [sxyazi/yazi](https://github.com/sxyazi/yazi)
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse)
 - [myhhub/stock](https://github.com/myhhub/stock)
