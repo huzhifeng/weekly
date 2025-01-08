@@ -1,3 +1,4 @@
+- [upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi)
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse)

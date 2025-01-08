@@ -6,14 +6,17 @@
 ## 壹苇可航
 - 2024/12/30 [Vol.94 新年快乐](https://letter.justgoidea.com/p/2024032) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 1Link.Fun 科技周刊
-- 2025/01/07 [1Link.Fun 科技周刊 | 第 117 期](https://1link.fun/blog/issue/issue117/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
-
 ## GitHub Trending Weekly
-- 2025/01/07 [stanford-oval/storm](https://github.com/stanford-oval/storm) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/08 [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/07 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/08 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/01/08 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 1Link.Fun 科技周刊
+- 2025/01/07 [1Link.Fun 科技周刊 | 第 117 期](https://1link.fun/blog/issue/issue117/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/01/06 [第207期 - 水培红薯](https://weekly.tw93.fun/posts/207-%E6%B0%B4%E5%9F%B9%E7%BA%A2%E8%96%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
