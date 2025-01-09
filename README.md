@@ -6,14 +6,20 @@
 ## 壹苇可航
 - 2024/12/30 [Vol.94 新年快乐](https://letter.justgoidea.com/p/2024032) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/01/09 [学习周刊-总第193期-2025年第02周](https://wiki.eryajf.net/pages/16a30c/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/01/09 [LWN.net Weekly Edition for January 9, 2025](https://lwn.net/Articles/1003479/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/01/09 [FOSS Weekly #25.02: Absolute Linux, ShredOS, AI in Kdenlive, Fossify File Manager and More](https://itsfoss.com/newsletter/foss-weekly-25-02/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/01/08 [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/09 [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/08 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/01/08 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/01/09 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 1Link.Fun 科技周刊
 - 2025/01/07 [1Link.Fun 科技周刊 | 第 117 期](https://1link.fun/blog/issue/issue117/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
@@ -32,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2025/01/06 [DistroWatch Weekly, Issue 1103](https://distrowatch.com/weekly.php?issue=20250106) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/01/06 [9to5Linux Weekly Roundup: January 5th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-5th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/01/06 [Ubuntu Weekly Newsletter Issue 874](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-874/52734) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -69,9 +72,6 @@
 ## This Week in Self-Hosted
 - 2025/01/03 [This Week in Self-Hosted (3 January 2025)](https://selfh.st/newsletter/2025-01-03/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## FOSS Weekly
-- 2025/01/02 [FOSS Weekly #25.01: 2 New Free Books, Homelab Dashboards, Plan 9 and More](https://itsfoss.com/newsletter/foss-weekly-25-01/) | [More](channels/FOSS%20Weekly.md)
-
 ## 奇趣周刊
 - 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
@@ -80,12 +80,6 @@
 
 ## HelloGitHub
 - 2024/12/27 [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [More](channels/HelloGitHub.md)
-
-## 二丫讲梵学习周刊
-- 2024/12/26 [学习周刊-总第191期-2024年第52周](https://wiki.eryajf.net/pages/98122f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2024/12/26 [LWN.net Weekly Edition for December 26, 2024](https://lwn.net/Articles/1002827/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 泰晓资讯
 - 2024/12/26 [泰晓资讯·12 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-12-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -128,6 +122,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
