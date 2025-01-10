@@ -1,3 +1,4 @@
+- [#182 Updated Crypto](https://thisweek.gnome.org/posts/2025/01/twig-182/)
 - [#181 Happy New Year!](https://thisweek.gnome.org/posts/2025/01/twig-181/)
 - [#180 Image Editing](https://thisweek.gnome.org/posts/2024/12/twig-180/)
 - [#179 Reduced Memory Usage](https://thisweek.gnome.org/posts/2024/12/twig-179/)

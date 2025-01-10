@@ -1,3 +1,4 @@
+- [Canner/WrenAI](https://github.com/Canner/WrenAI)
 - [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx)
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 - [3b1b/manim](https://github.com/3b1b/manim)
