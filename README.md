@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2024/12/30 [Vol.94 新年快乐](https://letter.justgoidea.com/p/2024032) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/01/11 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/11 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/01/10 [Web Review, Week 2025-02](https://ervin.ipsquad.net/blog/2025/01/10/web-review-week-2025-02/) | [More](channels/Web%20Review.md)
 
@@ -14,15 +20,6 @@
 
 ## This Week in Self-Hosted
 - 2025/01/10 [This Week in Self-Hosted (10 January 2025)](https://selfh.st/newsletter/2025-01-10/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/01/10 [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/10 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/01/10 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 二丫讲梵学习周刊
 - 2025/01/09 [学习周刊-总第193期-2025年第02周](https://wiki.eryajf.net/pages/16a30c/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -75,6 +72,9 @@
 ## CyberClip
 - 2025/01/04 [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/) | [More](channels/CyberClip.md)
 
+## 泰晓资讯
+- 2025/01/03 [泰晓资讯·1 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-01-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
 ## 奇趣周刊
 - 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
@@ -83,9 +83,6 @@
 
 ## HelloGitHub
 - 2024/12/27 [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [More](channels/HelloGitHub.md)
-
-## 泰晓资讯
-- 2024/12/26 [泰晓资讯·12 月 / 第二期 / 2024](https://tinylab.org/tinylab-weekly-12-2nd-2024/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## 胡言乱语
 - 2024/12/23 [20241223的胡言乱语](https://www.bboy.app/2024/12/23/20241223%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
