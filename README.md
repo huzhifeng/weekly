@@ -6,11 +6,32 @@
 ## 壹苇可航
 - 2024/12/30 [Vol.94 新年快乐](https://letter.justgoidea.com/p/2024032) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2025/01/13 [第208期 - 配新电脑](https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/01/12 [猫鱼周刊 vol. 053 2025 新年快乐！](https://ameow.xyz/archives/weekly-053) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/01/12 [【CDT周报】第202期：我拿出怀里的中国护照，对方却说你可以优先入园](https://chinadigitaltimes.net/chinese/714861.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Taxodium
+- 2025/01/12 [Weekly#22](https://taxodium.ink/22.html) | [More](channels/Taxodium.md)
+
+## zdyxry Weekly Issue
+- 2025/01/12 [Weekly Issue-《冬泳》](https://zdyxry.github.io/2025/01/12/Weekly-Issue-%E5%86%AC%E6%B3%B3/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## AIGC Weekly
+- 2025/01/12 [AIGC Weekly #105](https://quaily.com/op7418/p/aigc-weekly-105) | [More](channels/AIGC%20Weekly.md)
+
+## PIVOT
+- 2025/01/12 [PIVOT Vol.11 推荐几个macOS软件](https://anotherdayu.com/2025/6445/) | [More](channels/PIVOT.md)
+
 ## GitHub Trending Weekly
-- 2025/01/11 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/12 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/11 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/12 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/01/10 [Web Review, Week 2025-02](https://ervin.ipsquad.net/blog/2025/01/10/web-review-week-2025-02/) | [More](channels/Web%20Review.md)
@@ -33,17 +54,11 @@
 ## 1Link.Fun 科技周刊
 - 2025/01/07 [1Link.Fun 科技周刊 | 第 117 期](https://1link.fun/blog/issue/issue117/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2025/01/06 [第207期 - 水培红薯](https://weekly.tw93.fun/posts/207-%E6%B0%B4%E5%9F%B9%E7%BA%A2%E8%96%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## FAV0周刊
 - 2025/01/06 [026期--独立开发营销](https://fav0.com/posts/2025/026) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2025/01/06 [周报 #82 - Brand New Year 与写日记](https://www.pseudoyu.com/zh/2025/01/06/weekly_review_82/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## AIGC Weekly
-- 2025/01/06 [AIGC Weekly #104 元旦依旧没啥内容](https://quaily.com/op7418/p/aigc-weekly-104-yuan-dan-yi-jiu-mei-sha-nei-rong) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2025/01/06 [DistroWatch Weekly, Issue 1103](https://distrowatch.com/weekly.php?issue=20250106) | [More](channels/DistroWatch%20Weekly.md)
@@ -51,23 +66,14 @@
 ## Ubuntu Weekly Newsletter
 - 2025/01/06 [Ubuntu Weekly Newsletter Issue 874](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-874/52734) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## Taxodium
-- 2025/01/05 [Weekly#21](https://taxodium.ink/21.html) | [More](channels/Taxodium.md)
-
 ## 视野修炼
 - 2025/01/05 [视野修炼第116期 | NB Ping](https://sugarat.top/weekly/2025-01-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 一周杂记
 - 2025/01/05 [一周杂记 in Week 1 Jan 2025](http://kingsamchen.github.io/2025/01/06/weekly-2025-jan-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## zdyxry Weekly Issue
-- 2025/01/05 [Weekly Issue- 迎接2025](https://zdyxry.github.io/2025/01/05/Weekly-Issue-%E8%BF%8E%E6%8E%A52025/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## 老胡的信息周刊
 - 2025/01/04 [01-01~01-05.老胡的周刊（第174期）.md](https://weekly.howie6879.com/2025/01-01~01-05.老胡的周刊（第174期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/01/04 [【CDT周报】第201期：治大国如反美亲美，下次反美静候通知](https://chinadigitaltimes.net/chinese/714629.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## CyberClip
 - 2025/01/04 [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/) | [More](channels/CyberClip.md)
@@ -93,9 +99,6 @@
 ## 大橘和朋友们的周刊
 - 2024/12/22 [第023期 - 游象鼻山](https://rrorangeandfriends.site/posts/2024/023) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
-## 猫鱼周刊
-- 2024/12/22 [猫鱼周刊 vol. 052 OpenAI 也翻车，基础设施暴雷](https://ameow.xyz/archives/weekly-052) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -114,14 +117,14 @@
 ## 涛然自得周刊
 - 2024/11/16 [鸟枪换炮，再也没有拖延的借口了！](http://heyitao.com/post/new-macbook-pro-m4-pro) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
 
-## PIVOT
-- 2024/11/15 [PIVOT Vol.10 写作、思考、辩论](https://anotherdayu.com/2024/6059/) | [More](channels/PIVOT.md)
-
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

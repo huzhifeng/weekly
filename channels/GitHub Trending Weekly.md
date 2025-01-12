@@ -1,3 +1,5 @@
+- [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)
+- [zasper-io/zasper](https://github.com/zasper-io/zasper)
 - [Canner/WrenAI](https://github.com/Canner/WrenAI)
 - [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx)
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
