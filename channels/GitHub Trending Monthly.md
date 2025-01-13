@@ -1,3 +1,4 @@
+- [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi)
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
