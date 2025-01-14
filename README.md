@@ -1,10 +1,16 @@
 # 周刊
 
+## 壹苇可航
+- 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
 ## 科技爱好者周刊
 - 2025/01/10 [科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 壹苇可航
-- 2024/12/30 [Vol.94 新年快乐](https://letter.justgoidea.com/p/2024032) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+## GitHub Trending Weekly
+- 2025/01/14 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/14 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 涛然自得周刊
 - 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
@@ -18,14 +24,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/01/13 [9to5Linux Weekly Roundup: January 12th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-12th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/01/13 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/13 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/01/13 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Ubuntu Weekly Newsletter
+- 2025/01/13 [Ubuntu Weekly Newsletter Issue 875](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-875/53236) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/01/12 [猫鱼周刊 vol. 053 2025 新年快乐！](https://ameow.xyz/archives/weekly-053) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -77,9 +77,6 @@
 
 ## Pseudoyu 周报
 - 2025/01/06 [周报 #82 - Brand New Year 与写日记](https://www.pseudoyu.com/zh/2025/01/06/weekly_review_82/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/01/06 [Ubuntu Weekly Newsletter Issue 874](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-874/52734) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 视野修炼
 - 2025/01/05 [视野修炼第116期 | NB Ping](https://sugarat.top/weekly/2025-01-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
