@@ -1,3 +1,5 @@
+- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)
 - [zasper-io/zasper](https://github.com/zasper-io/zasper)
 - [Canner/WrenAI](https://github.com/Canner/WrenAI)

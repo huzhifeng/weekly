@@ -7,10 +7,10 @@
 - 2025/01/10 [科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/01/14 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/15 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/14 [elizaOS/eliza](https://github.com/elizaOS/eliza) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/15 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 涛然自得周刊
 - 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
@@ -125,6 +125,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
