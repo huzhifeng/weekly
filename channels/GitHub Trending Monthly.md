@@ -1,3 +1,4 @@
+- [stanford-oval/storm](https://github.com/stanford-oval/storm)
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi)

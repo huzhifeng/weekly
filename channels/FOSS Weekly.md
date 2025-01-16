@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.03: Mint 22.1 Released, AI in VLC, Dual Boot Myths, Torvalds' Guitar Offer and More](https://itsfoss.com/newsletter/foss-weekly-25-03/)
 - [FOSS Weekly #25.02: Absolute Linux, ShredOS, AI in Kdenlive, Fossify File Manager and More](https://itsfoss.com/newsletter/foss-weekly-25-02/)
 - [FOSS Weekly #25.01: 2 New Free Books, Homelab Dashboards, Plan 9 and More](https://itsfoss.com/newsletter/foss-weekly-25-01/)
 - [FOSS Weekly #24.52: Holiday Special Tuxmas Days](https://itsfoss.com/newsletter/foss-weekly-24-52/)

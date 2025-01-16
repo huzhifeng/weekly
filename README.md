@@ -6,11 +6,23 @@
 ## 科技爱好者周刊
 - 2025/01/10 [科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 奇趣周刊
+- 2025/01/16 [奇趣周刊 - 第 81 期](https://zishu.me/blog/weekly-81.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2025/01/16 [学习周刊-总第194期-2025年第03周](https://wiki.eryajf.net/pages/c3722a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/01/16 [LWN.net Weekly Edition for January 16, 2025](https://lwn.net/Articles/1004544/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/01/16 [FOSS Weekly #25.03: Mint 22.1 Released, AI in VLC, Dual Boot Myths, Torvalds' Guitar Offer and More](https://itsfoss.com/newsletter/foss-weekly-25-03/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/01/15 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/16 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/15 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/16 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 涛然自得周刊
 - 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
@@ -57,15 +69,6 @@
 ## This Week in Self-Hosted
 - 2025/01/10 [This Week in Self-Hosted (10 January 2025)](https://selfh.st/newsletter/2025-01-10/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## 二丫讲梵学习周刊
-- 2025/01/09 [学习周刊-总第193期-2025年第02周](https://wiki.eryajf.net/pages/16a30c/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/01/09 [LWN.net Weekly Edition for January 9, 2025](https://lwn.net/Articles/1003479/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/01/09 [FOSS Weekly #25.02: Absolute Linux, ShredOS, AI in Kdenlive, Fossify File Manager and More](https://itsfoss.com/newsletter/foss-weekly-25-02/) | [More](channels/FOSS%20Weekly.md)
-
 ## 1Link.Fun 科技周刊
 - 2025/01/07 [1Link.Fun 科技周刊 | 第 117 期](https://1link.fun/blog/issue/issue117/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
 
@@ -89,9 +92,6 @@
 
 ## 泰晓资讯
 - 2025/01/03 [泰晓资讯·1 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-01-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 奇趣周刊
-- 2025/01/01 [奇趣周刊 - 第 80 期](https://zishu.me/blog/weekly-80.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2024/12/27 [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [More](channels/HelloGitHub.md)
