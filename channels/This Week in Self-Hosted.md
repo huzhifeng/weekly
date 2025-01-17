@@ -1,3 +1,4 @@
+- [This Week in Self-Hosted (17 January 2025)](https://selfh.st/newsletter/2025-01-17/)
 - [This Week in Self-Hosted (10 January 2025)](https://selfh.st/newsletter/2025-01-10/)
 - [This Week in Self-Hosted (3 January 2025)](https://selfh.st/newsletter/2025-01-03/)
 - [This Week in Self-Hosted (27 December 2024)](https://selfh.st/newsletter/2024-12-27/)

@@ -1,10 +1,25 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2025/01/17 [科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2025/01/10 [科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2025/01/17 [Web Review, Week 2025-03](https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/01/17 [#183 Updated Flatpak](https://thisweek.gnome.org/posts/2025/01/twig-183/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/01/17 [This Week in Self-Hosted (17 January 2025)](https://selfh.st/newsletter/2025-01-17/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/01/17 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/17 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 奇趣周刊
 - 2025/01/16 [奇趣周刊 - 第 81 期](https://zishu.me/blog/weekly-81.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -17,12 +32,6 @@
 
 ## FOSS Weekly
 - 2025/01/16 [FOSS Weekly #25.03: Mint 22.1 Released, AI in VLC, Dual Boot Myths, Torvalds' Guitar Offer and More](https://itsfoss.com/newsletter/foss-weekly-25-03/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/01/16 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/16 [cline/cline](https://github.com/cline/cline) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 涛然自得周刊
 - 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
@@ -59,15 +68,6 @@
 
 ## PIVOT
 - 2025/01/12 [PIVOT Vol.11 推荐几个macOS软件](https://anotherdayu.com/2025/6445/) | [More](channels/PIVOT.md)
-
-## Web Review
-- 2025/01/10 [Web Review, Week 2025-02](https://ervin.ipsquad.net/blog/2025/01/10/web-review-week-2025-02/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/01/10 [#182 Updated Crypto](https://thisweek.gnome.org/posts/2025/01/twig-182/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/01/10 [This Week in Self-Hosted (10 January 2025)](https://selfh.st/newsletter/2025-01-10/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 1Link.Fun 科技周刊
 - 2025/01/07 [1Link.Fun 科技周刊 | 第 117 期](https://1link.fun/blog/issue/issue117/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)

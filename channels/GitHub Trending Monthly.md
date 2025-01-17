@@ -1,3 +1,5 @@
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm)
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl)
