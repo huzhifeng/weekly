@@ -1,3 +1,4 @@
+- [browserbase/stagehand](https://github.com/browserbase/stagehand)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm)

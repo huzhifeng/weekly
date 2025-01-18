@@ -1,3 +1,6 @@
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)

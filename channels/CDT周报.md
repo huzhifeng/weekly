@@ -1,3 +1,4 @@
+- [【CDT周报】第203期：韩国人在上海，美国人在小红书，中国人在缅甸](https://chinadigitaltimes.net/chinese/715153.html)
 - [【CDT周报】第202期：我拿出怀里的中国护照，对方却说你可以优先入园](https://chinadigitaltimes.net/chinese/714861.html)
 - [【CDT周报】第201期：治大国如反美亲美，下次反美静候通知](https://chinadigitaltimes.net/chinese/714629.html)
 - [【CDT周报】第200期：“如何让女人老老实实、服服帖帖生孩子”](https://chinadigitaltimes.net/chinese/714231.html)
