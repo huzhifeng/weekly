@@ -1,3 +1,4 @@
+- [027期--浮躁的AI编程](https://fav0.com/posts/2025/027)
 - [026期--独立开发营销](https://fav0.com/posts/2025/026)
 - [025期--AI时代更需要模板](https://fav0.com/posts/2024/025)
 - [024期--副业项目困扰我](https://fav0.com/posts/2024/024)

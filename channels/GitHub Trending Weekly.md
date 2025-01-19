@@ -1,3 +1,4 @@
+- [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS)
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
 - [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)

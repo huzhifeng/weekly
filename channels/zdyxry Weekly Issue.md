@@ -1,3 +1,4 @@
+- [Weekly Issue-《坐在角落的人》](https://zdyxry.github.io/2025/01/19/Weekly-Issue-%E5%9D%90%E5%9C%A8%E8%A7%92%E8%90%BD%E7%9A%84%E4%BA%BA/)
 - [Weekly Issue-《冬泳》](https://zdyxry.github.io/2025/01/12/Weekly-Issue-%E5%86%AC%E6%B3%B3/)
 - [Weekly Issue- 迎接2025](https://zdyxry.github.io/2025/01/05/Weekly-Issue-%E8%BF%8E%E6%8E%A52025/)
 - [Weekly Issue-《一往无前》](https://zdyxry.github.io/2024/12/29/Weekly-Issue-%E4%B8%80%E5%BE%80%E6%97%A0%E5%89%8D/)

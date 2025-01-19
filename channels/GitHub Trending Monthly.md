@@ -1,3 +1,6 @@
+- [n8n-io/n8n](https://github.com/n8n-io/n8n)
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby)

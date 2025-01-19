@@ -1,3 +1,4 @@
+- [AIGC Weekly #106](https://quaily.com/op7418/p/aigc-weekly-106)
 - [AIGC Weekly #105](https://quaily.com/op7418/p/aigc-weekly-105)
 - [AIGC Weekly #104 元旦依旧没啥内容](https://quaily.com/op7418/p/aigc-weekly-104-yuan-dan-yi-jiu-mei-sha-nei-rong)
 - [AIGC Weekly #103 圣诞节没啥内容](https://quaily.com/op7418/p/aigc-weekly-103-christmas-no-content)
