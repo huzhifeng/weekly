@@ -1,3 +1,5 @@
+- [vikhyat/moondream](https://github.com/vikhyat/moondream)
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS)
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
