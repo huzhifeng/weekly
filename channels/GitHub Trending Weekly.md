@@ -1,3 +1,5 @@
+- [ton-blockchain/ton](https://github.com/ton-blockchain/ton)
+- [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS)
 - [vikhyat/moondream](https://github.com/vikhyat/moondream)
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS)

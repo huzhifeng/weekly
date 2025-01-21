@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/01/21 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/21 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## DistroWatch Weekly
 - 2025/01/20 [DistroWatch Weekly, Issue 1105](https://distrowatch.com/weekly.php?issue=20250120) | [More](channels/DistroWatch%20Weekly.md)
 
@@ -14,12 +20,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/01/20 [Ubuntu Weekly Newsletter Issue 876](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-876/53650) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/01/20 [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/20 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## FAV0周刊
 - 2025/01/19 [027期--浮躁的AI编程](https://fav0.com/posts/2025/027) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
@@ -125,9 +125,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
