@@ -1,3 +1,4 @@
+- [Canner/WrenAI](https://github.com/Canner/WrenAI)
 - [OpenSPG/KAG](https://github.com/OpenSPG/KAG)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n)
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)

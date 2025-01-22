@@ -6,11 +6,17 @@
 ## 壹苇可航
 - 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 胡言乱语
+- 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2025/01/22 [学习周刊-总第195期-2025年第04周](https://wiki.eryajf.net/pages/892f1a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/01/21 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/22 [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/21 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/22 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## DistroWatch Weekly
 - 2025/01/20 [DistroWatch Weekly, Issue 1105](https://distrowatch.com/weekly.php?issue=20250120) | [More](channels/DistroWatch%20Weekly.md)
@@ -63,9 +69,6 @@
 ## 奇趣周刊
 - 2025/01/16 [奇趣周刊 - 第 81 期](https://zishu.me/blog/weekly-81.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
-## 二丫讲梵学习周刊
-- 2025/01/16 [学习周刊-总第194期-2025年第03周](https://wiki.eryajf.net/pages/c3722a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## LWN.net Weekly Edition
 - 2025/01/16 [LWN.net Weekly Edition for January 16, 2025](https://lwn.net/Articles/1004544/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
@@ -95,9 +98,6 @@
 
 ## HelloGitHub
 - 2024/12/27 [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [More](channels/HelloGitHub.md)
-
-## 胡言乱语
-- 2024/12/23 [20241223的胡言乱语](https://www.bboy.app/2024/12/23/20241223%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 独立开发者出海周刊
 - 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)

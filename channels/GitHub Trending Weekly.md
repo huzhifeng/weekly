@@ -1,3 +1,4 @@
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 - [ton-blockchain/ton](https://github.com/ton-blockchain/ton)
 - [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS)
 - [vikhyat/moondream](https://github.com/vikhyat/moondream)
