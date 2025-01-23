@@ -6,17 +6,23 @@
 ## 壹苇可航
 - 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## LWN.net Weekly Edition
+- 2025/01/23 [LWN.net Weekly Edition for January 23, 2025](https://lwn.net/Articles/1005296/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/01/23 [FOSS Weekly #25.04: Must-know Jargon, Kernel 6.13 Released, Mint 22.1, WINE 10 and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-04/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/01/23 [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/23 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 胡言乱语
 - 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 二丫讲梵学习周刊
 - 2025/01/22 [学习周刊-总第195期-2025年第04周](https://wiki.eryajf.net/pages/892f1a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2025/01/22 [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/22 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## DistroWatch Weekly
 - 2025/01/20 [DistroWatch Weekly, Issue 1105](https://distrowatch.com/weekly.php?issue=20250120) | [More](channels/DistroWatch%20Weekly.md)
@@ -69,12 +75,6 @@
 ## 奇趣周刊
 - 2025/01/16 [奇趣周刊 - 第 81 期](https://zishu.me/blog/weekly-81.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
 
-## LWN.net Weekly Edition
-- 2025/01/16 [LWN.net Weekly Edition for January 16, 2025](https://lwn.net/Articles/1004544/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/01/16 [FOSS Weekly #25.03: Mint 22.1 Released, AI in VLC, Dual Boot Myths, Torvalds' Guitar Offer and More](https://itsfoss.com/newsletter/foss-weekly-25-03/) | [More](channels/FOSS%20Weekly.md)
-
 ## 虹线周刊
 - 2025/01/13 [2025#02 今年的序章](https://weekly.1q43.blog/article/178ca795c95680a4bbaae2cb2e004d5b) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
@@ -125,6 +125,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
