@@ -1,3 +1,4 @@
+- [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
 - [bytedance/monolith](https://github.com/bytedance/monolith)
 - [Canner/WrenAI](https://github.com/Canner/WrenAI)
