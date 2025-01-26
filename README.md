@@ -6,11 +6,14 @@
 ## 壹苇可航
 - 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## CDT周报
+- 2025/01/26 [【CDT周报】第204期：麻药不睡、血压不降、泻药不泻](https://chinadigitaltimes.net/chinese/715361.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
 ## GitHub Trending Weekly
-- 2025/01/25 [teableio/teable](https://github.com/teableio/teable) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/26 [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/25 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/26 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/01/24 [Web Review, Week 2025-04](https://ervin.ipsquad.net/blog/2025/01/24/web-review-week-2025-04/) | [More](channels/Web%20Review.md)
@@ -35,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2025/01/20 [DistroWatch Weekly, Issue 1105](https://distrowatch.com/weekly.php?issue=20250120) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/01/20 [9to5Linux Weekly Roundup: January 19th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-19th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/01/20 [Ubuntu Weekly Newsletter Issue 876](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-876/53650) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -68,9 +68,6 @@
 
 ## 老胡的信息周刊
 - 2025/01/18 [01-06~01-19.老胡的周刊（第175期）.md](https://weekly.howie6879.com/2025/01-06~01-19.老胡的周刊（第175期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/01/18 [【CDT周报】第203期：韩国人在上海，美国人在小红书，中国人在缅甸](https://chinadigitaltimes.net/chinese/715153.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 奇趣周刊
 - 2025/01/16 [奇趣周刊 - 第 81 期](https://zishu.me/blog/weekly-81.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -125,9 +122,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
