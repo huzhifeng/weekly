@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/01/28 [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/28 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 大橘和朋友们的周刊
 - 2025/01/27 [第025期 - 鸥舞湖澜](https://rrorangeandfriends.site/posts/2025/025) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
@@ -18,11 +24,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/01/27 [9to5Linux Weekly Roundup: January 26th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-january-26th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/01/27 [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/27 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/01/27 [Ubuntu Weekly Newsletter Issue 877](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-877/54123) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## CDT周报
 - 2025/01/26 [【CDT周报】第204期：麻药不睡、血压不降、泻药不泻](https://chinadigitaltimes.net/chinese/715361.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -56,9 +59,6 @@
 
 ## 虹线周刊
 - 2025/01/20 [2025#03 赛博免签](https://weekly.1q43.blog/article/17dca795c956808cb8fcc3f3a8b00b2d) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/01/20 [Ubuntu Weekly Newsletter Issue 876](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-876/53650) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## FAV0周刊
 - 2025/01/19 [027期--浮躁的AI编程](https://fav0.com/posts/2025/027) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
