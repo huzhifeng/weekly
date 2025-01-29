@@ -6,11 +6,17 @@
 ## 壹苇可航
 - 2025/01/14 [Vol.95 观点与视角](https://letter.justgoidea.com/p/2025001) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/01/29 [学习周刊-总第196期-2025年第05周](https://wiki.eryajf.net/pages/4fb5cc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## PIVOT
+- 2025/01/29 [PIVOT Vol.12 新年快乐呀！](https://anotherdayu.com/2025/6506/) | [More](channels/PIVOT.md)
+
 ## GitHub Trending Weekly
-- 2025/01/28 [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/01/29 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/01/28 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/01/29 [browserbase/stagehand](https://github.com/browserbase/stagehand) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 大橘和朋友们的周刊
 - 2025/01/27 [第025期 - 鸥舞湖澜](https://rrorangeandfriends.site/posts/2025/025) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -54,9 +60,6 @@
 ## 胡言乱语
 - 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 二丫讲梵学习周刊
-- 2025/01/22 [学习周刊-总第195期-2025年第04周](https://wiki.eryajf.net/pages/892f1a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## 虹线周刊
 - 2025/01/20 [2025#03 赛博免签](https://weekly.1q43.blog/article/17dca795c956808cb8fcc3f3a8b00b2d) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
@@ -89,9 +92,6 @@
 
 ## 潮流周刊
 - 2025/01/13 [第208期 - 配新电脑](https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## PIVOT
-- 2025/01/12 [PIVOT Vol.11 推荐几个macOS软件](https://anotherdayu.com/2025/6445/) | [More](channels/PIVOT.md)
 
 ## 1Link.Fun 科技周刊
 - 2025/01/07 [1Link.Fun 科技周刊 | 第 117 期](https://1link.fun/blog/issue/issue117/) | [More](channels/1Link.Fun%20%E7%A7%91%E6%8A%80%E5%91%A8%E5%88%8A.md)
