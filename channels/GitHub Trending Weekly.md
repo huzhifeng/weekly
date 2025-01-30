@@ -1,3 +1,4 @@
+- [oven-sh/bun](https://github.com/oven-sh/bun)
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 - [yorukot/superfile](https://github.com/yorukot/superfile)

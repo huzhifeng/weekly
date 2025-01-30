@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.05: LibreOffice Tip, Launcher Customization, Moving Away from Google and More](https://itsfoss.com/newsletter/foss-weekly-25-05/)
 - [FOSS Weekly #25.04: Must-know Jargon, Kernel 6.13 Released, Mint 22.1, WINE 10 and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-04/)
 - [FOSS Weekly #25.03: Mint 22.1 Released, AI in VLC, Dual Boot Myths, Torvalds' Guitar Offer and More](https://itsfoss.com/newsletter/foss-weekly-25-03/)
 - [FOSS Weekly #25.02: Absolute Linux, ShredOS, AI in Kdenlive, Fossify File Manager and More](https://itsfoss.com/newsletter/foss-weekly-25-02/)

@@ -1,3 +1,4 @@
+- [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
