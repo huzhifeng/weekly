@@ -1,3 +1,4 @@
+- [#185 Adwaita Sans](https://thisweek.gnome.org/posts/2025/01/twig-185/)
 - [#184 Upcoming Freeze](https://thisweek.gnome.org/posts/2025/01/twig-184/)
 - [#183 Updated Flatpak](https://thisweek.gnome.org/posts/2025/01/twig-183/)
 - [#182 Updated Crypto](https://thisweek.gnome.org/posts/2025/01/twig-182/)

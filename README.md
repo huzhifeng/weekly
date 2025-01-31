@@ -6,20 +6,29 @@
 ## 科技爱好者周刊
 - 2025/01/24 [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Web Review
+- 2025/01/31 [Web Review, Week 2025-05](https://ervin.ipsquad.net/blog/2025/01/31/web-review-week-2025-05/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/01/31 [#185 Adwaita Sans](https://thisweek.gnome.org/posts/2025/01/twig-185/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/01/31 [This Week in Self-Hosted (31 January 2025)](https://selfh.st/newsletter/2025-01-31/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/01/31 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/01/31 [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/01/31 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## LWN.net Weekly Edition
 - 2025/01/30 [LWN.net Weekly Edition for January 30, 2025](https://lwn.net/Articles/1005953/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2025/01/30 [FOSS Weekly #25.05: LibreOffice Tip, Launcher Customization, Moving Away from Google and More](https://itsfoss.com/newsletter/foss-weekly-25-05/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/01/30 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/30 [browserbase/stagehand](https://github.com/browserbase/stagehand) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/01/30 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 二丫讲梵学习周刊
 - 2025/01/29 [学习周刊-总第196期-2025年第05周](https://wiki.eryajf.net/pages/4fb5cc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -50,15 +59,6 @@
 
 ## zdyxry Weekly Issue
 - 2025/01/26 [Weekly Issue-使用PydanticAI修复中文拼写错误](https://zdyxry.github.io/2025/01/26/Weekly-Issue-%E4%BD%BF%E7%94%A8PydanticAI%E4%BF%AE%E5%A4%8D%E4%B8%AD%E6%96%87%E6%8B%BC%E5%86%99%E9%94%99%E8%AF%AF/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## Web Review
-- 2025/01/24 [Web Review, Week 2025-04](https://ervin.ipsquad.net/blog/2025/01/24/web-review-week-2025-04/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/01/24 [#184 Upcoming Freeze](https://thisweek.gnome.org/posts/2025/01/twig-184/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/01/24 [This Week in Self-Hosted (24 January 2025)](https://selfh.st/newsletter/2025-01-24/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 胡言乱语
 - 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

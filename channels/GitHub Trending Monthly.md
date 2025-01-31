@@ -1,3 +1,6 @@
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox)
