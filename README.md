@@ -6,6 +6,12 @@
 ## 科技爱好者周刊
 - 2025/01/24 [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2025/02/01 [exo-explore/exo](https://github.com/exo-explore/exo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/01 [browser-use/browser-use](https://github.com/browser-use/browser-use) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/01/31 [Web Review, Week 2025-05](https://ervin.ipsquad.net/blog/2025/01/31/web-review-week-2025-05/) | [More](channels/Web%20Review.md)
 
@@ -14,15 +20,6 @@
 
 ## This Week in Self-Hosted
 - 2025/01/31 [This Week in Self-Hosted (31 January 2025)](https://selfh.st/newsletter/2025-01-31/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/01/31 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/01/31 [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/01/31 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## LWN.net Weekly Edition
 - 2025/01/30 [LWN.net Weekly Edition for January 30, 2025](https://lwn.net/Articles/1005953/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -128,6 +125,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

@@ -1,3 +1,5 @@
+- [browser-use/browser-use](https://github.com/browser-use/browser-use)
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 - [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)

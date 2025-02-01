@@ -1,3 +1,6 @@
+- [exo-explore/exo](https://github.com/exo-explore/exo)
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [oven-sh/bun](https://github.com/oven-sh/bun)
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
