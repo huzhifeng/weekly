@@ -1,3 +1,5 @@
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+- [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
 - [exo-explore/exo](https://github.com/exo-explore/exo)
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui)

@@ -6,11 +6,17 @@
 ## 科技爱好者周刊
 - 2025/01/24 [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Pseudoyu 周报
+- 2025/02/02 [周报 #85 - 京华烟云 Moment in Peking](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_85/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## zdyxry Weekly Issue
+- 2025/02/02 [Weekly Issue-喜迎春节](https://zdyxry.github.io/2025/02/02/Weekly-Issue-%E5%96%9C%E8%BF%8E%E6%98%A5%E8%8A%82/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## GitHub Trending Weekly
-- 2025/02/01 [exo-explore/exo](https://github.com/exo-explore/exo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/02/02 [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/02/01 [browser-use/browser-use](https://github.com/browser-use/browser-use) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/02/02 [browser-use/browser-use](https://github.com/browser-use/browser-use) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/01/31 [Web Review, Week 2025-05](https://ervin.ipsquad.net/blog/2025/01/31/web-review-week-2025-05/) | [More](channels/Web%20Review.md)
@@ -54,9 +60,6 @@
 ## 一周杂记
 - 2025/01/26 [一周杂记 in Week 4 Jan 2025](http://kingsamchen.github.io/2025/01/26/weekly-2025-jan-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## zdyxry Weekly Issue
-- 2025/01/26 [Weekly Issue-使用PydanticAI修复中文拼写错误](https://zdyxry.github.io/2025/01/26/Weekly-Issue-%E4%BD%BF%E7%94%A8PydanticAI%E4%BF%AE%E5%A4%8D%E4%B8%AD%E6%96%87%E6%8B%BC%E5%86%99%E9%94%99%E8%AF%AF/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## 胡言乱语
 - 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -74,9 +77,6 @@
 
 ## 视野修炼
 - 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## Pseudoyu 周报
-- 2025/01/19 [周报 #83 - 年初收纳（房间、设备、服务、软件）](https://www.pseudoyu.com/zh/2025/01/20/weekly_review_83/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
 - 2025/01/19 [AIGC Weekly #106](https://quaily.com/op7418/p/aigc-weekly-106) | [More](channels/AIGC%20Weekly.md)
