@@ -1,3 +1,6 @@
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+- [ollama/ollama](https://github.com/ollama/ollama)
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
 - [browser-use/browser-use](https://github.com/browser-use/browser-use)
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)

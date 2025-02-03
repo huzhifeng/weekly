@@ -1,3 +1,4 @@
+- [周报 #86 - 用影像打败时间](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86/)
 - [周报 #85 - 京华烟云 Moment in Peking](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_85/)
 - [周报 #84 - 想起他们 Echos of Reverie](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_84/)
 - [周报 #83 - 年初收纳（房间、设备、服务、软件）](https://www.pseudoyu.com/zh/2025/01/20/weekly_review_83/)
