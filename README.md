@@ -6,6 +6,18 @@
 ## 科技爱好者周刊
 - 2025/01/24 [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2025/02/04 [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/04 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/02/04 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Taxodium
+- 2025/02/03 [Weekly#24](https://taxodium.ink/24.html) | [More](channels/Taxodium.md)
+
 ## AIGC Weekly
 - 2025/02/03 [AIGC Weekly #107](https://quaily.com/op7418/p/aigc-weekly-107) | [More](channels/AIGC%20Weekly.md)
 
@@ -15,14 +27,14 @@
 ## 9to5Linux Weekly Roundup
 - 2025/02/03 [9to5Linux Weekly Roundup: February 2nd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-2nd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/02/03 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/03 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/02/03 [Ubuntu Weekly Newsletter Issue 878](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-878/54544) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2025/02/02 [周报 #86 - 用影像打败时间](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/02/02 [一周杂记 in Week 5 Jan 2025](http://kingsamchen.github.io/2025/02/03/weekly-2025-jan-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## zdyxry Weekly Issue
 - 2025/02/02 [Weekly Issue-喜迎春节](https://zdyxry.github.io/2025/02/02/Weekly-Issue-%E5%96%9C%E8%BF%8E%E6%98%A5%E8%8A%82/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -57,14 +69,8 @@
 ## HelloGitHub
 - 2025/01/27 [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106) | [More](channels/HelloGitHub.md)
 
-## Ubuntu Weekly Newsletter
-- 2025/01/27 [Ubuntu Weekly Newsletter Issue 877](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-877/54123) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## CDT周报
 - 2025/01/26 [【CDT周报】第204期：麻药不睡、血压不降、泻药不泻](https://chinadigitaltimes.net/chinese/715361.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/01/26 [一周杂记 in Week 4 Jan 2025](http://kingsamchen.github.io/2025/01/26/weekly-2025-jan-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 胡言乱语
 - 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -77,9 +83,6 @@
 
 ## 猫鱼周刊
 - 2025/01/19 [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## Taxodium
-- 2025/01/19 [Weekly#23](https://taxodium.ink/23.html) | [More](channels/Taxodium.md)
 
 ## 视野修炼
 - 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
