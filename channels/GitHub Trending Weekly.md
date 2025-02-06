@@ -1,3 +1,4 @@
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)

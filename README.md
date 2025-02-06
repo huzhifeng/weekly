@@ -3,14 +3,20 @@
 ## 壹苇可航
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2025/01/24 [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 二丫讲梵学习周刊
+- 2025/02/06 [学习周刊-总第197期-2025年第06周](https://wiki.eryajf.net/pages/6a3f6a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/02/06 [LWN.net Weekly Edition for February 6, 2025](https://lwn.net/Articles/1007000/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/02/06 [FOSS Weekly #25.06: Linux inside PDF file, Missing Windows from Grub, GTK Drops X11 and More](https://itsfoss.com/newsletter/foss-weekly-25-06/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/02/05 [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/02/06 [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/02/05 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/02/06 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Taxodium
 - 2025/02/03 [Weekly#24](https://taxodium.ink/24.html) | [More](channels/Taxodium.md)
@@ -48,15 +54,6 @@
 ## This Week in Self-Hosted
 - 2025/01/31 [This Week in Self-Hosted (31 January 2025)](https://selfh.st/newsletter/2025-01-31/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## LWN.net Weekly Edition
-- 2025/01/30 [LWN.net Weekly Edition for January 30, 2025](https://lwn.net/Articles/1005953/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/01/30 [FOSS Weekly #25.05: LibreOffice Tip, Launcher Customization, Moving Away from Google and More](https://itsfoss.com/newsletter/foss-weekly-25-05/) | [More](channels/FOSS%20Weekly.md)
-
-## 二丫讲梵学习周刊
-- 2025/01/29 [学习周刊-总第196期-2025年第05周](https://wiki.eryajf.net/pages/4fb5cc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## PIVOT
 - 2025/01/29 [PIVOT Vol.12 新年快乐呀！](https://anotherdayu.com/2025/6506/) | [More](channels/PIVOT.md)
 
@@ -80,9 +77,6 @@
 
 ## 猫鱼周刊
 - 2025/01/19 [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 老胡的信息周刊
 - 2025/01/18 [01-06~01-19.老胡的周刊（第175期）.md](https://weekly.howie6879.com/2025/01-06~01-19.老胡的周刊（第175期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -122,9 +116,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
