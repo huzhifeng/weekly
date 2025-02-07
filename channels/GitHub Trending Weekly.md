@@ -1,3 +1,4 @@
+- [volcengine/verl](https://github.com/volcengine/verl)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)

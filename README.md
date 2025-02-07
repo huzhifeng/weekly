@@ -1,7 +1,25 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2025/02/07 [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/02/07 [Web Review, Week 2025-06](https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/02/07 [#186 Media Parsing](https://thisweek.gnome.org/posts/2025/02/twig-186/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/02/07 [This Week in Self-Hosted (7 February 2025)](https://selfh.st/newsletter/2025-02-07/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/02/07 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/07 [browser-use/browser-use](https://github.com/browser-use/browser-use) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2025/02/06 [学习周刊-总第197期-2025年第06周](https://wiki.eryajf.net/pages/6a3f6a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -12,12 +30,6 @@
 ## FOSS Weekly
 - 2025/02/06 [FOSS Weekly #25.06: Linux inside PDF file, Missing Windows from Grub, GTK Drops X11 and More](https://itsfoss.com/newsletter/foss-weekly-25-06/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/02/06 [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/06 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## Taxodium
 - 2025/02/03 [Weekly#24](https://taxodium.ink/24.html) | [More](channels/Taxodium.md)
 
@@ -26,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2025/02/03 [DistroWatch Weekly, Issue 1107](https://distrowatch.com/weekly.php?issue=20250203) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/02/03 [9to5Linux Weekly Roundup: February 2nd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-2nd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/02/03 [Ubuntu Weekly Newsletter Issue 878](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-878/54544) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -44,15 +53,6 @@
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/01/31 [Web Review, Week 2025-05](https://ervin.ipsquad.net/blog/2025/01/31/web-review-week-2025-05/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/01/31 [#185 Adwaita Sans](https://thisweek.gnome.org/posts/2025/01/twig-185/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/01/31 [This Week in Self-Hosted (31 January 2025)](https://selfh.st/newsletter/2025-01-31/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## PIVOT
 - 2025/01/29 [PIVOT Vol.12 新年快乐呀！](https://anotherdayu.com/2025/6506/) | [More](channels/PIVOT.md)
@@ -75,8 +75,8 @@
 ## FAV0周刊
 - 2025/01/19 [027期--浮躁的AI编程](https://fav0.com/posts/2025/027) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
-## 猫鱼周刊
-- 2025/01/19 [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+## 视野修炼
+- 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 老胡的信息周刊
 - 2025/01/18 [01-06~01-19.老胡的周刊（第175期）.md](https://weekly.howie6879.com/2025/01-06~01-19.老胡的周刊（第175期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -116,6 +116,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
