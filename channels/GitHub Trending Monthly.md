@@ -1,3 +1,4 @@
+- [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
 - [ollama/ollama](https://github.com/ollama/ollama)

@@ -1,3 +1,4 @@
+- [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)
 - [volcengine/verl](https://github.com/volcengine/verl)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
