@@ -6,6 +6,24 @@
 ## 壹苇可航
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## CDT周报
+- 2025/02/10 [【CDT周报】第205期：今有“州官半夜撬锁，强迫百姓点灯”](https://chinadigitaltimes.net/chinese/715683.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2025/02/10 [AIGC Weekly #108](https://quaily.com/op7418/p/aigc-weekly-108) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/02/10 [DistroWatch Weekly, Issue 1108](https://distrowatch.com/weekly.php?issue=20250210) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/02/10 [9to5Linux Weekly Roundup: February 9th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-9th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2025/02/10 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/10 [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/02/09 [第209期 - 又是一年](https://weekly.tw93.fun/posts/209-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,11 +33,11 @@
 ## 猫鱼周刊
 - 2025/02/09 [猫鱼周刊 vol. 055 城市旅游就是打卡吗？](https://ameow.xyz/archives/weekly-055) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/02/09 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 一周杂记
+- 2025/02/09 [一周杂记 in Week 1 Feb 2025](http://kingsamchen.github.io/2025/02/09/weekly-2025-feb-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## GitHub Trending Monthly
-- 2025/02/09 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+## zdyxry Weekly Issue
+- 2025/02/09 [Weekly Issue-《我用中文做了场梦》](https://zdyxry.github.io/2025/02/09/Weekly-Issue-%E6%88%91%E7%94%A8%E4%B8%AD%E6%96%87%E5%81%9A%E4%BA%86%E5%9C%BA%E6%A2%A6/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2025/02/07 [01-20~02-08.老胡的周刊（第176期）.md](https://weekly.howie6879.com/2025/01-20~02-08.老胡的周刊（第176期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -45,23 +63,11 @@
 ## Taxodium
 - 2025/02/03 [Weekly#24](https://taxodium.ink/24.html) | [More](channels/Taxodium.md)
 
-## AIGC Weekly
-- 2025/02/03 [AIGC Weekly #107](https://quaily.com/op7418/p/aigc-weekly-107) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/02/03 [DistroWatch Weekly, Issue 1107](https://distrowatch.com/weekly.php?issue=20250203) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/02/03 [Ubuntu Weekly Newsletter Issue 878](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-878/54544) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2025/02/02 [周报 #86 - 用影像打败时间](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/02/02 [一周杂记 in Week 5 Jan 2025](http://kingsamchen.github.io/2025/02/03/weekly-2025-jan-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2025/02/02 [Weekly Issue-喜迎春节](https://zdyxry.github.io/2025/02/02/Weekly-Issue-%E5%96%9C%E8%BF%8E%E6%98%A5%E8%8A%82/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
@@ -74,9 +80,6 @@
 
 ## HelloGitHub
 - 2025/01/27 [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106) | [More](channels/HelloGitHub.md)
-
-## CDT周报
-- 2025/01/26 [【CDT周报】第204期：麻药不睡、血压不降、泻药不泻](https://chinadigitaltimes.net/chinese/715361.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 胡言乱语
 - 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

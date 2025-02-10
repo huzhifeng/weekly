@@ -1,3 +1,4 @@
+- [【CDT周报】第205期：今有“州官半夜撬锁，强迫百姓点灯”](https://chinadigitaltimes.net/chinese/715683.html)
 - [【CDT周报】第204期：麻药不睡、血压不降、泻药不泻](https://chinadigitaltimes.net/chinese/715361.html)
 - [【CDT周报】第203期：韩国人在上海，美国人在小红书，中国人在缅甸](https://chinadigitaltimes.net/chinese/715153.html)
 - [【CDT周报】第202期：我拿出怀里的中国护照，对方却说你可以优先入园](https://chinadigitaltimes.net/chinese/714861.html)

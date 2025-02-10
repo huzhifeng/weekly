@@ -1,3 +1,5 @@
+- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
