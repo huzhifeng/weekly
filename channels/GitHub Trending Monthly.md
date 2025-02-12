@@ -1,3 +1,4 @@
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui)

@@ -7,10 +7,10 @@
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
 ## GitHub Trending Weekly
-- 2025/02/11 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/02/12 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/02/11 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/02/12 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2025/02/10 [【CDT周报】第205期：今有“州官半夜撬锁，强迫百姓点灯”](https://chinadigitaltimes.net/chinese/715683.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -122,9 +122,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
