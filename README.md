@@ -6,11 +6,20 @@
 ## 壹苇可航
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/02/13 [学习周刊-总第198期-2025年第07周](https://wiki.eryajf.net/pages/b803dc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/02/13 [LWN.net Weekly Edition for February 13, 2025](https://lwn.net/Articles/1008279/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/02/13 [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/02/12 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/02/13 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/02/12 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/02/13 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2025/02/10 [【CDT周报】第205期：今有“州官半夜撬锁，强迫百姓点灯”](https://chinadigitaltimes.net/chinese/715683.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -54,15 +63,6 @@
 ## This Week in Self-Hosted
 - 2025/02/07 [This Week in Self-Hosted (7 February 2025)](https://selfh.st/newsletter/2025-02-07/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## 二丫讲梵学习周刊
-- 2025/02/06 [学习周刊-总第197期-2025年第06周](https://wiki.eryajf.net/pages/6a3f6a/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/02/06 [LWN.net Weekly Edition for February 6, 2025](https://lwn.net/Articles/1007000/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/02/06 [FOSS Weekly #25.06: Linux inside PDF file, Missing Windows from Grub, GTK Drops X11 and More](https://itsfoss.com/newsletter/foss-weekly-25-06/) | [More](channels/FOSS%20Weekly.md)
-
 ## Taxodium
 - 2025/02/03 [Weekly#24](https://taxodium.ink/24.html) | [More](channels/Taxodium.md)
 
@@ -102,6 +102,9 @@
 ## 独立开发者出海周刊
 - 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2024/12/12 [科技創業週報 #462：紐約時報暢銷書作家的12個對未來科技的啟示｜求職好難，求職的PM更難？](https://blog.starrocket.io/posts/newsletter-2024-12-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -114,14 +117,14 @@
 ## 广场周刊
 - 2024/11/23 [广场周刊（回顾篇）：那么平常](https://immmmm.com/weekly-review-2024/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
-## 科技創業週報
-- 2024/11/21 [科技創業週報#459：明知員工會不開心，亞馬遜為何堅持取消WFH？「員工內部信件全文」曝真實原因｜學設計，未必是要成為一名設計師](https://blog.starrocket.io/posts/newsletter-2024-11-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
