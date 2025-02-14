@@ -1,3 +1,4 @@
+- [#187 Triple Buffered Notifications](https://thisweek.gnome.org/posts/2025/02/twig-187/)
 - [#186 Media Parsing](https://thisweek.gnome.org/posts/2025/02/twig-186/)
 - [#185 Adwaita Sans](https://thisweek.gnome.org/posts/2025/01/twig-185/)
 - [#184 Upcoming Freeze](https://thisweek.gnome.org/posts/2025/01/twig-184/)

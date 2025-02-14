@@ -1,3 +1,5 @@
+- [labring/FastGPT](https://github.com/labring/FastGPT)
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)
 - [volcengine/verl](https://github.com/volcengine/verl)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)

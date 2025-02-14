@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/02/07 [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/02/14 [科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/02/14 [Web Review, Week 2025-07](https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/02/14 [#187 Triple Buffered Notifications](https://thisweek.gnome.org/posts/2025/02/twig-187/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/02/14 [This Week in Self-Hosted (14 February 2025)](https://selfh.st/newsletter/2025-02-14/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/02/14 [labring/FastGPT](https://github.com/labring/FastGPT) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/14 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2025/02/13 [学习周刊-总第198期-2025年第07周](https://wiki.eryajf.net/pages/b803dc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/02/13 [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/02/13 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/13 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2025/02/10 [【CDT周报】第205期：今有“州官半夜撬锁，强迫百姓点灯”](https://chinadigitaltimes.net/chinese/715683.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -54,14 +63,8 @@
 ## 老胡的信息周刊
 - 2025/02/07 [01-20~02-08.老胡的周刊（第176期）.md](https://weekly.howie6879.com/2025/01-20~02-08.老胡的周刊（第176期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2025/02/07 [Web Review, Week 2025-06](https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/02/07 [#186 Media Parsing](https://thisweek.gnome.org/posts/2025/02/twig-186/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/02/07 [This Week in Self-Hosted (7 February 2025)](https://selfh.st/newsletter/2025-02-07/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+## 科技創業週報
+- 2025/02/06 [科技創業週報 #468：Meta：DeepSeek 技術帶來新靈感｜AI 市場風暴：DeepSeek 與 AI 推理新時代](https://blog.starrocket.io/posts/newsletter-2025-02-05/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## Taxodium
 - 2025/02/03 [Weekly#24](https://taxodium.ink/24.html) | [More](channels/Taxodium.md)
@@ -101,9 +104,6 @@
 
 ## 独立开发者出海周刊
 - 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2024/12/12 [科技創業週報 #462：紐約時報暢銷書作家的12個對未來科技的啟示｜求職好難，求職的PM更難？](https://blog.starrocket.io/posts/newsletter-2024-12-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
