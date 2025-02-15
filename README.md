@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/02/15 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/15 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 大橘和朋友们的周刊
+- 2025/02/14 [第026期 - 暮野灵猴](https://rrorangeandfriends.site/posts/2025/026) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
 ## Web Review
 - 2025/02/14 [Web Review, Week 2025-07](https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +23,6 @@
 
 ## This Week in Self-Hosted
 - 2025/02/14 [This Week in Self-Hosted (14 February 2025)](https://selfh.st/newsletter/2025-02-14/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/02/14 [labring/FastGPT](https://github.com/labring/FastGPT) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/14 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2025/02/13 [学习周刊-总第198期-2025年第07周](https://wiki.eryajf.net/pages/b803dc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -78,9 +81,6 @@
 ## PIVOT
 - 2025/01/29 [PIVOT Vol.12 新年快乐呀！](https://anotherdayu.com/2025/6506/) | [More](channels/PIVOT.md)
 
-## 大橘和朋友们的周刊
-- 2025/01/27 [第025期 - 鸥舞湖澜](https://rrorangeandfriends.site/posts/2025/025) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
 ## HelloGitHub
 - 2025/01/27 [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106) | [More](channels/HelloGitHub.md)
 
@@ -101,9 +101,6 @@
 
 ## CyberClip
 - 2025/01/04 [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/) | [More](channels/CyberClip.md)
-
-## 独立开发者出海周刊
-- 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
