@@ -1,3 +1,4 @@
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
 - [labring/FastGPT](https://github.com/labring/FastGPT)
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
