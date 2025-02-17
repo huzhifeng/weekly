@@ -9,6 +9,18 @@
 ## 潮流周刊
 - 2025/02/17 [第210期 - 震撼烟囱](https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## DistroWatch Weekly
+- 2025/02/17 [DistroWatch Weekly, Issue 1109](https://distrowatch.com/weekly.php?issue=20250217) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/02/17 [9to5Linux Weekly Roundup: February 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-16th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2025/02/17 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/17 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/02/16 [猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？](https://ameow.xyz/archives/weekly-056) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -18,14 +30,14 @@
 ## Taxodium
 - 2025/02/16 [Weekly#25](https://taxodium.ink/25.html) | [More](channels/Taxodium.md)
 
+## 一周杂记
+- 2025/02/16 [一周杂记 in Week 2 Feb 2025](http://kingsamchen.github.io/2025/02/17/weekly-2025-feb-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2025/02/16 [Weekly Issue-《花样年华》](https://zdyxry.github.io/2025/02/16/Weekly-Issue-%E8%8A%B1%E6%A0%B7%E5%B9%B4%E5%8D%8E/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## AIGC Weekly
 - 2025/02/16 [AIGC Weekly #109](https://quaily.com/op7418/p/aigc-weekly-109) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/02/16 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/16 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 老胡的信息周刊
 - 2025/02/15 [02-10~02-16.老胡的周刊（第177期）.md](https://weekly.howie6879.com/2025/02-10~02-16.老胡的周刊（第177期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -51,20 +63,11 @@
 ## FOSS Weekly
 - 2025/02/13 [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/) | [More](channels/FOSS%20Weekly.md)
 
-## DistroWatch Weekly
-- 2025/02/10 [DistroWatch Weekly, Issue 1108](https://distrowatch.com/weekly.php?issue=20250210) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/02/10 [Ubuntu Weekly Newsletter Issue 879](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-879/54975) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## FAV0周刊
 - 2025/02/09 [028期--社交媒体你会使用关注列表吗？](https://fav0.com/posts/2025/028) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2025/02/09 [一周杂记 in Week 1 Feb 2025](http://kingsamchen.github.io/2025/02/09/weekly-2025-feb-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2025/02/09 [Weekly Issue-《我用中文做了场梦》](https://zdyxry.github.io/2025/02/09/Weekly-Issue-%E6%88%91%E7%94%A8%E4%B8%AD%E6%96%87%E5%81%9A%E4%BA%86%E5%9C%BA%E6%A2%A6/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 科技創業週報
 - 2025/02/06 [科技創業週報 #468：Meta：DeepSeek 技術帶來新靈感｜AI 市場風暴：DeepSeek 與 AI 推理新時代](https://blog.starrocket.io/posts/newsletter-2025-02-05/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -116,6 +119,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
