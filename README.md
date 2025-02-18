@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/02/18 [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/18 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/02/17 [第210期 - 震撼烟囱](https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,11 +21,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/02/17 [9to5Linux Weekly Roundup: February 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-february-16th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/02/17 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/17 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/02/17 [Ubuntu Weekly Newsletter Issue 880](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-880/55423) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/02/16 [猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？](https://ameow.xyz/archives/weekly-056) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -62,9 +65,6 @@
 
 ## FOSS Weekly
 - 2025/02/13 [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/) | [More](channels/FOSS%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/02/10 [Ubuntu Weekly Newsletter Issue 879](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-879/54975) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## FAV0周刊
 - 2025/02/09 [028期--社交媒体你会使用关注列表吗？](https://fav0.com/posts/2025/028) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
