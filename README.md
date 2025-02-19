@@ -7,10 +7,10 @@
 - 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
 ## GitHub Trending Weekly
-- 2025/02/18 [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/02/19 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/02/18 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/02/19 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/02/17 [第210期 - 震撼烟囱](https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -66,6 +66,9 @@
 ## FOSS Weekly
 - 2025/02/13 [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/) | [More](channels/FOSS%20Weekly.md)
 
+## 虹线周刊
+- 2025/02/10 [2025#06 本期全是短视频](https://weekly.1q43.blog/article/192ca795c95680b7a997e9564eb148b7) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
 ## FAV0周刊
 - 2025/02/09 [028期--社交媒体你会使用关注列表吗？](https://fav0.com/posts/2025/028) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -86,9 +89,6 @@
 
 ## 胡言乱语
 - 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 虹线周刊
-- 2025/01/20 [2025#03 赛博免签](https://weekly.1q43.blog/article/17dca795c956808cb8fcc3f3a8b00b2d) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)

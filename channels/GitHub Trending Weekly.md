@@ -1,3 +1,4 @@
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
