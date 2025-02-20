@@ -1,16 +1,31 @@
 # 周刊
 
+## 壹苇可航
+- 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
 ## 科技爱好者周刊
 - 2025/02/14 [科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 壹苇可航
-- 2025/02/04 [Vol.97 以策展思维组织笔记](https://letter.justgoidea.com/p/2025003) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+## 科技創業週報
+- 2025/02/20 [科技創業週報 #469：巴黎 AI 高峰會：歐洲加速 AI 產業投資｜從巴黎 AI 高峰會，看全球 AI 產業未來走向](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-469%ef%bc%9a%e5%b7%b4%e9%bb%8e-ai-%e9%ab%98%e5%b3%b0%e6%9c%83%ef%bc%9a%e6%ad%90%e6%b4%b2%e5%8a%a0%e9%80%9f-ai-%e7%94%a2%e6%a5%ad%e6%8a%95/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/02/20 [学习周刊-总第199期-2025年第08周](https://wiki.eryajf.net/pages/3365c2/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/02/20 [LWN.net Weekly Edition for February 20, 2025](https://lwn.net/Articles/1009456/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/02/20 [FOSS Weekly #25.08: Ubuntu 25.04 Features, Conky Setup, Plank Reloaded and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-08/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/02/19 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/02/20 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/02/19 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/02/20 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/02/20 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2025/02/17 [第210期 - 震撼烟囱](https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -57,23 +72,11 @@
 ## This Week in Self-Hosted
 - 2025/02/14 [This Week in Self-Hosted (14 February 2025)](https://selfh.st/newsletter/2025-02-14/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## 二丫讲梵学习周刊
-- 2025/02/13 [学习周刊-总第198期-2025年第07周](https://wiki.eryajf.net/pages/b803dc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/02/13 [LWN.net Weekly Edition for February 13, 2025](https://lwn.net/Articles/1008279/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/02/13 [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/) | [More](channels/FOSS%20Weekly.md)
-
 ## 虹线周刊
 - 2025/02/10 [2025#06 本期全是短视频](https://weekly.1q43.blog/article/192ca795c95680b7a997e9564eb148b7) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## FAV0周刊
 - 2025/02/09 [028期--社交媒体你会使用关注列表吗？](https://fav0.com/posts/2025/028) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2025/02/06 [科技創業週報 #468：Meta：DeepSeek 技術帶來新靈感｜AI 市場風暴：DeepSeek 與 AI 推理新時代](https://blog.starrocket.io/posts/newsletter-2025-02-05/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## Pseudoyu 周报
 - 2025/02/02 [周报 #86 - 用影像打败时间](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -102,6 +105,9 @@
 ## CyberClip
 - 2025/01/04 [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/) | [More](channels/CyberClip.md)
 
+## 独立开发者出海周刊
+- 2024/12/23 [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%87%BA%E6%B5%B7%E5%91%A8%E5%88%8A.md)
+
 ## 棱镜通讯
 - 2024/12/01 [棱镜通讯 NO. 112 Jim Keller](https://wangyurui.com/posts/leng-jing-tong-xun-no-112-jim-keller-9c34bc24) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -119,9 +125,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

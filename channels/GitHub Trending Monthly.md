@@ -1,3 +1,4 @@
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 - [langgenius/dify](https://github.com/langgenius/dify)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)

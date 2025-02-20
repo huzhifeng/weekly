@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.08: Ubuntu 25.04 Features, Conky Setup, Plank Reloaded and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-08/)
 - [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/)
 - [FOSS Weekly #25.06: Linux inside PDF file, Missing Windows from Grub, GTK Drops X11 and More](https://itsfoss.com/newsletter/foss-weekly-25-06/)
 - [FOSS Weekly #25.05: LibreOffice Tip, Launcher Customization, Moving Away from Google and More](https://itsfoss.com/newsletter/foss-weekly-25-05/)
