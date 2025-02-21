@@ -1,13 +1,31 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2025/02/21 [科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2025/02/14 [科技爱好者周刊（第 337 期）：互联网创业几乎没了](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-337.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2025/02/21 [Web Review, Week 2025-08](https://ervin.ipsquad.net/blog/2025/02/21/web-review-week-2025-08/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/02/21 [#188 Software Fixes](https://thisweek.gnome.org/posts/2025/02/twig-188/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/02/21 [This Week in Self-Hosted (21 February 2025)](https://selfh.st/newsletter/2025-02-21/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/02/21 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/21 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/02/21 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
-- 2025/02/20 [科技創業週報 #469：巴黎 AI 高峰會：歐洲加速 AI 產業投資｜從巴黎 AI 高峰會，看全球 AI 產業未來走向](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-469%ef%bc%9a%e5%b7%b4%e9%bb%8e-ai-%e9%ab%98%e5%b3%b0%e6%9c%83%ef%bc%9a%e6%ad%90%e6%b4%b2%e5%8a%a0%e9%80%9f-ai-%e7%94%a2%e6%a5%ad%e6%8a%95/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2025/02/20 [科技創業週報 #469：巴黎 AI 高峰會：歐洲加速 AI 產業投資｜從巴黎 AI 高峰會，看全球 AI 產業未來走向](https://blog.starrocket.io/posts/newsletter-2025-02-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 二丫讲梵学习周刊
 - 2025/02/20 [学习周刊-总第199期-2025年第08周](https://wiki.eryajf.net/pages/3365c2/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -17,15 +35,6 @@
 
 ## FOSS Weekly
 - 2025/02/20 [FOSS Weekly #25.08: Ubuntu 25.04 Features, Conky Setup, Plank Reloaded and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-08/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/02/20 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/20 [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/02/20 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2025/02/17 [第210期 - 震撼烟囱](https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -62,15 +71,6 @@
 
 ## 大橘和朋友们的周刊
 - 2025/02/14 [第026期 - 暮野灵猴](https://rrorangeandfriends.site/posts/2025/026) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/02/14 [Web Review, Week 2025-07](https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/02/14 [#187 Triple Buffered Notifications](https://thisweek.gnome.org/posts/2025/02/twig-187/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/02/14 [This Week in Self-Hosted (14 February 2025)](https://selfh.st/newsletter/2025-02-14/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 虹线周刊
 - 2025/02/10 [2025#06 本期全是短视频](https://weekly.1q43.blog/article/192ca795c95680b7a997e9564eb148b7) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)

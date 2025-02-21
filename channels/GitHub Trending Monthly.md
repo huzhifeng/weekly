@@ -1,3 +1,4 @@
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 - [langgenius/dify](https://github.com/langgenius/dify)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
