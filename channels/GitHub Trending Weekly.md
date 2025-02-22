@@ -1,3 +1,4 @@
+- [docmost/docmost](https://github.com/docmost/docmost)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
