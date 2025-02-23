@@ -1,3 +1,4 @@
+- [unslothai/unsloth](https://github.com/unslothai/unsloth)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 - [langgenius/dify](https://github.com/langgenius/dify)
