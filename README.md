@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/02/25 [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/02/25 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/02/25 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2025/02/24 [第211期 - 树干蓝天](https://weekly.tw93.fun/posts/211-%E6%A0%91%E5%B9%B2%E8%93%9D%E5%A4%A9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -21,11 +30,8 @@
 ## DistroWatch Weekly
 - 2025/02/24 [DistroWatch Weekly, Issue 1110](https://distrowatch.com/weekly.php?issue=20250224) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/02/24 [docmost/docmost](https://github.com/docmost/docmost) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/24 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/02/24 [Ubuntu Weekly Newsletter Issue 881](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-881/55885) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/02/23 [猫鱼周刊 vol. 057 什么是推理语言大模型？](https://ameow.xyz/archives/weekly-057) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -68,9 +74,6 @@
 
 ## 虹线周刊
 - 2025/02/17 [2025#07 春来发几枝](https://weekly.1q43.blog/article/199ca795c956803284e6fe9703ff85c7) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/02/17 [Ubuntu Weekly Newsletter Issue 880](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-880/55423) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 大橘和朋友们的周刊
 - 2025/02/14 [第026期 - 暮野灵猴](https://rrorangeandfriends.site/posts/2025/026) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
