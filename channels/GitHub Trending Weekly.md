@@ -1,3 +1,4 @@
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
 - [docmost/docmost](https://github.com/docmost/docmost)

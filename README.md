@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 大橘和朋友们的周刊
+- 2025/03/01 [第027期 - 鲤影流韵](https://rrorangeandfriends.site/posts/2025/027) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/03/01 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/01 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/02/28 [Web Review, Week 2025-09](https://ervin.ipsquad.net/blog/2025/02/28/web-review-week-2025-09/) | [More](channels/Web%20Review.md)
 
@@ -17,12 +26,6 @@
 
 ## This Week in Self-Hosted
 - 2025/02/28 [This Week in Self-Hosted (28 February 2025)](https://selfh.st/newsletter/2025-02-28/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/02/28 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/02/28 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/02/27 [科技創業週報 #470：AI大模型的群雄逐鹿時刻](https://blog.starrocket.io/posts/newsletter-2025-02-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -78,9 +81,6 @@
 ## 虹线周刊
 - 2025/02/17 [2025#07 春来发几枝](https://weekly.1q43.blog/article/199ca795c956803284e6fe9703ff85c7) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## 大橘和朋友们的周刊
-- 2025/02/14 [第026期 - 暮野灵猴](https://rrorangeandfriends.site/posts/2025/026) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
 ## FAV0周刊
 - 2025/02/09 [028期--社交媒体你会使用关注列表吗？](https://fav0.com/posts/2025/028) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
@@ -122,9 +122,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
