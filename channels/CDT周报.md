@@ -1,3 +1,4 @@
+- [【CDT周报】第208期：举全国之力给自己脸上贴金，再把痛苦均分](https://chinadigitaltimes.net/chinese/716222.html)
 - [【CDT周报】第207期：哪吒2正变得不容批评，这不是一部动画片所能承受之重](https://chinadigitaltimes.net/chinese/716037.html)
 - [【CDT周报】第206期：看前我以为自己是哪吒，看后才觉得自己是土拨鼠](https://chinadigitaltimes.net/chinese/715889.html)
 - [【CDT周报】第205期：今有“州官半夜撬锁，强迫百姓点灯”](https://chinadigitaltimes.net/chinese/715683.html)
