@@ -6,6 +6,18 @@
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 一周杂记
+- 2025/03/04 [一周杂记 in Week 4 Feb 2025](http://kingsamchen.github.io/2025/03/04/weekly-2025-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## Raye's Journey
+- 2025/03/04 [周报#35 法师桥的日落](https://xlog.app/api/redirection?characterId=51803&noteId=1848) | [More](channels/Raye%27s%20Journey.md)
+
+## GitHub Trending Weekly
+- 2025/03/04 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/04 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/03/03 [第212期 - 超山看梅](https://weekly.tw93.fun/posts/212-%E8%B6%85%E5%B1%B1%E7%9C%8B%E6%A2%85/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -21,14 +33,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/03/03 [9to5Linux Weekly Roundup: March 2nd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-march-2nd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/03/03 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/03 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/03/03 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Ubuntu Weekly Newsletter
+- 2025/03/03 [Ubuntu Weekly Newsletter Issue 882](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-882/56405) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/03/02 [猫鱼周刊 vol. 058 DeepSeek 的开源是一种大义](https://ameow.xyz/archives/weekly-058) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -75,12 +81,6 @@
 ## 虹线周刊
 - 2025/02/24 [2025#08 浅度求索](https://weekly.1q43.blog/article/1a1ca795c9568035a937f95aaf05d634) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2025/02/24 [一周杂记 in Week 3 Feb 2025](http://kingsamchen.github.io/2025/02/25/weekly-2025-feb-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/02/24 [Ubuntu Weekly Newsletter Issue 881](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-881/55885) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 印记周报
 - 2025/02/23 [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
@@ -113,9 +113,6 @@
 
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
-
-## Raye's Journey
-- 2024/11/28 [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838) | [More](channels/Raye%27s%20Journey.md)
 
 ## 广场周刊
 - 2024/11/23 [广场周刊（回顾篇）：那么平常](https://immmmm.com/weekly-review-2024/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)

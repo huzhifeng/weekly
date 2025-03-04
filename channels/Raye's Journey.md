@@ -1,3 +1,4 @@
+- [周报#35 法师桥的日落](https://xlog.app/api/redirection?characterId=51803&noteId=1848)
 - [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838)
 - [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812)
 - [周报#32 第三次感动](https://xlog.app/api/redirection?characterId=51803&noteId=1806)
