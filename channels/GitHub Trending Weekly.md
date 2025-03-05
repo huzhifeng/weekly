@@ -1,3 +1,4 @@
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
