@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.10: Skype is Dead, GNOME 48 Features, Ubuntu Versions, Nano Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-10/)
 - [FOSS Weekly #25.09: Modern Terminals, RSS Matter, Linux Gaming Tested in 2025 and More](https://itsfoss.com/newsletter/foss-weekly-25-09/)
 - [FOSS Weekly #25.08: Ubuntu 25.04 Features, Conky Setup, Plank Reloaded and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-08/)
 - [FOSS Weekly #25.07: KDE Plasma 6.3, Arch with BTRFS, Flexpilot IDE, Terminal Tips and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-07/)

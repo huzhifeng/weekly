@@ -6,17 +6,32 @@
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/03/06 [科技創業週報 #471：AI新創企業顛覆傳統成長模式！](https://blog.starrocket.io/posts/newsletter-2025-03-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## Raye's Journey
+- 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
+
+## 胡言乱语
+- 2025/03/06 [20250306的胡言乱语](https://www.bboy.app/2025/03/06/20250306%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2025/03/06 [学习周刊-总第201期-2025年第10周](https://wiki.eryajf.net/pages/5bedc8/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/03/06 [LWN.net Weekly Edition for March 6, 2025](https://lwn.net/Articles/1012147/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/03/06 [FOSS Weekly #25.10: Skype is Dead, GNOME 48 Features, Ubuntu Versions, Nano Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-10/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/03/05 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/03/06 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/03/05 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/03/06 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 一周杂记
 - 2025/03/04 [一周杂记 in Week 4 Feb 2025](http://kingsamchen.github.io/2025/03/04/weekly-2025-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Raye's Journey
-- 2025/03/04 [周报#35 法师桥的日落](https://xlog.app/api/redirection?characterId=51803&noteId=1848) | [More](channels/Raye%27s%20Journey.md)
 
 ## 潮流周刊
 - 2025/03/03 [第212期 - 超山看梅](https://weekly.tw93.fun/posts/212-%E8%B6%85%E5%B1%B1%E7%9C%8B%E6%A2%85/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -63,20 +78,8 @@
 ## This Week in Self-Hosted
 - 2025/02/28 [This Week in Self-Hosted (28 February 2025)](https://selfh.st/newsletter/2025-02-28/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## 科技創業週報
-- 2025/02/27 [科技創業週報 #470：AI大模型的群雄逐鹿時刻](https://blog.starrocket.io/posts/newsletter-2025-02-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/02/27 [学习周刊-总第200期-2025年第09周](https://wiki.eryajf.net/pages/8e2c8f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## PIVOT
 - 2025/02/27 [PIVOT Vol.13](https://anotherdayu.com/2025/6613/) | [More](channels/PIVOT.md)
-
-## LWN.net Weekly Edition
-- 2025/02/27 [LWN.net Weekly Edition for February 27, 2025](https://lwn.net/Articles/1011011/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/02/27 [FOSS Weekly #25.09: Modern Terminals, RSS Matter, Linux Gaming Tested in 2025 and More](https://itsfoss.com/newsletter/foss-weekly-25-09/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/02/24 [2025#08 浅度求索](https://weekly.1q43.blog/article/1a1ca795c9568035a937f95aaf05d634) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -92,9 +95,6 @@
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 胡言乱语
-- 2025/01/22 [20250122的胡言乱语](https://www.bboy.app/2025/01/22/20250122%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 视野修炼
 - 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)

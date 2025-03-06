@@ -1,3 +1,4 @@
+- [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852)
 - [周报#35 法师桥的日落](https://xlog.app/api/redirection?characterId=51803&noteId=1848)
 - [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838)
 - [周报#33 立冬](https://xlog.app/api/redirection?characterId=51803&noteId=1812)
