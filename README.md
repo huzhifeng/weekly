@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/02/28 [科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/03/07 [科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/03/07 [Web Review, Week 2025-10](https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/03/07 [#190 Cross Platform](https://thisweek.gnome.org/posts/2025/03/twig-190/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/03/07 [This Week in Self-Hosted (7 March 2025)](https://selfh.st/newsletter/2025-03-07/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/03/07 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/07 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/03/06 [科技創業週報 #471：AI新創企業顛覆傳統成長模式！](https://blog.starrocket.io/posts/newsletter-2025-03-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -23,12 +38,6 @@
 
 ## FOSS Weekly
 - 2025/03/06 [FOSS Weekly #25.10: Skype is Dead, GNOME 48 Features, Ubuntu Versions, Nano Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-10/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/03/06 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/06 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 一周杂记
 - 2025/03/04 [一周杂记 in Week 4 Feb 2025](http://kingsamchen.github.io/2025/03/04/weekly-2025-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -66,17 +75,8 @@
 ## 大橘和朋友们的周刊
 - 2025/03/01 [第027期 - 鲤影流韵](https://rrorangeandfriends.site/posts/2025/027) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2025/02/28 [Web Review, Week 2025-09](https://ervin.ipsquad.net/blog/2025/02/28/web-review-week-2025-09/) | [More](channels/Web%20Review.md)
-
 ## HelloGitHub
 - 2025/02/28 [HelloGitHub 第 107 期](https://hellogithub.com/periodical/volume/107) | [More](channels/HelloGitHub.md)
-
-## This Week in GNOME
-- 2025/02/28 [#189 Global Shortcuts](https://thisweek.gnome.org/posts/2025/02/twig-189/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/02/28 [This Week in Self-Hosted (28 February 2025)](https://selfh.st/newsletter/2025-02-28/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## PIVOT
 - 2025/02/27 [PIVOT Vol.13](https://anotherdayu.com/2025/6613/) | [More](channels/PIVOT.md)
@@ -119,9 +119,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

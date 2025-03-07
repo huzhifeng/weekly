@@ -1,3 +1,4 @@
+- [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur)
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave)
 - [Soulter/AstrBot](https://github.com/Soulter/AstrBot)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
