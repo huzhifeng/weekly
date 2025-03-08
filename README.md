@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/03/08 [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/08 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/03/07 [Web Review, Week 2025-10](https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +20,6 @@
 
 ## This Week in Self-Hosted
 - 2025/03/07 [This Week in Self-Hosted (7 March 2025)](https://selfh.st/newsletter/2025-03-07/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/03/07 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/07 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/03/06 [科技創業週報 #471：AI新創企業顛覆傳統成長模式！](https://blog.starrocket.io/posts/newsletter-2025-03-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -53,9 +53,6 @@
 
 ## DistroWatch Weekly
 - 2025/03/03 [DistroWatch Weekly, Issue 1111](https://distrowatch.com/weekly.php?issue=20250303) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/03/03 [9to5Linux Weekly Roundup: March 2nd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-march-2nd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/03/03 [Ubuntu Weekly Newsletter Issue 882](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-882/56405) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
