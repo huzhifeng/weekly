@@ -1,3 +1,4 @@
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur)
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave)
