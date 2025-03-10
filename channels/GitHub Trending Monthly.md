@@ -1,3 +1,4 @@
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)

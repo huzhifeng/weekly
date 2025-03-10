@@ -9,17 +9,35 @@
 ## 潮流周刊
 - 2025/03/10 [第213期 - 良渚草屋](https://weekly.tw93.fun/posts/213-%E8%89%AF%E6%B8%9A%E8%8D%89%E5%B1%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/03/10 [【CDT周报】第209期：你不必是一朵花，你可以是折耳根，从不迎合](https://chinadigitaltimes.net/chinese/716471.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/03/10 [一周杂记 in Week 1 Mar 2025](http://kingsamchen.github.io/2025/03/11/weekly-2025-mar-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2025/03/10 [DistroWatch Weekly, Issue 1112](https://distrowatch.com/weekly.php?issue=20250310) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/03/10 [9to5Linux Weekly Roundup: March 9th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-march-9th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/03/10 [Ubuntu Weekly Newsletter Issue 883](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-883/56861) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/03/10 [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/10 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/03/09 [猫鱼周刊 vol. 059 可拷的代码](https://ameow.xyz/archives/weekly-059) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
+## zdyxry Weekly Issue
+- 2025/03/09 [Weekly Issue-《初步举证》](https://zdyxry.github.io/2025/03/09/Weekly-Issue-%E5%88%9D%E6%AD%A5%E4%B8%BE%E8%AF%81/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## AIGC Weekly
 - 2025/03/09 [AIGC Weekly #112](https://quaily.com/op7418/p/aigc-weekly-112) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/03/09 [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/09 [langgenius/dify](https://github.com/langgenius/dify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/03/07 [Web Review, Week 2025-10](https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/) | [More](channels/Web%20Review.md)
@@ -48,23 +66,8 @@
 ## FOSS Weekly
 - 2025/03/06 [FOSS Weekly #25.10: Skype is Dead, GNOME 48 Features, Ubuntu Versions, Nano Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-10/) | [More](channels/FOSS%20Weekly.md)
 
-## 一周杂记
-- 2025/03/04 [一周杂记 in Week 4 Feb 2025](http://kingsamchen.github.io/2025/03/04/weekly-2025-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## CDT周报
-- 2025/03/03 [【CDT周报】第208期：举全国之力给自己脸上贴金，再把痛苦均分](https://chinadigitaltimes.net/chinese/716222.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## DistroWatch Weekly
-- 2025/03/03 [DistroWatch Weekly, Issue 1111](https://distrowatch.com/weekly.php?issue=20250303) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/03/03 [Ubuntu Weekly Newsletter Issue 882](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-882/56405) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## Taxodium
 - 2025/03/02 [Weekly#27](https://taxodium.ink/27.html) | [More](channels/Taxodium.md)
-
-## zdyxry Weekly Issue
-- 2025/03/02 [Weekly Issue-疲惫](https://zdyxry.github.io/2025/03/02/Weekly-Issue-%E7%96%B2%E6%83%AB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2025/03/01 [02-24~03-02.老胡的周刊（第179期）.md](https://weekly.howie6879.com/2025/02-24~03-02.老胡的周刊（第179期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -77,9 +80,6 @@
 
 ## PIVOT
 - 2025/02/27 [PIVOT Vol.13](https://anotherdayu.com/2025/6613/) | [More](channels/PIVOT.md)
-
-## 虹线周刊
-- 2025/02/24 [2025#08 浅度求索](https://weekly.1q43.blog/article/1a1ca795c9568035a937f95aaf05d634) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 印记周报
 - 2025/02/23 [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
@@ -113,6 +113,9 @@
 
 ## 广场周刊
 - 2024/11/23 [广场周刊（回顾篇）：那么平常](https://immmmm.com/weekly-review-2024/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
+
+## 独立开发变现周刊
+- 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
