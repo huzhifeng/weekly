@@ -1,3 +1,5 @@
+- [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [dagger/dagger](https://github.com/dagger/dagger)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
