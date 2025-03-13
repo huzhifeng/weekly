@@ -1,3 +1,4 @@
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [dagger/dagger](https://github.com/dagger/dagger)

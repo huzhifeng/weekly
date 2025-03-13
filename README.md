@@ -6,11 +6,23 @@
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/03/13 [学习周刊-总第202期-2025年第11周](https://wiki.eryajf.net/pages/961b20/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## PIVOT
+- 2025/03/13 [PIVOT Vol.14 折纸战士](https://anotherdayu.com/2025/6665/) | [More](channels/PIVOT.md)
+
+## LWN.net Weekly Edition
+- 2025/03/13 [LWN.net Weekly Edition for March 13, 2025](https://lwn.net/Articles/1013184/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/03/13 [FOSS Weekly #25.11: Limit Battery Charging, File Searching, Sudo Tweaks and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-11/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/03/12 [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/03/13 [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/03/12 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/03/13 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/03/10 [第213期 - 良渚草屋](https://weekly.tw93.fun/posts/213-%E8%89%AF%E6%B8%9A%E8%8D%89%E5%B1%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -60,15 +72,6 @@
 ## 胡言乱语
 - 2025/03/06 [20250306的胡言乱语](https://www.bboy.app/2025/03/06/20250306%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 二丫讲梵学习周刊
-- 2025/03/06 [学习周刊-总第201期-2025年第10周](https://wiki.eryajf.net/pages/5bedc8/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/03/06 [LWN.net Weekly Edition for March 6, 2025](https://lwn.net/Articles/1012147/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/03/06 [FOSS Weekly #25.10: Skype is Dead, GNOME 48 Features, Ubuntu Versions, Nano Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-10/) | [More](channels/FOSS%20Weekly.md)
-
 ## 老胡的信息周刊
 - 2025/03/01 [02-24~03-02.老胡的周刊（第179期）.md](https://weekly.howie6879.com/2025/02-24~03-02.老胡的周刊（第179期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
@@ -77,9 +80,6 @@
 
 ## HelloGitHub
 - 2025/02/28 [HelloGitHub 第 107 期](https://hellogithub.com/periodical/volume/107) | [More](channels/HelloGitHub.md)
-
-## PIVOT
-- 2025/02/27 [PIVOT Vol.13](https://anotherdayu.com/2025/6613/) | [More](channels/PIVOT.md)
 
 ## 印记周报
 - 2025/02/23 [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
@@ -119,6 +119,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

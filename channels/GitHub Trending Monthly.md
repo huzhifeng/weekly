@@ -1,3 +1,5 @@
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)

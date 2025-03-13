@@ -1,3 +1,4 @@
+- [PIVOT Vol.14 折纸战士](https://anotherdayu.com/2025/6665/)
 - [PIVOT Vol.13](https://anotherdayu.com/2025/6613/)
 - [PIVOT Vol.12 新年快乐呀！](https://anotherdayu.com/2025/6506/)
 - [PIVOT Vol.11 推荐几个macOS软件](https://anotherdayu.com/2025/6445/)
