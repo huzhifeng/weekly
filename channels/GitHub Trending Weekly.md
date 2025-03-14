@@ -1,3 +1,5 @@
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)

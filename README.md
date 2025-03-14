@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/03/07 [科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/03/14 [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/03/14 [Web Review, Week 2025-11](https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/) | [More](channels/Web%20Review.md)
+
+## This Week in Self-Hosted
+- 2025/03/14 [This Week in Self-Hosted (14 March 2025)](https://selfh.st/newsletter/2025-03-14/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/03/14 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/14 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2025/03/13 [科技創業週報 #472：人形機器人的家用時代是否要來臨了？](https://blog.starrocket.io/posts/newsletter-2025-03-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 二丫讲梵学习周刊
 - 2025/03/13 [学习周刊-总第202期-2025年第11周](https://wiki.eryajf.net/pages/961b20/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -17,12 +32,6 @@
 
 ## FOSS Weekly
 - 2025/03/13 [FOSS Weekly #25.11: Limit Battery Charging, File Searching, Sudo Tweaks and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-11/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/03/13 [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/13 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/03/10 [第213期 - 良渚草屋](https://weekly.tw93.fun/posts/213-%E8%89%AF%E6%B8%9A%E8%8D%89%E5%B1%8B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -54,17 +63,8 @@
 ## AIGC Weekly
 - 2025/03/09 [AIGC Weekly #112](https://quaily.com/op7418/p/aigc-weekly-112) | [More](channels/AIGC%20Weekly.md)
 
-## Web Review
-- 2025/03/07 [Web Review, Week 2025-10](https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2025/03/07 [#190 Cross Platform](https://thisweek.gnome.org/posts/2025/03/twig-190/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/03/07 [This Week in Self-Hosted (7 March 2025)](https://selfh.st/newsletter/2025-03-07/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## 科技創業週報
-- 2025/03/06 [科技創業週報 #471：AI新創企業顛覆傳統成長模式！](https://blog.starrocket.io/posts/newsletter-2025-03-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## Raye's Journey
 - 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
