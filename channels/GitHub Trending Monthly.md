@@ -1,3 +1,4 @@
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)

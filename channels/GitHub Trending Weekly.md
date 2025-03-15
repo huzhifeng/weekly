@@ -1,3 +1,5 @@
+- [refly-ai/refly](https://github.com/refly-ai/refly)
+- [agno-agi/agno](https://github.com/agno-agi/agno)
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
