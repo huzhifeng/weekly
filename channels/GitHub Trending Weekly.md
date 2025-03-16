@@ -1,3 +1,5 @@
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+- [browser-use/browser-use](https://github.com/browser-use/browser-use)
 - [refly-ai/refly](https://github.com/refly-ai/refly)
 - [agno-agi/agno](https://github.com/agno-agi/agno)
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
