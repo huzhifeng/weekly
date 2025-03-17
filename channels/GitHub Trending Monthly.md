@@ -1,3 +1,4 @@
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
