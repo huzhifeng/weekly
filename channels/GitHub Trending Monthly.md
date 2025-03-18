@@ -1,3 +1,4 @@
+- [gorhill/uBlock](https://github.com/gorhill/uBlock)
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT)

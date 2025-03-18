@@ -1,10 +1,19 @@
 # 周刊
 
+## 壹苇可航
+- 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/vol-99-dont-wait-until-you-lose-to-value) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
 ## 科技爱好者周刊
 - 2025/03/14 [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 壹苇可航
-- 2025/02/20 [Vol.98 终于找到了职业发展目标](https://letter.justgoidea.com/p/2025004) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+## Pseudoyu 周报
+- 2025/03/18 [周报 #87 - 我们主持了自己的宝可梦婚礼，还为它办了一个展](https://www.pseudoyu.com/zh/2025/03/18/weekly_review_87/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/03/18 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/18 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/03/17 [第214期 - 人生夕阳](https://weekly.tw93.fun/posts/214-%E4%BA%BA%E7%94%9F%E5%A4%95%E9%98%B3/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -21,11 +30,8 @@
 ## DistroWatch Weekly
 - 2025/03/17 [DistroWatch Weekly, Issue 1113](https://distrowatch.com/weekly.php?issue=20250317) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/03/17 [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/17 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/03/17 [Ubuntu Weekly Newsletter Issue 884](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-884/57341) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
@@ -72,9 +78,6 @@
 ## 一周杂记
 - 2025/03/10 [一周杂记 in Week 1 Mar 2025](http://kingsamchen.github.io/2025/03/11/weekly-2025-mar-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## Ubuntu Weekly Newsletter
-- 2025/03/10 [Ubuntu Weekly Newsletter Issue 883](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-883/56861) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2025/03/09 [猫鱼周刊 vol. 059 可拷的代码](https://ameow.xyz/archives/weekly-059) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -89,9 +92,6 @@
 
 ## 印记周报
 - 2025/02/23 [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
-
-## Pseudoyu 周报
-- 2025/02/02 [周报 #86 - 用影像打败时间](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)

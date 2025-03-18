@@ -1,3 +1,4 @@
+- [周报 #87 - 我们主持了自己的宝可梦婚礼，还为它办了一个展](https://www.pseudoyu.com/zh/2025/03/18/weekly_review_87/)
 - [周报 #86 - 用影像打败时间](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86/)
 - [周报 #85 - 京华烟云 Moment in Peking](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_85/)
 - [周报 #84 - 想起他们 Echos of Reverie](https://www.pseudoyu.com/zh/2025/02/03/weekly_review_84/)
