@@ -1,10 +1,28 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2025/03/21 [科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/vol-99-dont-wait-until-you-lose-to-value) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 科技爱好者周刊
-- 2025/03/14 [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## Web Review
+- 2025/03/21 [Web Review, Week 2025-12](https://ervin.ipsquad.net/blog/2025/03/21/web-review-week-2025-12/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/03/21 [#192 Forty-eight!](https://thisweek.gnome.org/posts/2025/03/twig-192/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/03/21 [This Week in Self-Hosted (21 March 2025)](https://selfh.st/newsletter/2025-03-21/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/03/21 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/21 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/03/21 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 二丫讲梵学习周刊
 - 2025/03/20 [学习周刊-总第203期-2025年第12周](https://wiki.eryajf.net/pages/496793/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +32,6 @@
 
 ## FOSS Weekly
 - 2025/03/20 [FOSS Weekly #25.12: GNOME 48 and GIMP 3.0 Released, Switching to IceWM, Ollama Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-12/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/03/20 [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/20 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Pseudoyu 周报
 - 2025/03/18 [周报 #87 - 我们主持了自己的宝可梦婚礼，还为它办了一个展](https://www.pseudoyu.com/zh/2025/03/18/weekly_review_87/) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -54,17 +66,8 @@
 ## 大橘和朋友们的周刊
 - 2025/03/15 [第028期 - 橘隐丛深](https://rrorangeandfriends.site/posts/2025/028) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
-## This Week in GNOME
-- 2025/03/15 [#191 Third Saturday Edition](https://thisweek.gnome.org/posts/2025/03/twig-191/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 老胡的信息周刊
 - 2025/03/14 [03-03~03-15.老胡的周刊（第180期）.md](https://weekly.howie6879.com/2025/03-03~03-15.老胡的周刊（第180期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/03/14 [Web Review, Week 2025-11](https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/) | [More](channels/Web%20Review.md)
-
-## This Week in Self-Hosted
-- 2025/03/14 [This Week in Self-Hosted (14 March 2025)](https://selfh.st/newsletter/2025-03-14/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 科技創業週報
 - 2025/03/13 [科技創業週報 #472：人形機器人的家用時代是否要來臨了？](https://blog.starrocket.io/posts/newsletter-2025-03-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -81,6 +84,9 @@
 ## 猫鱼周刊
 - 2025/03/09 [猫鱼周刊 vol. 059 可拷的代码](https://ameow.xyz/archives/weekly-059) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
+## Raye's Journey
+- 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
+
 ## 胡言乱语
 - 2025/03/06 [20250306的胡言乱语](https://www.bboy.app/2025/03/06/20250306%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -95,6 +101,9 @@
 
 ## 视野修炼
 - 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 涛然自得周刊
+- 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2025/01/04 [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/) | [More](channels/CyberClip.md)
@@ -116,9 +125,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
