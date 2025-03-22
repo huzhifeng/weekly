@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/vol-99-dont-wait-until-you-lose-to-value) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/03/22 [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/22 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/03/21 [Web Review, Week 2025-12](https://ervin.ipsquad.net/blog/2025/03/21/web-review-week-2025-12/) | [More](channels/Web%20Review.md)
 
@@ -14,15 +20,6 @@
 
 ## This Week in Self-Hosted
 - 2025/03/21 [This Week in Self-Hosted (21 March 2025)](https://selfh.st/newsletter/2025-03-21/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/03/21 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/21 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/03/21 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 二丫讲梵学习周刊
 - 2025/03/20 [学习周刊-总第203期-2025年第12周](https://wiki.eryajf.net/pages/496793/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -59,9 +56,6 @@
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/03/16 [9to5Linux Weekly Roundup: March 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-march-16th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 大橘和朋友们的周刊
 - 2025/03/15 [第028期 - 橘隐丛深](https://rrorangeandfriends.site/posts/2025/028) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

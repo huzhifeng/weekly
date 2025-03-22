@@ -1,3 +1,5 @@
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
