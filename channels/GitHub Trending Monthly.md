@@ -1,3 +1,5 @@
+- [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
 - [glanceapp/glance](https://github.com/glanceapp/glance)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock)
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
