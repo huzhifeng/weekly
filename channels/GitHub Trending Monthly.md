@@ -1,3 +1,4 @@
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
 - [glanceapp/glance](https://github.com/glanceapp/glance)

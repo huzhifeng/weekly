@@ -1,3 +1,4 @@
+- [makeplane/plane](https://github.com/makeplane/plane)
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
