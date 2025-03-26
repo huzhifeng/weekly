@@ -1,3 +1,4 @@
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
 - [makeplane/plane](https://github.com/makeplane/plane)
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
