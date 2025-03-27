@@ -6,11 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/03/27 [科技創業週報 #474：創業 × AI：下一代創業者的核心思維指南](https://blog.starrocket.io/posts/newsletter-2025-03-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2025/03/27 [LWN.net Weekly Edition for March 27, 2025](https://lwn.net/Articles/1014881/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/03/27 [FOSS Weekly #25.13: Kernel 6.14, Zorin 17.3, EU OS, apt Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-13/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/03/26 [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/03/27 [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/03/26 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/03/27 [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Taxodium
 - 2025/03/25 [Weekly#29](https://taxodium.ink/29.html) | [More](channels/Taxodium.md)
@@ -33,9 +42,6 @@
 ## DistroWatch Weekly
 - 2025/03/24 [DistroWatch Weekly, Issue 1114](https://distrowatch.com/weekly.php?issue=20250324) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/03/24 [9to5Linux Weekly Roundup: March 23rd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-march-23rd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/03/24 [Ubuntu Weekly Newsletter Issue 885](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-885/57815) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -57,17 +63,8 @@
 ## This Week in Self-Hosted
 - 2025/03/21 [This Week in Self-Hosted (21 March 2025)](https://selfh.st/newsletter/2025-03-21/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## 科技創業週報
-- 2025/03/20 [科技創業週報 #473：生成式 AI 進入黃金時代，三大趨勢引領未來](https://blog.starrocket.io/posts/newsletter-2025-03-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2025/03/20 [学习周刊-总第203期-2025年第12周](https://wiki.eryajf.net/pages/496793/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/03/20 [LWN.net Weekly Edition for March 20, 2025](https://lwn.net/Articles/1013956/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/03/20 [FOSS Weekly #25.12: GNOME 48 and GIMP 3.0 Released, Switching to IceWM, Ollama Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-12/) | [More](channels/FOSS%20Weekly.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
@@ -80,9 +77,6 @@
 
 ## 泰晓资讯
 - 2025/03/13 [泰晓资讯·3 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-03-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## Raye's Journey
-- 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
 
 ## 胡言乱语
 - 2025/03/06 [20250306的胡言乱语](https://www.bboy.app/2025/03/06/20250306%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

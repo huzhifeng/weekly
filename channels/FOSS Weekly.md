@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.13: Kernel 6.14, Zorin 17.3, EU OS, apt Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-13/)
 - [FOSS Weekly #25.12: GNOME 48 and GIMP 3.0 Released, Switching to IceWM, Ollama Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-12/)
 - [FOSS Weekly #25.11: Limit Battery Charging, File Searching, Sudo Tweaks and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-11/)
 - [FOSS Weekly #25.10: Skype is Dead, GNOME 48 Features, Ubuntu Versions, Nano Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-10/)

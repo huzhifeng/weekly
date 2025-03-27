@@ -1,3 +1,4 @@
+- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
 - [makeplane/plane](https://github.com/makeplane/plane)
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
