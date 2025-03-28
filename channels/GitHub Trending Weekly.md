@@ -1,3 +1,5 @@
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
 - [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
 - [makeplane/plane](https://github.com/makeplane/plane)
