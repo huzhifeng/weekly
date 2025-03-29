@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 大橘和朋友们的周刊
+- 2025/03/29 [第029期 - 山衔落日染层林](https://rrorangeandfriends.site/posts/2025/029) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/03/29 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/29 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/03/28 [Web Review, Week 2025-13](https://ervin.ipsquad.net/blog/2025/03/28/web-review-week-2025-13/) | [More](channels/Web%20Review.md)
 
@@ -14,15 +23,6 @@
 
 ## This Week in Self-Hosted
 - 2025/03/28 [This Week in Self-Hosted (28 March 2025)](https://selfh.st/newsletter/2025-03-28/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/03/28 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/28 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/03/28 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/03/27 [科技創業週報 #474：創業 × AI：下一代創業者的核心思維指南](https://blog.starrocket.io/posts/newsletter-2025-03-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -75,14 +75,14 @@
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
-## 大橘和朋友们的周刊
-- 2025/03/15 [第028期 - 橘隐丛深](https://rrorangeandfriends.site/posts/2025/028) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
 ## PIVOT
 - 2025/03/13 [PIVOT Vol.14 折纸战士](https://anotherdayu.com/2025/6665/) | [More](channels/PIVOT.md)
 
 ## 泰晓资讯
 - 2025/03/13 [泰晓资讯·3 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-03-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
+## Raye's Journey
+- 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
 
 ## 胡言乱语
 - 2025/03/06 [20250306的胡言乱语](https://www.bboy.app/2025/03/06/20250306%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
