@@ -9,17 +9,29 @@
 ## 潮流周刊
 - 2025/03/31 [第216期 - 吃个炒饭](https://weekly.tw93.fun/posts/216-%E5%90%83%E4%B8%AA%E7%82%92%E9%A5%AD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/03/31 [【CDT周报】第212期：地震之前，中国建造；楼塌之后，外国设计](https://chinadigitaltimes.net/chinese/716991.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## DistroWatch Weekly
+- 2025/03/31 [DistroWatch Weekly, Issue 1115](https://distrowatch.com/weekly.php?issue=20250331) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/03/31 [9to5Linux Weekly Roundup: March 30th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-march-30th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2025/03/31 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/03/31 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Pseudoyu 周报
 - 2025/03/30 [周报 #89 - 博客改版与 TheWan App 发布](https://www.pseudoyu.com/posts/weekly_review_89) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
+## 一周杂记
+- 2025/03/30 [一周杂记 in Week 4 Mar 2025](http://kingsamchen.github.io/2025/03/30/weekly-2025-mar-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
 ## AIGC Weekly
 - 2025/03/30 [AIGC Weekly #115](https://quaily.com/op7418/p/aigc-weekly-one-one-five) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/03/30 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/03/30 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 老胡的信息周刊
 - 2025/03/29 [03-24~03-30.老胡的周刊（第182期）.md](https://weekly.howie6879.com/2025/03-24~03-30.老胡的周刊（第182期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -56,15 +68,6 @@
 
 ## 猫鱼周刊
 - 2025/03/24 [猫鱼周刊 vol. 060 MCP 可能是通用人工智能的最后一公里](https://ameow.xyz/archives/weekly-060) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/03/24 [【CDT周报】第211期：一个97岁的人怎么背叛76岁的祖国](https://chinadigitaltimes.net/chinese/716813.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/03/24 [一周杂记 in Week 3 Mar 2025](http://kingsamchen.github.io/2025/03/24/weekly-2025-mar-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2025/03/24 [DistroWatch Weekly, Issue 1114](https://distrowatch.com/weekly.php?issue=20250324) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/03/24 [Ubuntu Weekly Newsletter Issue 885](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-885/57815) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)

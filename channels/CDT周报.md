@@ -1,3 +1,4 @@
+- [【CDT周报】第212期：地震之前，中国建造；楼塌之后，外国设计](https://chinadigitaltimes.net/chinese/716991.html)
 - [【CDT周报】第211期：一个97岁的人怎么背叛76岁的祖国](https://chinadigitaltimes.net/chinese/716813.html)
 - [【CDT周报】第210期：白名单内无事不扰，白名单外无时不扰？](https://chinadigitaltimes.net/chinese/716673.html)
 - [【CDT周报】第209期：你不必是一朵花，你可以是折耳根，从不迎合](https://chinadigitaltimes.net/chinese/716471.html)
