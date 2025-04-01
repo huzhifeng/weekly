@@ -1,3 +1,4 @@
+- [joanrod/star-vector](https://github.com/joanrod/star-vector)
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
