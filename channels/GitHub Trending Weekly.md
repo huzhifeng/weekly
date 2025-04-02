@@ -1,3 +1,5 @@
+- [neovim/neovim](https://github.com/neovim/neovim)
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
 - [joanrod/star-vector](https://github.com/joanrod/star-vector)
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font)

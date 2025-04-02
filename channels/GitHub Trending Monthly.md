@@ -1,3 +1,4 @@
+- [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
