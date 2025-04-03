@@ -6,11 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/04/03 [科技創業週報 #475：AI Agent崛起，企業轉型不可缺的戰略](https://blog.starrocket.io/posts/newsletter-2025-04-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/04/03 [学习周刊-总第205期-2025年第14周](https://wiki.eryajf.net/pages/df6d73/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/04/03 [LWN.net Weekly Edition for April 3, 2025](https://lwn.net/Articles/1015512/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/04/03 [FOSS Weekly #25.14: Fedora 42 COSMIC, OnePackage, AppImage Tools and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-14/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/04/02 [neovim/neovim](https://github.com/neovim/neovim) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/04/03 [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/04/02 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/04/03 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/04/03 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2025/03/31 [第216期 - 吃个炒饭](https://weekly.tw93.fun/posts/216-%E5%90%83%E4%B8%AA%E7%82%92%E9%A5%AD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,20 +66,8 @@
 ## This Week in Self-Hosted
 - 2025/03/28 [This Week in Self-Hosted (28 March 2025)](https://selfh.st/newsletter/2025-03-28/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## 科技創業週報
-- 2025/03/27 [科技創業週報 #474：創業 × AI：下一代創業者的核心思維指南](https://blog.starrocket.io/posts/newsletter-2025-03-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## HelloGitHub
 - 2025/03/27 [HelloGitHub 第 108 期](https://hellogithub.com/periodical/volume/108) | [More](channels/HelloGitHub.md)
-
-## 二丫讲梵学习周刊
-- 2025/03/27 [学习周刊-总第204期-2025年第13周](https://wiki.eryajf.net/pages/44eb60/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/03/27 [LWN.net Weekly Edition for March 27, 2025](https://lwn.net/Articles/1014881/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/03/27 [FOSS Weekly #25.13: Kernel 6.14, Zorin 17.3, EU OS, apt Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-13/) | [More](channels/FOSS%20Weekly.md)
 
 ## Taxodium
 - 2025/03/25 [Weekly#29](https://taxodium.ink/29.html) | [More](channels/Taxodium.md)
@@ -119,9 +122,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)

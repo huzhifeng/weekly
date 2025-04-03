@@ -1,3 +1,4 @@
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [neovim/neovim](https://github.com/neovim/neovim)
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
 - [joanrod/star-vector](https://github.com/joanrod/star-vector)

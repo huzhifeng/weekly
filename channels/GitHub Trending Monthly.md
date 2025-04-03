@@ -1,3 +1,4 @@
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
