@@ -6,6 +6,21 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## Web Review
+- 2025/04/04 [Web Review, Week 2025-14](https://ervin.ipsquad.net/blog/2025/04/04/web-review-week-2025-14/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/04/04 [#194 Nineteen Years Old](https://thisweek.gnome.org/posts/2025/04/twig-194/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/04/04 [This Week in Self-Hosted (4 April 2025)](https://selfh.st/newsletter/2025-04-04/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/04/04 [tulir/whatsmeow](https://github.com/tulir/whatsmeow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/04 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 科技創業週報
 - 2025/04/03 [科技創業週報 #475：AI Agent崛起，企業轉型不可缺的戰略](https://blog.starrocket.io/posts/newsletter-2025-04-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -17,15 +32,6 @@
 
 ## FOSS Weekly
 - 2025/04/03 [FOSS Weekly #25.14: Fedora 42 COSMIC, OnePackage, AppImage Tools and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-14/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/04/03 [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/03 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/04/03 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2025/03/31 [第216期 - 吃个炒饭](https://weekly.tw93.fun/posts/216-%E5%90%83%E4%B8%AA%E7%82%92%E9%A5%AD/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -56,15 +62,6 @@
 
 ## 大橘和朋友们的周刊
 - 2025/03/29 [第029期 - 山衔落日染层林](https://rrorangeandfriends.site/posts/2025/029) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/03/28 [Web Review, Week 2025-13](https://ervin.ipsquad.net/blog/2025/03/28/web-review-week-2025-13/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/03/28 [#193 Image Loading](https://thisweek.gnome.org/posts/2025/03/twig-193/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/03/28 [This Week in Self-Hosted (28 March 2025)](https://selfh.st/newsletter/2025-03-28/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## HelloGitHub
 - 2025/03/27 [HelloGitHub 第 108 期](https://hellogithub.com/periodical/volume/108) | [More](channels/HelloGitHub.md)
