@@ -1,3 +1,4 @@
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
