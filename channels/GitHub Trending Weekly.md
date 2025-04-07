@@ -1,3 +1,5 @@
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [neovim/neovim](https://github.com/neovim/neovim)
