@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/04/08 [koreader/koreader](https://github.com/koreader/koreader) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/08 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/04/08 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2025/04/07 [第217期 - 去露个营](https://weekly.tw93.fun/posts/217-%E5%8E%BB%E9%9C%B2%E4%B8%AA%E8%90%A5/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -24,14 +33,11 @@
 ## Ubuntu Weekly Newsletter
 - 2025/04/07 [Ubuntu Weekly Newsletter Issue 887](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-887/58706) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2025/04/07 [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/07 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## 一周杂记
+- 2025/04/06 [一周杂记 in Week 1 Apr 2025](http://kingsamchen.github.io/2025/04/07/weekly-2025-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2025/04/06 [AIGC Weekly #116](https://quaily.com/op7418/p/aigc-weekly-one-hundred-sixteen) | [More](channels/AIGC%20Weekly.md)
@@ -65,9 +71,6 @@
 
 ## Pseudoyu 周报
 - 2025/03/30 [周报 #89 - 博客改版与 TheWan App 发布](https://www.pseudoyu.com/posts/weekly_review_89) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/03/30 [一周杂记 in Week 4 Mar 2025](http://kingsamchen.github.io/2025/03/30/weekly-2025-mar-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 大橘和朋友们的周刊
 - 2025/03/29 [第029期 - 山衔落日染层林](https://rrorangeandfriends.site/posts/2025/029) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -122,6 +125,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
