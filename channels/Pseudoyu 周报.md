@@ -1,3 +1,4 @@
+- [周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考](https://www.pseudoyu.com/posts/weekly_review_90)
 - [周报 #89 - 博客改版与 TheWan App 发布](https://www.pseudoyu.com/posts/weekly_review_89)
 - [周报 #88 - 方大同、《回留》与人生清单](https://www.pseudoyu.com/zh/2025/03/24/weekly_review_88)
 - [周报 #87 - 我们主持了自己的宝可梦婚礼，还为它办了一个展](https://www.pseudoyu.com/zh/2025/03/18/weekly_review_87/)

@@ -1,3 +1,4 @@
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 - [koreader/koreader](https://github.com/koreader/koreader)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music)

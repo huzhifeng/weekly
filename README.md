@@ -6,23 +6,23 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## Pseudoyu 周报
+- 2025/04/09 [周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考](https://www.pseudoyu.com/posts/weekly_review_90) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## 胡言乱语
+- 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## GitHub Trending Weekly
-- 2025/04/08 [koreader/koreader](https://github.com/koreader/koreader) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/04/09 [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/04/08 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/04/08 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/04/09 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/04/07 [第217期 - 去露个营](https://weekly.tw93.fun/posts/217-%E5%8E%BB%E9%9C%B2%E4%B8%AA%E8%90%A5/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/04/07 [【CDT周报】第213期：“雷军，我还是你的粉丝，你必须给说法”](https://chinadigitaltimes.net/chinese/717153.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Taxodium
-- 2025/04/07 [Weekly#30](https://taxodium.ink/30.html) | [More](channels/Taxodium.md)
 
 ## DistroWatch Weekly
 - 2025/04/07 [DistroWatch Weekly, Issue 1116](https://distrowatch.com/weekly.php?issue=20250407) | [More](channels/DistroWatch%20Weekly.md)
@@ -69,9 +69,6 @@
 ## 虹线周刊
 - 2025/03/31 [2025#13 假装上班](https://weekly.1q43.blog/article/1c6ca795c95680f1ab8ae9a724a3b65f) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## Pseudoyu 周报
-- 2025/03/30 [周报 #89 - 博客改版与 TheWan App 发布](https://www.pseudoyu.com/posts/weekly_review_89) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
 ## 大橘和朋友们的周刊
 - 2025/03/29 [第029期 - 山衔落日染层林](https://rrorangeandfriends.site/posts/2025/029) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
@@ -95,9 +92,6 @@
 
 ## Raye's Journey
 - 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
-
-## 胡言乱语
-- 2025/03/06 [20250306的胡言乱语](https://www.bboy.app/2025/03/06/20250306%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 印记周报
 - 2025/02/23 [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
@@ -125,9 +119,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
