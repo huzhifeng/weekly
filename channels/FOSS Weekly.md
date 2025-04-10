@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.15: Clapgrep, APT 3.0, Vibe Coding, AI in Firefox and More](https://itsfoss.com/newsletter/foss-weekly-25-15/)
 - [FOSS Weekly #25.14: Fedora 42 COSMIC, OnePackage, AppImage Tools and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-14/)
 - [FOSS Weekly #25.13: Kernel 6.14, Zorin 17.3, EU OS, apt Guide and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-13/)
 - [FOSS Weekly #25.12: GNOME 48 and GIMP 3.0 Released, Switching to IceWM, Ollama Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-12/)

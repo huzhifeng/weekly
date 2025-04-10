@@ -1,3 +1,4 @@
+- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 - [koreader/koreader](https://github.com/koreader/koreader)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim)

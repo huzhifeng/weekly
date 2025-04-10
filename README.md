@@ -6,23 +6,35 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/04/10 [学习周刊-总第206期-2025年第15周](https://wiki.eryajf.net/pages/cfb757/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/04/10 [LWN.net Weekly Edition for April 10, 2025](https://lwn.net/Articles/1016366/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/04/10 [FOSS Weekly #25.15: Clapgrep, APT 3.0, Vibe Coding, AI in Firefox and More](https://itsfoss.com/newsletter/foss-weekly-25-15/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/04/10 [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/10 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Pseudoyu 周报
 - 2025/04/09 [周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考](https://www.pseudoyu.com/posts/weekly_review_90) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 胡言乱语
 - 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## GitHub Trending Weekly
-- 2025/04/09 [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/09 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 潮流周刊
 - 2025/04/07 [第217期 - 去露个营](https://weekly.tw93.fun/posts/217-%E5%8E%BB%E9%9C%B2%E4%B8%AA%E8%90%A5/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/04/07 [【CDT周报】第213期：“雷军，我还是你的粉丝，你必须给说法”](https://chinadigitaltimes.net/chinese/717153.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Taxodium
+- 2025/04/07 [Weekly#30](https://taxodium.ink/30.html) | [More](channels/Taxodium.md)
 
 ## DistroWatch Weekly
 - 2025/04/07 [DistroWatch Weekly, Issue 1116](https://distrowatch.com/weekly.php?issue=20250407) | [More](channels/DistroWatch%20Weekly.md)
@@ -56,15 +68,6 @@
 
 ## 科技創業週報
 - 2025/04/03 [科技創業週報 #475：AI Agent崛起，企業轉型不可缺的戰略](https://blog.starrocket.io/posts/newsletter-2025-04-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/04/03 [学习周刊-总第205期-2025年第14周](https://wiki.eryajf.net/pages/df6d73/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/04/03 [LWN.net Weekly Edition for April 3, 2025](https://lwn.net/Articles/1015512/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/04/03 [FOSS Weekly #25.14: Fedora 42 COSMIC, OnePackage, AppImage Tools and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-14/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/03/31 [2025#13 假装上班](https://weekly.1q43.blog/article/1c6ca795c95680f1ab8ae9a724a3b65f) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -119,6 +122,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
