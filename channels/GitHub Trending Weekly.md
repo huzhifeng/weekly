@@ -1,3 +1,5 @@
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 - [koreader/koreader](https://github.com/koreader/koreader)

@@ -1,10 +1,28 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/03/28 [科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/04/10 [科技爱好者周刊（第 344 期）：制造业正在"零工化"](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/04/11 [Web Review, Week 2025-15](https://ervin.ipsquad.net/blog/2025/04/11/web-review-week-2025-15/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/04/11 [#195 Typed Weather](https://thisweek.gnome.org/posts/2025/04/twig-195/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Self-Hosted
+- 2025/04/11 [This Week in Self-Hosted (11 April 2025)](https://selfh.st/newsletter/2025-04-11/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
+## GitHub Trending Weekly
+- 2025/04/11 [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/11 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2025/04/10 [科技創業週報 #476：AI圖像生成的驚人風暴](https://blog.starrocket.io/posts/newsletter-2025-04-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 二丫讲梵学习周刊
 - 2025/04/10 [学习周刊-总第206期-2025年第15周](https://wiki.eryajf.net/pages/cfb757/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +32,6 @@
 
 ## FOSS Weekly
 - 2025/04/10 [FOSS Weekly #25.15: Clapgrep, APT 3.0, Vibe Coding, AI in Firefox and More](https://itsfoss.com/newsletter/foss-weekly-25-15/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/04/10 [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/10 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Pseudoyu 周报
 - 2025/04/09 [周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考](https://www.pseudoyu.com/posts/weekly_review_90) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -56,18 +68,6 @@
 
 ## 老胡的信息周刊
 - 2025/04/05 [03-31~04-06.老胡的周刊（第183期）.md](https://weekly.howie6879.com/2025/03-31~04-06.老胡的周刊（第183期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/04/04 [Web Review, Week 2025-14](https://ervin.ipsquad.net/blog/2025/04/04/web-review-week-2025-14/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/04/04 [#194 Nineteen Years Old](https://thisweek.gnome.org/posts/2025/04/twig-194/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Self-Hosted
-- 2025/04/04 [This Week in Self-Hosted (4 April 2025)](https://selfh.st/newsletter/2025-04-04/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## 科技創業週報
-- 2025/04/03 [科技創業週報 #475：AI Agent崛起，企業轉型不可缺的戰略](https://blog.starrocket.io/posts/newsletter-2025-04-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 虹线周刊
 - 2025/03/31 [2025#13 假装上班](https://weekly.1q43.blog/article/1c6ca795c95680f1ab8ae9a724a3b65f) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -122,9 +122,6 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
-
-## Hacker News Weekly Top 10
-- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
