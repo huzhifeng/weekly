@@ -1,3 +1,5 @@
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet)
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 - [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)

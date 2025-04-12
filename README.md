@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## CyberClip
+- 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
+
+## GitHub Trending Weekly
+- 2025/04/12 [microsoft/markitdown](https://github.com/microsoft/markitdown) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/12 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/04/11 [Web Review, Week 2025-15](https://ervin.ipsquad.net/blog/2025/04/11/web-review-week-2025-15/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +23,6 @@
 
 ## This Week in Self-Hosted
 - 2025/04/11 [This Week in Self-Hosted (11 April 2025)](https://selfh.st/newsletter/2025-04-11/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/04/11 [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/11 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/04/10 [科技創業週報 #476：AI圖像生成的驚人風暴](https://blog.starrocket.io/posts/newsletter-2025-04-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -108,9 +111,6 @@
 ## 涛然自得周刊
 - 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
 
-## CyberClip
-- 2025/01/04 [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/) | [More](channels/CyberClip.md)
-
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
 
@@ -122,6 +122,9 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## GeekPlux Letters
 - 2024/08/19 [股票贴现与"时间贴现" #69](https://letters.geekplux.com/69/) | [More](channels/GeekPlux%20Letters.md)
