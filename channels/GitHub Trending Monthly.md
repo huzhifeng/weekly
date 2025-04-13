@@ -1,3 +1,4 @@
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
