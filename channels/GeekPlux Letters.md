@@ -1,3 +1,4 @@
+- [本周刊暂停更新](https://letters.geekplux.com/pause/)
 - [股票贴现与"时间贴现"](https://letters.geekplux.com/69/)
 - [不要在网上制造 Slop #68](https://letters.geekplux.com/68/)
 - [美国绿卡、签证和 I94 的区别与联系[润美向] #67](https://letters.geekplux.com/67/)
