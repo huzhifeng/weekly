@@ -1,3 +1,4 @@
+- [GuijiAI/HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai)
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
