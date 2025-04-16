@@ -7,10 +7,16 @@
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
 ## GitHub Trending Weekly
-- 2025/04/15 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/04/16 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/04/15 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/04/16 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/04/16 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Pseudoyu 周报
+- 2025/04/15 [周报 #91 - 一席、消失的时代与自由意志](https://www.pseudoyu.com/posts/weekly_review_91) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 潮流周刊
 - 2025/04/14 [第218期 - 勾狗可爱](https://weekly.tw93.fun/posts/218-%E5%8B%BE%E7%8B%97%E5%8F%AF%E7%88%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -62,9 +68,6 @@
 
 ## FOSS Weekly
 - 2025/04/10 [FOSS Weekly #25.15: Clapgrep, APT 3.0, Vibe Coding, AI in Firefox and More](https://itsfoss.com/newsletter/foss-weekly-25-15/) | [More](channels/FOSS%20Weekly.md)
-
-## Pseudoyu 周报
-- 2025/04/09 [周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考](https://www.pseudoyu.com/posts/weekly_review_90) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 胡言乱语
 - 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
