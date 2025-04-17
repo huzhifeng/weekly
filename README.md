@@ -6,14 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/04/17 [科技創業週報 #477：為什麼產品功能再好卻沒有人用? 透過行為設計打造你的成功產品](https://blog.starrocket.io/posts/newsletter-2025-04-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/04/17 [学习周刊-总第207期-2025年第16周](https://wiki.eryajf.net/pages/6088f3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/04/17 [LWN.net Weekly Edition for April 17, 2025](https://lwn.net/Articles/1017012/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/04/17 [FOSS Weekly #25.16: Ubuntu 25.04, Fedora 42, ParticleOS and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-16/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/04/16 [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/04/17 [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/04/16 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/04/17 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/04/16 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/04/17 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Pseudoyu 周报
 - 2025/04/15 [周报 #91 - 一席、消失的时代与自由意志](https://www.pseudoyu.com/posts/weekly_review_91) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -56,18 +68,6 @@
 
 ## This Week in Self-Hosted
 - 2025/04/11 [This Week in Self-Hosted (11 April 2025)](https://selfh.st/newsletter/2025-04-11/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## 科技創業週報
-- 2025/04/10 [科技創業週報 #476：AI圖像生成的驚人風暴](https://blog.starrocket.io/posts/newsletter-2025-04-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/04/10 [学习周刊-总第206期-2025年第15周](https://wiki.eryajf.net/pages/cfb757/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/04/10 [LWN.net Weekly Edition for April 10, 2025](https://lwn.net/Articles/1016366/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/04/10 [FOSS Weekly #25.15: Clapgrep, APT 3.0, Vibe Coding, AI in Firefox and More](https://itsfoss.com/newsletter/foss-weekly-25-15/) | [More](channels/FOSS%20Weekly.md)
 
 ## 胡言乱语
 - 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

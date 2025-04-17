@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for April 17, 2025](https://lwn.net/Articles/1017012/)
 - [LWN.net Weekly Edition for April 10, 2025](https://lwn.net/Articles/1016366/)
 - [LWN.net Weekly Edition for April 3, 2025](https://lwn.net/Articles/1015512/)
 - [LWN.net Weekly Edition for March 27, 2025](https://lwn.net/Articles/1014881/)
