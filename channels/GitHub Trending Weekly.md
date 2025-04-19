@@ -1,3 +1,4 @@
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime)
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)

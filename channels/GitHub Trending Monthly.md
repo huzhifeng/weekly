@@ -1,3 +1,5 @@
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
 - [GuijiAI/HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai)
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)

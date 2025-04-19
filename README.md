@@ -6,20 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 大橘和朋友们的周刊
+- 2025/04/19 [第030期 - 湖畔逸鸭](https://rrorangeandfriends.site/posts/2025/030) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/04/19 [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/19 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/04/19 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2025/04/18 [Web Review, Week 2025-16](https://ervin.ipsquad.net/blog/2025/04/18/web-review-week-2025-16/) | [More](channels/Web%20Review.md)
 
+## This Week in GNOME
+- 2025/04/18 [#196 Dot Release](https://thisweek.gnome.org/posts/2025/04/twig-196/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## This Week in Self-Hosted
 - 2025/04/18 [This Week in Self-Hosted (18 April 2025)](https://selfh.st/newsletter/2025-04-18/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/04/18 [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/18 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/04/18 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/04/17 [科技創業週報 #477：為什麼產品功能再好卻沒有人用? 透過行為設計打造你的成功產品](https://blog.starrocket.io/posts/newsletter-2025-04-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -66,9 +72,6 @@
 ## 老胡的信息周刊
 - 2025/04/11 [04-07~04-12.老胡的周刊（第184期）.md](https://weekly.howie6879.com/2025/04-07~04-12.老胡的周刊（第184期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## This Week in GNOME
-- 2025/04/11 [#195 Typed Weather](https://thisweek.gnome.org/posts/2025/04/twig-195/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 胡言乱语
 - 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -80,9 +83,6 @@
 
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 大橘和朋友们的周刊
-- 2025/03/29 [第029期 - 山衔落日染层林](https://rrorangeandfriends.site/posts/2025/029) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2025/03/27 [HelloGitHub 第 108 期](https://hellogithub.com/periodical/volume/108) | [More](channels/HelloGitHub.md)
