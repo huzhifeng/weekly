@@ -1,3 +1,4 @@
+- [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
 - [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
 - [GuijiAI/HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai)

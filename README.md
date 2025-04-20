@@ -6,17 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2025/04/21 [第219期 - 一艘活船](https://weekly.tw93.fun/posts/219-%E4%B8%80%E8%89%98%E6%B4%BB%E8%88%B9/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/04/20 [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## PIVOT
+- 2025/04/20 [PIVOT Vol.15](https://anotherdayu.com/2025/6704/) | [More](channels/PIVOT.md)
+
+## GitHub Trending Weekly
+- 2025/04/20 [docmost/docmost](https://github.com/docmost/docmost) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/20 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 大橘和朋友们的周刊
 - 2025/04/19 [第030期 - 湖畔逸鸭](https://rrorangeandfriends.site/posts/2025/030) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/04/19 [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/19 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/04/19 [我膨胀了！居然敢为300人做饭！](https://www.bilibili.com/video/BV1gBp7enES8) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2025/04/18 [04-14~04-19.老胡的周刊（第185期）.md](https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/04/18 [Web Review, Week 2025-16](https://ervin.ipsquad.net/blog/2025/04/18/web-review-week-2025-16/) | [More](channels/Web%20Review.md)
@@ -42,9 +51,6 @@
 ## Pseudoyu 周报
 - 2025/04/15 [周报 #91 - 一席、消失的时代与自由意志](https://www.pseudoyu.com/posts/weekly_review_91) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2025/04/14 [第218期 - 勾狗可爱](https://weekly.tw93.fun/posts/218-%E5%8B%BE%E7%8B%97%E5%8F%AF%E7%88%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/04/14 [【CDT周报】第214期：群架变对决，中美脱钩断链没有回头路？](https://chinadigitaltimes.net/chinese/717339.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -57,9 +63,6 @@
 ## Ubuntu Weekly Newsletter
 - 2025/04/14 [Ubuntu Weekly Newsletter Issue 888](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-888/59139) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/04/13 [猫鱼周刊 vol. 061 第二次机会](https://ameow.xyz/archives/weekly-061) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2025/04/13 [一周杂记 in Week 2 Apr 2025](http://kingsamchen.github.io/2025/04/13/weekly-2025-apr-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -68,9 +71,6 @@
 
 ## CyberClip
 - 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
-
-## 老胡的信息周刊
-- 2025/04/11 [04-07~04-12.老胡的周刊（第184期）.md](https://weekly.howie6879.com/2025/04-07~04-12.老胡的周刊（第184期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -89,9 +89,6 @@
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## PIVOT
-- 2025/03/13 [PIVOT Vol.14 折纸战士](https://anotherdayu.com/2025/6665/) | [More](channels/PIVOT.md)
 
 ## 泰晓资讯
 - 2025/03/13 [泰晓资讯·3 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-03-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -125,4 +122,7 @@
 
 ## 艾迪蓝波
 - 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+
+## Hacker News Weekly Top 10
+- 2024/09/16 [Hacker News Weekly Top 10 @2024-09-16](https://github.com/headllines/hackernews-weekly/issues/250) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
