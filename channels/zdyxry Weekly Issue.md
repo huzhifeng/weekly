@@ -1,3 +1,4 @@
+- [Weekly Issue-吃早饭！](https://zdyxry.github.io/2025/04/20/Weekly-Issue-%E5%90%83%E6%97%A9%E9%A5%AD/)
 - [Weekly Issue-安全跑步机](https://zdyxry.github.io/2025/04/13/Weekly-Issue-%E5%AE%89%E5%85%A8%E8%B7%91%E6%AD%A5%E6%9C%BA/)
 - [Weekly Issue-Always do Extra](https://zdyxry.github.io/2025/03/23/Weekly-Issue-Always-do-Extra/)
 - [Weekly Issue-龙架构双周会](https://zdyxry.github.io/2025/03/17/Weekly-Issue-%E9%BE%99%E6%9E%B6%E6%9E%84%E5%8F%8C%E5%91%A8%E4%BC%9A/)

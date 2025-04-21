@@ -1,3 +1,4 @@
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
 - [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
