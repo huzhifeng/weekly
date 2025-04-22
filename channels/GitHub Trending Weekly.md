@@ -1,3 +1,4 @@
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime)

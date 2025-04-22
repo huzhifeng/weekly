@@ -1,3 +1,4 @@
+- [周报 #92 - 数码产品 Porn 与断舍离](https://www.pseudoyu.com/posts/weekly_review_92)
 - [周报 #91 - 一席、消失的时代与自由意志](https://www.pseudoyu.com/posts/weekly_review_91)
 - [周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考](https://www.pseudoyu.com/posts/weekly_review_90)
 - [周报 #89 - 博客改版与 TheWan App 发布](https://www.pseudoyu.com/posts/weekly_review_89)
