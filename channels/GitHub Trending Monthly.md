@@ -1,3 +1,4 @@
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
