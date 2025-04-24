@@ -6,14 +6,29 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/04/24 [科技創業週報 #478：投資人最常問的3個陷阱問題，要如何回答才能避免踩雷？](https://blog.starrocket.io/posts/newsletter-2025-04-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## Taxodium
+- 2025/04/24 [Weekly#31](https://taxodium.ink//31.html) | [More](channels/Taxodium.md)
+
+## LWN.net Weekly Edition
+- 2025/04/24 [LWN.net Weekly Edition for April 24, 2025](https://lwn.net/Articles/1017842/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/04/24 [FOSS Weekly #25.17: Ubuntu 25.04 and Fedora 42 Release Follow-ups, Logseq, ZimaBoard and More](https://itsfoss.com/newsletter/foss-weekly-25-17/) | [More](channels/FOSS%20Weekly.md)
+
+## This Week in Self-Hosted
+- 2025/04/24 ['This Week in Self-Hosted' is now 'Self-Host Weekly'](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+
 ## GitHub Trending Weekly
-- 2025/04/23 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/04/24 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/04/23 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/04/24 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/04/23 [这就是我对游戏王gx的全部理解【水无月菌】](https://www.bilibili.com/video/BV1tud8YyE44) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/04/24 [这就是我对游戏王gx的全部理解【水无月菌】](https://www.bilibili.com/video/BV1tud8YyE44) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Pseudoyu 周报
 - 2025/04/22 [周报 #92 - 数码产品 Porn 与断舍离](https://www.pseudoyu.com/posts/weekly_review_92) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -35,9 +50,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/04/21 [Ubuntu Weekly Newsletter Issue 889](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-889/59596) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## This Week in Self-Hosted
-- 2025/04/21 [This Week in Self-Hosted (18 April 2025)](https://selfh.st/weekly/2025-04-18/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 猫鱼周刊
 - 2025/04/20 [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -66,17 +78,8 @@
 ## This Week in GNOME
 - 2025/04/18 [#196 Dot Release](https://thisweek.gnome.org/posts/2025/04/twig-196/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 科技創業週報
-- 2025/04/17 [科技創業週報 #477：為什麼產品功能再好卻沒有人用? 透過行為設計打造你的成功產品](https://blog.starrocket.io/posts/newsletter-2025-04-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2025/04/17 [学习周刊-总第207期-2025年第16周](https://wiki.eryajf.net/pages/6088f3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/04/17 [LWN.net Weekly Edition for April 17, 2025](https://lwn.net/Articles/1017012/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/04/17 [FOSS Weekly #25.16: Ubuntu 25.04, Fedora 42, ParticleOS and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-16/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/04/14 [2025#15 风大鱼大](https://weekly.1q43.blog/article/1d4ca795c95680c0afd1c168db8092fb) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -86,9 +89,6 @@
 
 ## 胡言乱语
 - 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## Taxodium
-- 2025/04/07 [Weekly#30](https://taxodium.ink//30.html) | [More](channels/Taxodium.md)
 
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
