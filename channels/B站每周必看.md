@@ -1,3 +1,6 @@
+- [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw)
+- [周一能不能放过我一次😭👊🏻](https://www.bilibili.com/video/BV17wogYrEME)
+- [暴揍小潮team](https://www.bilibili.com/video/BV1G95EzFETs)
 - [这就是我对游戏王gx的全部理解【水无月菌】](https://www.bilibili.com/video/BV1tud8YyE44)
 - [你们上学都当过什么小官！哈哈哈哈哈](https://www.bilibili.com/video/BV1msdBYiExL)
 - [贱谍过家家（6）](https://www.bilibili.com/video/BV1aNdXY1EJ4)

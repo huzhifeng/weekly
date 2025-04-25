@@ -1,3 +1,4 @@
+- [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)

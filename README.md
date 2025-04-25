@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/04/18 [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/04/25 [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/04/25 [Web Review, Week 2025-17](https://ervin.ipsquad.net/blog/2025/04/25/web-review-week-2025-17/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/04/25 [#197 XML Parsing](https://thisweek.gnome.org/posts/2025/04/twig-197/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/04/25 [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/25 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/04/25 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/04/24 [科技創業週報 #478：投資人最常問的3個陷阱問題，要如何回答才能避免踩雷？](https://blog.starrocket.io/posts/newsletter-2025-04-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -20,15 +35,6 @@
 
 ## This Week in Self-Hosted
 - 2025/04/24 ['This Week in Self-Hosted' is now 'Self-Host Weekly'](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
-
-## GitHub Trending Weekly
-- 2025/04/24 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/24 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/04/24 [这就是我对游戏王gx的全部理解【水无月菌】](https://www.bilibili.com/video/BV1tud8YyE44) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Pseudoyu 周报
 - 2025/04/22 [周报 #92 - 数码产品 Porn 与断舍离](https://www.pseudoyu.com/posts/weekly_review_92) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -71,12 +77,6 @@
 
 ## 老胡的信息周刊
 - 2025/04/18 [04-14~04-19.老胡的周刊（第185期）.md](https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/04/18 [Web Review, Week 2025-16](https://ervin.ipsquad.net/blog/2025/04/18/web-review-week-2025-16/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/04/18 [#196 Dot Release](https://thisweek.gnome.org/posts/2025/04/twig-196/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 二丫讲梵学习周刊
 - 2025/04/17 [学习周刊-总第207期-2025年第16周](https://wiki.eryajf.net/pages/6088f3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)

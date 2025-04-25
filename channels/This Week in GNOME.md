@@ -1,3 +1,4 @@
+- [#197 XML Parsing](https://thisweek.gnome.org/posts/2025/04/twig-197/)
 - [#196 Dot Release](https://thisweek.gnome.org/posts/2025/04/twig-196/)
 - [#195 Typed Weather](https://thisweek.gnome.org/posts/2025/04/twig-195/)
 - [#194 Nineteen Years Old](https://thisweek.gnome.org/posts/2025/04/twig-194/)
