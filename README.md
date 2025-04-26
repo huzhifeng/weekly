@@ -6,20 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/04/26 [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/04/26 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/04/26 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2025/04/25 [Web Review, Week 2025-17](https://ervin.ipsquad.net/blog/2025/04/25/web-review-week-2025-17/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/04/25 [#197 XML Parsing](https://thisweek.gnome.org/posts/2025/04/twig-197/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/04/25 [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/04/25 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/04/25 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/04/24 [科技創業週報 #478：投資人最常問的3個陷阱問題，要如何回答才能避免踩雷？](https://blog.starrocket.io/posts/newsletter-2025-04-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
