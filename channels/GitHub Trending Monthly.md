@@ -1,3 +1,4 @@
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
 - [getzep/graphiti](https://github.com/getzep/graphiti)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
