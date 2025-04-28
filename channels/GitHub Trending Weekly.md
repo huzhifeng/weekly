@@ -1,3 +1,4 @@
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)

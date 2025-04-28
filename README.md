@@ -9,14 +9,41 @@
 ## 潮流周刊
 - 2025/04/28 [第220期 - 一颗心树](https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/04/28 [【CDT周报】第216期：如果看不懂那谁谁，就去研究一下董明珠](https://chinadigitaltimes.net/chinese/717641.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## HelloGitHub
+- 2025/04/28 [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) | [More](channels/HelloGitHub.md)
+
+## Pseudoyu 周报
+- 2025/04/28 [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2025/04/28 [AIGC Weekly #119](https://quaily.com/op7418/p/aigc-weekly-nineteen) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/04/28 [DistroWatch Weekly, Issue 1119](https://distrowatch.com/weekly.php?issue=20250428) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/04/28 [Ubuntu Weekly Newsletter Issue 890](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-890/60056) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
 ## GitHub Trending Weekly
-- 2025/04/27 [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/04/28 [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/04/27 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/04/28 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/04/27 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/04/28 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 一周杂记
+- 2025/04/27 [一周杂记 in Week 4 Apr 2025](http://kingsamchen.github.io/2025/04/28/weekly-2025-apr-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2025/04/27 [Weekly Issue-Be Kind](https://zdyxry.github.io/2025/04/27/Weekly-Issue-Be-Kind/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/04/27 [9to5Linux Weekly Roundup: April 27th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-april-27th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Web Review
 - 2025/04/25 [Web Review, Week 2025-17](https://ervin.ipsquad.net/blog/2025/04/25/web-review-week-2025-17/) | [More](channels/Web%20Review.md)
@@ -39,38 +66,17 @@
 ## This Week in Self-Hosted
 - 2025/04/24 ['This Week in Self-Hosted' is now 'Self-Host Weekly'](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
-## Pseudoyu 周报
-- 2025/04/22 [周报 #92 - 数码产品 Porn 与断舍离](https://www.pseudoyu.com/posts/weekly_review_92) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## CDT周报
-- 2025/04/21 [【CDT周报】第215期：中国不需要谁指明方向，民主才是方向](https://chinadigitaltimes.net/chinese/717490.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+## 虹线周刊
+- 2025/04/21 [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## Hacker News Weekly Top 10
 - 2025/04/21 [Hacker News Weekly Top 10 @2025-04-21](https://github.com/headllines/hackernews-weekly/issues/281) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
-## AIGC Weekly
-- 2025/04/21 [AIGC Weekly #118](https://quaily.com/op7418/p/aigc-weekly-one-one-eight) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/04/21 [DistroWatch Weekly, Issue 1118](https://distrowatch.com/weekly.php?issue=20250421) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/04/21 [Ubuntu Weekly Newsletter Issue 889](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-889/59596) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2025/04/20 [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2025/04/20 [一周杂记 in Week 3 Apr 2025](http://kingsamchen.github.io/2025/04/21/weekly-2025-apr-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2025/04/20 [Weekly Issue-吃早饭！](https://zdyxry.github.io/2025/04/20/Weekly-Issue-%E5%90%83%E6%97%A9%E9%A5%AD/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## PIVOT
 - 2025/04/20 [PIVOT Vol.15](https://anotherdayu.com/2025/6704/) | [More](channels/PIVOT.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/04/20 [9to5Linux Weekly Roundup: April 20th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-april-20th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 大橘和朋友们的周刊
 - 2025/04/19 [第030期 - 湖畔逸鸭](https://rrorangeandfriends.site/posts/2025/030) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -80,9 +86,6 @@
 
 ## 二丫讲梵学习周刊
 - 2025/04/17 [学习周刊-总第207期-2025年第16周](https://wiki.eryajf.net/pages/6088f3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## 虹线周刊
-- 2025/04/14 [2025#15 风大鱼大](https://weekly.1q43.blog/article/1d4ca795c95680c0afd1c168db8092fb) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
@@ -95,9 +98,6 @@
 
 ## Hacker News Monthly Top 10
 - 2025/04/01 [Hacker News Monthly Top 10 @2025-04-01](https://github.com/headllines/hackernews-monthly/issues/80) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
-
-## HelloGitHub
-- 2025/03/27 [HelloGitHub 第 108 期](https://hellogithub.com/periodical/volume/108) | [More](channels/HelloGitHub.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)

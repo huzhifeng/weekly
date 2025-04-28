@@ -1,3 +1,4 @@
+- [【CDT周报】第216期：如果看不懂那谁谁，就去研究一下董明珠](https://chinadigitaltimes.net/chinese/717641.html)
 - [【CDT周报】第215期：中国不需要谁指明方向，民主才是方向](https://chinadigitaltimes.net/chinese/717490.html)
 - [【CDT周报】第214期：群架变对决，中美脱钩断链没有回头路？](https://chinadigitaltimes.net/chinese/717339.html)
 - [【CDT周报】第213期：“雷军，我还是你的粉丝，你必须给说法”](https://chinadigitaltimes.net/chinese/717153.html)
