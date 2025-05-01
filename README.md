@@ -6,14 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## LWN.net Weekly Edition
+- 2025/05/01 [LWN.net Weekly Edition for May 1, 2025](https://lwn.net/Articles/1018680/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/05/01 [FOSS Weekly #25.18: Linux Magazine, Modern Terminals, Muse Pi, apt Guide and More](https://itsfoss.com/newsletter/foss-weekly-25-18/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/04/30 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/05/01 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/04/30 [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/05/01 [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/04/30 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/05/01 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 潮流周刊
 - 2025/04/28 [第220期 - 一颗心树](https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -57,20 +63,11 @@
 ## Taxodium
 - 2025/04/24 [Weekly#31](https://taxodium.ink//31.html) | [More](channels/Taxodium.md)
 
-## LWN.net Weekly Edition
-- 2025/04/24 [LWN.net Weekly Edition for April 24, 2025](https://lwn.net/Articles/1017842/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/04/24 [FOSS Weekly #25.17: Ubuntu 25.04 and Fedora 42 Release Follow-ups, Logseq, ZimaBoard and More](https://itsfoss.com/newsletter/foss-weekly-25-17/) | [More](channels/FOSS%20Weekly.md)
-
 ## This Week in Self-Hosted
 - 2025/04/24 ['This Week in Self-Hosted' is now 'Self-Host Weekly'](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 虹线周刊
 - 2025/04/21 [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Weekly Top 10
-- 2025/04/21 [Hacker News Weekly Top 10 @2025-04-21](https://github.com/headllines/hackernews-weekly/issues/281) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 猫鱼周刊
 - 2025/04/20 [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -113,9 +110,6 @@
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2025/01/19 [视野修炼第117期 | 24年明星项目](https://sugarat.top/weekly/2025-01-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 涛然自得周刊
 - 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
