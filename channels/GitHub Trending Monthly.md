@@ -1,3 +1,4 @@
+- [trycua/cua](https://github.com/trycua/cua)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
