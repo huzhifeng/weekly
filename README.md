@@ -6,17 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/05/03 [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/05/03 [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/03 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/05/02 [Web Review, Week 2025-18](https://ervin.ipsquad.net/blog/2025/05/02/web-review-week-2025-18/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/05/02 [#198 Two More Weeks...](https://thisweek.gnome.org/posts/2025/05/twig-198/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/05/02 [kortix-ai/suna](https://github.com/kortix-ai/suna) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/02 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## LWN.net Weekly Edition
 - 2025/05/01 [LWN.net Weekly Edition for May 1, 2025](https://lwn.net/Articles/1018680/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -63,6 +66,9 @@
 ## This Week in Self-Hosted
 - 2025/04/24 ['This Week in Self-Hosted' is now 'Self-Host Weekly'](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
+## 泰晓资讯
+- 2025/04/24 [泰晓资讯·4 月 / 第三期 / 2025](https://tinylab.org/tinylab-weekly-04-3rd-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
 ## 虹线周刊
 - 2025/04/21 [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
@@ -78,9 +84,6 @@
 ## 老胡的信息周刊
 - 2025/04/18 [04-14~04-19.老胡的周刊（第185期）.md](https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## 二丫讲梵学习周刊
-- 2025/04/17 [学习周刊-总第207期-2025年第16周](https://wiki.eryajf.net/pages/6088f3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## CyberClip
 - 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
 
@@ -95,9 +98,6 @@
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 泰晓资讯
-- 2025/03/13 [泰晓资讯·3 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-03-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Raye's Journey
 - 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)

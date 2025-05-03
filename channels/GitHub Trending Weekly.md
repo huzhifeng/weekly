@@ -1,3 +1,4 @@
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
 - [kortix-ai/suna](https://github.com/kortix-ai/suna)
 - [lapce/lapce](https://github.com/lapce/lapce)
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
