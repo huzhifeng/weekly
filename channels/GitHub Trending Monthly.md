@@ -1,3 +1,5 @@
+- [meta-llama/llama-models](https://github.com/meta-llama/llama-models)
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
 - [trycua/cua](https://github.com/trycua/cua)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)

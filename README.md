@@ -6,14 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 二丫讲梵学习周刊
-- 2025/05/03 [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+## 猫鱼周刊
+- 2025/05/04 [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/05/03 [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/05/04 [dockur/windows](https://github.com/dockur/windows) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/05/03 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/05/04 [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/05/04 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 二丫讲梵学习周刊
+- 2025/05/03 [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/05/02 [Web Review, Week 2025-18](https://ervin.ipsquad.net/blog/2025/05/02/web-review-week-2025-18/) | [More](channels/Web%20Review.md)
@@ -72,9 +78,6 @@
 ## 虹线周刊
 - 2025/04/21 [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## 猫鱼周刊
-- 2025/04/20 [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## PIVOT
 - 2025/04/20 [PIVOT Vol.15](https://anotherdayu.com/2025/6704/) | [More](channels/PIVOT.md)
 
@@ -92,9 +95,6 @@
 
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Hacker News Monthly Top 10
-- 2025/04/01 [Hacker News Monthly Top 10 @2025-04-01](https://github.com/headllines/hackernews-monthly/issues/80) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,4 @@
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
 - [kortix-ai/suna](https://github.com/kortix-ai/suna)
 - [lapce/lapce](https://github.com/lapce/lapce)
