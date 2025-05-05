@@ -1,3 +1,5 @@
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+- [Freika/dawarich](https://github.com/Freika/dawarich)
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
 - [kortix-ai/suna](https://github.com/kortix-ai/suna)
