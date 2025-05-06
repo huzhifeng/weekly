@@ -9,6 +9,18 @@
 ## Taxodium
 - 2025/05/06 [Weekly#32](https://taxodium.ink//32.html) | [More](channels/Taxodium.md)
 
+## PIVOT
+- 2025/05/06 [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) | [More](channels/PIVOT.md)
+
+## GitHub Trending Weekly
+- 2025/05/06 [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/06 [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/05/06 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## CDT周报
 - 2025/05/05 [【CDT周报】第217期：患者：我是托关系进的医院，医生：我也是](https://chinadigitaltimes.net/chinese/717896.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -23,12 +35,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/05/05 [Ubuntu Weekly Newsletter Issue 891](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-891/60536) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/05/05 [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/05 [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 老胡的信息周刊
 - 2025/05/04 [04-20~05-05.老胡的周刊（第186期）.md](https://weekly.howie6879.com/2025/04-20~05-05.老胡的周刊（第186期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -77,9 +83,6 @@
 
 ## 虹线周刊
 - 2025/04/21 [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## PIVOT
-- 2025/04/20 [PIVOT Vol.15](https://anotherdayu.com/2025/6704/) | [More](channels/PIVOT.md)
 
 ## 大橘和朋友们的周刊
 - 2025/04/19 [第030期 - 湖畔逸鸭](https://rrorangeandfriends.site/posts/2025/030) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

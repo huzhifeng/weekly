@@ -1,3 +1,4 @@
+- [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/)
 - [PIVOT Vol.15](https://anotherdayu.com/2025/6704/)
 - [PIVOT Vol.14 折纸战士](https://anotherdayu.com/2025/6665/)
 - [PIVOT Vol.13](https://anotherdayu.com/2025/6613/)

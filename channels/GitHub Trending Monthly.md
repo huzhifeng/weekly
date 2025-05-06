@@ -1,3 +1,4 @@
+- [microsoft/markitdown](https://github.com/microsoft/markitdown)
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models)
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
 - [trycua/cua](https://github.com/trycua/cua)
