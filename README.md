@@ -6,20 +6,23 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 胡言乱语
+- 2025/05/07 [20250507的胡言乱语](https://www.bboy.app/2025/05/07/20250507%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2025/05/07 [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/07 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/05/07 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Taxodium
 - 2025/05/06 [Weekly#32](https://taxodium.ink//32.html) | [More](channels/Taxodium.md)
 
 ## PIVOT
 - 2025/05/06 [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) | [More](channels/PIVOT.md)
-
-## GitHub Trending Weekly
-- 2025/05/06 [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/06 [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/05/06 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## CDT周报
 - 2025/05/05 [【CDT周报】第217期：患者：我是托关系进的医院，医生：我也是](https://chinadigitaltimes.net/chinese/717896.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -84,14 +87,14 @@
 ## 虹线周刊
 - 2025/04/21 [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
+## Hacker News Weekly Top 10
+- 2025/04/21 [Hacker News Weekly Top 10 @2025-04-21](https://github.com/headllines/hackernews-weekly/issues/281) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
 ## 大橘和朋友们的周刊
 - 2025/04/19 [第030期 - 湖畔逸鸭](https://rrorangeandfriends.site/posts/2025/030) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## CyberClip
 - 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
-
-## 胡言乱语
-- 2025/04/09 [20250409的胡言乱语](https://www.bboy.app/2025/04/09/20250409%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

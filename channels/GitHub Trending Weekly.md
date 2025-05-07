@@ -1,3 +1,5 @@
+- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
+- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 - [Freika/dawarich](https://github.com/Freika/dawarich)
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
