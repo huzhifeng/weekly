@@ -1,3 +1,4 @@
+- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp)

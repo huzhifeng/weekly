@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-19/)
 - [FOSS Weekly #25.18: Linux Magazine, Modern Terminals, Muse Pi, apt Guide and More](https://itsfoss.com/newsletter/foss-weekly-25-18/)
 - [FOSS Weekly #25.17: Ubuntu 25.04 and Fedora 42 Release Follow-ups, Logseq, ZimaBoard and More](https://itsfoss.com/newsletter/foss-weekly-25-17/)
 - [FOSS Weekly #25.16: Ubuntu 25.04, Fedora 42, ParticleOS and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-16/)

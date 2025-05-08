@@ -1,3 +1,6 @@
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
