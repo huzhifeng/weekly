@@ -1,3 +1,4 @@
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)

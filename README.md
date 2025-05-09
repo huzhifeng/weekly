@@ -1,22 +1,37 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/04/25 [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/05/09 [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/05/09 [Web Review, Week 2025-19](https://ervin.ipsquad.net/blog/2025/05/09/web-review-week-2025-19/) | [More](channels/Web%20Review.md)
+
+## 二丫讲梵学习周刊
+- 2025/05/09 [学习周刊-总第210期-2025年第19周](https://wiki.eryajf.net/pages/ff011f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2025/05/09 [#199 One More Week...](https://thisweek.gnome.org/posts/2025/05/twig-199/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/05/09 [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/09 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/05/09 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## 科技創業週報
+- 2025/05/08 [科技創業週報 #480：OpenAI宣佈開源轉型：解析帶給AI產業的創新啟示與風險](https://blog.starrocket.io/posts/newsletter-2025-05-07/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## LWN.net Weekly Edition
 - 2025/05/08 [LWN.net Weekly Edition for May 8, 2025](https://lwn.net/Articles/1019557/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2025/05/08 [FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-19/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/05/08 [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/08 [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 胡言乱语
 - 2025/05/07 [20250507的胡言乱语](https://www.bboy.app/2025/05/07/20250507%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -48,18 +63,6 @@
 ## 猫鱼周刊
 - 2025/05/04 [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## 二丫讲梵学习周刊
-- 2025/05/03 [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/05/02 [Web Review, Week 2025-18](https://ervin.ipsquad.net/blog/2025/05/02/web-review-week-2025-18/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/05/02 [#198 Two More Weeks...](https://thisweek.gnome.org/posts/2025/05/twig-198/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 科技創業週報
-- 2025/05/01 [科技創業週報 #479：你的AI真的「聰明」嗎？ 《Rebooting AI》教你看懂人工智慧真相](https://blog.starrocket.io/posts/newsletter-2025-04-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 潮流周刊
 - 2025/04/28 [第220期 - 一颗心树](https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -89,9 +92,6 @@
 
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Hacker News Monthly Top 10
-- 2025/04/01 [Hacker News Monthly Top 10 @2025-04-01](https://github.com/headllines/hackernews-monthly/issues/80) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
