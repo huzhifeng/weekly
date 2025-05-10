@@ -1,3 +1,4 @@
+- [juanfont/headscale](https://github.com/juanfont/headscale)
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
