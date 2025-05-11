@@ -1,3 +1,5 @@
+- [voideditor/void](https://github.com/voideditor/void)
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 - [juanfont/headscale](https://github.com/juanfont/headscale)
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
