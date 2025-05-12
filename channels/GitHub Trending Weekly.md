@@ -1,3 +1,4 @@
+- [daytonaio/daytona](https://github.com/daytonaio/daytona)
 - [voideditor/void](https://github.com/voideditor/void)
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 - [juanfont/headscale](https://github.com/juanfont/headscale)

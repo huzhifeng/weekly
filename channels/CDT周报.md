@@ -1,3 +1,4 @@
+- [【CDT周报】第218期：歧视别人时乐此不疲，轮到自己时气急败坏](https://chinadigitaltimes.net/chinese/718029.html)
 - [【CDT周报】第217期：患者：我是托关系进的医院，医生：我也是](https://chinadigitaltimes.net/chinese/717896.html)
 - [【CDT周报】第216期：如果看不懂那谁谁，就去研究一下董明珠](https://chinadigitaltimes.net/chinese/717641.html)
 - [【CDT周报】第215期：中国不需要谁指明方向，民主才是方向](https://chinadigitaltimes.net/chinese/717490.html)
