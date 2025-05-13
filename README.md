@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/05/13 [voideditor/void](https://github.com/voideditor/void) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/13 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/05/12 [第221期 - 乌龟小岛](https://weekly.tw93.fun/posts/221-%E4%B9%8C%E9%BE%9F%E5%B0%8F%E5%B2%9B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -27,17 +33,11 @@
 ## Ubuntu Weekly Newsletter
 - 2025/05/12 [Ubuntu Weekly Newsletter Issue 892](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-892/60991) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2025/05/12 [voideditor/void](https://github.com/voideditor/void) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/12 [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/05/12 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## 猫鱼周刊
 - 2025/05/11 [猫鱼周刊 vol. 064 创作和变现](https://ameow.xyz/archives/weekly-064) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2025/05/11 [一周杂记 in Week 2 May 2025](http://kingsamchen.github.io/2025/05/11/weekly-2025-may-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## zdyxry Weekly Issue
 - 2025/05/11 [Weekly Issue-Artificial Intelligence and Human Intelligence](https://zdyxry.github.io/2025/05/11/Weekly-Issue-Artificial-Intelligence-and-Human-Intelligence/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -69,9 +69,6 @@
 ## PIVOT
 - 2025/05/06 [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) | [More](channels/PIVOT.md)
 
-## 一周杂记
-- 2025/05/05 [一周杂记 in Week 1 May 2025](http://kingsamchen.github.io/2025/05/05/weekly-2025-may-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## 老胡的信息周刊
 - 2025/05/04 [04-20~05-05.老胡的周刊（第186期）.md](https://weekly.howie6879.com/2025/04-20~05-05.老胡的周刊（第186期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
@@ -98,9 +95,6 @@
 
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Hacker News Monthly Top 10
-- 2025/04/01 [Hacker News Monthly Top 10 @2025-04-01](https://github.com/headllines/hackernews-monthly/issues/80) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
