@@ -1,3 +1,5 @@
+- [xming521/WeClone](https://github.com/xming521/WeClone)
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 - [daytonaio/daytona](https://github.com/daytonaio/daytona)
 - [voideditor/void](https://github.com/voideditor/void)
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)

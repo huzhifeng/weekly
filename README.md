@@ -6,14 +6,29 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## PIVOT
-- 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
+## 科技創業週報
+- 2025/05/15 [科技創業週報 #481：Podcast 進入 AI 多語言時代：Google NotebookLM 開啟內容全球化的新篇章](https://blog.starrocket.io/posts/newsletter-2025-05-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/05/15 [学习周刊-总第211期-2025年第20周](https://wiki.eryajf.net/pages/a0fa42/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/05/15 [LWN.net Weekly Edition for May 15, 2025](https://lwn.net/Articles/1020448/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/05/15 [FOSS Weekly #25.20: KDE Widgets, Deepin Security Issues, New GNOME Player and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-20/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/05/14 [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/05/15 [xming521/WeClone](https://github.com/xming521/WeClone) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/05/14 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/05/15 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/05/15 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## PIVOT
+- 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
 
 ## 潮流周刊
 - 2025/05/12 [第221期 - 乌龟小岛](https://weekly.tw93.fun/posts/221-%E4%B9%8C%E9%BE%9F%E5%B0%8F%E5%B2%9B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,20 +66,8 @@
 ## Web Review
 - 2025/05/09 [Web Review, Week 2025-19](https://ervin.ipsquad.net/blog/2025/05/09/web-review-week-2025-19/) | [More](channels/Web%20Review.md)
 
-## 二丫讲梵学习周刊
-- 2025/05/09 [学习周刊-总第210期-2025年第19周](https://wiki.eryajf.net/pages/ff011f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in GNOME
 - 2025/05/09 [#199 One More Week...](https://thisweek.gnome.org/posts/2025/05/twig-199/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 科技創業週報
-- 2025/05/08 [科技創業週報 #480：OpenAI宣佈開源轉型：解析帶給AI產業的創新啟示與風險](https://blog.starrocket.io/posts/newsletter-2025-05-07/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2025/05/08 [LWN.net Weekly Edition for May 8, 2025](https://lwn.net/Articles/1019557/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/05/08 [FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-19/) | [More](channels/FOSS%20Weekly.md)
 
 ## 胡言乱语
 - 2025/05/07 [20250507的胡言乱语](https://www.bboy.app/2025/05/07/20250507%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -79,7 +82,7 @@
 - 2025/04/28 [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Self-Hosted
-- 2025/04/24 [&#x27;This Week in Self-Hosted&#x27; is now &#x27;Self-Host Weekly&#x27;](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+- 2025/04/24 ['This Week in Self-Hosted' is now 'Self-Host Weekly'](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 泰晓资讯
 - 2025/04/24 [泰晓资讯·4 月 / 第三期 / 2025](https://tinylab.org/tinylab-weekly-04-3rd-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
