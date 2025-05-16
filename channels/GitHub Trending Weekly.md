@@ -1,3 +1,4 @@
+- [awslabs/agent-squad](https://github.com/awslabs/agent-squad)
 - [xming521/WeClone](https://github.com/xming521/WeClone)
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 - [daytonaio/daytona](https://github.com/daytonaio/daytona)

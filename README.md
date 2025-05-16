@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/05/09 [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/05/16 [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/05/16 [Web Review, Week 2025-20](https://ervin.ipsquad.net/blog/2025/05/16/web-review-week-2025-20/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/05/16 [#200 Two Hundred](https://thisweek.gnome.org/posts/2025/05/twig-200/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/05/16 [awslabs/agent-squad](https://github.com/awslabs/agent-squad) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/16 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/05/15 [科技創業週報 #481：Podcast 進入 AI 多語言時代：Google NotebookLM 開啟內容全球化的新篇章](https://blog.starrocket.io/posts/newsletter-2025-05-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,15 +29,6 @@
 
 ## FOSS Weekly
 - 2025/05/15 [FOSS Weekly #25.20: KDE Widgets, Deepin Security Issues, New GNOME Player and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-20/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/05/15 [xming521/WeClone](https://github.com/xming521/WeClone) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/15 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/05/15 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## PIVOT
 - 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
@@ -63,12 +66,6 @@
 ## 视野修炼
 - 2025/05/10 [视野修炼第118期 | 周刊回归🎉](https://sugarat.top/weekly/2025-05-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## Web Review
-- 2025/05/09 [Web Review, Week 2025-19](https://ervin.ipsquad.net/blog/2025/05/09/web-review-week-2025-19/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/05/09 [#199 One More Week...](https://thisweek.gnome.org/posts/2025/05/twig-199/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 胡言乱语
 - 2025/05/07 [20250507的胡言乱语](https://www.bboy.app/2025/05/07/20250507%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -82,7 +79,7 @@
 - 2025/04/28 [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Self-Hosted
-- 2025/04/24 ['This Week in Self-Hosted' is now 'Self-Host Weekly'](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
+- 2025/04/24 [&#x27;This Week in Self-Hosted&#x27; is now &#x27;Self-Host Weekly&#x27;](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## 泰晓资讯
 - 2025/04/24 [泰晓资讯·4 月 / 第三期 / 2025](https://tinylab.org/tinylab-weekly-04-3rd-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
