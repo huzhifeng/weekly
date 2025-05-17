@@ -1,3 +1,4 @@
+- [xming521/WeClone](https://github.com/xming521/WeClone)
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)

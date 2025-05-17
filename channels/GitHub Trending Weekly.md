@@ -1,3 +1,4 @@
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad)
 - [xming521/WeClone](https://github.com/xming521/WeClone)
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
