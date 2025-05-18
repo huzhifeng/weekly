@@ -6,17 +6,29 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 大橘和朋友们的周刊
-- 2025/05/17 [第031期 - 金汤力儿](https://rrorangeandfriends.site/posts/2025/031) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+## 潮流周刊
+- 2025/05/19 [第222期 - 爱磁带机](https://weekly.tw93.fun/posts/222-%E7%88%B1%E7%A3%81%E5%B8%A6%E6%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/05/18 [猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## Taxodium
+- 2025/05/18 [Weekly#34](https://taxodium.ink//34.html) | [More](channels/Taxodium.md)
+
+## 视野修炼
+- 2025/05/18 [视野修炼第119期 | 终端调色](https://sugarat.top/weekly/2025-05-18.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## GitHub Trending Weekly
-- 2025/05/17 [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/05/18 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/05/17 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/05/18 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
 
-## B站每周必看
-- 2025/05/17 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2025/05/17 [05-06~05-18.老胡的周刊（第187期）.md](https://weekly.howie6879.com/2025/05-06~05-18.老胡的周刊（第187期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
+## 大橘和朋友们的周刊
+- 2025/05/17 [第031期 - 金汤力儿](https://rrorangeandfriends.site/posts/2025/031) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/05/16 [Web Review, Week 2025-20](https://ervin.ipsquad.net/blog/2025/05/16/web-review-week-2025-20/) | [More](channels/Web%20Review.md)
@@ -39,14 +51,8 @@
 ## PIVOT
 - 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
 
-## 潮流周刊
-- 2025/05/12 [第221期 - 乌龟小岛](https://weekly.tw93.fun/posts/221-%E4%B9%8C%E9%BE%9F%E5%B0%8F%E5%B2%9B/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/05/12 [【CDT周报】第218期：歧视别人时乐此不疲，轮到自己时气急败坏](https://chinadigitaltimes.net/chinese/718029.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Taxodium
-- 2025/05/12 [Weekly#33](https://taxodium.ink//33.html) | [More](channels/Taxodium.md)
 
 ## AIGC Weekly
 - 2025/05/12 [AIGC Weekly #121](https://quaily.com/op7418/p/aigc-weekly) | [More](channels/AIGC%20Weekly.md)
@@ -60,23 +66,14 @@
 ## Ubuntu Weekly Newsletter
 - 2025/05/12 [Ubuntu Weekly Newsletter Issue 892](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-892/60991) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/05/11 [猫鱼周刊 vol. 064 创作和变现](https://ameow.xyz/archives/weekly-064) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2025/05/11 [一周杂记 in Week 2 May 2025](http://kingsamchen.github.io/2025/05/11/weekly-2025-may-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## zdyxry Weekly Issue
 - 2025/05/11 [Weekly Issue-Artificial Intelligence and Human Intelligence](https://zdyxry.github.io/2025/05/11/Weekly-Issue-Artificial-Intelligence-and-Human-Intelligence/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 视野修炼
-- 2025/05/10 [视野修炼第118期 | 周刊回归🎉](https://sugarat.top/weekly/2025-05-10.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## 胡言乱语
 - 2025/05/07 [20250507的胡言乱语](https://www.bboy.app/2025/05/07/20250507%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 老胡的信息周刊
-- 2025/05/04 [04-20~05-05.老胡的周刊（第186期）.md](https://weekly.howie6879.com/2025/04-20~05-05.老胡的周刊（第186期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2025/04/28 [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) | [More](channels/HelloGitHub.md)
@@ -92,9 +89,6 @@
 
 ## 虹线周刊
 - 2025/04/21 [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Weekly Top 10
-- 2025/04/21 [Hacker News Weekly Top 10 @2025-04-21](https://github.com/headllines/hackernews-weekly/issues/281) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## CyberClip
 - 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
