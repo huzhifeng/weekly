@@ -1,3 +1,5 @@
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad)

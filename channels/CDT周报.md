@@ -1,3 +1,4 @@
+- [【CDT周报】第219期：唯一一个造假的董小姐被查出来了，我们运气是真的好](https://chinadigitaltimes.net/chinese/718177.html)
 - [【CDT周报】第218期：歧视别人时乐此不疲，轮到自己时气急败坏](https://chinadigitaltimes.net/chinese/718029.html)
 - [【CDT周报】第217期：患者：我是托关系进的医院，医生：我也是](https://chinadigitaltimes.net/chinese/717896.html)
 - [【CDT周报】第216期：如果看不懂那谁谁，就去研究一下董明珠](https://chinadigitaltimes.net/chinese/717641.html)
