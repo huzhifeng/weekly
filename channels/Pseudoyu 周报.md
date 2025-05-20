@@ -1,3 +1,4 @@
+- [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96)
 - [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95)
 - [周报 #94 - 生活的界限与真实感](https://www.pseudoyu.com/posts/weekly_review_94)
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93)

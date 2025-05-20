@@ -6,14 +6,23 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## Pseudoyu 周报
+- 2025/05/20 [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/05/20 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/20 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/05/20 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2025/05/19 [第222期 - 爱磁带机](https://weekly.tw93.fun/posts/222-%E7%88%B1%E7%A3%81%E5%B8%A6%E6%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/05/19 [【CDT周报】第219期：唯一一个造假的董小姐被查出来了，我们运气是真的好](https://chinadigitaltimes.net/chinese/718177.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Pseudoyu 周报
-- 2025/05/19 [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
 - 2025/05/19 [AIGC Weekly #122](https://quaily.com/op7418/p/aigc-weekly-3tvebnly) | [More](channels/AIGC%20Weekly.md)
@@ -23,15 +32,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/05/19 [Ubuntu Weekly Newsletter Issue 893](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-893/61351) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/05/19 [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/19 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/05/19 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2025/05/18 [猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -128,4 +128,7 @@
 
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 艾迪蓝波
+- 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
