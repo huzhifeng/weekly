@@ -6,17 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## Pseudoyu 周报
-- 2025/05/20 [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
 ## GitHub Trending Weekly
-- 2025/05/20 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/05/21 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/05/20 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/05/21 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/05/20 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/05/21 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Pseudoyu 周报
+- 2025/05/20 [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 潮流周刊
 - 2025/05/19 [第222期 - 爱磁带机](https://weekly.tw93.fun/posts/222-%E7%88%B1%E7%A3%81%E5%B8%A6%E6%9C%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)

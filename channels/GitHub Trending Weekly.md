@@ -1,3 +1,4 @@
+- [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)
