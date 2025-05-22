@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.21: Oh My Bash, Ubuntu's New Terminal, Pixelify Android, Fedora's Wayland Gamble and More](https://itsfoss.com/newsletter/foss-weekly-25-21/)
 - [FOSS Weekly #25.20: KDE Widgets, Deepin Security Issues, New GNOME Player and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-20/)
 - [FOSS Weekly #25.19: sudo-rs, Terminal Makeover, Kazam 2.0, Mission Center and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-19/)
 - [FOSS Weekly #25.18: Linux Magazine, Modern Terminals, Muse Pi, apt Guide and More](https://itsfoss.com/newsletter/foss-weekly-25-18/)

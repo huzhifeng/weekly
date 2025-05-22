@@ -1,3 +1,4 @@
+- [microsoft/BitNet](https://github.com/microsoft/BitNet)
 - [voideditor/void](https://github.com/voideditor/void)
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
 - [xming521/WeClone](https://github.com/xming521/WeClone)

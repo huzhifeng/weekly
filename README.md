@@ -6,14 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/05/22 [科技創業週報 #482：AI開發工具大進化，用自然語言驅動程式設計](https://blog.starrocket.io/posts/newsletter-2025-05-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/05/22 [学习周刊-总第212期-2025年第21周](https://wiki.eryajf.net/pages/ae0d2f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/05/22 [LWN.net Weekly Edition for May 22, 2025](https://lwn.net/Articles/1021258/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/05/22 [FOSS Weekly #25.21: Oh My Bash, Ubuntu's New Terminal, Pixelify Android, Fedora's Wayland Gamble and More](https://itsfoss.com/newsletter/foss-weekly-25-21/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/05/21 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/05/22 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/05/21 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/05/22 [voideditor/void](https://github.com/voideditor/void) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/05/21 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/05/22 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Pseudoyu 周报
 - 2025/05/20 [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -60,18 +72,6 @@
 ## This Week in GNOME
 - 2025/05/16 [#200 Two Hundred](https://thisweek.gnome.org/posts/2025/05/twig-200/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 科技創業週報
-- 2025/05/15 [科技創業週報 #481：Podcast 進入 AI 多語言時代：Google NotebookLM 開啟內容全球化的新篇章](https://blog.starrocket.io/posts/newsletter-2025-05-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/05/15 [学习周刊-总第211期-2025年第20周](https://wiki.eryajf.net/pages/a0fa42/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/05/15 [LWN.net Weekly Edition for May 15, 2025](https://lwn.net/Articles/1020448/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/05/15 [FOSS Weekly #25.20: KDE Widgets, Deepin Security Issues, New GNOME Player and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-20/) | [More](channels/FOSS%20Weekly.md)
-
 ## PIVOT
 - 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
 
@@ -92,9 +92,6 @@
 
 ## 泰晓资讯
 - 2025/04/24 [泰晓资讯·4 月 / 第三期 / 2025](https://tinylab.org/tinylab-weekly-04-3rd-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## Hacker News Weekly Top 10
-- 2025/04/21 [Hacker News Weekly Top 10 @2025-04-21](https://github.com/headllines/hackernews-weekly/issues/281) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## CyberClip
 - 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
