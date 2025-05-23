@@ -1,3 +1,5 @@
+- [appwrite/appwrite](https://github.com/appwrite/appwrite)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 - [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)

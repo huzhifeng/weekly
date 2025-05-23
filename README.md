@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/05/16 [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/05/23 [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/05/23 [Web Review, Week 2025-21](https://ervin.ipsquad.net/blog/2025/05/23/web-review-week-2025-21/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/05/23 [#201 Dithered Images](https://thisweek.gnome.org/posts/2025/05/twig-201/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/05/23 [appwrite/appwrite](https://github.com/appwrite/appwrite) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/23 [voideditor/void](https://github.com/voideditor/void) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/05/23 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/05/22 [科技創業週報 #482：AI開發工具大進化，用自然語言驅動程式設計](https://blog.starrocket.io/posts/newsletter-2025-05-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,15 +32,6 @@
 
 ## FOSS Weekly
 - 2025/05/22 [FOSS Weekly #25.21: Oh My Bash, Ubuntu's New Terminal, Pixelify Android, Fedora's Wayland Gamble and More](https://itsfoss.com/newsletter/foss-weekly-25-21/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/05/22 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/22 [voideditor/void](https://github.com/voideditor/void) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/05/22 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Pseudoyu 周报
 - 2025/05/20 [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -65,12 +71,6 @@
 
 ## 大橘和朋友们的周刊
 - 2025/05/17 [第031期 - 金汤力儿](https://rrorangeandfriends.site/posts/2025/031) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/05/16 [Web Review, Week 2025-20](https://ervin.ipsquad.net/blog/2025/05/16/web-review-week-2025-20/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/05/16 [#200 Two Hundred](https://thisweek.gnome.org/posts/2025/05/twig-200/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## PIVOT
 - 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
