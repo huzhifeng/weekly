@@ -1,3 +1,4 @@
+- [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/)
 - [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/)
 - [CyberClip #64 致富之道](https://shyrz.me/cyberclip-64-the-way-to-wealth/)
 - [CyberClip #63 天怒人怨](https://shyrz.me/cyberclip-63-hated/)

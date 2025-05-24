@@ -6,20 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## CyberClip
+- 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
+
+## GitHub Trending Weekly
+- 2025/05/24 [appwrite/appwrite](https://github.com/appwrite/appwrite) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/05/24 [voideditor/void](https://github.com/voideditor/void) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/05/23 [Web Review, Week 2025-21](https://ervin.ipsquad.net/blog/2025/05/23/web-review-week-2025-21/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/05/23 [#201 Dithered Images](https://thisweek.gnome.org/posts/2025/05/twig-201/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/05/23 [appwrite/appwrite](https://github.com/appwrite/appwrite) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/05/23 [voideditor/void](https://github.com/voideditor/void) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/05/23 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/05/22 [科技創業週報 #482：AI開發工具大進化，用自然語言驅動程式設計](https://blog.starrocket.io/posts/newsletter-2025-05-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -92,9 +92,6 @@
 
 ## 泰晓资讯
 - 2025/04/24 [泰晓资讯·4 月 / 第三期 / 2025](https://tinylab.org/tinylab-weekly-04-3rd-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## CyberClip
-- 2025/04/12 [CyberClip #65 诚实测试](https://shyrz.me/cyberclip-65-testing-for-faithfulness/) | [More](channels/CyberClip.md)
 
 ## 棱镜通讯
 - 2025/04/06 [棱镜通讯 No.113  亚伦·斯沃兹（Aaron Swartz）](https://wangyurui.com/posts/leng-jing-tong-xun-no-113-ya-lun-si-wo-zi-aaron-e760e0ca) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

@@ -1,3 +1,4 @@
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
