@@ -1,3 +1,5 @@
+- [colinhacks/zod](https://github.com/colinhacks/zod)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri)

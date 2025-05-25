@@ -1,3 +1,4 @@
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0)
 - [microsoft/BitNet](https://github.com/microsoft/BitNet)
