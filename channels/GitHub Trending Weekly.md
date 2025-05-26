@@ -1,3 +1,4 @@
+- [anthropics/claude-code](https://github.com/anthropics/claude-code)
 - [colinhacks/zod](https://github.com/colinhacks/zod)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
