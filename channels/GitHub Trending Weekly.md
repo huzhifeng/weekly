@@ -1,3 +1,5 @@
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
 - [colinhacks/zod](https://github.com/colinhacks/zod)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop)

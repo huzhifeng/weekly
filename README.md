@@ -1,19 +1,22 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2025/05/23 [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 胡言乱语
-- 2025/05/27 [20250527的胡言乱语](https://www.bboy.app/2025/05/27/20250527%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+## HelloGitHub
+- 2025/05/28 [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) | [More](channels/HelloGitHub.md)
 
 ## GitHub Trending Weekly
-- 2025/05/27 [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/05/28 [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/05/27 [appwrite/appwrite](https://github.com/appwrite/appwrite) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/05/28 [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) | [More](channels/GitHub%20Trending%20Monthly.md)
 
-## B站每周必看
-- 2025/05/27 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 胡言乱语
+- 2025/05/27 [20250527的胡言乱语](https://www.bboy.app/2025/05/27/20250527%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2025/05/26 [第223期 - 孤独身影](https://weekly.tw93.fun/posts/223-%E5%AD%A4%E7%8B%AC%E8%BA%AB%E5%BD%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -41,6 +44,9 @@
 
 ## 视野修炼
 - 2025/05/25 [视野修炼第120期 | NoCode](https://sugarat.top/weekly/2025-05-25.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 一周杂记
+- 2025/05/25 [一周杂记 in Week 4 May 2025](http://kingsamchen.github.io/2025/05/25/weekly-2025-may-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## zdyxry Weekly Issue
 - 2025/05/25 [Weekly Issue-《赛博苍蝇》](https://zdyxry.github.io/2025/05/25/Weekly-Issue-%E8%B5%9B%E5%8D%9A%E8%8B%8D%E8%9D%87/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -75,17 +81,11 @@
 ## 虹线周刊
 - 2025/05/19 [2025#20 语境变迁](https://weekly.1q43.blog/article/1f7ca795c956800e8529cf3da7fba51c) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2025/05/18 [一周杂记 in Week 3 May 2025](http://kingsamchen.github.io/2025/05/18/weekly-2025-may-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## 大橘和朋友们的周刊
 - 2025/05/17 [第031期 - 金汤力儿](https://rrorangeandfriends.site/posts/2025/031) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
-
-## HelloGitHub
-- 2025/04/28 [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) | [More](channels/HelloGitHub.md)
 
 ## This Week in Self-Hosted
 - 2025/04/24 [&#x27;This Week in Self-Hosted&#x27; is now &#x27;Self-Host Weekly&#x27;](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
