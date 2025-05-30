@@ -1,3 +1,4 @@
+- [microsoft/qlib](https://github.com/microsoft/qlib)
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
