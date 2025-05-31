@@ -1,3 +1,6 @@
+- [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA)
+- [simonw/llm](https://github.com/simonw/llm)
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [microsoft/qlib](https://github.com/microsoft/qlib)
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
