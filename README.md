@@ -6,14 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 视野修炼
+- 2025/06/01 [视野修炼第121期 | Rolldown-Vite](https://sugarat.top/weekly/2025-05-31.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/06/01 [9to5Linux Weekly Roundup: June 1st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-1st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
 ## GitHub Trending Weekly
-- 2025/05/31 [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/06/01 [duixcom/Duix.mobile](https://github.com/duixcom/Duix.mobile) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/05/31 [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/06/01 [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/05/31 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/06/01 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Web Review
 - 2025/05/30 [Web Review, Week 2025-22](https://ervin.ipsquad.net/blog/2025/05/30/web-review-week-2025-22/) | [More](channels/Web%20Review.md)
@@ -60,9 +66,6 @@
 ## 猫鱼周刊
 - 2025/05/25 [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## 视野修炼
-- 2025/05/25 [视野修炼第120期 | NoCode](https://sugarat.top/weekly/2025-05-25.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## 一周杂记
 - 2025/05/25 [一周杂记 in Week 4 May 2025](http://kingsamchen.github.io/2025/05/25/weekly-2025-may-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -80,9 +83,6 @@
 
 ## 虹线周刊
 - 2025/05/19 [2025#20 语境变迁](https://weekly.1q43.blog/article/1f7ca795c956800e8529cf3da7fba51c) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 大橘和朋友们的周刊
-- 2025/05/17 [第031期 - 金汤力儿](https://rrorangeandfriends.site/posts/2025/031) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
