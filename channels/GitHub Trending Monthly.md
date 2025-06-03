@@ -1,3 +1,4 @@
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)

@@ -6,6 +6,18 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 一周杂记
+- 2025/06/03 [一周杂记 in Week 5 May 2025](http://kingsamchen.github.io/2025/06/03/weekly-2025-may-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GitHub Trending Weekly
+- 2025/06/03 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/03 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/03 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2025/06/02 [猫鱼周刊 vol. 067 世界无烟日](https://ameow.xyz/archives/weekly-067) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -15,20 +27,14 @@
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## zdyxry Weekly Issue
+- 2025/06/02 [Weekly Issue-如何看病](https://zdyxry.github.io/2025/06/02/Weekly-Issue-%E5%A6%82%E4%BD%95%E7%9C%8B%E7%97%85/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## DistroWatch Weekly
 - 2025/06/02 [DistroWatch Weekly, Issue 1124](https://distrowatch.com/weekly.php?issue=20250602) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/06/02 [Ubuntu Weekly Newsletter Issue 895](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-895/62091) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/06/02 [anthropics/courses](https://github.com/anthropics/courses) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/02 [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/02 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 视野修炼
 - 2025/06/01 [视野修炼第121期 | Rolldown-Vite](https://sugarat.top/weekly/2025-05-31.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -74,12 +80,6 @@
 
 ## AIGC Weekly
 - 2025/05/26 [AIGC Weekly #123](https://quaily.com/op7418/p/aigc-weekly-one-two-three) | [More](channels/AIGC%20Weekly.md)
-
-## 一周杂记
-- 2025/05/25 [一周杂记 in Week 4 May 2025](http://kingsamchen.github.io/2025/05/25/weekly-2025-may-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2025/05/25 [Weekly Issue-《赛博苍蝇》](https://zdyxry.github.io/2025/05/25/Weekly-Issue-%E8%B5%9B%E5%8D%9A%E8%8B%8D%E8%9D%87/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)

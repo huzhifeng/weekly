@@ -1,3 +1,4 @@
+- [Weekly Issue-如何看病](https://zdyxry.github.io/2025/06/02/Weekly-Issue-%E5%A6%82%E4%BD%95%E7%9C%8B%E7%97%85/)
 - [Weekly Issue-《赛博苍蝇》](https://zdyxry.github.io/2025/05/25/Weekly-Issue-%E8%B5%9B%E5%8D%9A%E8%8B%8D%E8%9D%87/)
 - [Weekly Issue-Artificial Intelligence and Human Intelligence](https://zdyxry.github.io/2025/05/11/Weekly-Issue-Artificial-Intelligence-and-Human-Intelligence/)
 - [Weekly Issue-Be Kind](https://zdyxry.github.io/2025/04/27/Weekly-Issue-Be-Kind/)

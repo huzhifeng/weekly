@@ -1,3 +1,4 @@
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
 - [actions/runner-images](https://github.com/actions/runner-images)
 - [duixcom/Duix.mobile](https://github.com/duixcom/Duix.mobile)
 - [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA)
