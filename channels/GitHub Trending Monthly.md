@@ -1,3 +1,4 @@
+- [usememos/memos](https://github.com/usememos/memos)
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
