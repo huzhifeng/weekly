@@ -6,17 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## Taxodium
-- 2025/06/04 [Weekly#36](https://taxodium.ink//36.html) | [More](channels/Taxodium.md)
+## 科技創業週報
+- 2025/06/05 [科技創業週報 #484：AI正悄悄改變你的人生，未來你的同事很可能是AI](https://blog.starrocket.io/posts/newsletter-2025-06-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/06/05 [学习周刊-总第214期-2025年第23周](https://wiki.eryajf.net/pages/343b51/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/06/05 [LWN.net Weekly Edition for June 5, 2025](https://lwn.net/Articles/1022979/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/06/05 [FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-23/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/06/04 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/06/05 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/06/04 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/06/05 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
-## B站每周必看
-- 2025/06/04 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## Taxodium
+- 2025/06/04 [Weekly#36](https://taxodium.ink//36.html) | [More](channels/Taxodium.md)
 
 ## 一周杂记
 - 2025/06/03 [一周杂记 in Week 5 May 2025](http://kingsamchen.github.io/2025/06/03/weekly-2025-may-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -54,18 +63,6 @@
 ## This Week in GNOME
 - 2025/05/30 [#202 Presenting Screenshots](https://thisweek.gnome.org/posts/2025/05/twig-202/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 科技創業週報
-- 2025/05/29 [科技創業週報 #483：當創作遇上 AI的新契機](https://blog.starrocket.io/posts/newsletter-2025-05-28/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/05/29 [学习周刊-总第213期-2025年第22周](https://wiki.eryajf.net/pages/e0965e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/05/29 [LWN.net Weekly Edition for May 29, 2025](https://lwn.net/Articles/1022134/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/05/29 [FOSS Weekly #25.22: Microsoft's Vim Alternative, Kernel 6.15, UBXI Desktop, End of Ubuntu 20.04 and More](https://itsfoss.com/newsletter/foss-weekly-25-22/) | [More](channels/FOSS%20Weekly.md)
-
 ## HelloGitHub
 - 2025/05/28 [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) | [More](channels/HelloGitHub.md)
 
@@ -101,9 +98,6 @@
 
 ## Raye's Journey
 - 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
-
-## 印记周报
-- 2025/02/23 [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)

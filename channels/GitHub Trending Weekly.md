@@ -1,3 +1,5 @@
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt)
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
 - [actions/runner-images](https://github.com/actions/runner-images)
 - [duixcom/Duix.mobile](https://github.com/duixcom/Duix.mobile)
