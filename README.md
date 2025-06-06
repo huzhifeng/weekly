@@ -1,10 +1,31 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/05/30 [科技爱好者周刊（第 350 期）：Java 三十周年](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/06/06 [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## 老胡的信息周刊
+- 2025/06/07 [06-02~06-08.老胡的周刊（第190期）.md](https://weekly.howie6879.com/2025/06-02~06-08.老胡的周刊（第190期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/06/06 [Web Review, Week 2025-23](https://ervin.ipsquad.net/blog/2025/06/06/web-review-week-2025-23/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2025/06/06 [20250606的胡言乱语](https://www.bboy.app/2025/06/06/20250606%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## This Week in GNOME
+- 2025/06/06 [#203 Infinitely Proud](https://thisweek.gnome.org/posts/2025/06/twig-203/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/06/06 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/06 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/06 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/06/05 [科技創業週報 #484：AI正悄悄改變你的人生，未來你的同事很可能是AI](https://blog.starrocket.io/posts/newsletter-2025-06-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +38,6 @@
 
 ## FOSS Weekly
 - 2025/06/05 [FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-23/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/06/05 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/05 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Taxodium
 - 2025/06/04 [Weekly#36](https://taxodium.ink//36.html) | [More](channels/Taxodium.md)
@@ -54,20 +69,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/06/01 [9to5Linux Weekly Roundup: June 1st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-1st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## 老胡的信息周刊
-- 2025/05/30 [05-26~05-31.老胡的周刊（第189期）.md](https://weekly.howie6879.com/2025/05-26~05-31.老胡的周刊（第189期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/05/30 [Web Review, Week 2025-22](https://ervin.ipsquad.net/blog/2025/05/30/web-review-week-2025-22/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/05/30 [#202 Presenting Screenshots](https://thisweek.gnome.org/posts/2025/05/twig-202/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## HelloGitHub
 - 2025/05/28 [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) | [More](channels/HelloGitHub.md)
-
-## 胡言乱语
-- 2025/05/27 [20250527的胡言乱语](https://www.bboy.app/2025/05/27/20250527%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 虹线周刊
 - 2025/05/26 [2025#21 道在形外](https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -92,6 +95,9 @@
 
 ## 泰晓资讯
 - 2025/04/24 [泰晓资讯·4 月 / 第三期 / 2025](https://tinylab.org/tinylab-weekly-04-3rd-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
+
+## Hacker News Weekly Top 10
+- 2025/04/21 [Hacker News Weekly Top 10 @2025-04-21](https://github.com/headllines/hackernews-weekly/issues/281) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
