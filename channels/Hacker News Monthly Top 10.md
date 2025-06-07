@@ -1,3 +1,5 @@
+- [Hacker News Monthly Top 10 @2025-06-01](https://github.com/headllines/hackernews-monthly/issues/82)
+- [Hacker News Monthly Top 10 @2025-05-01](https://github.com/headllines/hackernews-monthly/issues/81)
 - [Hacker News Monthly Top 10 @2025-04-01](https://github.com/headllines/hackernews-monthly/issues/80)
 - [Hacker News Monthly Top 10 @2025-03-01](https://github.com/headllines/hackernews-monthly/issues/79)
 - [Hacker News Monthly Top 10 @2025-02-01](https://github.com/headllines/hackernews-monthly/issues/78)

@@ -1,3 +1,4 @@
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)
 - [duckdb/ducklake](https://github.com/duckdb/ducklake)
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)

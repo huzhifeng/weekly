@@ -9,6 +9,18 @@
 ## 老胡的信息周刊
 - 2025/06/07 [06-02~06-08.老胡的周刊（第190期）.md](https://weekly.howie6879.com/2025/06-02~06-08.老胡的周刊（第190期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
+## 视野修炼
+- 2025/06/07 [视野修炼第122期 | 发光图片制作](https://sugarat.top/weekly/2025-06-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## GitHub Trending Weekly
+- 2025/06/07 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/07 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/07 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## Web Review
 - 2025/06/06 [Web Review, Week 2025-23](https://ervin.ipsquad.net/blog/2025/06/06/web-review-week-2025-23/) | [More](channels/Web%20Review.md)
 
@@ -17,15 +29,6 @@
 
 ## This Week in GNOME
 - 2025/06/06 [#203 Infinitely Proud](https://thisweek.gnome.org/posts/2025/06/twig-203/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/06/06 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/06 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/06 [想不到吧，这些不同风格的歌都是我唱的！！！](https://www.bilibili.com/video/BV1iJ5fzyEtw) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/06/05 [科技創業週報 #484：AI正悄悄改變你的人生，未來你的同事很可能是AI](https://blog.starrocket.io/posts/newsletter-2025-06-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -54,6 +57,9 @@
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## Hacker News Weekly Top 10
+- 2025/06/02 [Hacker News Weekly Top 10 @2025-06-02](https://github.com/headllines/hackernews-weekly/issues/287) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
 ## zdyxry Weekly Issue
 - 2025/06/02 [Weekly Issue-如何看病](https://zdyxry.github.io/2025/06/02/Weekly-Issue-%E5%A6%82%E4%BD%95%E7%9C%8B%E7%97%85/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
@@ -63,8 +69,8 @@
 ## Ubuntu Weekly Newsletter
 - 2025/06/02 [Ubuntu Weekly Newsletter Issue 895](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-895/62091) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 视野修炼
-- 2025/06/01 [视野修炼第121期 | Rolldown-Vite](https://sugarat.top/weekly/2025-05-31.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+## Hacker News Monthly Top 10
+- 2025/06/01 [Hacker News Monthly Top 10 @2025-06-01](https://github.com/headllines/hackernews-monthly/issues/82) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## 9to5Linux Weekly Roundup
 - 2025/06/01 [9to5Linux Weekly Roundup: June 1st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-1st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
@@ -95,9 +101,6 @@
 
 ## 泰晓资讯
 - 2025/04/24 [泰晓资讯·4 月 / 第三期 / 2025](https://tinylab.org/tinylab-weekly-04-3rd-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## Hacker News Weekly Top 10
-- 2025/04/21 [Hacker News Weekly Top 10 @2025-04-21](https://github.com/headllines/hackernews-weekly/issues/281) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
