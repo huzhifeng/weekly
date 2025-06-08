@@ -6,20 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2025/06/09 [第224期 - 初见杨梅](https://weekly.tw93.fun/posts/224-%E5%88%9D%E8%A7%81%E6%9D%A8%E6%A2%85/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/06/08 [猫鱼周刊 vol. 068 AI 写作到底是创作还是合成文字](https://ameow.xyz/archives/weekly-068) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/06/08 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/08 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/08 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 老胡的信息周刊
 - 2025/06/07 [06-02~06-08.老胡的周刊（第190期）.md](https://weekly.howie6879.com/2025/06-02~06-08.老胡的周刊（第190期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2025/06/07 [视野修炼第122期 | 发光图片制作](https://sugarat.top/weekly/2025-06-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## GitHub Trending Weekly
-- 2025/06/07 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/07 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/07 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Web Review
 - 2025/06/06 [Web Review, Week 2025-23](https://ervin.ipsquad.net/blog/2025/06/06/web-review-week-2025-23/) | [More](channels/Web%20Review.md)
@@ -48,9 +54,6 @@
 ## 一周杂记
 - 2025/06/03 [一周杂记 in Week 5 May 2025](http://kingsamchen.github.io/2025/06/03/weekly-2025-may-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## 猫鱼周刊
-- 2025/06/02 [猫鱼周刊 vol. 067 世界无烟日](https://ameow.xyz/archives/weekly-067) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/06/02 [【CDT周报】第221期：不能看耽美小说的成年人，不能自由排便的中学生](https://chinadigitaltimes.net/chinese/718554.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -72,17 +75,11 @@
 ## Hacker News Monthly Top 10
 - 2025/06/01 [Hacker News Monthly Top 10 @2025-06-01](https://github.com/headllines/hackernews-monthly/issues/82) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/06/01 [9to5Linux Weekly Roundup: June 1st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-1st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## HelloGitHub
 - 2025/05/28 [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) | [More](channels/HelloGitHub.md)
 
 ## 虹线周刊
 - 2025/05/26 [2025#21 道在形外](https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 潮流周刊
-- 2025/05/26 [第223期 - 孤独身影](https://weekly.tw93.fun/posts/223-%E5%AD%A4%E7%8B%AC%E8%BA%AB%E5%BD%B1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2025/05/26 [AIGC Weekly #123](https://quaily.com/op7418/p/aigc-weekly-one-two-three) | [More](channels/AIGC%20Weekly.md)

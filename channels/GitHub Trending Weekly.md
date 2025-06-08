@@ -1,3 +1,4 @@
+- [netbirdio/netbird](https://github.com/netbirdio/netbird)
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)
 - [duckdb/ducklake](https://github.com/duckdb/ducklake)
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI)
