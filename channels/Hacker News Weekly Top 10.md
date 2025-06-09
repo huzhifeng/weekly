@@ -1,3 +1,4 @@
+- [Hacker News Weekly Top 10 @2025-06-09](https://github.com/headllines/hackernews-weekly/issues/288)
 - [Hacker News Weekly Top 10 @2025-06-02](https://github.com/headllines/hackernews-weekly/issues/287)
 - [Hacker News Weekly Top 10 @2025-05-26](https://github.com/headllines/hackernews-weekly/issues/286)
 - [Hacker News Weekly Top 10 @2025-05-19](https://github.com/headllines/hackernews-weekly/issues/285)

@@ -1,3 +1,4 @@
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird)
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)
 - [duckdb/ducklake](https://github.com/duckdb/ducklake)

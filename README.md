@@ -9,17 +9,38 @@
 ## 潮流周刊
 - 2025/06/09 [第224期 - 初见杨梅](https://weekly.tw93.fun/posts/224-%E5%88%9D%E8%A7%81%E6%9D%A8%E6%A2%85/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/06/09 [【CDT周报】第222期：若你坚守原则，迟早要面对坦克](https://chinadigitaltimes.net/chinese/718729.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Hacker News Weekly Top 10
+- 2025/06/09 [Hacker News Weekly Top 10 @2025-06-09](https://github.com/headllines/hackernews-weekly/issues/288) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2025/06/09 [一周杂记 in Week 1 June 2025](http://kingsamchen.github.io/2025/06/09/weekly-2025-june-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/06/09 [AIGC Weekly #125](https://quaily.com/op7418/p/aigc-weekly-one-hundred-twenty-five) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/06/09 [DistroWatch Weekly, Issue 1125](https://distrowatch.com/weekly.php?issue=20250609) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/06/09 [9to5Linux Weekly Roundup: June 8th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-8th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2025/06/09 [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/09 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/09 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2025/06/08 [猫鱼周刊 vol. 068 AI 写作到底是创作还是合成文字](https://ameow.xyz/archives/weekly-068) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/06/08 [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/08 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/08 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## zdyxry Weekly Issue
+- 2025/06/08 [Weekly Issue-《强风吹拂》](https://zdyxry.github.io/2025/06/08/Weekly-Issue-%E5%BC%BA%E9%A3%8E%E5%90%B9%E6%8B%82/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2025/06/07 [06-02~06-08.老胡的周刊（第190期）.md](https://weekly.howie6879.com/2025/06-02~06-08.老胡的周刊（第190期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -51,23 +72,11 @@
 ## Taxodium
 - 2025/06/04 [Weekly#36](https://taxodium.ink//36.html) | [More](channels/Taxodium.md)
 
-## 一周杂记
-- 2025/06/03 [一周杂记 in Week 5 May 2025](http://kingsamchen.github.io/2025/06/03/weekly-2025-may-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## CDT周报
-- 2025/06/02 [【CDT周报】第221期：不能看耽美小说的成年人，不能自由排便的中学生](https://chinadigitaltimes.net/chinese/718554.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+## 虹线周刊
+- 2025/06/02 [2025#22 镜中自我](https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Hacker News Weekly Top 10
-- 2025/06/02 [Hacker News Weekly Top 10 @2025-06-02](https://github.com/headllines/hackernews-weekly/issues/287) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## zdyxry Weekly Issue
-- 2025/06/02 [Weekly Issue-如何看病](https://zdyxry.github.io/2025/06/02/Weekly-Issue-%E5%A6%82%E4%BD%95%E7%9C%8B%E7%97%85/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## DistroWatch Weekly
-- 2025/06/02 [DistroWatch Weekly, Issue 1124](https://distrowatch.com/weekly.php?issue=20250602) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/06/02 [Ubuntu Weekly Newsletter Issue 895](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-895/62091) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -77,12 +86,6 @@
 
 ## HelloGitHub
 - 2025/05/28 [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) | [More](channels/HelloGitHub.md)
-
-## 虹线周刊
-- 2025/05/26 [2025#21 道在形外](https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## AIGC Weekly
-- 2025/05/26 [AIGC Weekly #123](https://quaily.com/op7418/p/aigc-weekly-one-two-three) | [More](channels/AIGC%20Weekly.md)
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
