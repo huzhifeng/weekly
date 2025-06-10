@@ -1,3 +1,5 @@
+- [block/goose](https://github.com/block/goose)
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird)
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)
