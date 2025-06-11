@@ -1,3 +1,4 @@
+- [frdel/agent-zero](https://github.com/frdel/agent-zero)
 - [block/goose](https://github.com/block/goose)
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)

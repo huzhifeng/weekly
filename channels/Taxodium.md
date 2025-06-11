@@ -1,3 +1,4 @@
+- [Weekly#37](https://taxodium.ink//37.html)
 - [Weekly#36](https://taxodium.ink//36.html)
 - [Weekly#35](https://taxodium.ink//35.html)
 - [Weekly#34](https://taxodium.ink//34.html)
