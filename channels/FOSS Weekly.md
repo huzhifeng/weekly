@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.24: Nano Tips, Wayland-only Ubuntu, End of Mint 20 and 13 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-25-24/)
 - [FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-23/)
 - [FOSS Weekly #25.22: Microsoft's Vim Alternative, Kernel 6.15, UBXI Desktop, End of Ubuntu 20.04 and More](https://itsfoss.com/newsletter/foss-weekly-25-22/)
 - [FOSS Weekly #25.21: Oh My Bash, Ubuntu's New Terminal, Pixelify Android, Fedora's Wayland Gamble and More](https://itsfoss.com/newsletter/foss-weekly-25-21/)

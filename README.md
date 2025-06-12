@@ -6,17 +6,29 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## Taxodium
-- 2025/06/11 [Weekly#37](https://taxodium.ink//37.html) | [More](channels/Taxodium.md)
+## 科技創業週報
+- 2025/06/12 [科技創業週報 #485：當螢幕開始流動：Liquid Glass 打開數位體驗新維度](https://blog.starrocket.io/posts/newsletter-2025-06-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/06/12 [学习周刊-总第215期-2025年第24周](https://wiki.eryajf.net/pages/044a19/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/06/12 [LWN.net Weekly Edition for June 12, 2025](https://lwn.net/Articles/1023924/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/06/12 [FOSS Weekly #25.24: Nano Tips, Wayland-only Ubuntu, End of Mint 20 and 13 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-25-24/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/06/11 [block/goose](https://github.com/block/goose) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/06/12 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/06/11 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/06/12 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## B站每周必看
-- 2025/06/11 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+- 2025/06/12 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
+## Taxodium
+- 2025/06/11 [Weekly#37](https://taxodium.ink//37.html) | [More](channels/Taxodium.md)
 
 ## 潮流周刊
 - 2025/06/09 [第224期 - 初见杨梅](https://weekly.tw93.fun/posts/224-%E5%88%9D%E8%A7%81%E6%9D%A8%E6%A2%85/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -62,18 +74,6 @@
 
 ## This Week in GNOME
 - 2025/06/06 [#203 Infinitely Proud](https://thisweek.gnome.org/posts/2025/06/twig-203/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 科技創業週報
-- 2025/06/05 [科技創業週報 #484：AI正悄悄改變你的人生，未來你的同事很可能是AI](https://blog.starrocket.io/posts/newsletter-2025-06-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/06/05 [学习周刊-总第214期-2025年第23周](https://wiki.eryajf.net/pages/343b51/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/06/05 [LWN.net Weekly Edition for June 5, 2025](https://lwn.net/Articles/1022979/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/06/05 [FOSS Weekly #25.23: Helwan Linux, Quarkdown, Konsole Tweaks, Keyboard Shortcuts and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-23/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/06/02 [2025#22 镜中自我](https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)

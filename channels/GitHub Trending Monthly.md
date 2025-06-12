@@ -1,3 +1,4 @@
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
 - [usememos/memos](https://github.com/usememos/memos)
