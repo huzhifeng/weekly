@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/06/06 [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/06/12 [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/06/13 [Web Review, Week 2025-24](https://ervin.ipsquad.net/blog/2025/06/13/web-review-week-2025-24/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/06/13 [#204 Sending Packets](https://thisweek.gnome.org/posts/2025/06/twig-204/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/06/13 [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/13 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/13 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 科技創業週報
 - 2025/06/12 [科技創業週報 #485：當螢幕開始流動：Liquid Glass 打開數位體驗新維度](https://blog.starrocket.io/posts/newsletter-2025-06-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,15 +32,6 @@
 
 ## FOSS Weekly
 - 2025/06/12 [FOSS Weekly #25.24: Nano Tips, Wayland-only Ubuntu, End of Mint 20 and 13 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-25-24/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/06/12 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/12 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/12 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## Taxodium
 - 2025/06/11 [Weekly#37](https://taxodium.ink//37.html) | [More](channels/Taxodium.md)
@@ -48,9 +54,6 @@
 ## DistroWatch Weekly
 - 2025/06/09 [DistroWatch Weekly, Issue 1125](https://distrowatch.com/weekly.php?issue=20250609) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/06/09 [9to5Linux Weekly Roundup: June 8th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-8th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/06/09 [Ubuntu Weekly Newsletter Issue 896](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-896/62515) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -66,14 +69,8 @@
 ## 视野修炼
 - 2025/06/07 [视野修炼第122期 | 发光图片制作](https://sugarat.top/weekly/2025-06-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## Web Review
-- 2025/06/06 [Web Review, Week 2025-23](https://ervin.ipsquad.net/blog/2025/06/06/web-review-week-2025-23/) | [More](channels/Web%20Review.md)
-
 ## 胡言乱语
 - 2025/06/06 [20250606的胡言乱语](https://www.bboy.app/2025/06/06/20250606%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## This Week in GNOME
-- 2025/06/06 [#203 Infinitely Proud](https://thisweek.gnome.org/posts/2025/06/twig-203/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 虹线周刊
 - 2025/06/02 [2025#22 镜中自我](https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)

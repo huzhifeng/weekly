@@ -1,3 +1,5 @@
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code)
