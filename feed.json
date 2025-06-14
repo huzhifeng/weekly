@@ -69,6 +69,11 @@
 			"url": "https://zishu.me/categories/weekly/index.xml"
 		},
 		{
+			"channel": "稻草人周刊",
+			"portal": "https://www.geedea.pro/categories/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A/",
+			"url": "https://www.geedea.pro/categories/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A/index.xml"
+		},
+		{
 			"channel": "CDT周报",
 			"portal": "https://chinadigitaltimes.net/chinese/weekly-digest",
 			"url": "https://chinadigitaltimes.net/chinese/category/weekly-digest/feed"
@@ -193,8 +198,8 @@
 		},
 		{
 			"channel": "偷懒爱好者周刊",
-			"portal": "https://toolight.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/toolight"
+			"portal": "https://echosoar.github.io/weekly/",
+			"url": "https://echosoar.github.io/weekly/atom.xml"
 		},
 		{
 			"channel": "中文播客行业动态",
