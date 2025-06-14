@@ -1,3 +1,6 @@
+- [开6分钟车，我花了200万！！！](https://www.bilibili.com/video/BV1cjTKzHE6h)
+- [莫愁乡--（OfficialMusicVideo）亚细亚旷世奇才](https://www.bilibili.com/video/BV176M3zPEZu)
+- [在做题和作弊之间我选择了做法…](https://www.bilibili.com/video/BV1SrTKzPEV8)
 - [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C)
 - [荒野冒险！6个up主在雨林饥不择食！结果…【青春旅行团09】](https://www.bilibili.com/video/BV1Fm7nzXEfb)
 - [泽塔与赛罗：午夜凶铃！！！！！！](https://www.bilibili.com/video/BV19f7nz5EuC)
