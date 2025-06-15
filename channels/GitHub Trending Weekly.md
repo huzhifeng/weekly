@@ -1,3 +1,4 @@
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
