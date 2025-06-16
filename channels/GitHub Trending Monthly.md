@@ -1,3 +1,4 @@
+- [anthropics/courses](https://github.com/anthropics/courses)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis)

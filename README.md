@@ -9,23 +9,41 @@
 ## 潮流周刊
 - 2025/06/16 [第225期 - 中国美院](https://weekly.tw93.fun/posts/225-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## AIGC Weekly
+- 2025/06/16 [AIGC Weekly #126](https://quaily.com/op7418/p/aigc-weekly-one-hundred-twenty-six) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/06/16 [DistroWatch Weekly, Issue 1126](https://distrowatch.com/weekly.php?issue=20250616) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/06/16 [Ubuntu Weekly Newsletter Issue 897](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-897/62950) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/06/16 [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/16 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/16 [开6分钟车，我花了200万！！！](https://www.bilibili.com/video/BV1cjTKzHE6h) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 猫鱼周刊
 - 2025/06/15 [猫鱼周刊 vol. 069 高考不影响你的人生](https://ameow.xyz/archives/weekly-069) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 稻草人周刊
+- 2025/06/15 [稻草人周刊 Vol.33](https://geedea.pro/posts/weekly/33/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2025/06/15 [视野修炼第123期 | 你在用Node几？](https://sugarat.top/weekly/2025-06-15.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
+## zdyxry Weekly Issue
+- 2025/06/15 [Weekly Issue-tokui](https://zdyxry.github.io/2025/06/15/Weekly-Issue-tokui/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## 9to5Linux Weekly Roundup
 - 2025/06/15 [9to5Linux Weekly Roundup: June 15th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-15th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/06/15 [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/15 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/15 [世界上最疯狂的摄影棚？我们参观了野兽先生工作室！](https://www.bilibili.com/video/BV1aJ7rzaE9C) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2025/06/14 [06-09~06-15.老胡的周刊（第191期）.md](https://weekly.howie6879.com/2025/06-09~06-15.老胡的周刊（第191期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/06/13 [Web Review, Week 2025-24](https://ervin.ipsquad.net/blog/2025/06/13/web-review-week-2025-24/) | [More](channels/Web%20Review.md)
@@ -54,8 +72,8 @@
 ## 偷懒爱好者周刊
 - 2025/06/11 [第136期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/11/第136期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/06/09 [稻草人周刊 Vol.32](https://geedea.pro/posts/weekly/32/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+## 虹线周刊
+- 2025/06/09 [2025#23 悠然自得](https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/06/09 [【CDT周报】第222期：若你坚守原则，迟早要面对坦克](https://chinadigitaltimes.net/chinese/718729.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -66,26 +84,8 @@
 ## 一周杂记
 - 2025/06/09 [一周杂记 in Week 1 June 2025](http://kingsamchen.github.io/2025/06/09/weekly-2025-june-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## AIGC Weekly
-- 2025/06/09 [AIGC Weekly #125](https://quaily.com/op7418/p/aigc-weekly-one-hundred-twenty-five) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/06/09 [DistroWatch Weekly, Issue 1125](https://distrowatch.com/weekly.php?issue=20250609) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/06/09 [Ubuntu Weekly Newsletter Issue 896](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-896/62515) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2025/06/08 [Weekly Issue-《强风吹拂》](https://zdyxry.github.io/2025/06/08/Weekly-Issue-%E5%BC%BA%E9%A3%8E%E5%90%B9%E6%8B%82/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2025/06/07 [06-02~06-08.老胡的周刊（第190期）.md](https://weekly.howie6879.com/2025/06-02~06-08.老胡的周刊（第190期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
 ## 胡言乱语
 - 2025/06/06 [20250606的胡言乱语](https://www.bboy.app/2025/06/06/20250606%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 虹线周刊
-- 2025/06/02 [2025#22 镜中自我](https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
