@@ -6,8 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 偷懒爱好者周刊
+- 2025/06/18 [第137期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/18/第137期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/06/17 [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/17 [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## B站每周必看
+- 2025/06/17 [开6分钟车，我花了200万！！！](https://www.bilibili.com/video/BV1cjTKzHE6h) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+
 ## 潮流周刊
 - 2025/06/16 [第225期 - 中国美院](https://weekly.tw93.fun/posts/225-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Hacker News Weekly Top 10
+- 2025/06/16 [Hacker News Weekly Top 10 @2025-06-16](https://github.com/headllines/hackernews-weekly/issues/289) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
+
+## 一周杂记
+- 2025/06/16 [一周杂记 in Week 3 June 2025](http://kingsamchen.github.io/2025/06/16/weekly-2025-june-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2025/06/16 [AIGC Weekly #126](https://quaily.com/op7418/p/aigc-weekly-one-hundred-twenty-six) | [More](channels/AIGC%20Weekly.md)
@@ -17,15 +35,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/06/16 [Ubuntu Weekly Newsletter Issue 897](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-897/62950) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/06/16 [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/16 [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/16 [开6分钟车，我花了200万！！！](https://www.bilibili.com/video/BV1cjTKzHE6h) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
 
 ## 猫鱼周刊
 - 2025/06/15 [猫鱼周刊 vol. 069 高考不影响你的人生](https://ameow.xyz/archives/weekly-069) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -69,20 +78,11 @@
 ## Taxodium
 - 2025/06/11 [Weekly#37](https://taxodium.ink//37.html) | [More](channels/Taxodium.md)
 
-## 偷懒爱好者周刊
-- 2025/06/11 [第136期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/11/第136期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 虹线周刊
 - 2025/06/09 [2025#23 悠然自得](https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/06/09 [【CDT周报】第222期：若你坚守原则，迟早要面对坦克](https://chinadigitaltimes.net/chinese/718729.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Hacker News Weekly Top 10
-- 2025/06/09 [Hacker News Weekly Top 10 @2025-06-09](https://github.com/headllines/hackernews-weekly/issues/288) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## 一周杂记
-- 2025/06/09 [一周杂记 in Week 1 June 2025](http://kingsamchen.github.io/2025/06/09/weekly-2025-june-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 胡言乱语
 - 2025/06/06 [20250606的胡言乱语](https://www.bboy.app/2025/06/06/20250606%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
