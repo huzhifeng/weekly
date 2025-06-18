@@ -1,3 +1,5 @@
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz)
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
