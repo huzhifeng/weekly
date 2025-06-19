@@ -1,3 +1,4 @@
+- [microsoft/qlib](https://github.com/microsoft/qlib)
 - [microsoft/WSL](https://github.com/microsoft/WSL)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [anthropics/courses](https://github.com/anthropics/courses)

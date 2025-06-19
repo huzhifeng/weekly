@@ -1,3 +1,5 @@
+- [menloresearch/jan](https://github.com/menloresearch/jan)
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 - [jwohlwend/boltz](https://github.com/jwohlwend/boltz)
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core)

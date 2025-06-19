@@ -6,20 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## LWN.net Weekly Edition
+- 2025/06/19 [LWN.net Weekly Edition for June 19, 2025](https://lwn.net/Articles/1025076/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/06/19 [FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-25/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/06/19 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/19 [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2025/06/18 [第137期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/18/第137期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/06/18 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/18 [microsoft/WSL](https://github.com/microsoft/WSL) | [More](channels/GitHub%20Trending%20Monthly.md)
-
-## B站每周必看
-- 2025/06/18 [开6分钟车，我花了200万！！！](https://www.bilibili.com/video/BV1cjTKzHE6h) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
-
 ## 潮流周刊
 - 2025/06/16 [第225期 - 中国美院](https://weekly.tw93.fun/posts/225-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Hacker News Weekly Top 10
+- 2025/06/16 [Hacker News Weekly Top 10 @2025-06-16](https://github.com/headllines/hackernews-weekly/issues/289) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 一周杂记
 - 2025/06/16 [一周杂记 in Week 3 June 2025](http://kingsamchen.github.io/2025/06/16/weekly-2025-june-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -62,12 +68,6 @@
 
 ## 二丫讲梵学习周刊
 - 2025/06/12 [学习周刊-总第215期-2025年第24周](https://wiki.eryajf.net/pages/044a19/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/06/12 [LWN.net Weekly Edition for June 12, 2025](https://lwn.net/Articles/1023924/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/06/12 [FOSS Weekly #25.24: Nano Tips, Wayland-only Ubuntu, End of Mint 20 and 13 Years of It's FOSS](https://itsfoss.com/newsletter/foss-weekly-25-24/) | [More](channels/FOSS%20Weekly.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
