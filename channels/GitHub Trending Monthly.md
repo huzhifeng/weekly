@@ -1,3 +1,4 @@
+- [menloresearch/jan](https://github.com/menloresearch/jan)
 - [microsoft/qlib](https://github.com/microsoft/qlib)
 - [microsoft/WSL](https://github.com/microsoft/WSL)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)

@@ -1,3 +1,4 @@
+- [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
 - [menloresearch/jan](https://github.com/menloresearch/jan)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 - [jwohlwend/boltz](https://github.com/jwohlwend/boltz)

@@ -1,10 +1,28 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/06/12 [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/06/20 [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/06/20 [Web Review, Week 2025-25](https://ervin.ipsquad.net/blog/2025/06/20/web-review-week-2025-25/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2025/06/20 [20250620的胡言乱语](https://www.bboy.app/2025/06/20/20250620%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2025/06/20 [学习周刊-总第216期-2025年第25周](https://wiki.eryajf.net/pages/e5cffc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2025/06/20 [#205 Loading Films](https://thisweek.gnome.org/posts/2025/06/twig-205/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/06/20 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/20 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## LWN.net Weekly Edition
 - 2025/06/19 [LWN.net Weekly Edition for June 19, 2025](https://lwn.net/Articles/1025076/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -12,20 +30,11 @@
 ## FOSS Weekly
 - 2025/06/19 [FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-25/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/06/19 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/19 [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 偷懒爱好者周刊
 - 2025/06/18 [第137期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/18/第137期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/06/16 [第225期 - 中国美院](https://weekly.tw93.fun/posts/225-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Weekly Top 10
-- 2025/06/16 [Hacker News Weekly Top 10 @2025-06-16](https://github.com/headllines/hackernews-weekly/issues/289) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 一周杂记
 - 2025/06/16 [一周杂记 in Week 3 June 2025](http://kingsamchen.github.io/2025/06/16/weekly-2025-june-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -57,17 +66,8 @@
 ## 老胡的信息周刊
 - 2025/06/14 [06-09~06-15.老胡的周刊（第191期）.md](https://weekly.howie6879.com/2025/06-09~06-15.老胡的周刊（第191期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2025/06/13 [Web Review, Week 2025-24](https://ervin.ipsquad.net/blog/2025/06/13/web-review-week-2025-24/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/06/13 [#204 Sending Packets](https://thisweek.gnome.org/posts/2025/06/twig-204/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 科技創業週報
 - 2025/06/12 [科技創業週報 #485：當螢幕開始流動：Liquid Glass 打開數位體驗新維度](https://blog.starrocket.io/posts/newsletter-2025-06-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/06/12 [学习周刊-总第215期-2025年第24周](https://wiki.eryajf.net/pages/044a19/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
@@ -81,8 +81,8 @@
 ## CDT周报
 - 2025/06/09 [【CDT周报】第222期：若你坚守原则，迟早要面对坦克](https://chinadigitaltimes.net/chinese/718729.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
-## 胡言乱语
-- 2025/06/06 [20250606的胡言乱语](https://www.bboy.app/2025/06/06/20250606%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+## Hacker News Weekly Top 10
+- 2025/06/09 [Hacker News Weekly Top 10 @2025-06-09](https://github.com/headllines/hackernews-weekly/issues/288) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
 
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
