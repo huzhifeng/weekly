@@ -1,3 +1,4 @@
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [menloresearch/jan](https://github.com/menloresearch/jan)
 - [microsoft/qlib](https://github.com/microsoft/qlib)
 - [microsoft/WSL](https://github.com/microsoft/WSL)

@@ -6,17 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 老胡的信息周刊
-- 2025/06/21 [06-16~06-22.老胡的周刊（第192期）.md](https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+## 潮流周刊
+- 2025/06/23 [第226期 - 我爱南京](https://weekly.tw93.fun/posts/226-%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2025/06/22 [视野修炼第124期 | 终端艺术字](https://sugarat.top/weekly/2025-06-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## GitHub Trending Weekly
-- 2025/06/21 [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/06/22 [YaLTeR/niri](https://github.com/YaLTeR/niri) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/06/21 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/06/22 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
 
-## B站每周必看
-- 2025/06/21 [开6分钟车，我花了200万！！！](https://www.bilibili.com/video/BV1cjTKzHE6h) | [More](channels/B%E7%AB%99%E6%AF%8F%E5%91%A8%E5%BF%85%E7%9C%8B.md)
+## 老胡的信息周刊
+- 2025/06/21 [06-16~06-22.老胡的周刊（第192期）.md](https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/06/20 [Web Review, Week 2025-25](https://ervin.ipsquad.net/blog/2025/06/20/web-review-week-2025-25/) | [More](channels/Web%20Review.md)
@@ -39,8 +42,8 @@
 ## 偷懒爱好者周刊
 - 2025/06/18 [第137期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/18/第137期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2025/06/16 [第225期 - 中国美院](https://weekly.tw93.fun/posts/225-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+## CDT周报
+- 2025/06/16 [【CDT周报】第223期：向没高考过的韦神祈祷高考顺利](https://chinadigitaltimes.net/chinese/718860.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 一周杂记
 - 2025/06/16 [一周杂记 in Week 3 June 2025](http://kingsamchen.github.io/2025/06/16/weekly-2025-june-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -60,9 +63,6 @@
 ## 稻草人周刊
 - 2025/06/15 [稻草人周刊 Vol.33](https://geedea.pro/posts/weekly/33/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
-## 视野修炼
-- 2025/06/15 [视野修炼第123期 | 你在用Node几？](https://sugarat.top/weekly/2025-06-15.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## zdyxry Weekly Issue
 - 2025/06/15 [Weekly Issue-tokui](https://zdyxry.github.io/2025/06/15/Weekly-Issue-tokui/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
@@ -80,9 +80,6 @@
 
 ## 虹线周刊
 - 2025/06/09 [2025#23 悠然自得](https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/06/09 [【CDT周报】第222期：若你坚守原则，迟早要面对坦克](https://chinadigitaltimes.net/chinese/718729.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
