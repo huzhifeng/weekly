@@ -1,3 +1,4 @@
+- [Weekly Issue-avoid negativity echo chambers](https://zdyxry.github.io/2025/06/22/Weekly-Issue-avoid-negativity-echo-chambers/)
 - [Weekly Issue-tokui](https://zdyxry.github.io/2025/06/15/Weekly-Issue-tokui/)
 - [Weekly Issue-《强风吹拂》](https://zdyxry.github.io/2025/06/08/Weekly-Issue-%E5%BC%BA%E9%A3%8E%E5%90%B9%E6%8B%82/)
 - [Weekly Issue-如何看病](https://zdyxry.github.io/2025/06/02/Weekly-Issue-%E5%A6%82%E4%BD%95%E7%9C%8B%E7%97%85/)

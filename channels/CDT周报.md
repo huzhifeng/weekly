@@ -1,3 +1,4 @@
+- [【CDT周报】第224期：感谢中国记协为伊朗国家电视台遇袭发声](https://chinadigitaltimes.net/chinese/719035.html)
 - [【CDT周报】第223期：向没高考过的韦神祈祷高考顺利](https://chinadigitaltimes.net/chinese/718860.html)
 - [【CDT周报】第222期：若你坚守原则，迟早要面对坦克](https://chinadigitaltimes.net/chinese/718729.html)
 - [【CDT周报】第221期：不能看耽美小说的成年人，不能自由排便的中学生](https://chinadigitaltimes.net/chinese/718554.html)

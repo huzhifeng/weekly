@@ -1,3 +1,4 @@
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
 - [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
