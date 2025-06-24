@@ -1,3 +1,4 @@
+- [moby/buildkit](https://github.com/moby/buildkit)
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d)

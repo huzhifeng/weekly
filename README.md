@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 偷懒爱好者周刊
+- 2025/06/25 [第138期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/25/第138期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/06/24 [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/24 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/06/23 [第226期 - 我爱南京](https://weekly.tw93.fun/posts/226-%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -27,11 +36,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/06/23 [9to5Linux Weekly Roundup: June 23rd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/06/23 [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/23 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/06/23 [Ubuntu Weekly Newsletter Issue 898](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-898/63326) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 拾月通讯
 - 2025/06/22 [拾月周刊（第39期）：有福吃粮](https://www.skyue.com/25062307.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -63,15 +69,6 @@
 ## FOSS Weekly
 - 2025/06/19 [FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-25/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/06/18 [第137期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/18/第137期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Hacker News Weekly Top 10
-- 2025/06/16 [Hacker News Weekly Top 10 @2025-06-16](https://github.com/headllines/hackernews-weekly/issues/289) | [More](channels/Hacker%20News%20Weekly%20Top%2010.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/06/16 [Ubuntu Weekly Newsletter Issue 897](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-897/62950) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2025/06/15 [猫鱼周刊 vol. 069 高考不影响你的人生](https://ameow.xyz/archives/weekly-069) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -89,9 +86,6 @@
 
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Hacker News Monthly Top 10
-- 2025/06/01 [Hacker News Monthly Top 10 @2025-06-01](https://github.com/headllines/hackernews-monthly/issues/82) | [More](channels/Hacker%20News%20Monthly%20Top%2010.md)
 
 ## HelloGitHub
 - 2025/05/28 [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) | [More](channels/HelloGitHub.md)

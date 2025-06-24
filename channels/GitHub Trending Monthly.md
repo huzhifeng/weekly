@@ -1,3 +1,4 @@
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [menloresearch/jan](https://github.com/menloresearch/jan)
 - [microsoft/qlib](https://github.com/microsoft/qlib)
