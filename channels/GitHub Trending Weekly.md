@@ -1,3 +1,6 @@
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
+- [php/frankenphp](https://github.com/php/frankenphp)
 - [moby/buildkit](https://github.com/moby/buildkit)
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)

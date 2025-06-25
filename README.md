@@ -9,11 +9,14 @@
 ## 偷懒爱好者周刊
 - 2025/06/25 [第138期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/25/第138期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Pseudoyu 周报
+- 2025/06/25 [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
 ## GitHub Trending Weekly
-- 2025/06/24 [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/06/25 [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/06/24 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/06/25 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/06/23 [第226期 - 我爱南京](https://weekly.tw93.fun/posts/226-%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -63,26 +66,26 @@
 ## This Week in GNOME
 - 2025/06/20 [#205 Loading Films](https://thisweek.gnome.org/posts/2025/06/twig-205/) | [More](channels/This%20Week%20in%20GNOME.md)
 
+## 科技創業週報
+- 2025/06/19 [科技創業週報 #486：OpenAI 說新時代開始了，這對我們到底意味著什麼？](https://blog.starrocket.io/posts/newsletter-2025-06-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## LWN.net Weekly Edition
 - 2025/06/19 [LWN.net Weekly Edition for June 19, 2025](https://lwn.net/Articles/1025076/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2025/06/19 [FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-25/) | [More](channels/FOSS%20Weekly.md)
 
+## 虹线周刊
+- 2025/06/16 [2025#24 拒死而生](https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
 ## 猫鱼周刊
 - 2025/06/15 [猫鱼周刊 vol. 069 高考不影响你的人生](https://ameow.xyz/archives/weekly-069) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2025/06/12 [科技創業週報 #485：當螢幕開始流動：Liquid Glass 打開數位體驗新維度](https://blog.starrocket.io/posts/newsletter-2025-06-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
 
 ## Taxodium
 - 2025/06/11 [Weekly#37](https://taxodium.ink//37.html) | [More](channels/Taxodium.md)
-
-## 虹线周刊
-- 2025/06/09 [2025#23 悠然自得](https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -92,9 +95,6 @@
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
-
-## Pseudoyu 周报
-- 2025/05/20 [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## PIVOT
 - 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
