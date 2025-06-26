@@ -6,17 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/06/26 [学习周刊-总第217期-2025年第26周](https://wiki.eryajf.net/pages/daad3b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/06/26 [LWN.net Weekly Edition for June 26, 2025](https://lwn.net/Articles/1025929/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/06/26 [FOSS Weekly #25.26: Torvalds-Gates Showdown, Hyprland Premium, Fedora's 32-bit Debacle, Xfce Themes and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-26/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/06/26 [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/26 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2025/06/25 [第138期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/25/第138期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2025/06/25 [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2025/06/25 [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/25 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/06/23 [第226期 - 我爱南京](https://weekly.tw93.fun/posts/226-%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -60,20 +69,11 @@
 ## 胡言乱语
 - 2025/06/20 [20250620的胡言乱语](https://www.bboy.app/2025/06/20/20250620%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 二丫讲梵学习周刊
-- 2025/06/20 [学习周刊-总第216期-2025年第25周](https://wiki.eryajf.net/pages/e5cffc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in GNOME
 - 2025/06/20 [#205 Loading Films](https://thisweek.gnome.org/posts/2025/06/twig-205/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 科技創業週報
 - 2025/06/19 [科技創業週報 #486：OpenAI 說新時代開始了，這對我們到底意味著什麼？](https://blog.starrocket.io/posts/newsletter-2025-06-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2025/06/19 [LWN.net Weekly Edition for June 19, 2025](https://lwn.net/Articles/1025076/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/06/19 [FOSS Weekly #25.25: Nitrux Hyprland, Joplin Tips, Denmark Ditching Microsoft, Tiling Moves and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-25/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/06/16 [2025#24 拒死而生](https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
