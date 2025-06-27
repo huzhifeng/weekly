@@ -1,3 +1,6 @@
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+- [mui/base-ui](https://github.com/mui/base-ui)
+- [Mail-0/Zero](https://github.com/Mail-0/Zero)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
 - [php/frankenphp](https://github.com/php/frankenphp)

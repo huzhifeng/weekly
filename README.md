@@ -1,10 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/06/20 [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/06/27 [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/06/27 [Web Review, Week 2025-26 + Service Announcement](https://ervin.ipsquad.net/blog/2025/06/27/web-review-week-2025-26/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/06/27 [#206 Hot Days](https://thisweek.gnome.org/posts/2025/06/twig-206/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/06/27 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/27 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## HelloGitHub
+- 2025/06/26 [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) | [More](channels/HelloGitHub.md)
 
 ## 二丫讲梵学习周刊
 - 2025/06/26 [学习周刊-总第217期-2025年第26周](https://wiki.eryajf.net/pages/daad3b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/06/26 [FOSS Weekly #25.26: Torvalds-Gates Showdown, Hyprland Premium, Fedora's 32-bit Debacle, Xfce Themes and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-26/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/06/26 [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/26 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/06/25 [第138期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/25/第138期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -63,14 +72,8 @@
 ## 老胡的信息周刊
 - 2025/06/21 [06-16~06-22.老胡的周刊（第192期）.md](https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2025/06/20 [Web Review, Week 2025-25](https://ervin.ipsquad.net/blog/2025/06/20/web-review-week-2025-25/) | [More](channels/Web%20Review.md)
-
 ## 胡言乱语
 - 2025/06/20 [20250620的胡言乱语](https://www.bboy.app/2025/06/20/20250620%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## This Week in GNOME
-- 2025/06/20 [#205 Loading Films](https://thisweek.gnome.org/posts/2025/06/twig-205/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 科技創業週報
 - 2025/06/19 [科技創業週報 #486：OpenAI 說新時代開始了，這對我們到底意味著什麼？](https://blog.starrocket.io/posts/newsletter-2025-06-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -89,9 +92,6 @@
 
 ## 棱镜通讯
 - 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## HelloGitHub
-- 2025/05/28 [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) | [More](channels/HelloGitHub.md)
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
