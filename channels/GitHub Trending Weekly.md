@@ -1,3 +1,5 @@
+- [microsoft/edit](https://github.com/microsoft/edit)
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
 - [mui/base-ui](https://github.com/mui/base-ui)
 - [Mail-0/Zero](https://github.com/Mail-0/Zero)
