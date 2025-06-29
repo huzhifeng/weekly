@@ -6,11 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2025/06/30 [第227期 - 怀念五月](https://weekly.tw93.fun/posts/227-%E6%80%80%E5%BF%B5%E4%BA%94%E6%9C%88/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/06/29 [猫鱼周刊 vol. 070 一切都要支付两次](https://ameow.xyz/archives/weekly-070) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/06/28 [mui/base-ui](https://github.com/mui/base-ui) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/06/29 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/06/28 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/06/29 [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/06/27 [Web Review, Week 2025-26 + Service Announcement](https://ervin.ipsquad.net/blog/2025/06/27/web-review-week-2025-26/) | [More](channels/Web%20Review.md)
@@ -36,9 +42,6 @@
 ## Pseudoyu 周报
 - 2025/06/25 [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2025/06/23 [第226期 - 我爱南京](https://weekly.tw93.fun/posts/226-%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/06/23 [稻草人周刊 Vol.34](https://geedea.pro/posts/weekly/34/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -55,7 +58,7 @@
 - 2025/06/23 [DistroWatch Weekly, Issue 1127](https://distrowatch.com/weekly.php?issue=20250623) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
-- 2025/06/23 [9to5Linux Weekly Roundup: June 23rd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2025/06/23 [9to5Linux Weekly Roundup: June 22nd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/06/23 [Ubuntu Weekly Newsletter Issue 898](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-898/63326) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -80,9 +83,6 @@
 
 ## 虹线周刊
 - 2025/06/16 [2025#24 拒死而生](https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 猫鱼周刊
-- 2025/06/15 [猫鱼周刊 vol. 069 高考不影响你的人生](https://ameow.xyz/archives/weekly-069) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

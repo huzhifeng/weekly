@@ -1,3 +1,4 @@
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
