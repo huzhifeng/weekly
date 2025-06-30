@@ -1,3 +1,4 @@
+- [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable)
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents)
 - [microsoft/edit](https://github.com/microsoft/edit)
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)

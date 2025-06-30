@@ -1,3 +1,4 @@
+- [Weekly Issue-《F1：狂飙飞车》](https://zdyxry.github.io/2025/06/29/Weekly-Issue-F1%E7%8B%82%E9%A3%99%E9%A3%9E%E8%BD%A6/)
 - [Weekly Issue-avoid negativity echo chambers](https://zdyxry.github.io/2025/06/22/Weekly-Issue-avoid-negativity-echo-chambers/)
 - [Weekly Issue-tokui](https://zdyxry.github.io/2025/06/15/Weekly-Issue-tokui/)
 - [Weekly Issue-《强风吹拂》](https://zdyxry.github.io/2025/06/08/Weekly-Issue-%E5%BC%BA%E9%A3%8E%E5%90%B9%E6%8B%82/)

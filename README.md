@@ -9,14 +9,38 @@
 ## 潮流周刊
 - 2025/06/30 [第227期 - 怀念五月](https://weekly.tw93.fun/posts/227-%E6%80%80%E5%BF%B5%E4%BA%94%E6%9C%88/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/06/30 [【CDT周报】第225期：问题表现在男女对立，根子却在……](https://chinadigitaltimes.net/chinese/719197.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/06/30 [一周杂记 in Week 4 June 2025](http://kingsamchen.github.io/2025/06/30/weekly-2025-june-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/06/30 [AIGC Weekly #128](https://quaily.com/op7418/p/aigc-weekly-y0og1rwf) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/06/30 [DistroWatch Weekly, Issue 1128](https://distrowatch.com/weekly.php?issue=20250630) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/06/30 [9to5Linux Weekly Roundup: June 29th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-29th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/06/30 [Ubuntu Weekly Newsletter Issue 899](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-899/63714) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/06/30 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/06/30 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/06/29 [猫鱼周刊 vol. 070 一切都要支付两次](https://ameow.xyz/archives/weekly-070) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/06/29 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 稻草人周刊
+- 2025/06/29 [稻草人周刊 Vol.35](https://geedea.pro/posts/weekly/35/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Monthly
-- 2025/06/29 [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | [More](channels/GitHub%20Trending%20Monthly.md)
+## zdyxry Weekly Issue
+- 2025/06/29 [Weekly Issue-《F1：狂飙飞车》](https://zdyxry.github.io/2025/06/29/Weekly-Issue-F1%E7%8B%82%E9%A3%99%E9%A3%9E%E8%BD%A6/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Web Review
 - 2025/06/27 [Web Review, Week 2025-26 + Service Announcement](https://ervin.ipsquad.net/blog/2025/06/27/web-review-week-2025-26/) | [More](channels/Web%20Review.md)
@@ -42,35 +66,11 @@
 ## Pseudoyu 周报
 - 2025/06/25 [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 稻草人周刊
-- 2025/06/23 [稻草人周刊 Vol.34](https://geedea.pro/posts/weekly/34/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/06/23 [【CDT周报】第224期：感谢中国记协为伊朗国家电视台遇袭发声](https://chinadigitaltimes.net/chinese/719035.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/06/23 [一周杂记 in Week 3 June 2025](http://kingsamchen.github.io/2025/06/23/weekly-2025-june-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2025/06/23 [AIGC Weekly #127](https://quaily.com/op7418/p/aigc-weekly-one-two-seven) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/06/23 [DistroWatch Weekly, Issue 1127](https://distrowatch.com/weekly.php?issue=20250623) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/06/23 [9to5Linux Weekly Roundup: June 22nd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-23rd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/06/23 [Ubuntu Weekly Newsletter Issue 898](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-898/63326) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 拾月通讯
 - 2025/06/22 [拾月周刊（第39期）：有福吃粮](https://www.skyue.com/25062307.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## 视野修炼
 - 2025/06/22 [视野修炼第124期 | 终端艺术字](https://sugarat.top/weekly/2025-06-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## zdyxry Weekly Issue
-- 2025/06/22 [Weekly Issue-avoid negativity echo chambers](https://zdyxry.github.io/2025/06/22/Weekly-Issue-avoid-negativity-echo-chambers/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2025/06/21 [06-16~06-22.老胡的周刊（第192期）.md](https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
