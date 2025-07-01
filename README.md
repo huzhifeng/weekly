@@ -6,6 +6,12 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/07/01 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/01 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/06/30 [第227期 - 怀念五月](https://weekly.tw93.fun/posts/227-%E6%80%80%E5%BF%B5%E4%BA%94%E6%9C%88/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -27,12 +33,6 @@
 ## Ubuntu Weekly Newsletter
 - 2025/06/30 [Ubuntu Weekly Newsletter Issue 899](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-899/63714) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2025/06/30 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/06/30 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 猫鱼周刊
 - 2025/06/29 [猫鱼周刊 vol. 070 一切都要支付两次](https://ameow.xyz/archives/weekly-070) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -41,6 +41,9 @@
 
 ## zdyxry Weekly Issue
 - 2025/06/29 [Weekly Issue-《F1：狂飙飞车》](https://zdyxry.github.io/2025/06/29/Weekly-Issue-F1%E7%8B%82%E9%A3%99%E9%A3%9E%E8%BD%A6/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 老胡的信息周刊
+- 2025/06/28 [06-23~06-29.老胡的周刊（第193期）.md](https://weekly.howie6879.com/2025/06-23~06-29.老胡的周刊（第193期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/06/27 [Web Review, Week 2025-26 + Service Announcement](https://ervin.ipsquad.net/blog/2025/06/27/web-review-week-2025-26/) | [More](channels/Web%20Review.md)
@@ -71,9 +74,6 @@
 
 ## 视野修炼
 - 2025/06/22 [视野修炼第124期 | 终端艺术字](https://sugarat.top/weekly/2025-06-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 老胡的信息周刊
-- 2025/06/21 [06-16~06-22.老胡的周刊（第192期）.md](https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/06/20 [20250620的胡言乱语](https://www.bboy.app/2025/06/20/20250620%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
