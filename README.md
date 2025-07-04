@@ -1,10 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/06/27 [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/07/04 [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## This Week in GNOME
+- 2025/07/04 [#207 Replacing Shortcuts](https://thisweek.gnome.org/posts/2025/07/twig-207/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/07/04 [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/04 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 胡言乱语
 - 2025/07/03 [20250703的胡言乱语](https://www.bboy.app/2025/07/03/20250703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -14,12 +23,6 @@
 
 ## FOSS Weekly
 - 2025/07/03 [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/07/03 [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/03 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/07/02 [科技創業週報 #488：AI顛覆未來10年：智慧助理崛起，一人公司成新常態！](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-488%ef%bc%9aai%e9%a1%9b%e8%a6%86%e6%9c%aa%e4%be%8610%e5%b9%b4%ef%bc%9a%e6%99%ba%e6%85%a7%e5%8a%a9%e7%90%86%e5%b4%9b%e8%b5%b7%ef%bc%8c%e4%b8%80/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -59,9 +62,6 @@
 
 ## Web Review
 - 2025/06/27 [Web Review, Week 2025-26 + Service Announcement](https://ervin.ipsquad.net/blog/2025/06/27/web-review-week-2025-26/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/06/27 [#206 Hot Days](https://thisweek.gnome.org/posts/2025/06/twig-206/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## HelloGitHub
 - 2025/06/26 [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) | [More](channels/HelloGitHub.md)

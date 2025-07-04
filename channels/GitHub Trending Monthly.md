@@ -1,3 +1,4 @@
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)
