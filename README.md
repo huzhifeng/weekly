@@ -6,14 +6,14 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## This Week in GNOME
-- 2025/07/04 [#207 Replacing Shortcuts](https://thisweek.gnome.org/posts/2025/07/twig-207/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## GitHub Trending Weekly
-- 2025/07/04 [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/07/05 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/07/04 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/07/05 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in GNOME
+- 2025/07/04 [#207 Replacing Shortcuts](https://thisweek.gnome.org/posts/2025/07/twig-207/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 胡言乱语
 - 2025/07/03 [20250703的胡言乱语](https://www.bboy.app/2025/07/03/20250703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -26,6 +26,9 @@
 
 ## 科技創業週報
 - 2025/07/02 [科技創業週報 #488：AI顛覆未來10年：智慧助理崛起，一人公司成新常態！](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-488%ef%bc%9aai%e9%a1%9b%e8%a6%86%e6%9c%aa%e4%be%8610%e5%b9%b4%ef%bc%9a%e6%99%ba%e6%85%a7%e5%8a%a9%e7%90%86%e5%b4%9b%e8%b5%b7%ef%bc%8c%e4%b8%80/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 偷懒爱好者周刊
+- 2025/07/02 [第139期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/02/第139期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/06/30 [第227期 - 怀念五月](https://weekly.tw93.fun/posts/227-%E6%80%80%E5%BF%B5%E4%BA%94%E6%9C%88/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -68,9 +71,6 @@
 
 ## 二丫讲梵学习周刊
 - 2025/06/26 [学习周刊-总第217期-2025年第26周](https://wiki.eryajf.net/pages/daad3b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## 偷懒爱好者周刊
-- 2025/06/25 [第138期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/06/25/第138期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2025/06/25 [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)

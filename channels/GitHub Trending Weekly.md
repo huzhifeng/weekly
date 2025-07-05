@@ -1,3 +1,5 @@
+- [tursodatabase/turso](https://github.com/tursodatabase/turso)
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [midday-ai/midday](https://github.com/midday-ai/midday)
