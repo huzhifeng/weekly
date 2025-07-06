@@ -1,3 +1,5 @@
+- [周报#38 汕尾之行](https://xlog.app/api/redirection?characterId=51803&noteId=1871)
+- [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870)
 - [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852)
 - [周报#35 法师桥的日落](https://xlog.app/api/redirection?characterId=51803&noteId=1848)
 - [周报#34 参加婚礼、打鸟与《平面国》](https://xlog.app/api/redirection?characterId=51803&noteId=1838)

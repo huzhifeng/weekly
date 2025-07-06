@@ -1,3 +1,4 @@
+- [RSSNext/Folo](https://github.com/RSSNext/Folo)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)

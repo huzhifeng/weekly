@@ -6,11 +6,23 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2025/07/07 [第228期 - 彩色天空](https://weekly.tw93.fun/posts/228-%E5%BD%A9%E8%89%B2%E5%A4%A9%E7%A9%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/07/06 [猫鱼周刊 vol. 071 热爱](https://ameow.xyz/archives/weekly-071) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## Raye's Journey
+- 2025/07/06 [周报#38 汕尾之行](https://xlog.app/api/redirection?characterId=51803&noteId=1871) | [More](channels/Raye%27s%20Journey.md)
+
 ## GitHub Trending Weekly
-- 2025/07/05 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/07/06 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/07/05 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/07/06 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 老胡的信息周刊
+- 2025/07/05 [07-01~07-06.老胡的周刊（第194期）.md](https://weekly.howie6879.com/2025/07-01~07-06.老胡的周刊（第194期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## This Week in GNOME
 - 2025/07/04 [#207 Replacing Shortcuts](https://thisweek.gnome.org/posts/2025/07/twig-207/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -30,9 +42,6 @@
 ## 偷懒爱好者周刊
 - 2025/07/02 [第139期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/02/第139期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2025/06/30 [第227期 - 怀念五月](https://weekly.tw93.fun/posts/227-%E6%80%80%E5%BF%B5%E4%BA%94%E6%9C%88/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/06/30 [【CDT周报】第225期：问题表现在男女对立，根子却在……](https://chinadigitaltimes.net/chinese/719197.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -45,23 +54,14 @@
 ## DistroWatch Weekly
 - 2025/06/30 [DistroWatch Weekly, Issue 1128](https://distrowatch.com/weekly.php?issue=20250630) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/06/30 [9to5Linux Weekly Roundup: June 29th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-june-29th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/06/30 [Ubuntu Weekly Newsletter Issue 899](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-899/63714) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 猫鱼周刊
-- 2025/06/29 [猫鱼周刊 vol. 070 一切都要支付两次](https://ameow.xyz/archives/weekly-070) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/06/29 [稻草人周刊 Vol.35](https://geedea.pro/posts/weekly/35/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
 ## zdyxry Weekly Issue
 - 2025/06/29 [Weekly Issue-《F1：狂飙飞车》](https://zdyxry.github.io/2025/06/29/Weekly-Issue-F1%E7%8B%82%E9%A3%99%E9%A3%9E%E8%BD%A6/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 老胡的信息周刊
-- 2025/06/28 [06-23~06-29.老胡的周刊（第193期）.md](https://weekly.howie6879.com/2025/06-23~06-29.老胡的周刊（第193期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/06/27 [Web Review, Week 2025-26 + Service Announcement](https://ervin.ipsquad.net/blog/2025/06/27/web-review-week-2025-26/) | [More](channels/Web%20Review.md)
@@ -104,9 +104,6 @@
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## Raye's Journey
-- 2025/03/06 [周报#36 迟来的春节记录](https://xlog.app/api/redirection?characterId=51803&noteId=1852) | [More](channels/Raye%27s%20Journey.md)
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)

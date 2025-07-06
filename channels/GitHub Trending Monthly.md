@@ -1,3 +1,4 @@
+- [frdel/agent-zero](https://github.com/frdel/agent-zero)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
