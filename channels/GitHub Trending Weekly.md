@@ -1,3 +1,4 @@
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 - [RSSNext/Folo](https://github.com/RSSNext/Folo)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
