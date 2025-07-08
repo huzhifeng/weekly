@@ -1,3 +1,4 @@
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
 - [frdel/agent-zero](https://github.com/frdel/agent-zero)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)

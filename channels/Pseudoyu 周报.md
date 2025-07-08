@@ -1,3 +1,4 @@
+- [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98)
 - [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97)
 - [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96)
 - [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95)
