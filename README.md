@@ -9,14 +9,17 @@
 ## 偷懒爱好者周刊
 - 2025/07/09 [第140期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/09/第140期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Pseudoyu 周报
-- 2025/07/08 [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+## PIVOT
+- 2025/07/09 [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) | [More](channels/PIVOT.md)
 
 ## GitHub Trending Weekly
-- 2025/07/08 [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/07/09 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/07/08 [twentyhq/twenty](https://github.com/twentyhq/twenty) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/07/09 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Pseudoyu 周报
+- 2025/07/08 [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 潮流周刊
 - 2025/07/07 [第228期 - 彩色天空](https://weekly.tw93.fun/posts/228-%E5%BD%A9%E8%89%B2%E5%A4%A9%E7%A9%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,14 +54,14 @@
 ## 拾月通讯
 - 2025/07/06 [拾月周刊（第40期）：送报员](https://www.skyue.com/25070707.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
-## Raye's Journey
-- 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
-
 ## 老胡的信息周刊
 - 2025/07/05 [07-01~07-06.老胡的周刊（第194期）.md](https://weekly.howie6879.com/2025/07-01~07-06.老胡的周刊（第194期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## This Week in GNOME
 - 2025/07/04 [#207 Replacing Shortcuts](https://thisweek.gnome.org/posts/2025/07/twig-207/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## 科技創業週報
+- 2025/07/03 [科技創業週報 #488：AI顛覆未來10年：智慧助理崛起，一人公司成新常態！](https://blog.starrocket.io/posts/newsletter-2025-07-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 胡言乱语
 - 2025/07/03 [20250703的胡言乱语](https://www.bboy.app/2025/07/03/20250703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -68,9 +71,6 @@
 
 ## FOSS Weekly
 - 2025/07/03 [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/) | [More](channels/FOSS%20Weekly.md)
-
-## 科技創業週報
-- 2025/07/02 [科技創業週報 #488：AI顛覆未來10年：智慧助理崛起，一人公司成新常態！](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-488%ef%bc%9aai%e9%a1%9b%e8%a6%86%e6%9c%aa%e4%be%8610%e5%b9%b4%ef%bc%9a%e6%99%ba%e6%85%a7%e5%8a%a9%e7%90%86%e5%b4%9b%e8%b5%b7%ef%bc%8c%e4%b8%80/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 虹线周刊
 - 2025/06/30 [2025#26 大西洋月刊](https://weekly.1q43.blog/article/220ca795c95680cb8ec0e6b9361c5a5b) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -95,9 +95,6 @@
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
-
-## PIVOT
-- 2025/05/14 [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) | [More](channels/PIVOT.md)
 
 ## This Week in Self-Hosted
 - 2025/04/24 [&#x27;This Week in Self-Hosted&#x27; is now &#x27;Self-Host Weekly&#x27;](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)

@@ -1,3 +1,5 @@
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
 - [frdel/agent-zero](https://github.com/frdel/agent-zero)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)

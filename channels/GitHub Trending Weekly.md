@@ -1,3 +1,5 @@
+- [simstudioai/sim](https://github.com/simstudioai/sim)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 - [RSSNext/Folo](https://github.com/RSSNext/Folo)
