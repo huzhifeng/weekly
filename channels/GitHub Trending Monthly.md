@@ -1,3 +1,4 @@
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram)

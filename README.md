@@ -6,17 +6,29 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/07/10 [科技創業週報 #489：搞定 100 個鐵粉，比想像百萬用戶更重要](https://blog.starrocket.io/posts/newsletter-2025-07-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/07/10 [学习周刊-总第219期-2025年第28周](https://wiki.eryajf.net/pages/51b4db/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/07/10 [LWN.net Weekly Edition for July 10, 2025](https://lwn.net/Articles/1028368/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/07/10 [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/07/10 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/10 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2025/07/09 [第140期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/09/第140期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/07/09 [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) | [More](channels/PIVOT.md)
-
-## GitHub Trending Weekly
-- 2025/07/09 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/09 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Pseudoyu 周报
 - 2025/07/08 [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -54,23 +66,17 @@
 ## 拾月通讯
 - 2025/07/06 [拾月周刊（第40期）：送报员](https://www.skyue.com/25070707.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
+## Raye's Journey
+- 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
+
 ## 老胡的信息周刊
 - 2025/07/05 [07-01~07-06.老胡的周刊（第194期）.md](https://weekly.howie6879.com/2025/07-01~07-06.老胡的周刊（第194期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## This Week in GNOME
 - 2025/07/04 [#207 Replacing Shortcuts](https://thisweek.gnome.org/posts/2025/07/twig-207/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 科技創業週報
-- 2025/07/03 [科技創業週報 #488：AI顛覆未來10年：智慧助理崛起，一人公司成新常態！](https://blog.starrocket.io/posts/newsletter-2025-07-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 胡言乱语
 - 2025/07/03 [20250703的胡言乱语](https://www.bboy.app/2025/07/03/20250703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## LWN.net Weekly Edition
-- 2025/07/03 [LWN.net Weekly Edition for July 3, 2025](https://lwn.net/Articles/1026982/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/07/03 [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/06/30 [2025#26 大西洋月刊](https://weekly.1q43.blog/article/220ca795c95680cb8ec0e6b9361c5a5b) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -80,9 +86,6 @@
 
 ## HelloGitHub
 - 2025/06/26 [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) | [More](channels/HelloGitHub.md)
-
-## 二丫讲梵学习周刊
-- 2025/06/26 [学习周刊-总第217期-2025年第26周](https://wiki.eryajf.net/pages/daad3b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2025/06/22 [视野修炼第124期 | 终端艺术字](https://sugarat.top/weekly/2025-06-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
