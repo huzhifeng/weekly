@@ -1,10 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/07/04 [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/07/11 [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## This Week in GNOME
+- 2025/07/11 [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/07/11 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/11 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/07/10 [科技創業週報 #489：搞定 100 個鐵粉，比想像百萬用戶更重要](https://blog.starrocket.io/posts/newsletter-2025-07-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +26,6 @@
 
 ## FOSS Weekly
 - 2025/07/10 [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/07/10 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/10 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/07/09 [第140期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/09/第140期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -51,9 +54,6 @@
 ## DistroWatch Weekly
 - 2025/07/07 [DistroWatch Weekly, Issue 1129](https://distrowatch.com/weekly.php?issue=20250707) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/07/07 [9to5Linux Weekly Roundup: July 6th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-july-6th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/07/07 [Ubuntu Weekly Newsletter Issue 900](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-900/64076) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -71,9 +71,6 @@
 
 ## 老胡的信息周刊
 - 2025/07/05 [07-01~07-06.老胡的周刊（第194期）.md](https://weekly.howie6879.com/2025/07-01~07-06.老胡的周刊（第194期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## This Week in GNOME
-- 2025/07/04 [#207 Replacing Shortcuts](https://thisweek.gnome.org/posts/2025/07/twig-207/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 胡言乱语
 - 2025/07/03 [20250703的胡言乱语](https://www.bboy.app/2025/07/03/20250703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

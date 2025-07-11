@@ -1,3 +1,5 @@
+- [commaai/openpilot](https://github.com/commaai/openpilot)
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
 - [simstudioai/sim](https://github.com/simstudioai/sim)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen)
