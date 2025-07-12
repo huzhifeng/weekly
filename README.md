@@ -6,14 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## This Week in GNOME
-- 2025/07/11 [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/) | [More](channels/This%20Week%20in%20GNOME.md)
+## 老胡的信息周刊
+- 2025/07/12 [07-07~07-13.老胡的周刊（第195期）.md](https://weekly.howie6879.com/2025/07-07~07-13.老胡的周刊（第195期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/07/11 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/07/12 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/07/11 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/07/12 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in GNOME
+- 2025/07/11 [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 科技創業週報
 - 2025/07/10 [科技創業週報 #489：搞定 100 個鐵粉，比想像百萬用戶更重要](https://blog.starrocket.io/posts/newsletter-2025-07-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -68,9 +71,6 @@
 
 ## Raye's Journey
 - 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
-
-## 老胡的信息周刊
-- 2025/07/05 [07-01~07-06.老胡的周刊（第194期）.md](https://weekly.howie6879.com/2025/07-01~07-06.老胡的周刊（第194期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/07/03 [20250703的胡言乱语](https://www.bboy.app/2025/07/03/20250703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

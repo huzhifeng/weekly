@@ -1,3 +1,4 @@
+- [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch)
 - [commaai/openpilot](https://github.com/commaai/openpilot)
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
 - [simstudioai/sim](https://github.com/simstudioai/sim)
