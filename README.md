@@ -6,14 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 老胡的信息周刊
-- 2025/07/12 [07-07~07-13.老胡的周刊（第195期）.md](https://weekly.howie6879.com/2025/07-07~07-13.老胡的周刊（第195期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+## 潮流周刊
+- 2025/07/14 [第229期 - 换到安卓](https://weekly.tw93.fun/posts/229-%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/07/13 [猫鱼周刊 vol. 072 可持续的周刊作者](https://ameow.xyz/archives/weekly-072) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/07/12 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/07/13 [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/07/12 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/07/13 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 老胡的信息周刊
+- 2025/07/12 [07-07~07-13.老胡的周刊（第195期）.md](https://weekly.howie6879.com/2025/07-07~07-13.老胡的周刊（第195期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## This Week in GNOME
 - 2025/07/11 [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -39,9 +45,6 @@
 ## Pseudoyu 周报
 - 2025/07/08 [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2025/07/07 [第228期 - 彩色天空](https://weekly.tw93.fun/posts/228-%E5%BD%A9%E8%89%B2%E5%A4%A9%E7%A9%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/07/07 [【CDT周报】第226期：他勇敢破窗的“不服从”成为所有人的退路](https://chinadigitaltimes.net/chinese/719379.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -59,9 +62,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/07/07 [Ubuntu Weekly Newsletter Issue 900](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-900/64076) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 猫鱼周刊
-- 2025/07/06 [猫鱼周刊 vol. 071 热爱](https://ameow.xyz/archives/weekly-071) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/07/06 [稻草人周刊 Vol.36](https://geedea.pro/posts/weekly/36/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
