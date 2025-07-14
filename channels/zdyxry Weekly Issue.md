@@ -1,3 +1,4 @@
+- [Weekly Issue-Garmin教练](https://zdyxry.github.io/2025/07/13/Weekly-Issue-Garmin%E6%95%99%E7%BB%83/)
 - [Weekly Issue-连云港特种兵](https://zdyxry.github.io/2025/07/07/Weekly-Issue-%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%89%B9%E7%A7%8D%E5%85%B5/)
 - [Weekly Issue-《F1：狂飙飞车》](https://zdyxry.github.io/2025/06/29/Weekly-Issue-F1%E7%8B%82%E9%A3%99%E9%A3%9E%E8%BD%A6/)
 - [Weekly Issue-avoid negativity echo chambers](https://zdyxry.github.io/2025/06/22/Weekly-Issue-avoid-negativity-echo-chambers/)

@@ -1,3 +1,4 @@
+- [AIGC Weekly #130](https://quaily.com/op7418/p/aigc-weekly-one-thirty)
 - [AIGC Weekly #129 放假周没啥消息](https://quaily.com/op7418/p/aigc-weekly-0r308yt8)
 - [AIGC Weekly #128](https://quaily.com/op7418/p/aigc-weekly-y0og1rwf)
 - [AIGC Weekly #127](https://quaily.com/op7418/p/aigc-weekly-one-two-seven)

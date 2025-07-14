@@ -1,3 +1,4 @@
+- [【CDT周报】第227期：甘肃教育厅请优先关注天水儿童吧！](https://chinadigitaltimes.net/chinese/719563.html)
 - [【CDT周报】第226期：他勇敢破窗的“不服从”成为所有人的退路](https://chinadigitaltimes.net/chinese/719379.html)
 - [【CDT周报】第225期：问题表现在男女对立，根子却在……](https://chinadigitaltimes.net/chinese/719197.html)
 - [【CDT周报】第224期：感谢中国记协为伊朗国家电视台遇袭发声](https://chinadigitaltimes.net/chinese/719035.html)

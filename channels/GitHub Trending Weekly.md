@@ -1,3 +1,4 @@
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
 - [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch)
 - [commaai/openpilot](https://github.com/commaai/openpilot)
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
