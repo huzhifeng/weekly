@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 偷懒爱好者周刊
+- 2025/07/16 [第141期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/16/第141期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/07/15 [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/15 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/07/14 [第229期 - 换到安卓](https://weekly.tw93.fun/posts/229-%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -21,11 +30,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/07/14 [9to5Linux Weekly Roundup: July 13th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-july-13th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/07/14 [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/14 [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/07/14 [Ubuntu Weekly Newsletter Issue 901](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-901/64456) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/07/13 [猫鱼周刊 vol. 072 可持续的周刊作者](https://ameow.xyz/archives/weekly-072) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -57,9 +63,6 @@
 ## FOSS Weekly
 - 2025/07/10 [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/07/09 [第140期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/09/第140期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## PIVOT
 - 2025/07/09 [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) | [More](channels/PIVOT.md)
 
@@ -68,9 +71,6 @@
 
 ## 虹线周刊
 - 2025/07/07 [2025#27 AI想要怎样的人生？](https://weekly.1q43.blog/article/228ca795c956804fac0efb0383a99508) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/07/07 [Ubuntu Weekly Newsletter Issue 900](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-900/64076) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 拾月通讯
 - 2025/07/06 [拾月周刊（第40期）：送报员](https://www.skyue.com/25070707.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)

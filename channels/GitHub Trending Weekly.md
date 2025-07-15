@@ -1,3 +1,5 @@
+- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent)
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
 - [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch)
 - [commaai/openpilot](https://github.com/commaai/openpilot)
