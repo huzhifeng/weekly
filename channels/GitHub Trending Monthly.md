@@ -1,3 +1,4 @@
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
