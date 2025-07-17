@@ -1,3 +1,5 @@
+- [google/googletest](https://github.com/google/googletest)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs)
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
 - [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent)
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)

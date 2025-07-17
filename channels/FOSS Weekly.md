@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-29/)
 - [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/)
 - [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/)
 - [FOSS Weekly #25.26: Torvalds-Gates Showdown, Hyprland Premium, Fedora's 32-bit Debacle, Xfce Themes and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-26/)
