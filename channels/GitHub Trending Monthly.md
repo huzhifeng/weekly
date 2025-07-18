@@ -1,3 +1,4 @@
+- [RSSNext/Folo](https://github.com/RSSNext/Folo)
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent)
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
