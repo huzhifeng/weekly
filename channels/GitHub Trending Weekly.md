@@ -1,3 +1,5 @@
+- [strapi/strapi](https://github.com/strapi/strapi)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 - [google/googletest](https://github.com/google/googletest)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs)
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
