@@ -1,3 +1,5 @@
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent)
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [RSSNext/Folo](https://github.com/RSSNext/Folo)
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent)
