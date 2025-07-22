@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 偷懒爱好者周刊
+- 2025/07/23 [第142期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/23/第142期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/07/22 [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/22 [RSSNext/Folo](https://github.com/RSSNext/Folo) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/07/21 [第230期 - 蓝色夜晚](https://weekly.tw93.fun/posts/230-%E8%93%9D%E8%89%B2%E5%A4%9C%E6%99%9A/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -24,11 +33,11 @@
 ## 9to5Linux Weekly Roundup
 - 2025/07/21 [9to5Linux Weekly Roundup: July 20th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-july-20th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/07/21 [strapi/strapi](https://github.com/strapi/strapi) | [More](channels/GitHub%20Trending%20Weekly.md)
+## Ubuntu Weekly Newsletter
+- 2025/07/21 [Ubuntu Weekly Newsletter Issue 902](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-902/64846) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Monthly
-- 2025/07/21 [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+## 猫鱼周刊
+- 2025/07/20 [猫鱼周刊 vol. 073 Burnout 逃生指南](https://ameow.xyz/archives/weekly-073) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/07/20 [稻草人周刊 Vol.38](https://geedea.pro/posts/weekly/38/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -38,6 +47,9 @@
 
 ## AIGC Weekly
 - 2025/07/20 [AIGC Weekly #131](https://quaily.com/op7418/p/aigc-weekly-one-thirty-one) | [More](channels/AIGC%20Weekly.md)
+
+## 老胡的信息周刊
+- 2025/07/19 [07-14~07-20.老胡的周刊（第196期）.md](https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
 - 2025/07/17 [科技創業週報 #490：未來工作不只是自動化，還要學會與AI一起設計流程](https://blog.starrocket.io/posts/newsletter-2025-07-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -50,15 +62,6 @@
 
 ## FOSS Weekly
 - 2025/07/17 [FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-29/) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2025/07/16 [第141期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/16/第141期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/07/14 [Ubuntu Weekly Newsletter Issue 901](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-901/64456) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 老胡的信息周刊
-- 2025/07/12 [07-07~07-13.老胡的周刊（第195期）.md](https://weekly.howie6879.com/2025/07-07~07-13.老胡的周刊（第195期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## This Week in GNOME
 - 2025/07/11 [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/) | [More](channels/This%20Week%20in%20GNOME.md)
