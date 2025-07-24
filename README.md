@@ -6,17 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/07/24 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/07/24 [LWN.net Weekly Edition for July 24, 2025](https://lwn.net/Articles/1030295/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/07/24 [FOSS Weekly #25.30: AUR Poisoned, Linux Rising, PPA Explained, New Open Source Grammar Checker and More](https://itsfoss.com/newsletter/foss-weekly-25-30/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/07/24 [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/24 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 科技創業週報
 - 2025/07/23 [科技創業週報 #491：AI 新創的極速方程式：解密 Lovable 八個月成為獨角獸的關鍵策略](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-491%ef%bc%9aai-%e6%96%b0%e5%89%b5%e7%9a%84%e6%a5%b5%e9%80%9f%e6%96%b9%e7%a8%8b%e5%bc%8f%ef%bc%9a%e8%a7%a3%e5%af%86-lovable-%e5%85%ab%e5%80%8b/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 偷懒爱好者周刊
 - 2025/07/23 [第142期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/23/第142期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2025/07/23 [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/23 [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/07/21 [第230期 - 蓝色夜晚](https://weekly.tw93.fun/posts/230-%E8%93%9D%E8%89%B2%E5%A4%9C%E6%99%9A/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -53,15 +62,6 @@
 
 ## 老胡的信息周刊
 - 2025/07/19 [07-14~07-20.老胡的周刊（第196期）.md](https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2025/07/17 [学习周刊-总第220期-2025年第29周](https://wiki.eryajf.net/pages/44ed45/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/07/17 [LWN.net Weekly Edition for July 17, 2025](https://lwn.net/Articles/1029426/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/07/17 [FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-29/) | [More](channels/FOSS%20Weekly.md)
 
 ## This Week in GNOME
 - 2025/07/11 [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/) | [More](channels/This%20Week%20in%20GNOME.md)

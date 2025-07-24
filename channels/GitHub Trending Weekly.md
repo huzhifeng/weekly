@@ -1,3 +1,5 @@
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [strapi/strapi](https://github.com/strapi/strapi)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)

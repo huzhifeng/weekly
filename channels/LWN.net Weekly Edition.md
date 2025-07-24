@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for July 24, 2025](https://lwn.net/Articles/1030295/)
 - [LWN.net Weekly Edition for July 17, 2025](https://lwn.net/Articles/1029426/)
 - [LWN.net Weekly Edition for July 10, 2025](https://lwn.net/Articles/1028368/)
 - [LWN.net Weekly Edition for July 3, 2025](https://lwn.net/Articles/1026982/)
