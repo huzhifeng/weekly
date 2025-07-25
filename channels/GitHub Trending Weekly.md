@@ -1,3 +1,5 @@
+- [tracel-ai/burn](https://github.com/tracel-ai/burn)
+- [influxdata/telegraf](https://github.com/influxdata/telegraf)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)

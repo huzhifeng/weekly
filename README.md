@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/07/17 [科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/07/25 [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/07/25 [Web Review, Week 2025-30](https://ervin.ipsquad.net/blog/2025/07/25/web-review-week-2025-30/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/07/25 [#209 GUADEC 2025](https://thisweek.gnome.org/posts/2025/07/twig-209/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/07/25 [tracel-ai/burn](https://github.com/tracel-ai/burn) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/25 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2025/07/24 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +26,6 @@
 
 ## FOSS Weekly
 - 2025/07/24 [FOSS Weekly #25.30: AUR Poisoned, Linux Rising, PPA Explained, New Open Source Grammar Checker and More](https://itsfoss.com/newsletter/foss-weekly-25-30/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/07/24 [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/24 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/07/23 [科技創業週報 #491：AI 新創的極速方程式：解密 Lovable 八個月成為獨角獸的關鍵策略](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-491%ef%bc%9aai-%e6%96%b0%e5%89%b5%e7%9a%84%e6%a5%b5%e9%80%9f%e6%96%b9%e7%a8%8b%e5%bc%8f%ef%bc%9a%e8%a7%a3%e5%af%86-lovable-%e5%85%ab%e5%80%8b/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -63,9 +69,6 @@
 ## 老胡的信息周刊
 - 2025/07/19 [07-14~07-20.老胡的周刊（第196期）.md](https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## This Week in GNOME
-- 2025/07/11 [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## PIVOT
 - 2025/07/09 [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) | [More](channels/PIVOT.md)
 
@@ -80,9 +83,6 @@
 
 ## 胡言乱语
 - 2025/07/03 [20250703的胡言乱语](https://www.bboy.app/2025/07/03/20250703%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## Web Review
-- 2025/06/27 [Web Review, Week 2025-26 + Service Announcement](https://ervin.ipsquad.net/blog/2025/06/27/web-review-week-2025-26/) | [More](channels/Web%20Review.md)
 
 ## HelloGitHub
 - 2025/06/26 [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) | [More](channels/HelloGitHub.md)
