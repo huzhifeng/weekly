@@ -6,17 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/07/26 [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/07/26 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/07/25 [Web Review, Week 2025-30](https://ervin.ipsquad.net/blog/2025/07/25/web-review-week-2025-30/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/07/25 [#209 GUADEC 2025](https://thisweek.gnome.org/posts/2025/07/twig-209/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/07/25 [tracel-ai/burn](https://github.com/tracel-ai/burn) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/25 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2025/07/24 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)

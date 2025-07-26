@@ -1,3 +1,4 @@
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn)
 - [influxdata/telegraf](https://github.com/influxdata/telegraf)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
