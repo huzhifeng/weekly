@@ -1,3 +1,4 @@
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)

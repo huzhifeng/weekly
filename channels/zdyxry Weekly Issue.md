@@ -1,3 +1,4 @@
+- [Weekly Issue-远离公众号](https://zdyxry.github.io/2025/07/27/Weekly-Issue-%E8%BF%9C%E7%A6%BB%E5%85%AC%E4%BC%97%E5%8F%B7/)
 - [Weekly Issue-Oncall好苦](https://zdyxry.github.io/2025/07/20/Weekly-Issue-Oncall%E5%A5%BD%E8%8B%A6/)
 - [Weekly Issue-Garmin教练](https://zdyxry.github.io/2025/07/13/Weekly-Issue-Garmin%E6%95%99%E7%BB%83/)
 - [Weekly Issue-连云港特种兵](https://zdyxry.github.io/2025/07/07/Weekly-Issue-%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%89%B9%E7%A7%8D%E5%85%B5/)
