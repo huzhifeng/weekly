@@ -1,3 +1,6 @@
+- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger)
+- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [frappe/hrms](https://github.com/frappe/hrms)
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn)

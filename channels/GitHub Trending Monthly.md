@@ -1,3 +1,4 @@
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
