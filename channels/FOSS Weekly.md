@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-25-31/)
 - [FOSS Weekly #25.30: AUR Poisoned, Linux Rising, PPA Explained, New Open Source Grammar Checker and More](https://itsfoss.com/newsletter/foss-weekly-25-30/)
 - [FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-29/)
 - [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/)

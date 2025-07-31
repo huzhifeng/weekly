@@ -6,14 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 偷懒爱好者周刊
-- 2025/07/30 [第143期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/30/第143期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/07/31 [科技創業週報 #492：變現力 × 市場力：AI 創業第一天就要啟動的雙引擎](https://blog.starrocket.io/posts/newsletter-2025-07-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/07/31 [学习周刊-总第222期-2025年第31周](https://wiki.eryajf.net/pages/300813/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/07/31 [LWN.net Weekly Edition for July 31, 2025](https://lwn.net/Articles/1031201/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/07/31 [FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-25-31/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/07/30 [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/07/31 [frappe/hrms](https://github.com/frappe/hrms) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/07/30 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/07/31 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/07/30 [第143期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/30/第143期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/07/29 [20250729的胡言乱语](https://www.bboy.app/2025/07/29/20250729%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -54,23 +66,8 @@
 ## This Week in GNOME
 - 2025/07/25 [#209 GUADEC 2025](https://thisweek.gnome.org/posts/2025/07/twig-209/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 二丫讲梵学习周刊
-- 2025/07/24 [学习周刊-总第221期-2025年第30周](https://wiki.eryajf.net/pages/1bb481/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/07/24 [LWN.net Weekly Edition for July 24, 2025](https://lwn.net/Articles/1030295/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/07/24 [FOSS Weekly #25.30: AUR Poisoned, Linux Rising, PPA Explained, New Open Source Grammar Checker and More](https://itsfoss.com/newsletter/foss-weekly-25-30/) | [More](channels/FOSS%20Weekly.md)
-
-## 科技創業週報
-- 2025/07/23 [科技創業週報 #491：AI 新創的極速方程式：解密 Lovable 八個月成為獨角獸的關鍵策略](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-491%ef%bc%9aai-%e6%96%b0%e5%89%b5%e7%9a%84%e6%a5%b5%e9%80%9f%e6%96%b9%e7%a8%8b%e5%bc%8f%ef%bc%9a%e8%a7%a3%e5%af%86-lovable-%e5%85%ab%e5%80%8b/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## Pseudoyu 周报
 - 2025/07/21 [周报 #99 - 离开 RSS3，迷茫与重启人生](https://www.pseudoyu.com/posts/weekly_review_99) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/07/21 [9to5Linux Weekly Roundup: July 20th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-july-20th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 老胡的信息周刊
 - 2025/07/19 [07-14~07-20.老胡的周刊（第196期）.md](https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)

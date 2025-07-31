@@ -1,3 +1,4 @@
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger)
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
