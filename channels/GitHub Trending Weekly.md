@@ -1,3 +1,5 @@
+- [roboflow/supervision](https://github.com/roboflow/supervision)
+- [cloudwego/eino](https://github.com/cloudwego/eino)
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger)
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)

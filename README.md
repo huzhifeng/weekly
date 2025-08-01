@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/07/25 [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/08/01 [科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/08/01 [Web Review, Week 2025-31](https://ervin.ipsquad.net/blog/2025/08/01/web-review-week-2025-31/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/08/01 [#210 Periodic Updates](https://thisweek.gnome.org/posts/2025/08/twig-210/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/08/01 [roboflow/supervision](https://github.com/roboflow/supervision) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/01 [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/07/31 [科技創業週報 #492：變現力 × 市場力：AI 創業第一天就要啟動的雙引擎](https://blog.starrocket.io/posts/newsletter-2025-07-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/07/31 [FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-25-31/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/07/31 [frappe/hrms](https://github.com/frappe/hrms) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/07/31 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/07/30 [第143期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/30/第143期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -59,12 +65,6 @@
 
 ## AIGC Weekly
 - 2025/07/27 [AIGC Weekly #132](https://quaily.com/op7418/p/aigc-weekly-one-three-two) | [More](channels/AIGC%20Weekly.md)
-
-## Web Review
-- 2025/07/25 [Web Review, Week 2025-30](https://ervin.ipsquad.net/blog/2025/07/25/web-review-week-2025-30/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/07/25 [#209 GUADEC 2025](https://thisweek.gnome.org/posts/2025/07/twig-209/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Pseudoyu 周报
 - 2025/07/21 [周报 #99 - 离开 RSS3，迷茫与重启人生](https://www.pseudoyu.com/posts/weekly_review_99) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
