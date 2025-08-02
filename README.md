@@ -6,17 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/08/02 [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/02 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/08/01 [Web Review, Week 2025-31](https://ervin.ipsquad.net/blog/2025/08/01/web-review-week-2025-31/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/08/01 [#210 Periodic Updates](https://thisweek.gnome.org/posts/2025/08/twig-210/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/08/01 [roboflow/supervision](https://github.com/roboflow/supervision) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/01 [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/07/31 [科技創業週報 #492：變現力 × 市場力：AI 創業第一天就要啟動的雙引擎](https://blog.starrocket.io/posts/newsletter-2025-07-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)

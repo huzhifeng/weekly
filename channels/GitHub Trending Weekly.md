@@ -1,3 +1,4 @@
+- [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
 - [roboflow/supervision](https://github.com/roboflow/supervision)
 - [cloudwego/eino](https://github.com/cloudwego/eino)
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
