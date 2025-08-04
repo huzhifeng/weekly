@@ -1,3 +1,4 @@
+- [【CDT周报】第229期：从“不让生”到“哄着生”，转了一圈又回原点](https://chinadigitaltimes.net/chinese/720108.html)
 - [【CDT周报】第229期：“6人被救出后，医护人员确认已溺亡”](https://chinadigitaltimes.net/chinese/719939.html)
 - [【CDT周报】第228期：我们与文明社会的距离，才是真正“有损国格”的](https://chinadigitaltimes.net/chinese/719751.html)
 - [【CDT周报】第227期：甘肃教育厅请优先关注天水儿童吧！](https://chinadigitaltimes.net/chinese/719563.html)

@@ -9,17 +9,38 @@
 ## 潮流周刊
 - 2025/08/04 [第232期 - 小鱼小虾](https://weekly.tw93.fun/posts/232-%E5%B0%8F%E9%B1%BC%E5%B0%8F%E8%99%BE/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/08/04 [【CDT周报】第229期：从“不让生”到“哄着生”，转了一圈又回原点](https://chinadigitaltimes.net/chinese/720108.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/08/04 [一周杂记 in Week 5 July 2025](http://kingsamchen.github.io/2025/08/04/weekly-2025-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2025/08/04 [DistroWatch Weekly, Issue 1133](https://distrowatch.com/weekly.php?issue=20250804) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/08/04 [Ubuntu Weekly Newsletter Issue 904](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-904/65623) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/08/04 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/04 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/08/03 [猫鱼周刊 vol. 075 开源和白嫖](https://ameow.xyz/archives/weekly-075) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 稻草人周刊
+- 2025/08/03 [稻草人周刊 Vol.40](https://geedea.pro/posts/weekly/40/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## zdyxry Weekly Issue
+- 2025/08/03 [Weekly Issue-《骆驼狮子小孩》](https://zdyxry.github.io/2025/08/03/Weekly-Issue-%E9%AA%86%E9%A9%BC%E7%8B%AE%E5%AD%90%E5%B0%8F%E5%AD%A9/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## AIGC Weekly
 - 2025/08/03 [AIGC Weekly #133](https://quaily.com/op7418/p/aigc-weekly-alpha) | [More](channels/AIGC%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/08/03 [cloudwego/eino](https://github.com/cloudwego/eino) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/03 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
+## 老胡的信息周刊
+- 2025/08/02 [07-21~08-03.老胡的周刊（第197期）.md](https://weekly.howie6879.com/2025/07-21~08-03.老胡的周刊（第197期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/08/01 [Web Review, Week 2025-31](https://ervin.ipsquad.net/blog/2025/08/01/web-review-week-2025-31/) | [More](channels/Web%20Review.md)
@@ -45,38 +66,17 @@
 ## 胡言乱语
 - 2025/07/29 [20250729的胡言乱语](https://www.bboy.app/2025/07/29/20250729%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 稻草人周刊
-- 2025/07/28 [稻草人周刊 Vol.39](https://geedea.pro/posts/weekly/39/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/07/28 [【CDT周报】第229期：“6人被救出后，医护人员确认已溺亡”](https://chinadigitaltimes.net/chinese/719939.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+## 虹线周刊
+- 2025/07/28 [2025#30 大阪世博会](https://weekly.1q43.blog/article/23dca795c956807b9624feb3143240fd) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2025/07/28 [HelloGitHub 第 112 期](https://hellogithub.com/periodical/volume/112) | [More](channels/HelloGitHub.md)
 
-## 一周杂记
-- 2025/07/28 [一周杂记 in Week 4 July 2025](http://kingsamchen.github.io/2025/07/28/weekly-2025-july-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2025/07/28 [DistroWatch Weekly, Issue 1132](https://distrowatch.com/weekly.php?issue=20250728) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/07/28 [Ubuntu Weekly Newsletter Issue 903](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-903/65209) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2025/07/27 [Weekly Issue-远离公众号](https://zdyxry.github.io/2025/07/27/Weekly-Issue-%E8%BF%9C%E7%A6%BB%E5%85%AC%E4%BC%97%E5%8F%B7/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## Pseudoyu 周报
 - 2025/07/21 [周报 #99 - 离开 RSS3，迷茫与重启人生](https://www.pseudoyu.com/posts/weekly_review_99) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 老胡的信息周刊
-- 2025/07/19 [07-14~07-20.老胡的周刊（第196期）.md](https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
 ## PIVOT
 - 2025/07/09 [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) | [More](channels/PIVOT.md)
-
-## 虹线周刊
-- 2025/07/07 [2025#27 AI想要怎样的人生？](https://weekly.1q43.blog/article/228ca795c956804fac0efb0383a99508) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 拾月通讯
 - 2025/07/06 [拾月周刊（第40期）：送报员](https://www.skyue.com/25070707.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)

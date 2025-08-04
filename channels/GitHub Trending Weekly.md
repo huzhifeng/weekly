@@ -1,3 +1,5 @@
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+- [outline/outline](https://github.com/outline/outline)
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
 - [roboflow/supervision](https://github.com/roboflow/supervision)
 - [cloudwego/eino](https://github.com/cloudwego/eino)
