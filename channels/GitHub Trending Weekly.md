@@ -1,3 +1,4 @@
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 - [outline/outline](https://github.com/outline/outline)
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)

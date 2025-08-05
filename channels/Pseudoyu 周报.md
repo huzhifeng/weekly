@@ -1,3 +1,4 @@
+- [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100)
 - [周报 #99 - 离开 RSS3，迷茫与重启人生](https://www.pseudoyu.com/posts/weekly_review_99)
 - [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98)
 - [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97)
