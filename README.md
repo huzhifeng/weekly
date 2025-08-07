@@ -6,17 +6,26 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 二丫讲梵学习周刊
+- 2025/08/07 [学习周刊-总第223期-2025年第32周](https://wiki.eryajf.net/pages/a7a91b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/08/07 [LWN.net Weekly Edition for August 7, 2025](https://lwn.net/Articles/1032016/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/08/07 [FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-32/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/08/07 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/07 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 科技創業週報
 - 2025/08/06 [科技創業週報 #493：AI 會議助理：效率新夥伴，還是信任新課題？](https://blog.starrocket.io/posts/newsletter-2025-08-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 偷懒爱好者周刊
 - 2025/08/06 [第144期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/06/第144期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2025/08/06 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/06 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -56,15 +65,6 @@
 
 ## This Week in GNOME
 - 2025/08/01 [#210 Periodic Updates](https://thisweek.gnome.org/posts/2025/08/twig-210/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 二丫讲梵学习周刊
-- 2025/07/31 [学习周刊-总第222期-2025年第31周](https://wiki.eryajf.net/pages/300813/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/07/31 [LWN.net Weekly Edition for July 31, 2025](https://lwn.net/Articles/1031201/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/07/31 [FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-25-31/) | [More](channels/FOSS%20Weekly.md)
 
 ## 胡言乱语
 - 2025/07/29 [20250729的胡言乱语](https://www.bboy.app/2025/07/29/20250729%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
