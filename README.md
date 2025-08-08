@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/08/01 [科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/08/08 [科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/08/08 [Web Review, Week 2025-32](https://ervin.ipsquad.net/blog/2025/08/08/web-review-week-2025-32/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/08/08 [#211 Handling Brightness](https://thisweek.gnome.org/posts/2025/08/twig-211/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/08/08 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/08 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2025/08/07 [学习周刊-总第223期-2025年第32周](https://wiki.eryajf.net/pages/a7a91b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +26,6 @@
 
 ## FOSS Weekly
 - 2025/08/07 [FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-32/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/08/07 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/07 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/08/06 [科技創業週報 #493：AI 會議助理：效率新夥伴，還是信任新課題？](https://blog.starrocket.io/posts/newsletter-2025-08-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -59,12 +65,6 @@
 
 ## 老胡的信息周刊
 - 2025/08/02 [07-21~08-03.老胡的周刊（第197期）.md](https://weekly.howie6879.com/2025/07-21~08-03.老胡的周刊（第197期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2025/08/01 [Web Review, Week 2025-31](https://ervin.ipsquad.net/blog/2025/08/01/web-review-week-2025-31/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/08/01 [#210 Periodic Updates](https://thisweek.gnome.org/posts/2025/08/twig-210/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 胡言乱语
 - 2025/07/29 [20250729的胡言乱语](https://www.bboy.app/2025/07/29/20250729%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

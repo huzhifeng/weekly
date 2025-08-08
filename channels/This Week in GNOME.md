@@ -1,3 +1,4 @@
+- [#211 Handling Brightness](https://thisweek.gnome.org/posts/2025/08/twig-211/)
 - [#210 Periodic Updates](https://thisweek.gnome.org/posts/2025/08/twig-210/)
 - [#209 GUADEC 2025](https://thisweek.gnome.org/posts/2025/07/twig-209/)
 - [#208 Converting Colors](https://thisweek.gnome.org/posts/2025/07/twig-208/)
