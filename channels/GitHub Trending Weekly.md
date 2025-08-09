@@ -1,3 +1,4 @@
+- [9001/copyparty](https://github.com/9001/copyparty)
 - [workadventure/workadventure](https://github.com/workadventure/workadventure)
 - [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)

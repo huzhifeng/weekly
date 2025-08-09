@@ -6,17 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## CDT周报
+- 2025/08/09 [【CDT周报】第230期：她妈妈是聋哑人，她爸爸是残疾人，他们说不出来，我们来说](https://chinadigitaltimes.net/chinese/720259.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/08/09 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/09 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/08/08 [Web Review, Week 2025-32](https://ervin.ipsquad.net/blog/2025/08/08/web-review-week-2025-32/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/08/08 [#211 Handling Brightness](https://thisweek.gnome.org/posts/2025/08/twig-211/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/08/08 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/08 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 二丫讲梵学习周刊
 - 2025/08/07 [学习周刊-总第223期-2025年第32周](https://wiki.eryajf.net/pages/a7a91b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -38,9 +41,6 @@
 
 ## 潮流周刊
 - 2025/08/04 [第232期 - 小鱼小虾](https://weekly.tw93.fun/posts/232-%E5%B0%8F%E9%B1%BC%E5%B0%8F%E8%99%BE/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/08/04 [【CDT周报】第229期：从“不让生”到“哄着生”，转了一圈又回原点](https://chinadigitaltimes.net/chinese/720108.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 一周杂记
 - 2025/08/04 [一周杂记 in Week 5 July 2025](http://kingsamchen.github.io/2025/08/04/weekly-2025-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
