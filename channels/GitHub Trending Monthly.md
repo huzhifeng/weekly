@@ -1,3 +1,4 @@
+- [sst/opencode](https://github.com/sst/opencode)
 - [frappe/hrms](https://github.com/frappe/hrms)
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)

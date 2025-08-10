@@ -6,14 +6,23 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## CDT周报
-- 2025/08/09 [【CDT周报】第230期：她妈妈是聋哑人，她爸爸是残疾人，他们说不出来，我们来说](https://chinadigitaltimes.net/chinese/720259.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+## 潮流周刊
+- 2025/08/11 [第233期 - 树上有鸟](https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/08/10 [猫鱼周刊 vol. 076 看一场晚霞](https://ameow.xyz/archives/weekly-076) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/08/09 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/10 [lvgl/lvgl](https://github.com/lvgl/lvgl) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/09 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/10 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 老胡的信息周刊
+- 2025/08/09 [08-03~08-10.老胡的周刊（第198期）.md](https://weekly.howie6879.com/2025/08-03~08-10.老胡的周刊（第198期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/08/09 [【CDT周报】第230期：她妈妈是聋哑人，她爸爸是残疾人，他们说不出来，我们来说](https://chinadigitaltimes.net/chinese/720259.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## Web Review
 - 2025/08/08 [Web Review, Week 2025-32](https://ervin.ipsquad.net/blog/2025/08/08/web-review-week-2025-32/) | [More](channels/Web%20Review.md)
@@ -39,9 +48,6 @@
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2025/08/04 [第232期 - 小鱼小虾](https://weekly.tw93.fun/posts/232-%E5%B0%8F%E9%B1%BC%E5%B0%8F%E8%99%BE/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2025/08/04 [一周杂记 in Week 5 July 2025](http://kingsamchen.github.io/2025/08/04/weekly-2025-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -51,9 +57,6 @@
 ## Ubuntu Weekly Newsletter
 - 2025/08/04 [Ubuntu Weekly Newsletter Issue 904](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-904/65623) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/08/03 [猫鱼周刊 vol. 075 开源和白嫖](https://ameow.xyz/archives/weekly-075) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/08/03 [稻草人周刊 Vol.40](https://geedea.pro/posts/weekly/40/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -62,9 +65,6 @@
 
 ## AIGC Weekly
 - 2025/08/03 [AIGC Weekly #133](https://quaily.com/op7418/p/aigc-weekly-alpha) | [More](channels/AIGC%20Weekly.md)
-
-## 老胡的信息周刊
-- 2025/08/02 [07-21~08-03.老胡的周刊（第197期）.md](https://weekly.howie6879.com/2025/07-21~08-03.老胡的周刊（第197期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/07/29 [20250729的胡言乱语](https://www.bboy.app/2025/07/29/20250729%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
