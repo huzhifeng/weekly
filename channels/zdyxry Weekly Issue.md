@@ -1,3 +1,4 @@
+- [Weekly Issue-灰色的内衣](https://zdyxry.github.io/2025/08/10/Weekly-Issue-%E7%81%B0%E8%89%B2%E7%9A%84%E5%86%85%E8%A1%A3/)
 - [Weekly Issue-《骆驼狮子小孩》](https://zdyxry.github.io/2025/08/03/Weekly-Issue-%E9%AA%86%E9%A9%BC%E7%8B%AE%E5%AD%90%E5%B0%8F%E5%AD%A9/)
 - [Weekly Issue-远离公众号](https://zdyxry.github.io/2025/07/27/Weekly-Issue-%E8%BF%9C%E7%A6%BB%E5%85%AC%E4%BC%97%E5%8F%B7/)
 - [Weekly Issue-Oncall好苦](https://zdyxry.github.io/2025/07/20/Weekly-Issue-Oncall%E5%A5%BD%E8%8B%A6/)

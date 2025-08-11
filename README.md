@@ -9,14 +9,35 @@
 ## 潮流周刊
 - 2025/08/11 [第233期 - 树上有鸟](https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2025/08/11 [稻草人周刊 Vol.41](https://geedea.pro/posts/weekly/41/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## AIGC Weekly
+- 2025/08/11 [AIGC Weekly #134 御三家协同发力](https://quaily.com/op7418/p/aigc-weekly-ckr1wldj) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/08/11 [DistroWatch Weekly, Issue 1134](https://distrowatch.com/weekly.php?issue=20250811) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/08/11 [9to5Linux Weekly Roundup: August 10th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-10th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/08/11 [Ubuntu Weekly Newsletter Issue 905](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-905/65944) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/08/11 [browserbase/stagehand](https://github.com/browserbase/stagehand) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/11 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/08/10 [猫鱼周刊 vol. 076 看一场晚霞](https://ameow.xyz/archives/weekly-076) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/08/10 [lvgl/lvgl](https://github.com/lvgl/lvgl) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 一周杂记
+- 2025/08/10 [一周杂记 in Week 1 Aug 2025](http://kingsamchen.github.io/2025/08/11/weekly-2025-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## GitHub Trending Monthly
-- 2025/08/10 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+## zdyxry Weekly Issue
+- 2025/08/10 [Weekly Issue-灰色的内衣](https://zdyxry.github.io/2025/08/10/Weekly-Issue-%E7%81%B0%E8%89%B2%E7%9A%84%E5%86%85%E8%A1%A3/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 老胡的信息周刊
 - 2025/08/09 [08-03~08-10.老胡的周刊（第198期）.md](https://weekly.howie6879.com/2025/08-03~08-10.老胡的周刊（第198期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
@@ -48,29 +69,11 @@
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 一周杂记
-- 2025/08/04 [一周杂记 in Week 5 July 2025](http://kingsamchen.github.io/2025/08/04/weekly-2025-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2025/08/04 [DistroWatch Weekly, Issue 1133](https://distrowatch.com/weekly.php?issue=20250804) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/08/04 [Ubuntu Weekly Newsletter Issue 904](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-904/65623) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 稻草人周刊
-- 2025/08/03 [稻草人周刊 Vol.40](https://geedea.pro/posts/weekly/40/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## zdyxry Weekly Issue
-- 2025/08/03 [Weekly Issue-《骆驼狮子小孩》](https://zdyxry.github.io/2025/08/03/Weekly-Issue-%E9%AA%86%E9%A9%BC%E7%8B%AE%E5%AD%90%E5%B0%8F%E5%AD%A9/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2025/08/03 [AIGC Weekly #133](https://quaily.com/op7418/p/aigc-weekly-alpha) | [More](channels/AIGC%20Weekly.md)
+## 虹线周刊
+- 2025/08/04 [2025#31 气候变暖](https://weekly.1q43.blog/article/244ca795c95680b19558f709112f25b6) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/07/29 [20250729的胡言乱语](https://www.bboy.app/2025/07/29/20250729%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 虹线周刊
-- 2025/07/28 [2025#30 大阪世博会](https://weekly.1q43.blog/article/23dca795c956807b9624feb3143240fd) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2025/07/28 [HelloGitHub 第 112 期](https://hellogithub.com/periodical/volume/112) | [More](channels/HelloGitHub.md)

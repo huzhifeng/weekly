@@ -1,3 +1,5 @@
+- [browserbase/stagehand](https://github.com/browserbase/stagehand)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm)
 - [lvgl/lvgl](https://github.com/lvgl/lvgl)
 - [actualbudget/actual](https://github.com/actualbudget/actual)
 - [9001/copyparty](https://github.com/9001/copyparty)
