@@ -1,3 +1,4 @@
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm)
 - [lvgl/lvgl](https://github.com/lvgl/lvgl)
