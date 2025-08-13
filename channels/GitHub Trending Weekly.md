@@ -1,3 +1,5 @@
+- [umami-software/umami](https://github.com/umami-software/umami)
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm)

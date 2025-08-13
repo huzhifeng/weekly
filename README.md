@@ -10,10 +10,10 @@
 - 2025/08/13 [第145期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/13/第145期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/08/12 [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/13 [umami-software/umami](https://github.com/umami-software/umami) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/12 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/13 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/08/11 [第233期 - 树上有鸟](https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
