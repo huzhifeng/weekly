@@ -6,14 +6,29 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/08/14 [科技創業週報 #494：七個原則助你穿越2025年AI創業的「死亡之谷」](https://blog.starrocket.io/posts/newsletter-2025-08-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/08/14 [学习周刊-总第224期-2025年第33周](https://wiki.eryajf.net/pages/7d1d90/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/08/14 [LWN.net Weekly Edition for August 14, 2025](https://lwn.net/Articles/1032862/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/08/14 [FOSS Weekly #25.33: Debian 13 Released, Torvalds vs RISC-V, Arch's New Tool, GNOME Perfection and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-33/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/08/14 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/14 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2025/08/13 [第145期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/13/第145期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/08/13 [umami-software/umami](https://github.com/umami-software/umami) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/13 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+## PIVOT
+- 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
 
 ## 潮流周刊
 - 2025/08/11 [第233期 - 树上有鸟](https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -54,18 +69,6 @@
 ## This Week in GNOME
 - 2025/08/08 [#211 Handling Brightness](https://thisweek.gnome.org/posts/2025/08/twig-211/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 二丫讲梵学习周刊
-- 2025/08/07 [学习周刊-总第223期-2025年第32周](https://wiki.eryajf.net/pages/a7a91b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/08/07 [LWN.net Weekly Edition for August 7, 2025](https://lwn.net/Articles/1032016/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/08/07 [FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-32/) | [More](channels/FOSS%20Weekly.md)
-
-## 科技創業週報
-- 2025/08/06 [科技創業週報 #493：AI 會議助理：效率新夥伴，還是信任新課題？](https://blog.starrocket.io/posts/newsletter-2025-08-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
@@ -77,9 +80,6 @@
 
 ## HelloGitHub
 - 2025/07/28 [HelloGitHub 第 112 期](https://hellogithub.com/periodical/volume/112) | [More](channels/HelloGitHub.md)
-
-## PIVOT
-- 2025/07/09 [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) | [More](channels/PIVOT.md)
 
 ## 拾月通讯
 - 2025/07/06 [拾月周刊（第40期）：送报员](https://www.skyue.com/25070707.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -104,6 +104,9 @@
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
+
+## 印记周报
+- 2025/02/23 [周报 #12 - 那些不成文的内容](https://yinji.org/-e5-91-a8-e6-8a-a5-12--e9-82-a3-e4-ba-9b-e4-b8-8d-e6-88-90-e6-96-87-e7-9a-84-e5-86-85-e5-ae-b9-689d20770ddccf001b2621b2/) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)

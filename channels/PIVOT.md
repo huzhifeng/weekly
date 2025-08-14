@@ -1,3 +1,4 @@
+- [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/)
 - [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/)
 - [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/)
 - [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/)
