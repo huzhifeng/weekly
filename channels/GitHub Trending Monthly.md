@@ -1,3 +1,4 @@
+- [OpenPipe/ART](https://github.com/OpenPipe/ART)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm)

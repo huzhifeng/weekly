@@ -6,17 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/08/16 [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/16 [OpenPipe/ART](https://github.com/OpenPipe/ART) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/08/15 [Web Review, Week 2025-33](https://ervin.ipsquad.net/blog/2025/08/15/web-review-week-2025-33/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/08/15 [#212 Happy Birthday!](https://thisweek.gnome.org/posts/2025/08/twig-212/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/08/15 [menloresearch/jan](https://github.com/menloresearch/jan) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/15 [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/08/14 [科技創業週報 #494：七個原則助你穿越2025年AI創業的「死亡之谷」](https://blog.starrocket.io/posts/newsletter-2025-08-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -106,7 +106,7 @@
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
 ## 印记周报
-- 2025/02/23 [周报 #12 - 那些不成文的内容](https://yinji.org/-e5-91-a8-e6-8a-a5-12--e9-82-a3-e4-ba-9b-e4-b8-8d-e6-88-90-e6-96-87-e7-9a-84-e5-86-85-e5-ae-b9-689d20770ddccf001b2621b2/) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
+- 2025/02/23 [周报 #12 - 那些不成文的内容](https://yinji.org/-e5-91-a8-e6-8a-a5-12--e9-82-a3-e4-ba-9b-e4-b8-8d-e6-88-90-e6-96-87-e7-9a-84-e5-86-85-e5-ae-b9/) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
