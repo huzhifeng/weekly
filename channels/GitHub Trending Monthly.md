@@ -1,3 +1,4 @@
+- [coleam00/Archon](https://github.com/coleam00/Archon)
 - [OpenPipe/ART](https://github.com/OpenPipe/ART)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)

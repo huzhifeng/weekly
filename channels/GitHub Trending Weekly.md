@@ -1,3 +1,5 @@
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
 - [coleam00/Archon](https://github.com/coleam00/Archon)
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [umami-software/umami](https://github.com/umami-software/umami)
