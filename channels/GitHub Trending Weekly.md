@@ -1,3 +1,5 @@
+- [filamentphp/filament](https://github.com/filamentphp/filament)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
 - [coleam00/Archon](https://github.com/coleam00/Archon)

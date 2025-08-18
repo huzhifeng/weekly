@@ -9,11 +9,38 @@
 ## 潮流周刊
 - 2025/08/18 [第234期 - 有富士咯](https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2025/08/18 [稻草人周刊 Vol.42](https://geedea.pro/posts/weekly/42/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/08/18 [【CDT周报】第231期：因为制度先天不合理，所以强制才有问题](https://chinadigitaltimes.net/chinese/720459.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 胡言乱语
+- 2025/08/18 [20250818的胡言乱语](https://www.bboy.app/2025/08/18/20250818%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## AIGC Weekly
+- 2025/08/18 [AIGC Weekly #135](https://quaily.com/op7418/p/aigc-weekly-1umx2vz2) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/08/18 [DistroWatch Weekly, Issue 1135](https://distrowatch.com/weekly.php?issue=20250818) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/08/18 [Ubuntu Weekly Newsletter Issue 906](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-906/66460) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
 ## GitHub Trending Weekly
-- 2025/08/17 [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/18 [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/17 [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/18 [frappe/hrms](https://github.com/frappe/hrms) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 猫鱼周刊
+- 2025/08/17 [猫鱼周刊 vol. 077 Code For Fun](https://ameow.xyz/archives/weekly-077) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## zdyxry Weekly Issue
+- 2025/08/17 [Weekly Issue-《K-Pop 猎魔女团》](https://zdyxry.github.io/2025/08/17/Weekly-Issue-K-Pop-%E7%8C%8E%E9%AD%94%E5%A5%B3%E5%9B%A2/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/08/17 [9to5Linux Weekly Roundup: August 17th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-17th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Web Review
 - 2025/08/15 [Web Review, Week 2025-33](https://ervin.ipsquad.net/blog/2025/08/15/web-review-week-2025-33/) | [More](channels/Web%20Review.md)
@@ -39,41 +66,17 @@
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
 
-## 稻草人周刊
-- 2025/08/11 [稻草人周刊 Vol.41](https://geedea.pro/posts/weekly/41/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## AIGC Weekly
-- 2025/08/11 [AIGC Weekly #134 御三家协同发力](https://quaily.com/op7418/p/aigc-weekly-ckr1wldj) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/08/11 [DistroWatch Weekly, Issue 1134](https://distrowatch.com/weekly.php?issue=20250811) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/08/11 [9to5Linux Weekly Roundup: August 10th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-10th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/08/11 [Ubuntu Weekly Newsletter Issue 905](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-905/65944) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+## 虹线周刊
+- 2025/08/10 [2025#32 同担拒否](https://weekly.1q43.blog/article/24bca795c956802a911efc7173a84d72) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 一周杂记
 - 2025/08/10 [一周杂记 in Week 1 Aug 2025](http://kingsamchen.github.io/2025/08/11/weekly-2025-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## zdyxry Weekly Issue
-- 2025/08/10 [Weekly Issue-灰色的内衣](https://zdyxry.github.io/2025/08/10/Weekly-Issue-%E7%81%B0%E8%89%B2%E7%9A%84%E5%86%85%E8%A1%A3/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## 老胡的信息周刊
 - 2025/08/09 [08-03~08-10.老胡的周刊（第198期）.md](https://weekly.howie6879.com/2025/08-03~08-10.老胡的周刊（第198期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2025/08/09 [【CDT周报】第230期：她妈妈是聋哑人，她爸爸是残疾人，他们说不出来，我们来说](https://chinadigitaltimes.net/chinese/720259.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 虹线周刊
-- 2025/08/04 [2025#31 气候变暖](https://weekly.1q43.blog/article/244ca795c95680b19558f709112f25b6) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 胡言乱语
-- 2025/07/29 [20250729的胡言乱语](https://www.bboy.app/2025/07/29/20250729%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## HelloGitHub
 - 2025/07/28 [HelloGitHub 第 112 期](https://hellogithub.com/periodical/volume/112) | [More](channels/HelloGitHub.md)
@@ -101,9 +104,6 @@
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 印记周报
-- 2025/02/23 [周报 #12 - 那些不成文的内容](https://yinji.org/-e5-91-a8-e6-8a-a5-12--e9-82-a3-e4-ba-9b-e4-b8-8d-e6-88-90-e6-96-87-e7-9a-84-e5-86-85-e5-ae-b9/) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 奇趣周刊
 - 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
