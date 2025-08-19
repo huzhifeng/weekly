@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 一周杂记
+- 2025/08/19 [一周杂记 in Week 2 Aug 2025](http://kingsamchen.github.io/2025/08/19/weekly-2025-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GitHub Trending Weekly
+- 2025/08/19 [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/19 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/08/18 [第234期 - 有富士咯](https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -27,12 +36,6 @@
 ## Ubuntu Weekly Newsletter
 - 2025/08/18 [Ubuntu Weekly Newsletter Issue 906](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-906/66460) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2025/08/18 [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/18 [frappe/hrms](https://github.com/frappe/hrms) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 猫鱼周刊
 - 2025/08/17 [猫鱼周刊 vol. 077 Code For Fun](https://ameow.xyz/archives/weekly-077) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -41,6 +44,9 @@
 
 ## 9to5Linux Weekly Roundup
 - 2025/08/17 [9to5Linux Weekly Roundup: August 17th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-17th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## 老胡的信息周刊
+- 2025/08/15 [08-11~08-16.老胡的周刊（第199期）.md](https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Web Review
 - 2025/08/15 [Web Review, Week 2025-33](https://ervin.ipsquad.net/blog/2025/08/15/web-review-week-2025-33/) | [More](channels/Web%20Review.md)
@@ -68,12 +74,6 @@
 
 ## 虹线周刊
 - 2025/08/10 [2025#32 同担拒否](https://weekly.1q43.blog/article/24bca795c956802a911efc7173a84d72) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2025/08/10 [一周杂记 in Week 1 Aug 2025](http://kingsamchen.github.io/2025/08/11/weekly-2025-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## 老胡的信息周刊
-- 2025/08/09 [08-03~08-10.老胡的周刊（第198期）.md](https://weekly.howie6879.com/2025/08-03~08-10.老胡的周刊（第198期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -122,7 +122,4 @@
 
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 艾迪蓝波
-- 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 

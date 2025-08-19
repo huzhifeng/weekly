@@ -1,3 +1,5 @@
+- [librespot-org/librespot](https://github.com/librespot-org/librespot)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing)
 - [filamentphp/filament](https://github.com/filamentphp/filament)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
