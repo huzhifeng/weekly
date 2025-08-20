@@ -1,3 +1,6 @@
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+- [trailofbits/buttercup](https://github.com/trailofbits/buttercup)
 - [librespot-org/librespot](https://github.com/librespot-org/librespot)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing)
 - [filamentphp/filament](https://github.com/filamentphp/filament)

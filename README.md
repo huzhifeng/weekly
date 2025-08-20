@@ -6,14 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 一周杂记
-- 2025/08/19 [一周杂记 in Week 2 Aug 2025](http://kingsamchen.github.io/2025/08/19/weekly-2025-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## GitHub Trending Weekly
-- 2025/08/19 [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/20 [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/19 [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/20 [dtyq/magic](https://github.com/dtyq/magic) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/08/19 [第146期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/19/第146期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2025/08/19 [一周杂记 in Week 2 Aug 2025](http://kingsamchen.github.io/2025/08/19/weekly-2025-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 潮流周刊
 - 2025/08/18 [第234期 - 有富士咯](https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -65,9 +68,6 @@
 
 ## FOSS Weekly
 - 2025/08/14 [FOSS Weekly #25.33: Debian 13 Released, Torvalds vs RISC-V, Arch's New Tool, GNOME Perfection and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-33/) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2025/08/13 [第145期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/13/第145期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
