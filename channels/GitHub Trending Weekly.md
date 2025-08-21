@@ -1,3 +1,4 @@
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup)

@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2025/08/15 [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 壹苇可航
-- 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+## 科技創業週報
+- 2025/08/21 [科技創業週報 #495：Sam Altman與Elon Musk對決：腦機界面成為下一場科技戰爭](https://blog.starrocket.io/posts/newsletter-2025-08-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/08/21 [学习周刊-总第225期-2025年第34周](https://wiki.eryajf.net/pages/2b8afa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/08/21 [LWN.net Weekly Edition for August 21, 2025](https://lwn.net/Articles/1033740/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/08/21 [FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More](https://itsfoss.com/newsletter/foss-weekly-25-34/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/08/20 [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/21 [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/20 [dtyq/magic](https://github.com/dtyq/magic) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/21 [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/08/19 [第146期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/19/第146期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -56,18 +65,6 @@
 
 ## This Week in GNOME
 - 2025/08/15 [#212 Happy Birthday!](https://thisweek.gnome.org/posts/2025/08/twig-212/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 科技創業週報
-- 2025/08/14 [科技創業週報 #494：七個原則助你穿越2025年AI創業的「死亡之谷」](https://blog.starrocket.io/posts/newsletter-2025-08-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/08/14 [学习周刊-总第224期-2025年第33周](https://wiki.eryajf.net/pages/7d1d90/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/08/14 [LWN.net Weekly Edition for August 14, 2025](https://lwn.net/Articles/1032862/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/08/14 [FOSS Weekly #25.33: Debian 13 Released, Torvalds vs RISC-V, Arch's New Tool, GNOME Perfection and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-33/) | [More](channels/FOSS%20Weekly.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
@@ -122,4 +119,7 @@
 
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
+
+## 艾迪蓝波
+- 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 

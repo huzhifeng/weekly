@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More](https://itsfoss.com/newsletter/foss-weekly-25-34/)
 - [FOSS Weekly #25.33: Debian 13 Released, Torvalds vs RISC-V, Arch's New Tool, GNOME Perfection and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-33/)
 - [FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-32/)
 - [FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More](https://itsfoss.com/newsletter/foss-weekly-25-31/)
