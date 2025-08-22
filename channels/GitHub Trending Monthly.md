@@ -1,3 +1,4 @@
+- [simstudioai/sim](https://github.com/simstudioai/sim)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi)
 - [dtyq/magic](https://github.com/dtyq/magic)
 - [roboflow/supervision](https://github.com/roboflow/supervision)

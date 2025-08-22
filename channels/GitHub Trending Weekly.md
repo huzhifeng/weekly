@@ -1,3 +1,5 @@
+- [MotiaDev/motia](https://github.com/MotiaDev/motia)
+- [microsoft/poml](https://github.com/microsoft/poml)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
