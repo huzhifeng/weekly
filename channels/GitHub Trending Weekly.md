@@ -1,3 +1,5 @@
+- [moeru-ai/airi](https://github.com/moeru-ai/airi)
+- [dtyq/magic](https://github.com/dtyq/magic)
 - [MotiaDev/motia](https://github.com/MotiaDev/motia)
 - [microsoft/poml](https://github.com/microsoft/poml)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor)
