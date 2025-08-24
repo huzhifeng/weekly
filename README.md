@@ -6,11 +6,23 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2025/08/25 [第235期 - 拍美术馆](https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/08/24 [猫鱼周刊 vol. 078 我的 Dev Portfolio](https://ameow.xyz/archives/weekly-078) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2025/08/24 [20250824的胡言乱语](https://www.bboy.app/2025/08/24/20250824%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/08/24 [9to5Linux Weekly Roundup: August 24th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-24th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
 ## GitHub Trending Weekly
-- 2025/08/23 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/24 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/23 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/24 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/08/22 [Web Review, Week 2025-34](https://ervin.ipsquad.net/blog/2025/08/22/web-review-week-2025-34/) | [More](channels/Web%20Review.md)
@@ -20,9 +32,6 @@
 
 ## 科技創業週報
 - 2025/08/21 [科技創業週報 #495：Sam Altman與Elon Musk對決：腦機界面成為下一場科技戰爭](https://blog.starrocket.io/posts/newsletter-2025-08-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/08/21 [学习周刊-总第225期-2025年第34周](https://wiki.eryajf.net/pages/2b8afa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## LWN.net Weekly Edition
 - 2025/08/21 [LWN.net Weekly Edition for August 21, 2025](https://lwn.net/Articles/1033740/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -36,17 +45,11 @@
 ## 一周杂记
 - 2025/08/19 [一周杂记 in Week 2 Aug 2025](http://kingsamchen.github.io/2025/08/19/weekly-2025-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## 潮流周刊
-- 2025/08/18 [第234期 - 有富士咯](https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/08/18 [稻草人周刊 Vol.42](https://geedea.pro/posts/weekly/42/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/08/18 [【CDT周报】第231期：因为制度先天不合理，所以强制才有问题](https://chinadigitaltimes.net/chinese/720459.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 胡言乱语
-- 2025/08/18 [20250818的胡言乱语](https://www.bboy.app/2025/08/18/20250818%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## AIGC Weekly
 - 2025/08/18 [AIGC Weekly #135](https://quaily.com/op7418/p/aigc-weekly-1umx2vz2) | [More](channels/AIGC%20Weekly.md)
@@ -57,14 +60,8 @@
 ## Ubuntu Weekly Newsletter
 - 2025/08/18 [Ubuntu Weekly Newsletter Issue 906](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-906/66460) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/08/17 [猫鱼周刊 vol. 077 Code For Fun](https://ameow.xyz/archives/weekly-077) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## zdyxry Weekly Issue
 - 2025/08/17 [Weekly Issue-《K-Pop 猎魔女团》](https://zdyxry.github.io/2025/08/17/Weekly-Issue-K-Pop-%E7%8C%8E%E9%AD%94%E5%A5%B3%E5%9B%A2/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/08/17 [9to5Linux Weekly Roundup: August 17th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-17th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 老胡的信息周刊
 - 2025/08/15 [08-11~08-16.老胡的周刊（第199期）.md](https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
