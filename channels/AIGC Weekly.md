@@ -1,3 +1,4 @@
+- [AIGC Weekly #136 AI 游戏爆发的前夜？](https://quaily.com/op7418/p/aigc-weekly-ai-game-explosion-eve)
 - [AIGC Weekly #135](https://quaily.com/op7418/p/aigc-weekly-1umx2vz2)
 - [AIGC Weekly #134 御三家协同发力](https://quaily.com/op7418/p/aigc-weekly-ckr1wldj)
 - [AIGC Weekly #133](https://quaily.com/op7418/p/aigc-weekly-alpha)
