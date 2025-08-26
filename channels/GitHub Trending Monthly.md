@@ -1,3 +1,4 @@
+- [plait-board/drawnix](https://github.com/plait-board/drawnix)
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
 - [simstudioai/sim](https://github.com/simstudioai/sim)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi)

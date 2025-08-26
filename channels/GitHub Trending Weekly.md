@@ -1,3 +1,4 @@
+- [bitwarden/clients](https://github.com/bitwarden/clients)
 - [plait-board/drawnix](https://github.com/plait-board/drawnix)
 - [emcie-co/parlant](https://github.com/emcie-co/parlant)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi)
