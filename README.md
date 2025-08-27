@@ -6,11 +6,14 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 偷懒爱好者周刊
+- 2025/08/27 [第147期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/27/第147期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/08/26 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/27 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/26 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/27 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/08/25 [第235期 - 拍美术馆](https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -21,14 +24,14 @@
 ## CDT周报
 - 2025/08/25 [【CDT周报】第232期：“灭蚊运动”究竟是灭蚊，还是灭人？](https://chinadigitaltimes.net/chinese/720705.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
+## 一周杂记
+- 2025/08/25 [一周杂记 in Week 3 Aug 2025](http://kingsamchen.github.io/2025/08/25/weekly-2025-aug-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
 ## AIGC Weekly
 - 2025/08/25 [AIGC Weekly #136 AI 游戏爆发的前夜？](https://quaily.com/op7418/p/aigc-weekly-ai-game-explosion-eve) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2025/08/25 [DistroWatch Weekly, Issue 1136](https://distrowatch.com/weekly.php?issue=20250825) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/08/25 [Ubuntu Weekly Newsletter Issue 907](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-907/66932) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/08/24 [猫鱼周刊 vol. 078 我的 Dev Portfolio](https://ameow.xyz/archives/weekly-078) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -60,20 +63,14 @@
 ## FOSS Weekly
 - 2025/08/21 [FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More](https://itsfoss.com/newsletter/foss-weekly-25-34/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/08/19 [第146期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/19/第146期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2025/08/19 [一周杂记 in Week 2 Aug 2025](http://kingsamchen.github.io/2025/08/19/weekly-2025-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+## 虹线周刊
+- 2025/08/18 [2025#33 远离自然](https://weekly.1q43.blog/article/252ca795c95680e195eef8211c3ed9a9) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/08/15 [08-11~08-16.老胡的周刊（第199期）.md](https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
-
-## 虹线周刊
-- 2025/08/10 [2025#32 同担拒否](https://weekly.1q43.blog/article/24bca795c956802a911efc7173a84d72) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
