@@ -6,14 +6,29 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 偷懒爱好者周刊
-- 2025/08/27 [第147期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/27/第147期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/08/28 [科技創業週報 #496：AI 伴侶掀起「寂寞商機」：AI 女友為何營收超越聊天機器人？](https://blog.starrocket.io/posts/newsletter-2025-08-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## HelloGitHub
+- 2025/08/28 [HelloGitHub 第 113 期](https://hellogithub.com/periodical/volume/113) | [More](channels/HelloGitHub.md)
+
+## 二丫讲梵学习周刊
+- 2025/08/28 [学习周刊-总第226期-2025年第35周](https://wiki.eryajf.net/pages/003525/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/08/28 [LWN.net Weekly Edition for August 28, 2025](https://lwn.net/Articles/1034604/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/08/28 [FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-35/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/08/27 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/28 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/27 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/28 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/08/27 [第147期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/27/第147期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/08/25 [第235期 - 拍美术馆](https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,18 +66,6 @@
 ## This Week in GNOME
 - 2025/08/22 [#213 Fixed Rules](https://thisweek.gnome.org/posts/2025/08/twig-213/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## 科技創業週報
-- 2025/08/21 [科技創業週報 #495：Sam Altman與Elon Musk對決：腦機界面成為下一場科技戰爭](https://blog.starrocket.io/posts/newsletter-2025-08-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/08/21 [学习周刊-总第225期-2025年第34周](https://wiki.eryajf.net/pages/2b8afa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/08/21 [LWN.net Weekly Edition for August 21, 2025](https://lwn.net/Articles/1033740/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/08/21 [FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More](https://itsfoss.com/newsletter/foss-weekly-25-34/) | [More](channels/FOSS%20Weekly.md)
-
 ## 虹线周刊
 - 2025/08/18 [2025#33 远离自然](https://weekly.1q43.blog/article/252ca795c95680e195eef8211c3ed9a9) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
@@ -72,11 +75,11 @@
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
 
+## Ubuntu Weekly Newsletter
+- 2025/08/11 [Ubuntu Weekly Newsletter Issue 905](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-905/65944) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## HelloGitHub
-- 2025/07/28 [HelloGitHub 第 112 期](https://hellogithub.com/periodical/volume/112) | [More](channels/HelloGitHub.md)
 
 ## Raye's Journey
 - 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)

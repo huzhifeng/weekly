@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-35/)
 - [FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More](https://itsfoss.com/newsletter/foss-weekly-25-34/)
 - [FOSS Weekly #25.33: Debian 13 Released, Torvalds vs RISC-V, Arch's New Tool, GNOME Perfection and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-33/)
 - [FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-32/)

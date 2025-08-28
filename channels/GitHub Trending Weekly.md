@@ -1,3 +1,4 @@
+- [puckeditor/puck](https://github.com/puckeditor/puck)
 - [Budibase/budibase](https://github.com/Budibase/budibase)
 - [mfts/papermark](https://github.com/mfts/papermark)
 - [bitwarden/clients](https://github.com/bitwarden/clients)
