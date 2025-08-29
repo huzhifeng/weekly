@@ -1,3 +1,5 @@
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
 - [puckeditor/puck](https://github.com/puckeditor/puck)
 - [Budibase/budibase](https://github.com/Budibase/budibase)
 - [mfts/papermark](https://github.com/mfts/papermark)

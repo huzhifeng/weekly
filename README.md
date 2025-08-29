@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/08/22 [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/08/29 [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/08/29 [Web Review, Week 2025-35](https://ervin.ipsquad.net/blog/2025/08/29/web-review-week-2025-35/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/08/29 [#214 Managing Tasks](https://thisweek.gnome.org/posts/2025/08/twig-214/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/08/29 [moeru-ai/airi](https://github.com/moeru-ai/airi) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/08/29 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/08/28 [科技創業週報 #496：AI 伴侶掀起「寂寞商機」：AI 女友為何營收超越聊天機器人？](https://blog.starrocket.io/posts/newsletter-2025-08-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -20,12 +32,6 @@
 
 ## FOSS Weekly
 - 2025/08/28 [FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-35/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/08/28 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/08/28 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/08/27 [第147期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/27/第147期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -59,12 +65,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2025/08/24 [9to5Linux Weekly Roundup: August 24th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-24th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## Web Review
-- 2025/08/22 [Web Review, Week 2025-34](https://ervin.ipsquad.net/blog/2025/08/22/web-review-week-2025-34/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/08/22 [#213 Fixed Rules](https://thisweek.gnome.org/posts/2025/08/twig-213/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 虹线周刊
 - 2025/08/18 [2025#33 远离自然](https://weekly.1q43.blog/article/252ca795c95680e195eef8211c3ed9a9) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
