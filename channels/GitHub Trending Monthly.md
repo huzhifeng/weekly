@@ -1,3 +1,4 @@
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [plait-board/drawnix](https://github.com/plait-board/drawnix)
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
 - [simstudioai/sim](https://github.com/simstudioai/sim)
