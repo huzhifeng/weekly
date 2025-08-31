@@ -6,14 +6,20 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## Ubuntu Weekly Newsletter
-- 2025/08/30 [Ubuntu Weekly Newsletter Issue 907](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-907/66322) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+## 潮流周刊
+- 2025/09/01 [第236期 - 蓝色天空](https://weekly.tw93.fun/posts/236-%E8%93%9D%E8%89%B2%E5%A4%A9%E7%A9%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## GitHub Trending Weekly
-- 2025/08/30 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/08/31 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/08/30 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/08/31 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/08/30 [Ubuntu Weekly Newsletter Issue 907](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-907/66322) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Web Review
 - 2025/08/29 [Web Review, Week 2025-35](https://ervin.ipsquad.net/blog/2025/08/29/web-review-week-2025-35/) | [More](channels/Web%20Review.md)
@@ -38,9 +44,6 @@
 
 ## 偷懒爱好者周刊
 - 2025/08/27 [第147期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/27/第147期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 潮流周刊
-- 2025/08/25 [第235期 - 拍美术馆](https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/08/25 [稻草人周刊 Vol.43](https://geedea.pro/posts/weekly/43/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -83,9 +86,6 @@
 
 ## Raye's Journey
 - 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
-
-## 视野修炼
-- 2025/06/22 [视野修炼第124期 | 终端艺术字](https://sugarat.top/weekly/2025-06-21.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

@@ -1,3 +1,4 @@
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
 - [puckeditor/puck](https://github.com/puckeditor/puck)
