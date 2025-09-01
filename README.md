@@ -9,14 +9,38 @@
 ## 潮流周刊
 - 2025/09/01 [第236期 - 蓝色天空](https://weekly.tw93.fun/posts/236-%E8%93%9D%E8%89%B2%E5%A4%A9%E7%A9%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2025/09/01 [稻草人周刊 Vol.44](https://geedea.pro/posts/weekly/44/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/09/01 [【CDT周报】第233期：不要谎言要真相，不要奴役要自由](https://chinadigitaltimes.net/chinese/720855.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/09/01 [一周杂记 in Week 4 Aug 2025](http://kingsamchen.github.io/2025/09/01/weekly-2025-aug-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/09/01 [AIGC Weekly #137 大香蕉周](https://quaily.com/op7418/p/aigc-weekly-ne6aek7p) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/09/01 [DistroWatch Weekly, Issue 1137](https://distrowatch.com/weekly.php?issue=20250901) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/09/01 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/01 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 视野修炼
 - 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## GitHub Trending Weekly
-- 2025/08/31 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+## zdyxry Weekly Issue
+- 2025/08/31 [Weekly Issue-《只有我一个人觉得特好笑吗？》](https://zdyxry.github.io/2025/08/31/Weekly-Issue-%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%A7%89%E5%BE%97%E7%89%B9%E5%A5%BD%E7%AC%91%E5%90%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## GitHub Trending Monthly
-- 2025/08/31 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Monthly.md)
+## 9to5Linux Weekly Roundup
+- 2025/08/31 [9to5Linux Weekly Roundup: August 31st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-31st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## 老胡的信息周刊
+- 2025/08/30 [08-17~08-31.老胡的周刊（第200期）.md](https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/08/30 [Ubuntu Weekly Newsletter Issue 907](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-907/66322) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -45,38 +69,14 @@
 ## 偷懒爱好者周刊
 - 2025/08/27 [第147期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/27/第147期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/08/25 [稻草人周刊 Vol.43](https://geedea.pro/posts/weekly/43/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/08/25 [【CDT周报】第232期：“灭蚊运动”究竟是灭蚊，还是灭人？](https://chinadigitaltimes.net/chinese/720705.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/08/25 [一周杂记 in Week 3 Aug 2025](http://kingsamchen.github.io/2025/08/25/weekly-2025-aug-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2025/08/25 [AIGC Weekly #136 AI 游戏爆发的前夜？](https://quaily.com/op7418/p/aigc-weekly-ai-game-explosion-eve) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/08/25 [DistroWatch Weekly, Issue 1136](https://distrowatch.com/weekly.php?issue=20250825) | [More](channels/DistroWatch%20Weekly.md)
+## 虹线周刊
+- 2025/08/25 [2025#34 播客真的火吗？](https://weekly.1q43.blog/article/257ca795c95680d893b8fab6e0f09b97) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 猫鱼周刊
 - 2025/08/24 [猫鱼周刊 vol. 078 我的 Dev Portfolio](https://ameow.xyz/archives/weekly-078) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/08/24 [20250824的胡言乱语](https://www.bboy.app/2025/08/24/20250824%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## zdyxry Weekly Issue
-- 2025/08/24 [Weekly Issue-腰椎知识](https://zdyxry.github.io/2025/08/24/Weekly-Issue-%E8%85%B0%E6%A4%8E%E7%9F%A5%E8%AF%86/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/08/24 [9to5Linux Weekly Roundup: August 24th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-24th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## 虹线周刊
-- 2025/08/18 [2025#33 远离自然](https://weekly.1q43.blog/article/252ca795c95680e195eef8211c3ed9a9) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 老胡的信息周刊
-- 2025/08/15 [08-11~08-16.老胡的周刊（第199期）.md](https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)

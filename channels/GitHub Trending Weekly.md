@@ -1,3 +1,4 @@
+- [codexu/note-gen](https://github.com/codexu/note-gen)
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
