@@ -6,14 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 潮流周刊
-- 2025/09/01 [第236期 - 蓝色天空](https://weekly.tw93.fun/posts/236-%E8%93%9D%E8%89%B2%E5%A4%A9%E7%A9%BA/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+## GitHub Trending Weekly
+- 2025/09/02 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/02 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 稻草人周刊
 - 2025/09/01 [稻草人周刊 Vol.44](https://geedea.pro/posts/weekly/44/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
-- 2025/09/01 [【CDT周报】第233期：不要谎言要真相，不要奴役要自由](https://chinadigitaltimes.net/chinese/720855.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+- 2025/09/01 [【CDT周报】第234期：不要谎言要真相，不要奴役要自由](https://chinadigitaltimes.net/chinese/720855.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 一周杂记
 - 2025/09/01 [一周杂记 in Week 4 Aug 2025](http://kingsamchen.github.io/2025/09/01/weekly-2025-aug-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -24,11 +27,8 @@
 ## DistroWatch Weekly
 - 2025/09/01 [DistroWatch Weekly, Issue 1137](https://distrowatch.com/weekly.php?issue=20250901) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/09/01 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/01 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/09/01 [Ubuntu Weekly Newsletter Issue 908](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-908/66467) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 视野修炼
 - 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -38,12 +38,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2025/08/31 [9to5Linux Weekly Roundup: August 31st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-31st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## 老胡的信息周刊
-- 2025/08/30 [08-17~08-31.老胡的周刊（第200期）.md](https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/08/30 [Ubuntu Weekly Newsletter Issue 907](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-907/66322) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Web Review
 - 2025/08/29 [Web Review, Week 2025-35](https://ervin.ipsquad.net/blog/2025/08/29/web-review-week-2025-35/) | [More](channels/Web%20Review.md)
@@ -119,7 +113,4 @@
 
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 艾迪蓝波
-- 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
 
