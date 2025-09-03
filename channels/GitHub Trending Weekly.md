@@ -1,3 +1,5 @@
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
+- [laramies/theHarvester](https://github.com/laramies/theHarvester)
 - [codexu/note-gen](https://github.com/codexu/note-gen)
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
