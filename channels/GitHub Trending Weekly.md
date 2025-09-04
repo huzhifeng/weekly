@@ -1,3 +1,4 @@
+- [JetBrains/koog](https://github.com/JetBrains/koog)
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
 - [laramies/theHarvester](https://github.com/laramies/theHarvester)
 - [codexu/note-gen](https://github.com/codexu/note-gen)
