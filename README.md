@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/08/29 [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/09/05 [科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/09/05 [Web Review, Week 2025-36](https://ervin.ipsquad.net/blog/2025/09/05/web-review-week-2025-36/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/09/05 [#215 Turn On](https://thisweek.gnome.org/posts/2025/09/twig-215/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/09/05 [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/05 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/09/04 [科技創業週報 #497：AI 不會奪走工作，揭開人機協作的新時代職場模式](https://blog.starrocket.io/posts/newsletter-2025-09-03/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/09/04 [FOSS Weekly #25.36: Ubuntu 25.10 Features, Top Command, Firefox Survives, Sudo Tips and More](https://itsfoss.com/newsletter/foss-weekly-25-36/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/09/04 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/04 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/09/03 [第148期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/03/第148期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -63,20 +69,11 @@
 ## 老胡的信息周刊
 - 2025/08/30 [08-17~08-31.老胡的周刊（第200期）.md](https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2025/08/29 [Web Review, Week 2025-35](https://ervin.ipsquad.net/blog/2025/08/29/web-review-week-2025-35/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/08/29 [#214 Managing Tasks](https://thisweek.gnome.org/posts/2025/08/twig-214/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## HelloGitHub
 - 2025/08/28 [HelloGitHub 第 113 期](https://hellogithub.com/periodical/volume/113) | [More](channels/HelloGitHub.md)
 
 ## 虹线周刊
 - 2025/08/25 [2025#34 播客真的火吗？](https://weekly.1q43.blog/article/257ca795c95680d893b8fab6e0f09b97) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 猫鱼周刊
-- 2025/08/24 [猫鱼周刊 vol. 078 我的 Dev Portfolio](https://ameow.xyz/archives/weekly-078) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
