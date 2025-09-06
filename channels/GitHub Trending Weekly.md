@@ -1,3 +1,4 @@
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
 - [JetBrains/koog](https://github.com/JetBrains/koog)
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
 - [laramies/theHarvester](https://github.com/laramies/theHarvester)

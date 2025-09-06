@@ -6,17 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## GitHub Trending Weekly
+- 2025/09/06 [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/06 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/09/05 [Web Review, Week 2025-36](https://ervin.ipsquad.net/blog/2025/09/05/web-review-week-2025-36/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/09/05 [#215 Turn On](https://thisweek.gnome.org/posts/2025/09/twig-215/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## GitHub Trending Weekly
-- 2025/09/05 [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/05 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/09/04 [科技創業週報 #497：AI 不會奪走工作，揭開人機協作的新時代職場模式](https://blog.starrocket.io/posts/newsletter-2025-09-03/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -62,9 +62,6 @@
 
 ## zdyxry Weekly Issue
 - 2025/08/31 [Weekly Issue-《只有我一个人觉得特好笑吗？》](https://zdyxry.github.io/2025/08/31/Weekly-Issue-%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%A7%89%E5%BE%97%E7%89%B9%E5%A5%BD%E7%AC%91%E5%90%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/08/31 [9to5Linux Weekly Roundup: August 31st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-august-31st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 老胡的信息周刊
 - 2025/08/30 [08-17~08-31.老胡的周刊（第200期）.md](https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
