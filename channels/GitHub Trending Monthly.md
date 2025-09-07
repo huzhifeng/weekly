@@ -1,3 +1,5 @@
+- [openai/codex](https://github.com/openai/codex)
+- [google/googletest](https://github.com/google/googletest)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [plait-board/drawnix](https://github.com/plait-board/drawnix)
