@@ -9,14 +9,35 @@
 ## 潮流周刊
 - 2025/09/08 [第237期 - 西湖落日](https://weekly.tw93.fun/posts/237-%E8%A5%BF%E6%B9%96%E8%90%BD%E6%97%A5/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/09/08 [【CDT周报】第235期：有人将来可以活到150岁，你能吗？](https://chinadigitaltimes.net/chinese/721043.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/09/08 [一周杂记 in Week 1 Sep 2025](http://kingsamchen.github.io/2025/09/08/weekly-2025-sep-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/09/08 [AIGC Weekly #138 休战期](https://quaily.com/op7418/p/aigc-weekly-rest-period) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/09/08 [DistroWatch Weekly, Issue 1138](https://distrowatch.com/weekly.php?issue=20250908) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/09/08 [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/08 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/09/07 [猫鱼周刊 vol. 079 工作中应该摆烂吗？](https://ameow.xyz/archives/weekly-079) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2025/09/07 [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 稻草人周刊
+- 2025/09/07 [稻草人周刊 Vol.45](https://geedea.pro/posts/weekly/45/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Monthly
-- 2025/09/07 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+## zdyxry Weekly Issue
+- 2025/09/07 [Weekly Issue-《单口喜剧进阶指南》](https://zdyxry.github.io/2025/09/07/Weekly-Issue-%E5%8D%95%E5%8F%A3%E5%96%9C%E5%89%A7%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/09/07 [9to5Linux Weekly Roundup: September 7th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-7th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Web Review
 - 2025/09/05 [Web Review, Week 2025-36](https://ervin.ipsquad.net/blog/2025/09/05/web-review-week-2025-36/) | [More](channels/Web%20Review.md)
@@ -42,20 +63,8 @@
 ## 胡言乱语
 - 2025/09/03 [20250903的胡言乱语](https://www.bboy.app/2025/09/03/20250903%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 稻草人周刊
-- 2025/09/01 [稻草人周刊 Vol.44](https://geedea.pro/posts/weekly/44/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/09/01 [【CDT周报】第234期：不要谎言要真相，不要奴役要自由](https://chinadigitaltimes.net/chinese/720855.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/09/01 [一周杂记 in Week 4 Aug 2025](http://kingsamchen.github.io/2025/09/01/weekly-2025-aug-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2025/09/01 [AIGC Weekly #137 大香蕉周](https://quaily.com/op7418/p/aigc-weekly-ne6aek7p) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/09/01 [DistroWatch Weekly, Issue 1137](https://distrowatch.com/weekly.php?issue=20250901) | [More](channels/DistroWatch%20Weekly.md)
+## 虹线周刊
+- 2025/09/01 [2025#35 AI吃拼好饭吗？](https://weekly.1q43.blog/article/25fca795c956807eb1ccee6dbe210309) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/09/01 [Ubuntu Weekly Newsletter Issue 908](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-908/66467) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -63,17 +72,11 @@
 ## 视野修炼
 - 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## zdyxry Weekly Issue
-- 2025/08/31 [Weekly Issue-《只有我一个人觉得特好笑吗？》](https://zdyxry.github.io/2025/08/31/Weekly-Issue-%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%A7%89%E5%BE%97%E7%89%B9%E5%A5%BD%E7%AC%91%E5%90%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## 老胡的信息周刊
 - 2025/08/30 [08-17~08-31.老胡的周刊（第200期）.md](https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2025/08/28 [HelloGitHub 第 113 期](https://hellogithub.com/periodical/volume/113) | [More](channels/HelloGitHub.md)
-
-## 虹线周刊
-- 2025/08/25 [2025#34 播客真的火吗？](https://weekly.1q43.blog/article/257ca795c95680d893b8fab6e0f09b97) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)

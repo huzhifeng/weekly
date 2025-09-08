@@ -1,3 +1,4 @@
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
 - [JetBrains/koog](https://github.com/JetBrains/koog)
