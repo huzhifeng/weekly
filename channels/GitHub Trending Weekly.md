@@ -1,3 +1,4 @@
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)

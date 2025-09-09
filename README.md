@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 胡言乱语
+- 2025/09/09 [20250909的胡言乱语](https://www.bboy.app/2025/09/09/20250909%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2025/09/09 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/09 [coleam00/Archon](https://github.com/coleam00/Archon) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/09/08 [第237期 - 西湖落日](https://weekly.tw93.fun/posts/237-%E8%A5%BF%E6%B9%96%E8%90%BD%E6%97%A5/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -21,11 +30,8 @@
 ## DistroWatch Weekly
 - 2025/09/08 [DistroWatch Weekly, Issue 1138](https://distrowatch.com/weekly.php?issue=20250908) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/09/08 [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/08 [Canner/WrenAI](https://github.com/Canner/WrenAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/09/08 [Ubuntu Weekly Newsletter Issue 909](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-909/67029) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/09/07 [猫鱼周刊 vol. 079 工作中应该摆烂吗？](https://ameow.xyz/archives/weekly-079) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -60,14 +66,8 @@
 ## 偷懒爱好者周刊
 - 2025/09/03 [第148期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/03/第148期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 胡言乱语
-- 2025/09/03 [20250903的胡言乱语](https://www.bboy.app/2025/09/03/20250903%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## 虹线周刊
 - 2025/09/01 [2025#35 AI吃拼好饭吗？](https://weekly.1q43.blog/article/25fca795c956807eb1ccee6dbe210309) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/09/01 [Ubuntu Weekly Newsletter Issue 908](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-908/66467) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 视野修炼
 - 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
