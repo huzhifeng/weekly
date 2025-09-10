@@ -1,3 +1,5 @@
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+- [LukeGus/Termix](https://github.com/LukeGus/Termix)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)

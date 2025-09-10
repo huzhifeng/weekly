@@ -6,14 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
-## 胡言乱语
-- 2025/09/09 [20250909的胡言乱语](https://www.bboy.app/2025/09/09/20250909%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## GitHub Trending Weekly
-- 2025/09/09 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/09/10 [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/09 [coleam00/Archon](https://github.com/coleam00/Archon) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/09/10 [coleam00/Archon](https://github.com/coleam00/Archon) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/09/09 [第149期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/09/第149期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2025/09/09 [20250909的胡言乱语](https://www.bboy.app/2025/09/09/20250909%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2025/09/08 [第237期 - 西湖落日](https://weekly.tw93.fun/posts/237-%E8%A5%BF%E6%B9%96%E8%90%BD%E6%97%A5/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -62,9 +65,6 @@
 
 ## FOSS Weekly
 - 2025/09/04 [FOSS Weekly #25.36: Ubuntu 25.10 Features, Top Command, Firefox Survives, Sudo Tips and More](https://itsfoss.com/newsletter/foss-weekly-25-36/) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2025/09/03 [第148期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/03/第148期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 虹线周刊
 - 2025/09/01 [2025#35 AI吃拼好饭吗？](https://weekly.1q43.blog/article/25fca795c956807eb1ccee6dbe210309) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
