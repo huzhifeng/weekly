@@ -130,12 +130,6 @@
 			"filter": ["Hacker News Monthly"]
 		},
 		{
-			"channel": "前端食堂技术周刊",
-			"portal": "https://hungryturbo.zhubai.love/",
-			"portal2": "https://github.com/Geekhyt/weekly",
-			"url": "https://rsshub.app/zhubai/hungryturbo"
-		},
-		{
 			"channel": "十五周刊",
 			"portal": "https://haydenhayden.com/weekly",
 			"url": "https://haydenhayden.com/feed.xml",
