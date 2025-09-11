@@ -6,11 +6,23 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 科技創業週報
+- 2025/09/11 [科技創業週報 #498：借鏡迪士尼經驗：設立「AI協作長」，讓工具成為企業核心能力](https://blog.starrocket.io/posts/newsletter-2025-09-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/09/11 [学习周刊-总第228期-2025年第37周](https://wiki.eryajf.net/pages/d0dd08/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/09/11 [LWN.net Weekly Edition for September 11, 2025](https://lwn.net/Articles/1036683/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/09/11 [FOSS Weekly #25.37: Mint 22.2 Released, Official KDE Distro, Kazeta Linux for 90s Gaming, Ubuntu 25.10's New Terminal and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-37/) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2025/09/10 [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/09/11 [11cafe/jaaz](https://github.com/11cafe/jaaz) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/10 [coleam00/Archon](https://github.com/coleam00/Archon) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/09/11 [winapps-org/winapps](https://github.com/winapps-org/winapps) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/09/09 [第149期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/09/第149期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,29 +54,17 @@
 ## 稻草人周刊
 - 2025/09/07 [稻草人周刊 Vol.45](https://geedea.pro/posts/weekly/45/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
+## 拾月通讯
+- 2025/09/07 [2025W35：彩虹](https://www.skyue.com/25090807.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
 ## zdyxry Weekly Issue
 - 2025/09/07 [Weekly Issue-《单口喜剧进阶指南》](https://zdyxry.github.io/2025/09/07/Weekly-Issue-%E5%8D%95%E5%8F%A3%E5%96%9C%E5%89%A7%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/09/07 [9to5Linux Weekly Roundup: September 7th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-7th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Web Review
 - 2025/09/05 [Web Review, Week 2025-36](https://ervin.ipsquad.net/blog/2025/09/05/web-review-week-2025-36/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2025/09/05 [#215 Turn On](https://thisweek.gnome.org/posts/2025/09/twig-215/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 科技創業週報
-- 2025/09/04 [科技創業週報 #497：AI 不會奪走工作，揭開人機協作的新時代職場模式](https://blog.starrocket.io/posts/newsletter-2025-09-03/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/09/04 [学习周刊-总第227期-2025年第36周](https://wiki.eryajf.net/pages/e9f370/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/09/04 [LWN.net Weekly Edition for September 4, 2025](https://lwn.net/Articles/1035384/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/09/04 [FOSS Weekly #25.36: Ubuntu 25.10 Features, Top Command, Firefox Survives, Sudo Tips and More](https://itsfoss.com/newsletter/foss-weekly-25-36/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/09/01 [2025#35 AI吃拼好饭吗？](https://weekly.1q43.blog/article/25fca795c956807eb1ccee6dbe210309) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -75,6 +75,9 @@
 ## 老胡的信息周刊
 - 2025/08/30 [08-17~08-31.老胡的周刊（第200期）.md](https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
+## 大橘和朋友们的周刊
+- 2025/08/30 [第036期 - 风语山巅](https://rrorangeandfriends.de/posts/2025/036) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
 ## HelloGitHub
 - 2025/08/28 [HelloGitHub 第 113 期](https://hellogithub.com/periodical/volume/113) | [More](channels/HelloGitHub.md)
 
@@ -84,14 +87,17 @@
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
+## Taxodium
+- 2025/08/03 [Zine#41](https://taxodium.ink/41.html) | [More](channels/Taxodium.md)
+
+## 棱镜通讯
+- 2025/07/06 [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
 ## Raye's Journey
 - 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
-
-## 棱镜通讯
-- 2025/06/02 [棱镜通讯 No.114 海蒂·拉玛（Hedy Lamarr）](https://wangyurui.com/posts/leng-jing-tong-xun-no-114-hai-di-la-ma-hedy-lama-b4825683) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
@@ -102,20 +108,11 @@
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
 
-## 奇趣周刊
-- 2025/02/01 [奇趣周刊 - 第 82 期](https://zishu.me/blog/weekly-82.html/) | [More](channels/%E5%A5%87%E8%B6%A3%E5%91%A8%E5%88%8A.md)
-
-## 涛然自得周刊
-- 2025/01/13 [我的2024难忘时刻](http://heyitao.com/post/my-2024) | [More](channels/%E6%B6%9B%E7%84%B6%E8%87%AA%E5%BE%97%E5%91%A8%E5%88%8A.md)
-
 ## 十五周刊
 - 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
 
 ## GeekPlux Letters
 - 2024/11/30 [本周刊暂停更新](https://letters.geekplux.com/pause/) | [More](channels/GeekPlux%20Letters.md)
-
-## 广场周刊
-- 2024/11/23 [广场周刊（回顾篇）：那么平常](https://immmmm.com/weekly-review-2024/) | [More](channels/%E5%B9%BF%E5%9C%BA%E5%91%A8%E5%88%8A.md)
 
 ## 独立开发变现周刊
 - 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,4 @@
+- [11cafe/jaaz](https://github.com/11cafe/jaaz)
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 - [LukeGus/Termix](https://github.com/LukeGus/Termix)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)

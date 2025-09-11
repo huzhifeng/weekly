@@ -1,3 +1,4 @@
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
 - [openai/codex](https://github.com/openai/codex)
 - [google/googletest](https://github.com/google/googletest)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps)
