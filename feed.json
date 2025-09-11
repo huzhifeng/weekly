@@ -98,7 +98,7 @@
 			"channel": "Taxodium",
 			"portal": "https://taxodium.ink/",
 			"url": "https://taxodium.ink/rss.xml",
-			"filter": ["Weekly"]
+			"filter": ["Weekly", "Zine#"]
 		},
 		{
 			"channel": "CyberClip",
