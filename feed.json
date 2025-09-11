@@ -8,12 +8,6 @@
 			"filter": ["科技爱好者周刊"]
 		},
 		{
-			"channel": "1Link.Fun 科技周刊",
-			"portal": "https://1link.fun/",
-			"url": "https://1link.fun/index.xml",
-			"filter": ["科技周刊", "每周分享"]
-		},
-		{
 			"channel": "科技創業週報",
 			"portal": "https://blog.starrocket.io/star-rocket-newsletter/",
 			"url": "https://blog.starrocket.io/feed/",
