@@ -84,7 +84,7 @@
 			"channel": "棱镜通讯",
 			"portal": "https://wangyurui.com/tags/Newsletter/",
 			"url": "https://wangyurui.com/feed.xml",
-			"filter": ["棱镜通讯"]
+			"filter": ["棱镜通讯", "隐说"]
 		},
 		{
 			"channel": "壹苇可航",
