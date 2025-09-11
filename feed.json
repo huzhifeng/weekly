@@ -80,9 +80,8 @@
 		},
 		{
 			"channel": "拾月通讯",
-			"portal": "https://www.skyue.com/category/newsletter/",
-			"url": "https://www.skyue.com/feed/",
-			"filter": ["拾月通讯", "拾月周刊", "Weekly Pocket"]
+			"portal": "https://www.skyue.com/category/weekly/",
+			"url": "https://www.skyue.com/feed/category/weekly/"
 		},
 		{
 			"channel": "棱镜通讯",
