@@ -62,7 +62,8 @@
 		{
 			"channel": "奇趣周刊",
 			"portal": "https://zishu.me/categories/weekly/",
-			"url": "https://zishu.me/categories/weekly/index.xml"
+			"url": "https://zishu.me/categories/weekly/index.xml",
+			"enable": 0
 		},
 		{
 			"channel": "稻草人周刊",
