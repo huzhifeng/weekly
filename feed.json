@@ -32,7 +32,8 @@
 		{
 			"channel": "广场周刊",
 			"portal": "https://immmmm.com/posts/weekly/",
-			"url": "https://immmmm.com/posts/weekly/index.xml"
+			"url": "https://immmmm.com/posts/weekly/index.xml",
+			"enable": 0
 		},
 		{
 			"channel": "潮流周刊",
