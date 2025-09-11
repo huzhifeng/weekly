@@ -130,11 +130,6 @@
 			"filter": ["Hacker News Monthly"]
 		},
 		{
-			"channel": "MDH 前端周刊",
-			"portal": "https://github.com/sorrycc/weekly",
-			"url": "https://mdhweekly.com/rss.xml"
-		},
-		{
 			"channel": "前端食堂技术周刊",
 			"portal": "https://hungryturbo.zhubai.love/",
 			"portal2": "https://github.com/Geekhyt/weekly",
