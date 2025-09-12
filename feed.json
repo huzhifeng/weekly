@@ -81,6 +81,11 @@
 			"url": "https://www.skyue.com/feed/category/weekly/"
 		},
 		{
+			"channel": "更好生活",
+			"portal": "https://quaily.com/jiayifun",
+			"url": "https://quaily.com/jiayifun/feed/atom"
+		},
+		{
 			"channel": "我脑袋里的怪东西",
 			"portal": "https://quaily.com/somethinginmybrain",
 			"url": "https://quaily.com/somethinginmybrain/feed/atom"
