@@ -1,3 +1,4 @@
+- [basecamp/omarchy](https://github.com/basecamp/omarchy)
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
 - [openai/codex](https://github.com/openai/codex)
 - [google/googletest](https://github.com/google/googletest)

@@ -1,3 +1,5 @@
+- [vercel/examples](https://github.com/vercel/examples)
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft)
 - [11cafe/jaaz](https://github.com/11cafe/jaaz)
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 - [LukeGus/Termix](https://github.com/LukeGus/Termix)

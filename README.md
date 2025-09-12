@@ -1,10 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/09/05 [科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/09/12 [科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+
+## Web Review
+- 2025/09/12 [Web Review, Week 2025-37](https://ervin.ipsquad.net/blog/2025/09/12/web-review-week-2025-37/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/09/12 [#216 Growing Community](https://thisweek.gnome.org/posts/2025/09/twig-216/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2025/09/12 [11cafe/jaaz](https://github.com/11cafe/jaaz) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/12 [coleam00/Archon](https://github.com/coleam00/Archon) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/09/11 [科技創業週報 #498：借鏡迪士尼經驗：設立「AI協作長」，讓工具成為企業核心能力](https://blog.starrocket.io/posts/newsletter-2025-09-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -18,11 +30,8 @@
 ## FOSS Weekly
 - 2025/09/11 [FOSS Weekly #25.37: Mint 22.2 Released, Official KDE Distro, Kazeta Linux for 90s Gaming, Ubuntu 25.10's New Terminal and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-37/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/09/11 [11cafe/jaaz](https://github.com/11cafe/jaaz) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/11 [winapps-org/winapps](https://github.com/winapps-org/winapps) | [More](channels/GitHub%20Trending%20Monthly.md)
+## 有个问题
+- 2025/09/09 [什么是解决问题的能力？｜人间松弛指南](https://newsletter.emmmme.com/p/what-is-problem-solving-ability-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 偷懒爱好者周刊
 - 2025/09/09 [第149期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/09/第149期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -35,6 +44,9 @@
 
 ## CDT周报
 - 2025/09/08 [【CDT周报】第235期：有人将来可以活到150岁，你能吗？](https://chinadigitaltimes.net/chinese/721043.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 更好生活
+- 2025/09/08 [050：我们既渺小又重要](https://quaily.com/jiayifun/p/we-are-both-small-and-important) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## 一周杂记
 - 2025/09/08 [一周杂记 in Week 1 Sep 2025](http://kingsamchen.github.io/2025/09/08/weekly-2025-sep-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -57,17 +69,17 @@
 ## 拾月通讯
 - 2025/09/07 [2025W35：彩虹](https://www.skyue.com/25090807.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
+## 我脑袋里的怪东西
+- 2025/09/07 [我脑袋里的怪东西 37 - 液体内容，AI 时代的一种出路](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-liquid-content-ai-era-way) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
+
 ## zdyxry Weekly Issue
 - 2025/09/07 [Weekly Issue-《单口喜剧进阶指南》](https://zdyxry.github.io/2025/09/07/Weekly-Issue-%E5%8D%95%E5%8F%A3%E5%96%9C%E5%89%A7%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## Web Review
-- 2025/09/05 [Web Review, Week 2025-36](https://ervin.ipsquad.net/blog/2025/09/05/web-review-week-2025-36/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/09/05 [#215 Turn On](https://thisweek.gnome.org/posts/2025/09/twig-215/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## 虹线周刊
 - 2025/09/01 [2025#35 AI吃拼好饭吗？](https://weekly.1q43.blog/article/25fca795c956807eb1ccee6dbe210309) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
+## 试行错误
+- 2025/09/01 [AI 如何承载我们内心深处的渴望 | 试行错误140](https://quaily.com/shixingcuowu/p/ai-how-to-carry-our-deep-desires-error-140) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 视野修炼
 - 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -101,9 +113,6 @@
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
-
-## This Week in Self-Hosted
-- 2025/04/24 [&#x27;This Week in Self-Hosted&#x27; is now &#x27;Self-Host Weekly&#x27;](https://selfh.st/post/announcing-self-host-weekly/) | [More](channels/This%20Week%20in%20Self-Hosted.md)
 
 ## FAV0周刊
 - 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
