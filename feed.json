@@ -81,6 +81,11 @@
 			"url": "https://www.skyue.com/feed/category/weekly/"
 		},
 		{
+			"channel": "有个问题",
+			"portal": "https://newsletter.emmmme.com/",
+			"url": "https://newsletter.emmmme.com/feed/atom"
+		},
+		{
 			"channel": "更好生活",
 			"portal": "https://quaily.com/jiayifun",
 			"url": "https://quaily.com/jiayifun/feed/atom"
