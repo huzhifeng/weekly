@@ -81,6 +81,11 @@
 			"url": "https://www.skyue.com/feed/category/weekly/"
 		},
 		{
+			"channel": "我脑袋里的怪东西",
+			"portal": "https://quaily.com/somethinginmybrain",
+			"url": "https://quaily.com/somethinginmybrain/feed/atom"
+		},
+		{
 			"channel": "棱镜通讯",
 			"portal": "https://wangyurui.com/tags/Newsletter/",
 			"url": "https://wangyurui.com/feed.xml",
