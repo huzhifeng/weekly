@@ -1,3 +1,4 @@
+- [firebase/genkit](https://github.com/firebase/genkit)
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
 - [vercel/examples](https://github.com/vercel/examples)
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft)

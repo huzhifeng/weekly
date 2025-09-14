@@ -6,11 +6,17 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## 潮流周刊
+- 2025/09/15 [第238期 - 湘厨小炒](https://weekly.tw93.fun/posts/238-%E6%B9%98%E5%8E%A8%E5%B0%8F%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/09/14 [猫鱼周刊 vol. 080 中年人网购骗局](https://ameow.xyz/archives/weekly-080) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/09/13 [11cafe/jaaz](https://github.com/11cafe/jaaz) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/09/14 [firebase/genkit](https://github.com/firebase/genkit) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/13 [moeru-ai/airi](https://github.com/moeru-ai/airi) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/09/14 [plait-board/drawnix](https://github.com/plait-board/drawnix) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/09/12 [Web Review, Week 2025-37](https://ervin.ipsquad.net/blog/2025/09/12/web-review-week-2025-37/) | [More](channels/Web%20Review.md)
@@ -39,9 +45,6 @@
 ## 胡言乱语
 - 2025/09/09 [20250909的胡言乱语](https://www.bboy.app/2025/09/09/20250909%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2025/09/08 [第237期 - 西湖落日](https://weekly.tw93.fun/posts/237-%E8%A5%BF%E6%B9%96%E8%90%BD%E6%97%A5/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/09/08 [【CDT周报】第235期：有人将来可以活到150岁，你能吗？](https://chinadigitaltimes.net/chinese/721043.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -59,9 +62,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/09/08 [Ubuntu Weekly Newsletter Issue 909](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-909/67029) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 猫鱼周刊
-- 2025/09/07 [猫鱼周刊 vol. 079 工作中应该摆烂吗？](https://ameow.xyz/archives/weekly-079) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/09/07 [稻草人周刊 Vol.45](https://geedea.pro/posts/weekly/45/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
