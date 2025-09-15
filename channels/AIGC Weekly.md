@@ -1,3 +1,4 @@
+- [AIGC Weekly #139](https://quaily.com/op7418/p/aigc-weekly-one-thirty-nine)
 - [AIGC Weekly #138 休战期](https://quaily.com/op7418/p/aigc-weekly-rest-period)
 - [AIGC Weekly #137 大香蕉周](https://quaily.com/op7418/p/aigc-weekly-ne6aek7p)
 - [AIGC Weekly #136 AI 游戏爆发的前夜？](https://quaily.com/op7418/p/aigc-weekly-ai-game-explosion-eve)
