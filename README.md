@@ -6,6 +6,15 @@
 ## 壹苇可航
 - 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
+## CDT周报
+- 2025/09/16 [【CDT周报】第236期：尼泊尔Z世代为躺平族、捡菜族指明方向](https://chinadigitaltimes.net/chinese/721205.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/09/16 [grpc/grpc-go](https://github.com/grpc/grpc-go) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/16 [coleam00/Archon](https://github.com/coleam00/Archon) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/09/15 [第238期 - 湘厨小炒](https://weekly.tw93.fun/posts/238-%E6%B9%98%E5%8E%A8%E5%B0%8F%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -18,11 +27,8 @@
 ## DistroWatch Weekly
 - 2025/09/15 [DistroWatch Weekly, Issue 1139](https://distrowatch.com/weekly.php?issue=20250915) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/09/15 [firebase/genkit](https://github.com/firebase/genkit) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/15 [moeru-ai/airi](https://github.com/moeru-ai/airi) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/09/15 [Ubuntu Weekly Newsletter Issue 910](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-910/67465) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/09/14 [猫鱼周刊 vol. 080 中年人网购骗局](https://ameow.xyz/archives/weekly-080) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -69,14 +75,8 @@
 ## 虹线周刊
 - 2025/09/08 [2025#36 AI会让我们的自由更少吗？](https://weekly.1q43.blog/article/267ca795c9568023a1d2f885aed6741) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2025/09/08 [【CDT周报】第235期：有人将来可以活到150岁，你能吗？](https://chinadigitaltimes.net/chinese/721043.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 更好生活
 - 2025/09/08 [050：我们既渺小又重要](https://quaily.com/jiayifun/p/we-are-both-small-and-important) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/09/08 [Ubuntu Weekly Newsletter Issue 909](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-909/67029) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 我脑袋里的怪东西
 - 2025/09/07 [我脑袋里的怪东西 37 - 液体内容，AI 时代的一种出路](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-liquid-content-ai-era-way) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)

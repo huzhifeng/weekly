@@ -1,3 +1,4 @@
+- [grpc/grpc-go](https://github.com/grpc/grpc-go)
 - [firebase/genkit](https://github.com/firebase/genkit)
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
 - [vercel/examples](https://github.com/vercel/examples)
