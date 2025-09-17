@@ -104,8 +104,8 @@
 		{
 			"channel": "壹苇可航",
 			"portal": "https://letter.justgoidea.com/",
-			"portal2": "https://quail.ink/justgoidea",
-			"url": "https://quail.ink/justgoidea/feed/atom",
+			"portal2": "https://quaily.com/justgoidea",
+			"url": "https://quaily.com/justgoidea/feed/atom",
 			"pin": 1,
 			"filter": ["Vol."]
 		},
@@ -273,8 +273,8 @@
 		},
 		{
 			"channel": "AIGC Weekly",
-			"portal": "https://quail.ink/op7418",
-			"url": "https://quail.ink/op7418/feed/atom",
+			"portal": "https://quaily.com/op7418",
+			"url": "https://quaily.com/op7418/feed/atom",
 			"filter": ["AIGC Weekly"]
 		},
 		{
