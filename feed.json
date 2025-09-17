@@ -238,8 +238,8 @@
 		{
 			"channel": "艾迪蓝波",
 			"portal": "https://www.idnunber.top/",
-			"portal2": "https://nscmiaoxin.zhubai.love/",
-			"url": "https://www.idnunber.top/feed"
+			"url": "https://www.idnunber.top/feed",
+			"enable": 0
 		},
 		{
 			"channel": "胡言乱语",
