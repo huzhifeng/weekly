@@ -334,7 +334,13 @@
 		{
 			"channel": "This Week in KDE",
 			"portal": "https://pointieststick.com/category/this-week-in-kde/",
-			"url": "https://pointieststick.com/category/this-week-in-kde/feed/"
+			"url": "https://pointieststick.com/category/this-week-in-kde/feed/",
+			"enable": 0
+		},
+		{
+			"channel": "This Week in Plasma",
+			"portal": "https://blogs.kde.org/categories/this-week-in-plasma/",
+			"url": "https://blogs.kde.org/categories/this-week-in-plasma/index.xml"
 		},
 		{
 			"channel": "Self-Host Weekly",
