@@ -165,10 +165,9 @@
 		},
 		{
 			"channel": "不合时宜",
-			"portal": "https://huiris.zhubai.love/",
-			"portal2": "https://huiris.com/newsletter/",
-			"portal3": "https://huiris.com/feed/",
-			"url": "https://rsshub.app/zhubai/huiris"
+			"portal": "https://huiris.com/",
+			"url": "https://huiris.com/feed",
+			"enable": 0
 		},
 		{
 			"channel": "试行错误",
