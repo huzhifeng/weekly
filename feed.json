@@ -337,10 +337,10 @@
 			"url": "https://pointieststick.com/category/this-week-in-kde/feed/"
 		},
 		{
-			"channel": "This Week in Self-Hosted",
-			"portal": "https://selfh.st/newsletter/",
+			"channel": "Self-Host Weekly",
+			"portal": "https://selfh.st/weekly/",
 			"url": "https://selfh.st/rss/",
-			"filter": ["This Week in Self-Hosted"]
+			"filter": ["This Week in Self-Hosted", "Self-Host Weekly"]
 		},
 		{
 			"channel": "GitHub Trending Weekly",
