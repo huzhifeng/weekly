@@ -262,7 +262,8 @@
 		{
 			"channel": "GeekPlux Letters",
 			"portal": "https://letters.geekplux.com/",
-			"url": "https://letters.geekplux.com/rss/"
+			"url": "https://letters.geekplux.com/rss/",
+			"enable": 0
 		},
 		{
 			"channel": "zdyxry Weekly Issue",
