@@ -253,7 +253,8 @@
 			"channel": "赫周刊",
 			"portal": "https://www.cliveshd.com/tag/newsletter/",
 			"url": "https://www.cliveshd.com/rss/",
-			"filter": ["赫周刊", "Newsletter"]
+			"filter": ["赫周刊", "Newsletter"],
+			"enable": 0
 		},
 		{
 			"channel": "The Connector 周刊",
