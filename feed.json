@@ -107,7 +107,6 @@
 			"portal": "https://letter.justgoidea.com/",
 			"portal2": "https://quail.ink/justgoidea",
 			"url": "https://quail.ink/justgoidea/feed/atom",
-			"pin": 1,
 			"filter": ["Vol."]
 		},
 		{
