@@ -157,13 +157,6 @@
 			"enable": 0
 		},
 		{
-			"channel": "生活奇旅",
-			"portal": "https://weichen.zhubai.love/",
-			"portal2": "https://weichen.blog/cn/",
-			"portal3": "https://blog.abundantgame.com/",
-			"url": "https://rsshub.app/zhubai/weichen"
-		},
-		{
 			"channel": "不合时宜",
 			"portal": "https://huiris.com/",
 			"url": "https://huiris.com/feed",
@@ -175,35 +168,9 @@
 			"url": "https://quaily.com/shixingcuowu/feed/atom"
 		},
 		{
-			"channel": "事不过三",
-			"portal": "https://via.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/via"
-		},
-		{
-			"channel": "Monday Coffee",
-			"portal": "https://river.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/river"
-		},
-		{
-			"channel": "Off-Beat",
-			"portal": "https://offbeat.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/offbeat"
-		},
-		{
 			"channel": "偷懒爱好者周刊",
 			"portal": "https://echosoar.github.io/weekly/",
 			"url": "https://echosoar.github.io/weekly/atom.xml"
-		},
-		{
-			"channel": "中文播客行业动态",
-			"portal": "https://podpress.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/podpress",
-			"filter": ["中文播客行业动态"]
-		},
-		{
-			"channel": "播客相对论",
-			"portal": "https://podcast.zhubai.love/",
-			"url": "https://rsshub.app/zhubai/podcast"
 		},
 		{
 			"channel": "视野修炼",
