@@ -3,17 +3,17 @@
 ## 科技爱好者周刊
 - 2025/09/12 [科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 壹苇可航
-- 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
+## 偷懒爱好者周刊
+- 2025/09/17 [第150期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/17/第150期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/09/17 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/17 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2025/09/16 [【CDT周报】第236期：尼泊尔Z世代为躺平族、捡菜族指明方向](https://chinadigitaltimes.net/chinese/721205.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2025/09/16 [grpc/grpc-go](https://github.com/grpc/grpc-go) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/16 [coleam00/Archon](https://github.com/coleam00/Archon) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/09/15 [第238期 - 湘厨小炒](https://weekly.tw93.fun/posts/238-%E6%B9%98%E5%8E%A8%E5%B0%8F%E7%82%92/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,6 +51,9 @@
 ## This Week in GNOME
 - 2025/09/12 [#216 Growing Community](https://thisweek.gnome.org/posts/2025/09/twig-216/) | [More](channels/This%20Week%20in%20GNOME.md)
 
+## Self-Host Weekly
+- 2025/09/12 [Self-Host Weekly (12 September 2025)](https://selfh.st/weekly/2025-09-12/) | [More](channels/Self-Host%20Weekly.md)
+
 ## 科技創業週報
 - 2025/09/11 [科技創業週報 #498：借鏡迪士尼經驗：設立「AI協作長」，讓工具成為企業核心能力](https://blog.starrocket.io/posts/newsletter-2025-09-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -66,9 +69,6 @@
 ## 有个问题
 - 2025/09/09 [什么是解决问题的能力？｜人间松弛指南](https://newsletter.emmmme.com/p/what-is-problem-solving-ability-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
-## 偷懒爱好者周刊
-- 2025/09/09 [第149期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/09/第149期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 胡言乱语
 - 2025/09/09 [20250909的胡言乱语](https://www.bboy.app/2025/09/09/20250909%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -80,6 +80,9 @@
 
 ## 我脑袋里的怪东西
 - 2025/09/07 [我脑袋里的怪东西 37 - 液体内容，AI 时代的一种出路](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-liquid-content-ai-era-way) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
+
+## This Week in Plasma
+- 2025/09/05 [This Week in Plasma: more app permission configuration; pre-Akademy edition!](https://blogs.kde.org/2025/09/05/this-week-in-plasma-more-app-permission-configuration-pre-akademy-edition/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 试行错误
 - 2025/09/01 [AI 如何承载我们内心深处的渴望 | 试行错误140](https://quaily.com/shixingcuowu/p/ai-how-to-carry-our-deep-desires-error-140) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -95,6 +98,9 @@
 
 ## HelloGitHub
 - 2025/08/28 [HelloGitHub 第 113 期](https://hellogithub.com/periodical/volume/113) | [More](channels/HelloGitHub.md)
+
+## Airing's Weekly
+- 2025/08/16 [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
@@ -114,18 +120,6 @@
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
 
-## FAV0周刊
-- 2025/03/16 [029期--这个精彩的世界](https://fav0.com/posts/2025/029) | [More](channels/FAV0%E5%91%A8%E5%88%8A.md)
-
-## 十五周刊
-- 2024/12/01 [十五周刊 - 125](https://haydenhayden.com/weekly/weekly-125) | [More](channels/%E5%8D%81%E4%BA%94%E5%91%A8%E5%88%8A.md)
-
-## GeekPlux Letters
-- 2024/11/30 [本周刊暂停更新](https://letters.geekplux.com/pause/) | [More](channels/GeekPlux%20Letters.md)
-
-## 独立开发变现周刊
-- 2024/10/25 [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [More](channels/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E5%8F%98%E7%8E%B0%E5%91%A8%E5%88%8A.md)
-
-## 艾迪蓝波
-- 2024/09/25 [Follow认证](https://www.idnunber.top/article/10c03a08-b813-805b-9032-cce14df9ecf6) | [More](channels/%E8%89%BE%E8%BF%AA%E8%93%9D%E6%B3%A2.md)
+## 壹苇可航
+- 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
