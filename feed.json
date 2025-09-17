@@ -288,8 +288,9 @@
 		},
 		{
 			"channel": "Airing's Weekly",
-			"portal": "https://github.com/airingursb/weekly",
-			"url": "https://weekly.ursb.me/index.xml"
+			"portal": "https://blog.ursb.me/tags/weekly/",
+			"url": "https://blog.ursb.me/feed.xml",
+			"filter": ["月刊", "周刊"]
 		},
 		{
 			"channel": "PIVOT",
