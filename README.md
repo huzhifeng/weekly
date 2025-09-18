@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2025/09/12 [科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/09/17 [第150期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/17/第150期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/09/18 [科技創業週報 #499：AirPods Pro 3帶來即時翻譯與健康監測，為AI穿戴科技開啟後手機時代新入口](https://blog.starrocket.io/posts/newsletter-2025-09-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/09/18 [学习周刊-总第229期-2025年第38周](https://wiki.eryajf.net/pages/06d21f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/09/18 [LWN.net Weekly Edition for September 18, 2025](https://lwn.net/Articles/1037644/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/09/18 [FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-38/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/09/17 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/09/18 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/17 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/09/18 [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/09/17 [第150期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/17/第150期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/09/16 [【CDT周报】第236期：尼泊尔Z世代为躺平族、捡菜族指明方向](https://chinadigitaltimes.net/chinese/721205.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -42,9 +54,6 @@
 ## zdyxry Weekly Issue
 - 2025/09/14 [Weekly Issue-Pure and impure software engineering](https://zdyxry.github.io/2025/09/14/Weekly-Issue-Pure-and-impure-software-engineering/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/09/14 [9to5Linux Weekly Roundup: September 14th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-14th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Web Review
 - 2025/09/12 [Web Review, Week 2025-37](https://ervin.ipsquad.net/blog/2025/09/12/web-review-week-2025-37/) | [More](channels/Web%20Review.md)
 
@@ -53,18 +62,6 @@
 
 ## Self-Host Weekly
 - 2025/09/12 [Self-Host Weekly (12 September 2025)](https://selfh.st/weekly/2025-09-12/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2025/09/11 [科技創業週報 #498：借鏡迪士尼經驗：設立「AI協作長」，讓工具成為企業核心能力](https://blog.starrocket.io/posts/newsletter-2025-09-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/09/11 [学习周刊-总第228期-2025年第37周](https://wiki.eryajf.net/pages/d0dd08/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/09/11 [LWN.net Weekly Edition for September 11, 2025](https://lwn.net/Articles/1036683/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/09/11 [FOSS Weekly #25.37: Mint 22.2 Released, Official KDE Distro, Kazeta Linux for 90s Gaming, Ubuntu 25.10's New Terminal and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-37/) | [More](channels/FOSS%20Weekly.md)
 
 ## 有个问题
 - 2025/09/09 [什么是解决问题的能力？｜人间松弛指南](https://newsletter.emmmme.com/p/what-is-problem-solving-ability-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)

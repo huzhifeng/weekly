@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-38/)
 - [FOSS Weekly #25.37: Mint 22.2 Released, Official KDE Distro, Kazeta Linux for 90s Gaming, Ubuntu 25.10's New Terminal and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-37/)
 - [FOSS Weekly #25.36: Ubuntu 25.10 Features, Top Command, Firefox Survives, Sudo Tips and More](https://itsfoss.com/newsletter/foss-weekly-25-36/)
 - [FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-35/)
