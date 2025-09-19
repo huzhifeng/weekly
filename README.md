@@ -1,7 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/09/12 [科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/09/19 [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/09/19 [Web Review, Week 2025-38](https://ervin.ipsquad.net/blog/2025/09/19/web-review-week-2025-38/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2025/09/19 [Self-Host Weekly (19 September 2025)](https://selfh.st/weekly/2025-09-19/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/09/19 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/19 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/09/18 [科技創業週報 #499：AirPods Pro 3帶來即時翻譯與健康監測，為AI穿戴科技開啟後手機時代新入口](https://blog.starrocket.io/posts/newsletter-2025-09-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +26,6 @@
 
 ## FOSS Weekly
 - 2025/09/18 [FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-38/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/09/18 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/18 [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/09/17 [第150期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/17/第150期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,9 +48,6 @@
 ## Ubuntu Weekly Newsletter
 - 2025/09/15 [Ubuntu Weekly Newsletter Issue 910](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-910/67465) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/09/14 [猫鱼周刊 vol. 080 中年人网购骗局](https://ameow.xyz/archives/weekly-080) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/09/14 [稻草人周刊 Vol.46](https://geedea.pro/posts/weekly/46/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -54,14 +57,8 @@
 ## zdyxry Weekly Issue
 - 2025/09/14 [Weekly Issue-Pure and impure software engineering](https://zdyxry.github.io/2025/09/14/Weekly-Issue-Pure-and-impure-software-engineering/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## Web Review
-- 2025/09/12 [Web Review, Week 2025-37](https://ervin.ipsquad.net/blog/2025/09/12/web-review-week-2025-37/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2025/09/12 [#216 Growing Community](https://thisweek.gnome.org/posts/2025/09/twig-216/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/09/12 [Self-Host Weekly (12 September 2025)](https://selfh.st/weekly/2025-09-12/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 有个问题
 - 2025/09/09 [什么是解决问题的能力？｜人间松弛指南](https://newsletter.emmmme.com/p/what-is-problem-solving-ability-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)

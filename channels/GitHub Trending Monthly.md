@@ -1,3 +1,4 @@
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy)
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
