@@ -1,3 +1,4 @@
+- [This Week in Plasma: 6.5 beta and start of the bug-fix-a-palooza](https://blogs.kde.org/2025/09/20/this-week-in-plasma-6.5-beta-and-start-of-the-bug-fix-a-palooza/)
 - [This Week in Plasma: more app permission configuration; pre-Akademy edition!](https://blogs.kde.org/2025/09/05/this-week-in-plasma-more-app-permission-configuration-pre-akademy-edition/)
 - [This Week in Plasma: Saved clipboard items and tablet touch rings](https://blogs.kde.org/2025/08/30/this-week-in-plasma-saved-clipboard-items-and-tablet-touch-rings/)
 - [This Week in Plasma: KDE Initial System Setup](https://blogs.kde.org/2025/08/23/this-week-in-plasma-kde-initial-system-setup/)

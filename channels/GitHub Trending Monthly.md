@@ -1,3 +1,5 @@
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- [dataease/SQLBot](https://github.com/dataease/SQLBot)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy)

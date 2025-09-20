@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2025/09/19 [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2025/09/20 [This Week in Plasma: 6.5 beta and start of the bug-fix-a-palooza](https://blogs.kde.org/2025/09/20/this-week-in-plasma-6.5-beta-and-start-of-the-bug-fix-a-palooza/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/09/20 [nocodb/nocodb](https://github.com/nocodb/nocodb) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/20 [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/09/19 [Web Review, Week 2025-38](https://ervin.ipsquad.net/blog/2025/09/19/web-review-week-2025-38/) | [More](channels/Web%20Review.md)
 
+## 试行错误
+- 2025/09/19 [愿赌服输、买单离场 | 试行错误141](https://quaily.com/shixingcuowu/p/yuan-du-fu-shu-mai-dan-li-chang-shi-xing-cuowu) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## Self-Host Weekly
 - 2025/09/19 [Self-Host Weekly (19 September 2025)](https://selfh.st/weekly/2025-09-19/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/09/19 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/19 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/09/18 [科技創業週報 #499：AirPods Pro 3帶來即時翻譯與健康監測，為AI穿戴科技開啟後手機時代新入口](https://blog.starrocket.io/posts/newsletter-2025-09-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -52,7 +58,7 @@
 - 2025/09/14 [稻草人周刊 Vol.46](https://geedea.pro/posts/weekly/46/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
 ## 拾月通讯
-- 2025/09/14 [喝咖啡，遇暴雨](https://www.skyue.com/25091507.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+- 2025/09/14 [2025W36：喝咖啡，遇暴雨](https://www.skyue.com/25091507.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## zdyxry Weekly Issue
 - 2025/09/14 [Weekly Issue-Pure and impure software engineering](https://zdyxry.github.io/2025/09/14/Weekly-Issue-Pure-and-impure-software-engineering/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -74,12 +80,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/09/07 [我脑袋里的怪东西 37 - 液体内容，AI 时代的一种出路](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-liquid-content-ai-era-way) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## This Week in Plasma
-- 2025/09/05 [This Week in Plasma: more app permission configuration; pre-Akademy edition!](https://blogs.kde.org/2025/09/05/this-week-in-plasma-more-app-permission-configuration-pre-akademy-edition/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## 试行错误
-- 2025/09/01 [AI 如何承载我们内心深处的渴望 | 试行错误140](https://quaily.com/shixingcuowu/p/ai-how-to-carry-our-deep-desires-error-140) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 视野修炼
 - 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -104,9 +104,6 @@
 
 ## 棱镜通讯
 - 2025/07/06 [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Raye's Journey
-- 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
