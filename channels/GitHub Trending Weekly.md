@@ -1,3 +1,4 @@
+- [dataease/SQLBot](https://github.com/dataease/SQLBot)
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm)

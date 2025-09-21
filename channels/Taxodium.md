@@ -1,3 +1,4 @@
+- [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html)
 - [Zine#41](https://taxodium.ink/41.html)
 - [Zine#40](https://taxodium.ink/40.html)
 - [Zine#39](https://taxodium.ink/39.html)
