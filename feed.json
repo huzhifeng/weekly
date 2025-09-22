@@ -323,6 +323,11 @@
 			"filter": ["This Week in Self-Hosted", "Self-Host Weekly"]
 		},
 		{
+			"channel": "V2EX 周报",
+			"portal": "https://vdaily.huguotao.com/weekly",
+			"url": "https://vdaily.huguotao.com/weekly/atom.xml"
+		},
+		{
 			"channel": "GitHub Trending Weekly",
 			"portal": "https://github.com/trending?since=weekly",
 			"url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml",
