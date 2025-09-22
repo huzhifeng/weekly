@@ -1,3 +1,4 @@
+- [Weekly Issue-一根新鲜的玉米](https://zdyxry.github.io/2025/09/21/Weekly-Issue-%E4%B8%80%E6%A0%B9%E6%96%B0%E9%B2%9C%E7%9A%84%E7%8E%89%E7%B1%B3/)
 - [Weekly Issue-Pure and impure software engineering](https://zdyxry.github.io/2025/09/14/Weekly-Issue-Pure-and-impure-software-engineering/)
 - [Weekly Issue-《单口喜剧进阶指南》](https://zdyxry.github.io/2025/09/07/Weekly-Issue-%E5%8D%95%E5%8F%A3%E5%96%9C%E5%89%A7%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97/)
 - [Weekly Issue-《只有我一个人觉得特好笑吗？》](https://zdyxry.github.io/2025/08/31/Weekly-Issue-%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%A7%89%E5%BE%97%E7%89%B9%E5%A5%BD%E7%AC%91%E5%90%97/)
