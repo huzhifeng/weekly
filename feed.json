@@ -61,6 +61,12 @@
 			"url": "https://ameow.xyz/feed/categories/weekly.xml"
 		},
 		{
+			"channel": "肖恩技术周刊",
+			"portal": "https://weekly.shawnxie.top/",
+			"portal2": "https://github.com/shawnxie94/shawn-weekly",
+			"url": "https://weekly.shawnxie.top/rss.xml"
+		},
+		{
 			"channel": "奇趣周刊",
 			"portal": "https://zishu.me/categories/weekly/",
 			"url": "https://zishu.me/categories/weekly/index.xml",
