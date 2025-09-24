@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2025/09/19 [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/09/24 [第151期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/24/第151期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/09/23 [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/09/24 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/23 [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/09/24 [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/09/22 [第239期 - 山顶咖啡](https://weekly.tw93.fun/posts/239-%E5%B1%B1%E9%A1%B6%E5%92%96%E5%95%A1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -87,9 +90,6 @@
 ## FOSS Weekly
 - 2025/09/18 [FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-38/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/09/17 [第150期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/17/第150期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 胡言乱语
 - 2025/09/09 [20250909的胡言乱语](https://www.bboy.app/2025/09/09/20250909%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -119,6 +119,9 @@
 
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Raye's Journey
+- 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

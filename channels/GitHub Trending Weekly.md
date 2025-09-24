@@ -1,3 +1,4 @@
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 - [dataease/SQLBot](https://github.com/dataease/SQLBot)
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
