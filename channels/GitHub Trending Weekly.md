@@ -1,3 +1,4 @@
+- [fmtlib/fmt](https://github.com/fmtlib/fmt)
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 - [dataease/SQLBot](https://github.com/dataease/SQLBot)
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
