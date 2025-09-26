@@ -1,7 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/09/19 [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/09/26 [Web Review, Week 2025-39](https://ervin.ipsquad.net/blog/2025/09/26/web-review-week-2025-39/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2025/09/26 [Self-Host Weekly (26 September 2025)](https://selfh.st/weekly/2025-09-26/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/09/26 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/26 [firebase/genkit](https://github.com/firebase/genkit) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/09/25 [科技創業週報 #500：蘋果以AI智慧電池管理，化解最輕薄iPhone 17 Air的續航焦慮](https://blog.starrocket.io/posts/newsletter-2025-09-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -9,17 +21,14 @@
 ## 胡言乱语
 - 2025/09/25 [20250925的胡言乱语](https://www.bboy.app/2025/09/25/20250925%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
+## 二丫讲梵学习周刊
+- 2025/09/25 [学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## LWN.net Weekly Edition
 - 2025/09/25 [LWN.net Weekly Edition for September 25, 2025](https://lwn.net/Articles/1038643/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2025/09/25 [FOSS Weekly #25.39: Kill Switch Phones, LMDE 7, Zorin OS 18 Beta, Polybar, Apt History and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-39/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/09/25 [tldraw/tldraw](https://github.com/tldraw/tldraw) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/25 [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/09/24 [第151期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/24/第151期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -81,17 +90,8 @@
 ## This Week in Plasma
 - 2025/09/20 [This Week in Plasma: 6.5 beta and start of the bug-fix-a-palooza](https://blogs.kde.org/2025/09/20/this-week-in-plasma-6.5-beta-and-start-of-the-bug-fix-a-palooza/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2025/09/19 [Web Review, Week 2025-38](https://ervin.ipsquad.net/blog/2025/09/19/web-review-week-2025-38/) | [More](channels/Web%20Review.md)
-
 ## 试行错误
 - 2025/09/19 [愿赌服输、买单离场 | 试行错误141](https://quaily.com/shixingcuowu/p/yuan-du-fu-shu-mai-dan-li-chang-shi-xing-cuowu) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## Self-Host Weekly
-- 2025/09/19 [Self-Host Weekly (19 September 2025)](https://selfh.st/weekly/2025-09-19/) | [More](channels/Self-Host%20Weekly.md)
-
-## 二丫讲梵学习周刊
-- 2025/09/18 [学习周刊-总第229期-2025年第38周](https://wiki.eryajf.net/pages/06d21f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 虹线周刊
 - 2025/09/08 [2025#36 AI会让我们的自由更少吗？](https://weekly.1q43.blog/article/267ca795c9568023a1d2f885aed6741) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -119,6 +119,9 @@
 
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Raye's Journey
+- 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)

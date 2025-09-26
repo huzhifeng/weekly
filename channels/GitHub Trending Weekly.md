@@ -1,3 +1,6 @@
+- [coinbase/x402](https://github.com/coinbase/x402)
+- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
+- [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)
 - [fmtlib/fmt](https://github.com/fmtlib/fmt)
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 - [dataease/SQLBot](https://github.com/dataease/SQLBot)

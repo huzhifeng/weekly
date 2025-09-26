@@ -1,3 +1,4 @@
+- [Self-Host Weekly (26 September 2025)](https://selfh.st/weekly/2025-09-26/)
 - [Self-Host Weekly (19 September 2025)](https://selfh.st/weekly/2025-09-19/)
 - [Self-Host Weekly (12 September 2025)](https://selfh.st/weekly/2025-09-12/)
 - [Self-Host Weekly (5 September 2025)](https://selfh.st/weekly/2025-09-05/)

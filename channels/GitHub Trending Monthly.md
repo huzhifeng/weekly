@@ -1,3 +1,5 @@
+- [firebase/genkit](https://github.com/firebase/genkit)
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
