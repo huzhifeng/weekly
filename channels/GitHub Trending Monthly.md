@@ -1,3 +1,5 @@
+- [coinbase/x402](https://github.com/coinbase/x402)
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 - [firebase/genkit](https://github.com/firebase/genkit)
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)

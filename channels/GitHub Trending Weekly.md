@@ -1,3 +1,5 @@
+- [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba)
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [coinbase/x402](https://github.com/coinbase/x402)
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)

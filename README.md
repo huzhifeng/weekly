@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2025/09/27 [This Week in Plasma: lots and lots of bug-fixing for Plasma 6.5!](https://blogs.kde.org/2025/09/27/this-week-in-plasma-lots-and-lots-of-bug-fixing-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/09/27 [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/27 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/09/26 [Web Review, Week 2025-39](https://ervin.ipsquad.net/blog/2025/09/26/web-review-week-2025-39/) | [More](channels/Web%20Review.md)
 
+## This Week in GNOME
+- 2025/09/26 [#218 Adaptive Sidebars](https://thisweek.gnome.org/posts/2025/09/twig-218/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## Self-Host Weekly
 - 2025/09/26 [Self-Host Weekly (26 September 2025)](https://selfh.st/weekly/2025-09-26/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/09/26 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/26 [firebase/genkit](https://github.com/firebase/genkit) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/09/25 [科技創業週報 #500：蘋果以AI智慧電池管理，化解最輕薄iPhone 17 Air的續航焦慮](https://blog.starrocket.io/posts/newsletter-2025-09-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -78,17 +84,11 @@
 ## 9to5Linux Weekly Roundup
 - 2025/09/21 [9to5Linux Weekly Roundup: September 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-21st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## This Week in GNOME
-- 2025/09/21 [#217 Mahjongg Sundays](https://thisweek.gnome.org/posts/2025/09/twig-217/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## V2EX 周报
 - 2025/09/21 [✨ V2EX 周报 本周热门主题及高赞回复 09.13-09.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## This Week in Plasma
-- 2025/09/20 [This Week in Plasma: 6.5 beta and start of the bug-fix-a-palooza](https://blogs.kde.org/2025/09/20/this-week-in-plasma-6.5-beta-and-start-of-the-bug-fix-a-palooza/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 试行错误
 - 2025/09/19 [愿赌服输、买单离场 | 试行错误141](https://quaily.com/shixingcuowu/p/yuan-du-fu-shu-mai-dan-li-chang-shi-xing-cuowu) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
