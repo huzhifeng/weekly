@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2025/09/27 [This Week in Plasma: lots and lots of bug-fixing for Plasma 6.5!](https://blogs.kde.org/2025/09/27/this-week-in-plasma-lots-and-lots-of-bug-fixing-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
+## V2EX 周报
+- 2025/09/28 [✨ V2EX 周报 本周热门主题及高赞回复 09.20-09.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/09/27 [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/09/28 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/27 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/09/28 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## HelloGitHub
+- 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)
+
+## This Week in Plasma
+- 2025/09/27 [This Week in Plasma: lots and lots of bug-fixing for Plasma 6.5!](https://blogs.kde.org/2025/09/27/this-week-in-plasma-lots-and-lots-of-bug-fixing-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2025/09/26 [Web Review, Week 2025-39](https://ervin.ipsquad.net/blog/2025/09/26/web-review-week-2025-39/) | [More](channels/Web%20Review.md)
@@ -84,9 +90,6 @@
 ## 9to5Linux Weekly Roundup
 - 2025/09/21 [9to5Linux Weekly Roundup: September 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-21st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## V2EX 周报
-- 2025/09/21 [✨ V2EX 周报 本周热门主题及高赞回复 09.13-09.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
@@ -107,9 +110,6 @@
 
 ## 大橘和朋友们的周刊
 - 2025/08/30 [第036期 - 风语山巅](https://rrorangeandfriends.de/posts/2025/036) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## HelloGitHub
-- 2025/08/28 [HelloGitHub 第 113 期](https://hellogithub.com/periodical/volume/113) | [More](channels/HelloGitHub.md)
 
 ## Airing's Weekly
 - 2025/08/16 [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) | [More](channels/Airing%27s%20Weekly.md)
