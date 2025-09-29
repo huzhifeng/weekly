@@ -3,14 +3,41 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2025/09/28 [✨ V2EX 周报 本周热门主题及高赞回复 09.20-09.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+## 稻草人周刊
+- 2025/09/29 [稻草人周刊 Vol.48](https://geedea.pro/posts/weekly/48/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/09/29 [【CDT周报】第238期：奴隶要是都没有了，奴隶主还怎么当呢？](https://chinadigitaltimes.net/chinese/721518.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/09/29 [一周杂记 in Week 4 Sep 2025](http://kingsamchen.github.io/2025/09/29/weekly-2025-sep-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/09/29 [AIGC Weekly #141](https://quaily.com/op7418/p/aigc-weekly-one-four-one) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/09/29 [DistroWatch Weekly, Issue 1141](https://distrowatch.com/weekly.php?issue=20250929) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/09/29 [9to5Linux Weekly Roundup: September 28th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-28th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## GitHub Trending Weekly
-- 2025/09/28 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/09/29 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/28 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/09/29 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 拾月通讯
+- 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## 试行错误
+- 2025/09/28 [不要养成下意识去怪责对方的习惯｜🥫阅读罐头（8 月刊）](https://quaily.com/shixingcuowu/p/dont-fall-into-the-habit-of-blaming-others-reading-can-8) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## zdyxry Weekly Issue
+- 2025/09/28 [Weekly Issue-笑果创作清单](https://zdyxry.github.io/2025/09/28/Weekly-Issue-%E7%AC%91%E6%9E%9C%E5%88%9B%E4%BD%9C%E6%B8%85%E5%8D%95/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## V2EX 周报
+- 2025/09/28 [✨ V2EX 周报 本周热门主题及高赞回复 09.20-09.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## HelloGitHub
 - 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)
@@ -33,9 +60,6 @@
 ## 胡言乱语
 - 2025/09/25 [20250925的胡言乱语](https://www.bboy.app/2025/09/25/20250925%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 二丫讲梵学习周刊
-- 2025/09/25 [学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## LWN.net Weekly Edition
 - 2025/09/25 [LWN.net Weekly Edition for September 25, 2025](https://lwn.net/Articles/1038643/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
@@ -45,29 +69,17 @@
 ## 偷懒爱好者周刊
 - 2025/09/24 [第151期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/24/第151期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 虹线周刊
+- 2025/09/22 [2025#38 一叶知秋](https://weekly.1q43.blog/article/275ca795c956805b8f47e2e24b0acf23) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
 ## 潮流周刊
 - 2025/09/22 [第239期 - 山顶咖啡](https://weekly.tw93.fun/posts/239-%E5%B1%B1%E9%A1%B6%E5%92%96%E5%95%A1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 肖恩技术周刊
 - 2025/09/22 [肖恩技术周刊（第 63 期）：搞笑诺贝尔奖](https://weekly.shawnxie.top/content/2025/63.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/09/22 [稻草人周刊 Vol.47](https://geedea.pro/posts/weekly/47/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/09/22 [【CDT周报】第237期：不是户晨风制造了阶级对立，他只是揭开了它](https://chinadigitaltimes.net/chinese/721366.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 有个问题
 - 2025/09/22 [如何理解情绪？｜人间松弛指南](https://newsletter.emmmme.com/p/emotions) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 一周杂记
-- 2025/09/22 [一周杂记 in Week 3 Sep 2025](http://kingsamchen.github.io/2025/09/22/weekly-2025-sep-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2025/09/22 [AIGC Weekly #140](https://quaily.com/op7418/p/aigc-weekly-one-four-zero) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/09/22 [DistroWatch Weekly, Issue 1140](https://distrowatch.com/weekly.php?issue=20250922) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/09/22 [Ubuntu Weekly Newsletter Issue 911](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-911/67876) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -75,29 +87,14 @@
 ## 猫鱼周刊
 - 2025/09/21 [猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## 拾月通讯
-- 2025/09/21 [2025W37：浙大森林A座](https://www.skyue.com/25092207.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
 ## 棱镜通讯
 - 2025/09/21 [棱镜通讯 No.115 高锟（Charles Kuen Kao）](https://wangyurui.com/posts/leng-jing-tong-xun-no-115-gao-kun-charles-kuen-k-71aeefc4) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## Taxodium
 - 2025/09/21 [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html) | [More](channels/Taxodium.md)
 
-## zdyxry Weekly Issue
-- 2025/09/21 [Weekly Issue-一根新鲜的玉米](https://zdyxry.github.io/2025/09/21/Weekly-Issue-%E4%B8%80%E6%A0%B9%E6%96%B0%E9%B2%9C%E7%9A%84%E7%8E%89%E7%B1%B3/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/09/21 [9to5Linux Weekly Roundup: September 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-21st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 试行错误
-- 2025/09/19 [愿赌服输、买单离场 | 试行错误141](https://quaily.com/shixingcuowu/p/yuan-du-fu-shu-mai-dan-li-chang-shi-xing-cuowu) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 虹线周刊
-- 2025/09/08 [2025#36 AI会让我们的自由更少吗？](https://weekly.1q43.blog/article/267ca795c9568023a1d2f885aed6741) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2025/09/08 [050：我们既渺小又重要](https://quaily.com/jiayifun/p/we-are-both-small-and-important) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

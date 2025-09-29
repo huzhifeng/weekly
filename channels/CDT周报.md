@@ -1,3 +1,4 @@
+- [【CDT周报】第238期：奴隶要是都没有了，奴隶主还怎么当呢？](https://chinadigitaltimes.net/chinese/721518.html)
 - [【CDT周报】第237期：不是户晨风制造了阶级对立，他只是揭开了它](https://chinadigitaltimes.net/chinese/721366.html)
 - [【CDT周报】第236期：尼泊尔Z世代为躺平族、捡菜族指明方向](https://chinadigitaltimes.net/chinese/721205.html)
 - [【CDT周报】第235期：有人将来可以活到150岁，你能吗？](https://chinadigitaltimes.net/chinese/721043.html)

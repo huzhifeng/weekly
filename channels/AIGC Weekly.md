@@ -1,3 +1,4 @@
+- [AIGC Weekly #141](https://quaily.com/op7418/p/aigc-weekly-one-four-one)
 - [AIGC Weekly #140](https://quaily.com/op7418/p/aigc-weekly-one-four-zero)
 - [AIGC Weekly #139](https://quaily.com/op7418/p/aigc-weekly-one-thirty-nine)
 - [AIGC Weekly #138 休战期](https://quaily.com/op7418/p/aigc-weekly-rest-period)

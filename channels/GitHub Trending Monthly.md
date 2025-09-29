@@ -1,3 +1,4 @@
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
 - [coinbase/x402](https://github.com/coinbase/x402)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 - [firebase/genkit](https://github.com/firebase/genkit)
