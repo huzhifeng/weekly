@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2025/09/30 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/09/30 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 稻草人周刊
 - 2025/09/29 [稻草人周刊 Vol.48](https://geedea.pro/posts/weekly/48/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -21,11 +27,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/09/29 [9to5Linux Weekly Roundup: September 28th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-28th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/09/29 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/09/29 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/09/29 [Ubuntu Weekly Newsletter Issue 912](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-912/68413) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 拾月通讯
 - 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -60,6 +63,9 @@
 ## 胡言乱语
 - 2025/09/25 [20250925的胡言乱语](https://www.bboy.app/2025/09/25/20250925%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
+## 二丫讲梵学习周刊
+- 2025/09/25 [学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## LWN.net Weekly Edition
 - 2025/09/25 [LWN.net Weekly Edition for September 25, 2025](https://lwn.net/Articles/1038643/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
@@ -80,9 +86,6 @@
 
 ## 有个问题
 - 2025/09/22 [如何理解情绪？｜人间松弛指南](https://newsletter.emmmme.com/p/emotions) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/09/22 [Ubuntu Weekly Newsletter Issue 911](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-911/67876) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/09/21 [猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)

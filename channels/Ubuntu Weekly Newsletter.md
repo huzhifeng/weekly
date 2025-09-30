@@ -1,3 +1,4 @@
+- [Ubuntu Weekly Newsletter Issue 912](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-912/68413)
 - [Ubuntu Weekly Newsletter Issue 911](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-911/67876)
 - [Ubuntu Weekly Newsletter Issue 910](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-910/67465)
 - [Ubuntu Weekly Newsletter Issue 909](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-909/67029)
