@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/10/01 [第152期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/01/第152期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/09/30 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/01 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/09/30 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/01 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 稻草人周刊
 - 2025/09/29 [稻草人周刊 Vol.48](https://geedea.pro/posts/weekly/48/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -71,9 +74,6 @@
 
 ## FOSS Weekly
 - 2025/09/25 [FOSS Weekly #25.39: Kill Switch Phones, LMDE 7, Zorin OS 18 Beta, Polybar, Apt History and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-39/) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2025/09/24 [第151期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/24/第151期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 虹线周刊
 - 2025/09/22 [2025#38 一叶知秋](https://weekly.1q43.blog/article/275ca795c956805b8f47e2e24b0acf23) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)

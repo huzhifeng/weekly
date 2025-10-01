@@ -1,3 +1,4 @@
+- [basecamp/omarchy](https://github.com/basecamp/omarchy)
 - [TanStack/router](https://github.com/TanStack/router)
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba)
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
