@@ -1,3 +1,5 @@
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+- [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy)
 - [TanStack/router](https://github.com/TanStack/router)
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba)

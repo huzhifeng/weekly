@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/10/01 [第152期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/01/第152期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/10/02 [科技創業週報 #501：從手機到AI裝置：我們的智慧生活將如何被改寫？](https://blog.starrocket.io/posts/newsletter-2025-10-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2025/10/02 [LWN.net Weekly Edition for October 2, 2025](https://lwn.net/Articles/1039529/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/10/02 [FOSS Weekly #25.40: Fedora 43  Features, Kernel 6.17, Zorin OS 18, Retro Gaming Setup and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-40/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/10/01 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/02 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/01 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/02 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/10/01 [第152期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/01/第152期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/09/29 [稻草人周刊 Vol.48](https://geedea.pro/posts/weekly/48/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -60,20 +69,11 @@
 ## Self-Host Weekly
 - 2025/09/26 [Self-Host Weekly (26 September 2025)](https://selfh.st/weekly/2025-09-26/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/09/25 [科技創業週報 #500：蘋果以AI智慧電池管理，化解最輕薄iPhone 17 Air的續航焦慮](https://blog.starrocket.io/posts/newsletter-2025-09-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 胡言乱语
 - 2025/09/25 [20250925的胡言乱语](https://www.bboy.app/2025/09/25/20250925%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 二丫讲梵学习周刊
 - 2025/09/25 [学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/09/25 [LWN.net Weekly Edition for September 25, 2025](https://lwn.net/Articles/1038643/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/09/25 [FOSS Weekly #25.39: Kill Switch Phones, LMDE 7, Zorin OS 18 Beta, Polybar, Apt History and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-39/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/09/22 [2025#38 一叶知秋](https://weekly.1q43.blog/article/275ca795c956805b8f47e2e24b0acf23) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -110,9 +110,6 @@
 
 ## 大橘和朋友们的周刊
 - 2025/08/30 [第036期 - 风语山巅](https://rrorangeandfriends.de/posts/2025/036) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## Airing's Weekly
-- 2025/08/16 [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)

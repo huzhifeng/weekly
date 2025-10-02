@@ -1,3 +1,4 @@
+- [gin-gonic/gin](https://github.com/gin-gonic/gin)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
 - [coinbase/x402](https://github.com/coinbase/x402)
