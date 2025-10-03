@@ -3,6 +3,24 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Web Review
+- 2025/10/03 [Web Review, Week 2025-40](https://ervin.ipsquad.net/blog/2025/10/03/web-review-week-2025-40/) | [More](channels/Web%20Review.md)
+
+## 二丫讲梵学习周刊
+- 2025/10/03 [学习周刊-总第231期-2025年第40周](https://wiki.eryajf.net/pages/58366d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2025/10/03 [#219 Deciphering Hieroglyphs](https://thisweek.gnome.org/posts/2025/10/twig-219/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2025/10/03 [Self-Host Weekly (3 October 2025)](https://selfh.st/weekly/2025-10-03/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/10/03 [n8n-io/n8n](https://github.com/n8n-io/n8n) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/03 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 科技創業週報
 - 2025/10/02 [科技創業週報 #501：從手機到AI裝置：我們的智慧生活將如何被改寫？](https://blog.starrocket.io/posts/newsletter-2025-10-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -11,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/10/02 [FOSS Weekly #25.40: Fedora 43  Features, Kernel 6.17, Zorin OS 18, Retro Gaming Setup and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-40/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/10/02 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/02 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/10/01 [第152期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/01/第152期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -35,9 +47,6 @@
 
 ## DistroWatch Weekly
 - 2025/09/29 [DistroWatch Weekly, Issue 1141](https://distrowatch.com/weekly.php?issue=20250929) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/09/29 [9to5Linux Weekly Roundup: September 28th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-september-28th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/09/29 [Ubuntu Weekly Newsletter Issue 912](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-912/68413) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -60,20 +69,8 @@
 ## This Week in Plasma
 - 2025/09/27 [This Week in Plasma: lots and lots of bug-fixing for Plasma 6.5!](https://blogs.kde.org/2025/09/27/this-week-in-plasma-lots-and-lots-of-bug-fixing-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2025/09/26 [Web Review, Week 2025-39](https://ervin.ipsquad.net/blog/2025/09/26/web-review-week-2025-39/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/09/26 [#218 Adaptive Sidebars](https://thisweek.gnome.org/posts/2025/09/twig-218/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/09/26 [Self-Host Weekly (26 September 2025)](https://selfh.st/weekly/2025-09-26/) | [More](channels/Self-Host%20Weekly.md)
-
 ## 胡言乱语
 - 2025/09/25 [20250925的胡言乱语](https://www.bboy.app/2025/09/25/20250925%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 二丫讲梵学习周刊
-- 2025/09/25 [学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 虹线周刊
 - 2025/09/22 [2025#38 一叶知秋](https://weekly.1q43.blog/article/275ca795c956805b8f47e2e24b0acf23) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,6 @@
+- [n8n-io/n8n](https://github.com/n8n-io/n8n)
+- [directus/directus](https://github.com/directus/directus)
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 - [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy)
