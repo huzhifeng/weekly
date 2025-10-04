@@ -1,3 +1,4 @@
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)

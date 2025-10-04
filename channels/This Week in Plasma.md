@@ -1,3 +1,4 @@
+- [This Week in Plasma: 6.5 beta 2](https://blogs.kde.org/2025/10/04/this-week-in-plasma-6.5-beta-2/)
 - [This Week in Plasma: lots and lots of bug-fixing for Plasma 6.5!](https://blogs.kde.org/2025/09/27/this-week-in-plasma-lots-and-lots-of-bug-fixing-for-plasma-6.5/)
 - [This Week in Plasma: 6.5 beta and start of the bug-fix-a-palooza](https://blogs.kde.org/2025/09/20/this-week-in-plasma-6.5-beta-and-start-of-the-bug-fix-a-palooza/)
 - [This Week in Plasma: more app permission configuration; pre-Akademy edition!](https://blogs.kde.org/2025/09/05/this-week-in-plasma-more-app-permission-configuration-pre-akademy-edition/)
