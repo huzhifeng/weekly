@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2025/10/04 [This Week in Plasma: 6.5 beta 2](https://blogs.kde.org/2025/10/04/this-week-in-plasma-6.5-beta-2/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 稻草人周刊
+- 2025/10/05 [稻草人周刊 Vol. 49](https://geedea.pro/posts/weekly/49/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/10/05 [9to5Linux Weekly Roundup: October 5th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-october-5th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2025/10/05 [✨ V2EX 周报 本周热门主题及高赞回复 09.27-10.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/10/04 [tile-ai/tilelang](https://github.com/tile-ai/tilelang) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/05 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/04 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/05 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2025/10/04 [This Week in Plasma: 6.5 beta 2](https://blogs.kde.org/2025/10/04/this-week-in-plasma-6.5-beta-2/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2025/10/03 [Web Review, Week 2025-40](https://ervin.ipsquad.net/blog/2025/10/03/web-review-week-2025-40/) | [More](channels/Web%20Review.md)
@@ -36,9 +45,6 @@
 ## 偷懒爱好者周刊
 - 2025/10/01 [第152期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/01/第152期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/09/29 [稻草人周刊 Vol.48](https://geedea.pro/posts/weekly/48/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/09/29 [【CDT周报】第238期：奴隶要是都没有了，奴隶主还怎么当呢？](https://chinadigitaltimes.net/chinese/721518.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -62,9 +68,6 @@
 
 ## zdyxry Weekly Issue
 - 2025/09/28 [Weekly Issue-笑果创作清单](https://zdyxry.github.io/2025/09/28/Weekly-Issue-%E7%AC%91%E6%9E%9C%E5%88%9B%E4%BD%9C%E6%B8%85%E5%8D%95/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2025/09/28 [✨ V2EX 周报 本周热门主题及高赞回复 09.20-09.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## HelloGitHub
 - 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)
@@ -107,6 +110,9 @@
 
 ## 大橘和朋友们的周刊
 - 2025/08/30 [第036期 - 风语山巅](https://rrorangeandfriends.de/posts/2025/036) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## Airing's Weekly
+- 2025/08/16 [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
