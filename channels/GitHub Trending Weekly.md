@@ -1,3 +1,5 @@
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+- [Infisical/infisical](https://github.com/Infisical/infisical)
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n)
 - [directus/directus](https://github.com/directus/directus)

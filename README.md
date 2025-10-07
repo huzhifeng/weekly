@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 一周杂记
+- 2025/10/07 [一周杂记 in Week 1 Oct 2025](http://kingsamchen.github.io/2025/10/07/weekly-2025-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GitHub Trending Weekly
+- 2025/10/07 [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/07 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## CDT周报
 - 2025/10/06 [【CDT周报】第239期：先实现对内开放，再来谈对外开放](https://chinadigitaltimes.net/chinese/721662.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## DistroWatch Weekly
 - 2025/10/06 [DistroWatch Weekly, Issue 1142](https://distrowatch.com/weekly.php?issue=20251006) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/10/06 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/06 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/10/06 [Ubuntu Weekly Newsletter Issue 913](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-913/68863) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 稻草人周刊
 - 2025/10/05 [稻草人周刊 Vol. 49](https://geedea.pro/posts/weekly/49/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -57,14 +63,8 @@
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2025/09/29 [一周杂记 in Week 4 Sep 2025](http://kingsamchen.github.io/2025/09/29/weekly-2025-sep-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## AIGC Weekly
 - 2025/09/29 [AIGC Weekly #141](https://quaily.com/op7418/p/aigc-weekly-one-four-one) | [More](channels/AIGC%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/09/29 [Ubuntu Weekly Newsletter Issue 912](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-912/68413) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 拾月通讯
 - 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -86,9 +86,6 @@
 
 ## 有个问题
 - 2025/09/22 [如何理解情绪？｜人间松弛指南](https://newsletter.emmmme.com/p/emotions) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 猫鱼周刊
-- 2025/09/21 [猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2025/09/21 [棱镜通讯 No.115 高锟（Charles Kuen Kao）](https://wangyurui.com/posts/leng-jing-tong-xun-no-115-gao-kun-charles-kuen-k-71aeefc4) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
