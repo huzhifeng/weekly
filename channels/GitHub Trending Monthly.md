@@ -1,3 +1,4 @@
+- [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)

@@ -1,3 +1,4 @@
+- [microsoft/BitNet](https://github.com/microsoft/BitNet)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
 - [Infisical/infisical](https://github.com/Infisical/infisical)
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
