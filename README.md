@@ -3,17 +3,32 @@
 ## 科技爱好者周刊
 - 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2025/10/09 [科技創業週報 #502：AI 技能成為新通行證：當學歷不再是職場入門票](https://blog.starrocket.io/posts/newsletter-2025-10-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## 肖恩技术周刊
 - 2025/10/09 [肖恩技术周刊（第 64 期）：习惯驱动多数行为](https://weekly.shawnxie.top/content/2025/64.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/10/08 [第153期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/08/第153期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 胡言乱语
+- 2025/10/09 [20251009的胡言乱语](https://www.bboy.app/2025/10/09/20251009%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## AIGC Weekly
+- 2025/10/09 [AIGC Weekly #142 一网打尽国庆 AI 资讯](https://quaily.com/op7418/p/aigc-weekly-one-fourty-two-national-day-ai-news) | [More](channels/AIGC%20Weekly.md)
+
+## LWN.net Weekly Edition
+- 2025/10/09 [LWN.net Weekly Edition for October 9, 2025](https://lwn.net/Articles/1040456/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/10/09 [FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-41/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/10/08 [Infisical/infisical](https://github.com/Infisical/infisical) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/09 [Infisical/infisical](https://github.com/Infisical/infisical) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/08 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/09 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/10/08 [第153期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/08/第153期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 一周杂记
 - 2025/10/07 [一周杂记 in Week 1 Oct 2025](http://kingsamchen.github.io/2025/10/07/weekly-2025-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -54,20 +69,8 @@
 ## Self-Host Weekly
 - 2025/10/03 [Self-Host Weekly (3 October 2025)](https://selfh.st/weekly/2025-10-03/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/10/02 [科技創業週報 #501：從手機到AI裝置：我們的智慧生活將如何被改寫？](https://blog.starrocket.io/posts/newsletter-2025-10-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2025/10/02 [LWN.net Weekly Edition for October 2, 2025](https://lwn.net/Articles/1039529/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/10/02 [FOSS Weekly #25.40: Fedora 43  Features, Kernel 6.17, Zorin OS 18, Retro Gaming Setup and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-40/) | [More](channels/FOSS%20Weekly.md)
-
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## AIGC Weekly
-- 2025/09/29 [AIGC Weekly #141](https://quaily.com/op7418/p/aigc-weekly-one-four-one) | [More](channels/AIGC%20Weekly.md)
 
 ## 拾月通讯
 - 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -77,9 +80,6 @@
 
 ## HelloGitHub
 - 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)
-
-## 胡言乱语
-- 2025/09/25 [20250925的胡言乱语](https://www.bboy.app/2025/09/25/20250925%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2025/09/22 [第239期 - 山顶咖啡](https://weekly.tw93.fun/posts/239-%E5%B1%B1%E9%A1%B6%E5%92%96%E5%95%A1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)

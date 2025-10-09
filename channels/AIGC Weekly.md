@@ -1,3 +1,4 @@
+- [AIGC Weekly #142 一网打尽国庆 AI 资讯](https://quaily.com/op7418/p/aigc-weekly-one-fourty-two-national-day-ai-news)
 - [AIGC Weekly #141](https://quaily.com/op7418/p/aigc-weekly-one-four-one)
 - [AIGC Weekly #140](https://quaily.com/op7418/p/aigc-weekly-one-four-zero)
 - [AIGC Weekly #139](https://quaily.com/op7418/p/aigc-weekly-one-thirty-nine)
