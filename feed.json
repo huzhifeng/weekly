@@ -67,6 +67,12 @@
 			"url": "https://weekly.shawnxie.top/rss.xml"
 		},
 		{
+			"channel": "广林月刊",
+			"portal": "https://guonlin.xlog.app/",
+			"url": "https://guonlin.xlog.app/feed",
+			"filter": ["广林月刊", "广林周记"]
+		},
+		{
 			"channel": "奇趣周刊",
 			"portal": "https://zishu.me/categories/weekly/",
 			"url": "https://zishu.me/categories/weekly/index.xml",
