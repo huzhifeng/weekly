@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/09/26 [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/10/10 [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/10/10 [Web Review, Week 2025-41](https://ervin.ipsquad.net/blog/2025/10/10/web-review-week-2025-41/) | [More](channels/Web%20Review.md)
+
+## 二丫讲梵学习周刊
+- 2025/10/10 [学习周刊-总第232期-2025年第41周](https://wiki.eryajf.net/pages/c265c7/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2025/10/10 [#220 Exemplary Snake](https://thisweek.gnome.org/posts/2025/10/twig-220/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2025/10/10 [Self-Host Weekly (10 October 2025)](https://selfh.st/weekly/2025-10-10/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/10/10 [apache/gravitino](https://github.com/apache/gravitino) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/10 [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/10/09 [科技創業週報 #502：AI 技能成為新通行證：當學歷不再是職場入門票](https://blog.starrocket.io/posts/newsletter-2025-10-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -20,12 +38,6 @@
 
 ## FOSS Weekly
 - 2025/10/09 [FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-41/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/10/09 [Infisical/infisical](https://github.com/Infisical/infisical) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/09 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/10/08 [第153期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/08/第153期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -57,20 +69,11 @@
 ## This Week in Plasma
 - 2025/10/04 [This Week in Plasma: 6.5 beta 2](https://blogs.kde.org/2025/10/04/this-week-in-plasma-6.5-beta-2/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2025/10/03 [Web Review, Week 2025-40](https://ervin.ipsquad.net/blog/2025/10/03/web-review-week-2025-40/) | [More](channels/Web%20Review.md)
-
-## 二丫讲梵学习周刊
-- 2025/10/03 [学习周刊-总第231期-2025年第40周](https://wiki.eryajf.net/pages/58366d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## This Week in GNOME
-- 2025/10/03 [#219 Deciphering Hieroglyphs](https://thisweek.gnome.org/posts/2025/10/twig-219/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/10/03 [Self-Host Weekly (3 October 2025)](https://selfh.st/weekly/2025-10-03/) | [More](channels/Self-Host%20Weekly.md)
-
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
+## 广林月刊
+- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 拾月通讯
 - 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -86,6 +89,9 @@
 
 ## 有个问题
 - 2025/09/22 [如何理解情绪？｜人间松弛指南](https://newsletter.emmmme.com/p/emotions) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## 猫鱼周刊
+- 2025/09/21 [猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2025/09/21 [棱镜通讯 No.115 高锟（Charles Kuen Kao）](https://wangyurui.com/posts/leng-jing-tong-xun-no-115-gao-kun-charles-kuen-k-71aeefc4) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -116,6 +122,9 @@
 
 ## Pseudoyu 周报
 - 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## Raye's Journey
+- 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
