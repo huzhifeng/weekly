@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2025/10/10 [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2025/10/11 [This Week in Plasma: a massive amount of stability work for Plasma 6.5](https://blogs.kde.org/2025/10/11/this-week-in-plasma-a-massive-amount-of-stability-work-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/10/11 [Infisical/infisical](https://github.com/Infisical/infisical) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/11 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/10/10 [Web Review, Week 2025-41](https://ervin.ipsquad.net/blog/2025/10/10/web-review-week-2025-41/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +23,6 @@
 
 ## Self-Host Weekly
 - 2025/10/10 [Self-Host Weekly (10 October 2025)](https://selfh.st/weekly/2025-10-10/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/10/10 [apache/gravitino](https://github.com/apache/gravitino) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/10 [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/10/09 [科技創業週報 #502：AI 技能成為新通行證：當學歷不再是職場入門票](https://blog.starrocket.io/posts/newsletter-2025-10-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -65,9 +68,6 @@
 
 ## V2EX 周报
 - 2025/10/05 [✨ V2EX 周报 本周热门主题及高赞回复 09.27-10.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2025/10/04 [This Week in Plasma: 6.5 beta 2](https://blogs.kde.org/2025/10/04/this-week-in-plasma-6.5-beta-2/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)

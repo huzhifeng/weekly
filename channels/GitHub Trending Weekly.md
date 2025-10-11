@@ -1,3 +1,4 @@
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
 - [apache/gravitino](https://github.com/apache/gravitino)
 - [google/tunix](https://github.com/google/tunix)
 - [microsoft/BitNet](https://github.com/microsoft/BitNet)
