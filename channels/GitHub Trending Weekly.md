@@ -1,3 +1,4 @@
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
 - [apache/gravitino](https://github.com/apache/gravitino)
 - [google/tunix](https://github.com/google/tunix)

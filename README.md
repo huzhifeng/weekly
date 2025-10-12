@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2025/10/10 [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2025/10/11 [This Week in Plasma: a massive amount of stability work for Plasma 6.5](https://blogs.kde.org/2025/10/11/this-week-in-plasma-a-massive-amount-of-stability-work-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2025/10/13 [第240期 - 带娃三亚](https://weekly.tw93.fun/posts/240-%E5%B8%A6%E5%A8%83%E4%B8%89%E4%BA%9A/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/10/12 [猫鱼周刊 vol. 082 AI 遗忘国耻](https://ameow.xyz/archives/weekly-082) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 有个问题
+- 2025/10/12 [如何理解一个职业/身份？｜人间松弛指南](https://newsletter.emmmme.com/p/understand-a-profession) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## 棱镜通讯
+- 2025/10/12 [隐说 NO.10 文字的魔障](https://wangyurui.com/posts/yin-shuo-no-10-wen-zi-de-mo-zhang-c9421d90) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## V2EX 周报
+- 2025/10/12 [✨ V2EX 周报 本周热门主题及高赞回复 10.04-10.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/10/11 [Infisical/infisical](https://github.com/Infisical/infisical) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/12 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/11 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/12 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2025/10/11 [This Week in Plasma: a massive amount of stability work for Plasma 6.5](https://blogs.kde.org/2025/10/11/this-week-in-plasma-a-massive-amount-of-stability-work-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2025/10/10 [Web Review, Week 2025-41](https://ervin.ipsquad.net/blog/2025/10/10/web-review-week-2025-41/) | [More](channels/Web%20Review.md)
@@ -63,12 +78,6 @@
 ## zdyxry Weekly Issue
 - 2025/10/05 [Weekly Issue-他们可能只是心情不好](https://zdyxry.github.io/2025/10/05/Weekly-Issue-%E4%BB%96%E4%BB%AC%E5%8F%AF%E8%83%BD%E5%8F%AA%E6%98%AF%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/10/05 [9to5Linux Weekly Roundup: October 5th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-october-5th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## V2EX 周报
-- 2025/10/05 [✨ V2EX 周报 本周热门主题及高赞回复 09.27-10.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
@@ -83,18 +92,6 @@
 
 ## HelloGitHub
 - 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)
-
-## 潮流周刊
-- 2025/09/22 [第239期 - 山顶咖啡](https://weekly.tw93.fun/posts/239-%E5%B1%B1%E9%A1%B6%E5%92%96%E5%95%A1/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 有个问题
-- 2025/09/22 [如何理解情绪？｜人间松弛指南](https://newsletter.emmmme.com/p/emotions) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 猫鱼周刊
-- 2025/09/21 [猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 棱镜通讯
-- 2025/09/21 [棱镜通讯 No.115 高锟（Charles Kuen Kao）](https://wangyurui.com/posts/leng-jing-tong-xun-no-115-gao-kun-charles-kuen-k-71aeefc4) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## Taxodium
 - 2025/09/21 [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html) | [More](channels/Taxodium.md)
