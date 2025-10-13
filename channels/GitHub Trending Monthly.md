@@ -1,3 +1,4 @@
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
 - [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
