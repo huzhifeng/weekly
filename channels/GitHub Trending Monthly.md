@@ -1,3 +1,6 @@
+- [TibixDev/winboat](https://github.com/TibixDev/winboat)
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
 - [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)

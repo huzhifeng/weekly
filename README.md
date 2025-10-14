@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2025/10/10 [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2025/10/14 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/14 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/10/13 [第240期 - 带娃三亚](https://weekly.tw93.fun/posts/240-%E5%B8%A6%E5%A8%83%E4%B8%89%E4%BA%9A/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,6 +21,9 @@
 ## 更好生活
 - 2025/10/13 [博客合并 newsletter 计划](https://quaily.com/jiayifun/p/blog-merger-newsletter-plan) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
+## 试行错误
+- 2025/10/13 [比言语更深的陪伴 | 试行错误142（闲散碎碎念 10 期）](https://quaily.com/shixingcuowu/p/deeper-than-words-error-trial-142-idle-notes-10) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## 一周杂记
 - 2025/10/13 [一周杂记 in Week 2 Oct 2025](http://kingsamchen.github.io/2025/10/13/weekly-2025-oct-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -24,11 +33,8 @@
 ## DistroWatch Weekly
 - 2025/10/13 [DistroWatch Weekly, Issue 1143](https://distrowatch.com/weekly.php?issue=20251013) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/10/13 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/13 [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/10/13 [Ubuntu Weekly Newsletter Issue 914](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-914/69529) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/10/12 [猫鱼周刊 vol. 082 AI 遗忘国耻](https://ameow.xyz/archives/weekly-082) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -81,9 +87,6 @@
 ## 偷懒爱好者周刊
 - 2025/10/08 [第153期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/08/第153期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Ubuntu Weekly Newsletter
-- 2025/10/06 [Ubuntu Weekly Newsletter Issue 913](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-913/68863) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
@@ -92,9 +95,6 @@
 
 ## 拾月通讯
 - 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## 试行错误
-- 2025/09/28 [不要养成下意识去怪责对方的习惯｜🥫阅读罐头（8 月刊）](https://quaily.com/shixingcuowu/p/dont-fall-into-the-habit-of-blaming-others-reading-can-8) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## HelloGitHub
 - 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)

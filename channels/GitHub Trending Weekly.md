@@ -1,3 +1,4 @@
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat)
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
