@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2025/10/10 [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/10/15 [第154期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/15/第154期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/10/14 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/15 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/14 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/15 [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/10/13 [第240期 - 带娃三亚](https://weekly.tw93.fun/posts/240-%E5%B8%A6%E5%A8%83%E4%B8%89%E4%BA%9A/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -83,9 +86,6 @@
 
 ## FOSS Weekly
 - 2025/10/09 [FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-41/) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2025/10/08 [第153期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/08/第153期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
