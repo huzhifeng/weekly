@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.42: Hyprland Controversy, German State with Open Source, New Flatpak App Center and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-42/)
 - [FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-41/)
 - [FOSS Weekly #25.40: Fedora 43  Features, Kernel 6.17, Zorin OS 18, Retro Gaming Setup and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-40/)
 - [FOSS Weekly #25.39: Kill Switch Phones, LMDE 7, Zorin OS 18 Beta, Polybar, Apt History and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-39/)

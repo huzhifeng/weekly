@@ -1,3 +1,4 @@
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat)
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang)

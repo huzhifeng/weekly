@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2025/10/10 [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/10/15 [第154期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/15/第154期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/10/16 [科技創業週報 #503：AI 也會「被說服」？從一句恭維話，我們窺見了人工智慧的脆弱心智](https://blog.starrocket.io/posts/newsletter-2025-10-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/10/16 [学习周刊-总第233期-2025年第42周](https://wiki.eryajf.net/pages/3be804/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/10/16 [LWN.net Weekly Edition for October 16, 2025](https://lwn.net/Articles/1041303/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/10/16 [FOSS Weekly #25.42: Hyprland Controversy, German State with Open Source, New Flatpak App Center and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-42/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/10/15 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/16 [nitrojs/nitro](https://github.com/nitrojs/nitro) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/15 [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/16 [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/10/15 [第154期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/15/第154期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/10/13 [第240期 - 带娃三亚](https://weekly.tw93.fun/posts/240-%E5%B8%A6%E5%A8%83%E4%B8%89%E4%BA%9A/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,9 +63,6 @@
 ## zdyxry Weekly Issue
 - 2025/10/12 [Weekly Issue-《芯片制造：光刻巨头 ASML 传奇之路》](https://zdyxry.github.io/2025/10/12/Weekly-Issue-%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%85%89%E5%88%BB%E5%B7%A8%E5%A4%B4-ASML-%E4%BC%A0%E5%A5%87%E4%B9%8B%E8%B7%AF/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/10/12 [9to5Linux Weekly Roundup: October 12th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-october-12th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## V2EX 周报
 - 2025/10/12 [✨ V2EX 周报 本周热门主题及高赞回复 10.04-10.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -63,29 +72,17 @@
 ## Web Review
 - 2025/10/10 [Web Review, Week 2025-41](https://ervin.ipsquad.net/blog/2025/10/10/web-review-week-2025-41/) | [More](channels/Web%20Review.md)
 
-## 二丫讲梵学习周刊
-- 2025/10/10 [学习周刊-总第232期-2025年第41周](https://wiki.eryajf.net/pages/c265c7/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in GNOME
 - 2025/10/10 [#220 Exemplary Snake](https://thisweek.gnome.org/posts/2025/10/twig-220/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2025/10/10 [Self-Host Weekly (10 October 2025)](https://selfh.st/weekly/2025-10-10/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/10/09 [科技創業週報 #502：AI 技能成為新通行證：當學歷不再是職場入門票](https://blog.starrocket.io/posts/newsletter-2025-10-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 肖恩技术周刊
 - 2025/10/09 [肖恩技术周刊（第 64 期）：习惯驱动多数行为](https://weekly.shawnxie.top/content/2025/64.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2025/10/09 [AIGC Weekly #142 一网打尽国庆 AI 资讯](https://quaily.com/op7418/p/aigc-weekly-one-fourty-two-national-day-ai-news) | [More](channels/AIGC%20Weekly.md)
-
-## LWN.net Weekly Edition
-- 2025/10/09 [LWN.net Weekly Edition for October 9, 2025](https://lwn.net/Articles/1040456/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/10/09 [FOSS Weekly #25.41: Windows 11 Fiasco, Ubuntu 25.10 Releasing, Joplin Tips, NeoVim Journals and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-41/) | [More](channels/FOSS%20Weekly.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
