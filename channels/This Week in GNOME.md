@@ -1,3 +1,4 @@
+- [#221 Virus Season](https://thisweek.gnome.org/posts/2025/10/twig-221/)
 - [#220 Exemplary Snake](https://thisweek.gnome.org/posts/2025/10/twig-220/)
 - [#219 Deciphering Hieroglyphs](https://thisweek.gnome.org/posts/2025/10/twig-219/)
 - [#218 Adaptive Sidebars](https://thisweek.gnome.org/posts/2025/09/twig-218/)
