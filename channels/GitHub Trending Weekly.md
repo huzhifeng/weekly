@@ -1,3 +1,4 @@
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 - [nitrojs/nitro](https://github.com/nitrojs/nitro)
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web)

@@ -1,3 +1,4 @@
+- [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/)
 - [This Week in Plasma: a massive amount of stability work for Plasma 6.5](https://blogs.kde.org/2025/10/11/this-week-in-plasma-a-massive-amount-of-stability-work-for-plasma-6.5/)
 - [This Week in Plasma: 6.5 beta 2](https://blogs.kde.org/2025/10/04/this-week-in-plasma-6.5-beta-2/)
 - [This Week in Plasma: lots and lots of bug-fixing for Plasma 6.5!](https://blogs.kde.org/2025/09/27/this-week-in-plasma-lots-and-lots-of-bug-fixing-for-plasma-6.5/)

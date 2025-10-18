@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2025/10/17 [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2025/10/18 [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/10/18 [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/18 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/10/17 [Web Review, Week 2025-42](https://ervin.ipsquad.net/blog/2025/10/17/web-review-week-2025-42/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +20,6 @@
 
 ## Self-Host Weekly
 - 2025/10/17 [Self-Host Weekly (17 October 2025)](https://selfh.st/weekly/2025-10-17/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/10/17 [nitrojs/nitro](https://github.com/nitrojs/nitro) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/17 [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/10/16 [科技創業週報 #503：AI 也會「被說服」？從一句恭維話，我們窺見了人工智慧的脆弱心智](https://blog.starrocket.io/posts/newsletter-2025-10-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -74,9 +77,6 @@
 
 ## V2EX 周报
 - 2025/10/12 [✨ V2EX 周报 本周热门主题及高赞回复 10.04-10.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2025/10/11 [This Week in Plasma: a massive amount of stability work for Plasma 6.5](https://blogs.kde.org/2025/10/11/this-week-in-plasma-a-massive-amount-of-stability-work-for-plasma-6.5/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 肖恩技术周刊
 - 2025/10/09 [肖恩技术周刊（第 64 期）：习惯驱动多数行为](https://weekly.shawnxie.top/content/2025/64.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
