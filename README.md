@@ -3,14 +3,32 @@
 ## 科技爱好者周刊
 - 2025/10/17 [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2025/10/18 [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2025/10/20 [第241期 - 经过长沙](https://weekly.tw93.fun/posts/241/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2025/10/20 [肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！](https://weekly.shawnxie.top/content/2025/66.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/10/19 [猫鱼周刊 vol. 083 扫街友好城市](https://ameow.xyz/archives/weekly-083) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 我脑袋里的怪东西
+- 2025/10/19 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
+
+## 棱镜通讯
+- 2025/10/19 [棱镜通讯 No.116 诺兰·布什内尔（Nolan Bushnell）](https://wangyurui.com/posts/leng-jing-tong-xun-no-116-2f55ee50) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## V2EX 周报
+- 2025/10/19 [✨ V2EX 周报 本周热门主题及高赞回复 10.11-10.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/10/18 [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/19 [nitrojs/nitro](https://github.com/nitrojs/nitro) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/18 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/19 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2025/10/18 [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2025/10/17 [Web Review, Week 2025-42](https://ervin.ipsquad.net/blog/2025/10/17/web-review-week-2025-42/) | [More](channels/Web%20Review.md)
@@ -36,9 +54,6 @@
 ## 偷懒爱好者周刊
 - 2025/10/15 [第154期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/15/第154期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2025/10/13 [第240期 - 带娃三亚](https://weekly.tw93.fun/posts/240-%E5%B8%A6%E5%A8%83%E4%B8%89%E4%BA%9A/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/10/13 [稻草人周刊 Vol.50](https://geedea.pro/posts/weekly/50/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -63,23 +78,11 @@
 ## Ubuntu Weekly Newsletter
 - 2025/10/13 [Ubuntu Weekly Newsletter Issue 914](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-914/69529) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/10/12 [猫鱼周刊 vol. 082 AI 遗忘国耻](https://ameow.xyz/archives/weekly-082) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 有个问题
 - 2025/10/12 [如何理解一个职业/身份？｜人间松弛指南](https://newsletter.emmmme.com/p/understand-a-profession) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
-## 棱镜通讯
-- 2025/10/12 [隐说 NO.10 文字的魔障](https://wangyurui.com/posts/yin-shuo-no-10-wen-zi-de-mo-zhang-c9421d90) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## zdyxry Weekly Issue
 - 2025/10/12 [Weekly Issue-《芯片制造：光刻巨头 ASML 传奇之路》](https://zdyxry.github.io/2025/10/12/Weekly-Issue-%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%85%89%E5%88%BB%E5%B7%A8%E5%A4%B4-ASML-%E4%BC%A0%E5%A5%87%E4%B9%8B%E8%B7%AF/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2025/10/12 [✨ V2EX 周报 本周热门主题及高赞回复 10.04-10.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## 肖恩技术周刊
-- 2025/10/09 [肖恩技术周刊（第 64 期）：习惯驱动多数行为](https://weekly.shawnxie.top/content/2025/64.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2025/10/09 [AIGC Weekly #142 一网打尽国庆 AI 资讯](https://quaily.com/op7418/p/aigc-weekly-one-fourty-two-national-day-ai-news) | [More](channels/AIGC%20Weekly.md)
@@ -101,9 +104,6 @@
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 我脑袋里的怪东西
-- 2025/09/07 [我脑袋里的怪东西 37 - 液体内容，AI 时代的一种出路](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-liquid-content-ai-era-way) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
 ## 视野修炼
 - 2025/08/31 [视野修炼第125期 | nano-banana](https://sugarat.top/weekly/2025-08-30.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -128,7 +128,4 @@
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
-
-## 壹苇可航
-- 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
