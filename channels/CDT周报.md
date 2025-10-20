@@ -1,3 +1,4 @@
+- [【CDT周报】第241期：小米法务部：将以零容忍态度强化舆情监控](https://chinadigitaltimes.net/chinese/721985.html)
 - [【CDT周报】第240期：从能公开讨论诺奖、顺利访问诺奖官网开始](https://chinadigitaltimes.net/chinese/721809.html)
 - [【CDT周报】第239期：先实现对内开放，再来谈对外开放](https://chinadigitaltimes.net/chinese/721662.html)
 - [【CDT周报】第238期：奴隶要是都没有了，奴隶主还怎么当呢？](https://chinadigitaltimes.net/chinese/721518.html)

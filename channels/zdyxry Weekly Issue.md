@@ -1,3 +1,4 @@
+- [Weekly Issue-《活下去的理由》](https://zdyxry.github.io/2025/10/19/Weekly-Issue-%E6%B4%BB%E4%B8%8B%E5%8E%BB%E7%9A%84%E7%90%86%E7%94%B1/)
 - [Weekly Issue-《芯片制造：光刻巨头 ASML 传奇之路》](https://zdyxry.github.io/2025/10/12/Weekly-Issue-%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%85%89%E5%88%BB%E5%B7%A8%E5%A4%B4-ASML-%E4%BC%A0%E5%A5%87%E4%B9%8B%E8%B7%AF/)
 - [Weekly Issue-他们可能只是心情不好](https://zdyxry.github.io/2025/10/05/Weekly-Issue-%E4%BB%96%E4%BB%AC%E5%8F%AF%E8%83%BD%E5%8F%AA%E6%98%AF%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD/)
 - [Weekly Issue-笑果创作清单](https://zdyxry.github.io/2025/09/28/Weekly-Issue-%E7%AC%91%E6%9E%9C%E5%88%9B%E4%BD%9C%E6%B8%85%E5%8D%95/)

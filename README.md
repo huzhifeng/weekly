@@ -9,6 +9,30 @@
 ## 肖恩技术周刊
 - 2025/10/20 [肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！](https://weekly.shawnxie.top/content/2025/66.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2025/10/20 [稻草人周刊 Vol. 51](https://geedea.pro/posts/weekly/51/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/10/20 [【CDT周报】第241期：小米法务部：将以零容忍态度强化舆情监控](https://chinadigitaltimes.net/chinese/721985.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 有个问题
+- 2025/10/20 [28. 为什么重要的事情会被忘掉？](https://newsletter.emmmme.com/p/important-but-forgotten) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## Pseudoyu 周报
+- 2025/10/20 [周报 #101 - 消失了三个月，我的生活发生了什么变化](https://www.pseudoyu.com/posts/weekly_review_101) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2025/10/20 [AIGC Weekly #143](https://quaily.com/op7418/p/aigc-weekly-ou909hjx) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/10/20 [DistroWatch Weekly, Issue 1144](https://distrowatch.com/weekly.php?issue=20251020) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/10/20 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/20 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/10/19 [猫鱼周刊 vol. 083 扫街友好城市](https://ameow.xyz/archives/weekly-083) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -18,14 +42,14 @@
 ## 棱镜通讯
 - 2025/10/19 [棱镜通讯 No.116 诺兰·布什内尔（Nolan Bushnell）](https://wangyurui.com/posts/leng-jing-tong-xun-no-116-2f55ee50) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## zdyxry Weekly Issue
+- 2025/10/19 [Weekly Issue-《活下去的理由》](https://zdyxry.github.io/2025/10/19/Weekly-Issue-%E6%B4%BB%E4%B8%8B%E5%8E%BB%E7%9A%84%E7%90%86%E7%94%B1/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/10/19 [9to5Linux Weekly Roundup: October 19th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-october-19th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
 ## V2EX 周报
 - 2025/10/19 [✨ V2EX 周报 本周热门主题及高赞回复 10.11-10.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2025/10/19 [nitrojs/nitro](https://github.com/nitrojs/nitro) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/19 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2025/10/18 [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -54,12 +78,6 @@
 ## 偷懒爱好者周刊
 - 2025/10/15 [第154期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/15/第154期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/10/13 [稻草人周刊 Vol.50](https://geedea.pro/posts/weekly/50/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/10/13 [【CDT周报】第240期：从能公开讨论诺奖、顺利访问诺奖官网开始](https://chinadigitaltimes.net/chinese/721809.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 更好生活
 - 2025/10/13 [博客合并 newsletter 计划](https://quaily.com/jiayifun/p/blog-merger-newsletter-plan) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -72,20 +90,8 @@
 ## 胡言乱语
 - 2025/10/13 [20251013的胡言乱语](https://www.bboy.app/2025/10/13/20251013%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## DistroWatch Weekly
-- 2025/10/13 [DistroWatch Weekly, Issue 1143](https://distrowatch.com/weekly.php?issue=20251013) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/10/13 [Ubuntu Weekly Newsletter Issue 914](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-914/69529) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 有个问题
-- 2025/10/12 [如何理解一个职业/身份？｜人间松弛指南](https://newsletter.emmmme.com/p/understand-a-profession) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## zdyxry Weekly Issue
-- 2025/10/12 [Weekly Issue-《芯片制造：光刻巨头 ASML 传奇之路》](https://zdyxry.github.io/2025/10/12/Weekly-Issue-%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%85%89%E5%88%BB%E5%B7%A8%E5%A4%B4-ASML-%E4%BC%A0%E5%A5%87%E4%B9%8B%E8%B7%AF/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2025/10/09 [AIGC Weekly #142 一网打尽国庆 AI 资讯](https://quaily.com/op7418/p/aigc-weekly-one-fourty-two-national-day-ai-news) | [More](channels/AIGC%20Weekly.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -116,9 +122,6 @@
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
-
-## Pseudoyu 周报
-- 2025/08/05 [周报 #100 - 过去这十年](https://www.pseudoyu.com/posts/weekly_review_100) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## Raye's Journey
 - 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
