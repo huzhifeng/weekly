@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/10/17 [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 胡言乱语
+- 2025/10/21 [20251021的胡言乱语](https://www.bboy.app/2025/10/21/20251021%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/10/21 [Ubuntu Weekly Newsletter Issue 915](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-915/70261) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/10/21 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/21 [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/10/20 [第241期 - 经过长沙](https://weekly.tw93.fun/posts/241/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -18,20 +30,20 @@
 ## 有个问题
 - 2025/10/20 [28. 为什么重要的事情会被忘掉？](https://newsletter.emmmme.com/p/important-but-forgotten) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
+## 试行错误
+- 2025/10/20 [先待在一起，自然有沟通｜🥫阅读罐头（9 月刊）](https://quaily.com/shixingcuowu/p/stay-together-communication-read-canned-september) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## Pseudoyu 周报
 - 2025/10/20 [周报 #101 - 消失了三个月，我的生活发生了什么变化](https://www.pseudoyu.com/posts/weekly_review_101) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/10/20 [一周杂记 in Week 3 Oct 2025](http://kingsamchen.github.io/2025/10/20/weekly-2025-oct-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2025/10/20 [AIGC Weekly #143](https://quaily.com/op7418/p/aigc-weekly-ou909hjx) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2025/10/20 [DistroWatch Weekly, Issue 1144](https://distrowatch.com/weekly.php?issue=20251020) | [More](channels/DistroWatch%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/10/20 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/20 [TibixDev/winboat](https://github.com/TibixDev/winboat) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2025/10/19 [猫鱼周刊 vol. 083 扫街友好城市](https://ameow.xyz/archives/weekly-083) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -80,18 +92,6 @@
 
 ## 更好生活
 - 2025/10/13 [博客合并 newsletter 计划](https://quaily.com/jiayifun/p/blog-merger-newsletter-plan) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## 试行错误
-- 2025/10/13 [比言语更深的陪伴 | 试行错误142（闲散碎碎念 10 期）](https://quaily.com/shixingcuowu/p/deeper-than-words-error-trial-142-idle-notes-10) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 一周杂记
-- 2025/10/13 [一周杂记 in Week 2 Oct 2025](http://kingsamchen.github.io/2025/10/13/weekly-2025-oct-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## 胡言乱语
-- 2025/10/13 [20251013的胡言乱语](https://www.bboy.app/2025/10/13/20251013%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/10/13 [Ubuntu Weekly Newsletter Issue 914](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-914/69529) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
