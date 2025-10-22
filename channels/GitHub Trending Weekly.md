@@ -1,3 +1,6 @@
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [microsoft/terminal](https://github.com/microsoft/terminal)
 - [volcengine/MineContext](https://github.com/volcengine/MineContext)
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)

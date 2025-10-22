@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2025/10/17 [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Taxodium
+- 2025/10/22 [Zine#43 - 桌面变形记](https://taxodium.ink/43.html) | [More](channels/Taxodium.md)
+
+## 偷懒爱好者周刊
+- 2025/10/22 [第155期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/22/第155期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/10/22 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/22 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 胡言乱语
 - 2025/10/21 [20251021的胡言乱语](https://www.bboy.app/2025/10/21/20251021%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/10/21 [Ubuntu Weekly Newsletter Issue 915](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-915/70261) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/10/21 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/21 [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/10/20 [第241期 - 经过长沙](https://weekly.tw93.fun/posts/241/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -87,9 +93,6 @@
 ## FOSS Weekly
 - 2025/10/16 [FOSS Weekly #25.42: Hyprland Controversy, German State with Open Source, New Flatpak App Center and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-42/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/10/15 [第154期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/15/第154期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 更好生活
 - 2025/10/13 [博客合并 newsletter 计划](https://quaily.com/jiayifun/p/blog-merger-newsletter-plan) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -104,9 +107,6 @@
 
 ## HelloGitHub
 - 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)
-
-## Taxodium
-- 2025/09/21 [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html) | [More](channels/Taxodium.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
