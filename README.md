@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2025/10/17 [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2025/10/23 [科技創業週報 #504：AI 正在扼殺你的創意，解藥可能只是一句話](https://blog.starrocket.io/posts/newsletter-2025-10-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/10/23 [学习周刊-总第234期-2025年第43周](https://wiki.eryajf.net/pages/1bdec0/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/10/23 [LWN.net Weekly Edition for October 23, 2025](https://lwn.net/Articles/1042221/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/10/23 [FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-43/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/10/23 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/23 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Taxodium
 - 2025/10/22 [Zine#43 - 桌面变形记](https://taxodium.ink/43.html) | [More](channels/Taxodium.md)
 
 ## 偷懒爱好者周刊
 - 2025/10/22 [第155期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/22/第155期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2025/10/22 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/22 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 胡言乱语
 - 2025/10/21 [20251021的胡言乱语](https://www.bboy.app/2025/10/21/20251021%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -51,9 +63,6 @@
 ## DistroWatch Weekly
 - 2025/10/20 [DistroWatch Weekly, Issue 1144](https://distrowatch.com/weekly.php?issue=20251020) | [More](channels/DistroWatch%20Weekly.md)
 
-## 猫鱼周刊
-- 2025/10/19 [猫鱼周刊 vol. 083 扫街友好城市](https://ameow.xyz/archives/weekly-083) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 我脑袋里的怪东西
 - 2025/10/19 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
@@ -80,18 +89,6 @@
 
 ## Self-Host Weekly
 - 2025/10/17 [Self-Host Weekly (17 October 2025)](https://selfh.st/weekly/2025-10-17/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2025/10/16 [科技創業週報 #503：AI 也會「被說服」？從一句恭維話，我們窺見了人工智慧的脆弱心智](https://blog.starrocket.io/posts/newsletter-2025-10-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/10/16 [学习周刊-总第233期-2025年第42周](https://wiki.eryajf.net/pages/3be804/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/10/16 [LWN.net Weekly Edition for October 16, 2025](https://lwn.net/Articles/1041303/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/10/16 [FOSS Weekly #25.42: Hyprland Controversy, German State with Open Source, New Flatpak App Center and a Lot More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-42/) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2025/10/13 [博客合并 newsletter 计划](https://quaily.com/jiayifun/p/blog-merger-newsletter-plan) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
