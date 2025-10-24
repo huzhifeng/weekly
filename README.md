@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/10/17 [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/10/24 [科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 潮流周刊
+- 2025/10/27 [第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/10/24 [Web Review, Week 2025-43](https://ervin.ipsquad.net/blog/2025/10/24/web-review-week-2025-43/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/10/24 [#222 Trip Notifications](https://thisweek.gnome.org/posts/2025/10/twig-222/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2025/10/24 [Self-Host Weekly (24 October 2025)](https://selfh.st/weekly/2025-10-24/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/10/24 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/24 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/10/23 [科技創業週報 #504：AI 正在扼殺你的創意，解藥可能只是一句話](https://blog.starrocket.io/posts/newsletter-2025-10-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -15,12 +33,6 @@
 ## FOSS Weekly
 - 2025/10/23 [FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-43/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/10/23 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/23 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## Taxodium
 - 2025/10/22 [Zine#43 - 桌面变形记](https://taxodium.ink/43.html) | [More](channels/Taxodium.md)
 
@@ -32,9 +44,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/10/21 [Ubuntu Weekly Newsletter Issue 915](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-915/70261) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 潮流周刊
-- 2025/10/20 [第241期 - 经过长沙](https://weekly.tw93.fun/posts/241/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 肖恩技术周刊
 - 2025/10/20 [肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！](https://weekly.shawnxie.top/content/2025/66.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -80,15 +89,6 @@
 
 ## This Week in Plasma
 - 2025/10/18 [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2025/10/17 [Web Review, Week 2025-42](https://ervin.ipsquad.net/blog/2025/10/17/web-review-week-2025-42/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/10/17 [#221 Virus Season](https://thisweek.gnome.org/posts/2025/10/twig-221/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/10/17 [Self-Host Weekly (17 October 2025)](https://selfh.st/weekly/2025-10-17/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 更好生活
 - 2025/10/13 [博客合并 newsletter 计划](https://quaily.com/jiayifun/p/blog-merger-newsletter-plan) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

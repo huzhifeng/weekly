@@ -1,3 +1,4 @@
+- [Self-Host Weekly (24 October 2025)](https://selfh.st/weekly/2025-10-24/)
 - [Self-Host Weekly (17 October 2025)](https://selfh.st/weekly/2025-10-17/)
 - [Self-Host Weekly (10 October 2025)](https://selfh.st/weekly/2025-10-10/)
 - [Self-Host Weekly (3 October 2025)](https://selfh.st/weekly/2025-10-03/)
