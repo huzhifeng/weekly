@@ -1,3 +1,4 @@
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 - [minio/minio](https://github.com/minio/minio)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)

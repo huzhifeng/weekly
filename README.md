@@ -6,6 +6,18 @@
 ## 潮流周刊
 - 2025/10/27 [第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 更好生活
+- 2025/10/25 [千粉 UP 主的拍剪设备清单：9 个高性价比好物](https://quaily.com/jiayifun/p/video-shoot-edit-gear) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## This Week in Plasma
+- 2025/10/25 [This Week in Plasma: Plasma 6.5 is here!](https://blogs.kde.org/2025/10/25/this-week-in-plasma-plasma-6.5-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/10/25 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/25 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/10/24 [Web Review, Week 2025-43](https://ervin.ipsquad.net/blog/2025/10/24/web-review-week-2025-43/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +26,6 @@
 
 ## Self-Host Weekly
 - 2025/10/24 [Self-Host Weekly (24 October 2025)](https://selfh.st/weekly/2025-10-24/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/10/24 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/24 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/10/23 [科技創業週報 #504：AI 正在扼殺你的創意，解藥可能只是一句話](https://blog.starrocket.io/posts/newsletter-2025-10-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -49,7 +55,7 @@
 - 2025/10/20 [肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！](https://weekly.shawnxie.top/content/2025/66.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
-- 2025/10/20 [稻草人周刊 Vol. 51](https://geedea.pro/posts/weekly/51/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+- 2025/10/20 [稻草人周刊 Vol. 51](https://www.geedea.pro/posts/weekly/51/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/10/20 [【CDT周报】第241期：小米法务部：将以零容忍态度强化舆情监控](https://chinadigitaltimes.net/chinese/721985.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -86,12 +92,6 @@
 
 ## V2EX 周报
 - 2025/10/19 [✨ V2EX 周报 本周热门主题及高赞回复 10.11-10.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2025/10/18 [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## 更好生活
-- 2025/10/13 [博客合并 newsletter 计划](https://quaily.com/jiayifun/p/blog-merger-newsletter-plan) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
