@@ -6,17 +6,29 @@
 ## 潮流周刊
 - 2025/10/27 [第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 猫鱼周刊
+- 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 稻草人周刊
+- 2025/10/26 [稻草人周刊 Vol. 52](https://www.geedea.pro/posts/weekly/52/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/10/26 [9to5Linux Weekly Roundup: October 26th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-october-26th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2025/10/26 [✨ V2EX 周报 本周热门主题及高赞回复 10.18-10.24](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/10/26 [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/26 [nextcloud/server](https://github.com/nextcloud/server) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 更好生活
 - 2025/10/25 [千粉 UP 主的拍剪设备清单：9 个高性价比好物](https://quaily.com/jiayifun/p/video-shoot-edit-gear) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## This Week in Plasma
 - 2025/10/25 [This Week in Plasma: Plasma 6.5 is here!](https://blogs.kde.org/2025/10/25/this-week-in-plasma-plasma-6.5-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2025/10/25 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/25 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/10/24 [Web Review, Week 2025-43](https://ervin.ipsquad.net/blog/2025/10/24/web-review-week-2025-43/) | [More](channels/Web%20Review.md)
@@ -54,9 +66,6 @@
 ## 肖恩技术周刊
 - 2025/10/20 [肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！](https://weekly.shawnxie.top/content/2025/66.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/10/20 [稻草人周刊 Vol. 51](https://www.geedea.pro/posts/weekly/51/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/10/20 [【CDT周报】第241期：小米法务部：将以零容忍态度强化舆情监控](https://chinadigitaltimes.net/chinese/721985.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -86,12 +95,6 @@
 
 ## zdyxry Weekly Issue
 - 2025/10/19 [Weekly Issue-《活下去的理由》](https://zdyxry.github.io/2025/10/19/Weekly-Issue-%E6%B4%BB%E4%B8%8B%E5%8E%BB%E7%9A%84%E7%90%86%E7%94%B1/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/10/19 [9to5Linux Weekly Roundup: October 19th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-october-19th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## V2EX 周报
-- 2025/10/19 [✨ V2EX 周报 本周热门主题及高赞回复 10.11-10.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -128,4 +131,7 @@
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
+
+## 壹苇可航
+- 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 

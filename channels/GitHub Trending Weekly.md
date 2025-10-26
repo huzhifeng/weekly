@@ -1,3 +1,4 @@
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 - [minio/minio](https://github.com/minio/minio)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
