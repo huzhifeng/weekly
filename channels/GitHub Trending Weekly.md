@@ -1,3 +1,5 @@
+- [karpathy/micrograd](https://github.com/karpathy/micrograd)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 - [minio/minio](https://github.com/minio/minio)

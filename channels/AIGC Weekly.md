@@ -1,3 +1,4 @@
+- [AIGC Weekly #144 续订 7 折优惠开始](https://quaily.com/op7418/p/aigc-weekly-fourteen-four-renewal-discount-starts)
 - [AIGC Weekly #143](https://quaily.com/op7418/p/aigc-weekly-ou909hjx)
 - [AIGC Weekly #142 一网打尽国庆 AI 资讯](https://quaily.com/op7418/p/aigc-weekly-one-fourty-two-national-day-ai-news)
 - [AIGC Weekly #141](https://quaily.com/op7418/p/aigc-weekly-one-four-one)

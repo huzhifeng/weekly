@@ -6,23 +6,44 @@
 ## 潮流周刊
 - 2025/10/27 [第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/10/27 [【CDT周报】第242期：好一个没办法，那你们存在的意义何在？](https://chinadigitaltimes.net/chinese/722144.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Pseudoyu 周报
+- 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/10/27 [一周杂记 in Week 4 Oct 2025](http://kingsamchen.github.io/2025/10/27/weekly-2025-oct-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/10/27 [AIGC Weekly #144 续订 7 折优惠开始](https://quaily.com/op7418/p/aigc-weekly-fourteen-four-renewal-discount-starts) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/10/27 [DistroWatch Weekly, Issue 1145](https://distrowatch.com/weekly.php?issue=20251027) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/10/27 [Ubuntu Weekly Newsletter Issue 916](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-916/71163) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/10/27 [karpathy/micrograd](https://github.com/karpathy/micrograd) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/27 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/10/26 [稻草人周刊 Vol. 52](https://www.geedea.pro/posts/weekly/52/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
+## zdyxry Weekly Issue
+- 2025/10/26 [Weekly Issue-伪连接的时代](https://zdyxry.github.io/2025/10/26/Weekly-Issue-%E4%BC%AA%E8%BF%9E%E6%8E%A5%E7%9A%84%E6%97%B6%E4%BB%A3/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## 9to5Linux Weekly Roundup
 - 2025/10/26 [9to5Linux Weekly Roundup: October 26th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-october-26th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2025/10/26 [✨ V2EX 周报 本周热门主题及高赞回复 10.18-10.24](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2025/10/26 [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/26 [nextcloud/server](https://github.com/nextcloud/server) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 更好生活
 - 2025/10/25 [千粉 UP 主的拍剪设备清单：9 个高性价比好物](https://quaily.com/jiayifun/p/video-shoot-edit-gear) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -60,14 +81,8 @@
 ## 胡言乱语
 - 2025/10/21 [20251021的胡言乱语](https://www.bboy.app/2025/10/21/20251021%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## Ubuntu Weekly Newsletter
-- 2025/10/21 [Ubuntu Weekly Newsletter Issue 915](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-915/70261) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 肖恩技术周刊
 - 2025/10/20 [肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！](https://weekly.shawnxie.top/content/2025/66.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/10/20 [【CDT周报】第241期：小米法务部：将以零容忍态度强化舆情监控](https://chinadigitaltimes.net/chinese/721985.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 有个问题
 - 2025/10/20 [28. 为什么重要的事情会被忘掉？](https://newsletter.emmmme.com/p/important-but-forgotten) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -75,26 +90,11 @@
 ## 试行错误
 - 2025/10/20 [先待在一起，自然有沟通｜🥫阅读罐头（9 月刊）](https://quaily.com/shixingcuowu/p/stay-together-communication-read-canned-september) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## Pseudoyu 周报
-- 2025/10/20 [周报 #101 - 消失了三个月，我的生活发生了什么变化](https://www.pseudoyu.com/posts/weekly_review_101) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2025/10/20 [一周杂记 in Week 3 Oct 2025](http://kingsamchen.github.io/2025/10/20/weekly-2025-oct-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2025/10/20 [AIGC Weekly #143](https://quaily.com/op7418/p/aigc-weekly-ou909hjx) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/10/20 [DistroWatch Weekly, Issue 1144](https://distrowatch.com/weekly.php?issue=20251020) | [More](channels/DistroWatch%20Weekly.md)
-
 ## 我脑袋里的怪东西
 - 2025/10/19 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
 ## 棱镜通讯
 - 2025/10/19 [棱镜通讯 No.116 诺兰·布什内尔（Nolan Bushnell）](https://wangyurui.com/posts/leng-jing-tong-xun-no-116-2f55ee50) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## zdyxry Weekly Issue
-- 2025/10/19 [Weekly Issue-《活下去的理由》](https://zdyxry.github.io/2025/10/19/Weekly-Issue-%E6%B4%BB%E4%B8%8B%E5%8E%BB%E7%9A%84%E7%90%86%E7%94%B1/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
