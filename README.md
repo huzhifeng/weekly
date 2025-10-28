@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/10/24 [科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/10/29 [第156期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/29/第156期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## HelloGitHub
+- 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)
+
+## GitHub Trending Weekly
+- 2025/10/28 [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/10/28 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/10/27 [第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,6 +27,9 @@
 ## 一周杂记
 - 2025/10/27 [一周杂记 in Week 4 Oct 2025](http://kingsamchen.github.io/2025/10/27/weekly-2025-oct-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
+## Raye's Journey
+- 2025/10/27 [周报#40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost/%E5%91%A8%E6%8A%A540-%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%B8%8E%E6%97%A5%E8%90%BD/) | [More](channels/Raye%27s%20Journey.md)
+
 ## AIGC Weekly
 - 2025/10/27 [AIGC Weekly #144 续订 7 折优惠开始](https://quaily.com/op7418/p/aigc-weekly-fourteen-four-renewal-discount-starts) | [More](channels/AIGC%20Weekly.md)
 
@@ -23,12 +38,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/10/27 [Ubuntu Weekly Newsletter Issue 916](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-916/71163) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/10/27 [karpathy/micrograd](https://github.com/karpathy/micrograd) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/27 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -75,9 +84,6 @@
 ## Taxodium
 - 2025/10/22 [Zine#43 - 桌面变形记](https://taxodium.ink/43.html) | [More](channels/Taxodium.md)
 
-## 偷懒爱好者周刊
-- 2025/10/22 [第155期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/22/第155期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 胡言乱语
 - 2025/10/21 [20251021的胡言乱语](https://www.bboy.app/2025/10/21/20251021%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -105,9 +111,6 @@
 ## 拾月通讯
 - 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
-## HelloGitHub
-- 2025/09/27 [HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114) | [More](channels/HelloGitHub.md)
-
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
@@ -122,9 +125,6 @@
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
-
-## Raye's Journey
-- 2025/07/06 [周报#37 重新拾起的写作](https://xlog.app/api/redirection?characterId=51803&noteId=1870) | [More](channels/Raye%27s%20Journey.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
