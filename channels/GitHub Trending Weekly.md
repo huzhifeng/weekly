@@ -1,3 +1,5 @@
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+- [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)
 - [karpathy/micrograd](https://github.com/karpathy/micrograd)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)

@@ -1,3 +1,5 @@
+- [cjpais/Handy](https://github.com/cjpais/Handy)
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [nextcloud/server](https://github.com/nextcloud/server)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
 - [google-agentic-commerce/AP2](https://github.com/google-agentic-commerce/AP2)

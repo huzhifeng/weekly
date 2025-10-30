@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2025/10/24 [科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/10/29 [第156期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/29/第156期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/10/30 [科技創業週報 #505：你還在「搜尋」嗎？AI 瀏覽器已經開始幫你「思考」了](https://blog.starrocket.io/posts/newsletter-2025-10-29/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## Raye's Journey
+- 2025/10/30 [周报40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost40/) | [More](channels/Raye%27s%20Journey.md)
+
+## LWN.net Weekly Edition
+- 2025/10/30 [LWN.net Weekly Edition for October 30, 2025](https://lwn.net/Articles/1042980/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/10/30 [FOSS Weekly #25.44: KDE Plasma 6.5 and Fedora 43 Released, Ghostty Terminal, Nextcloud Over Microsoft and Productivity App for Linux](https://itsfoss.com/newsletter/foss-weekly-25-44/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/10/29 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/10/30 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/10/29 [coinbase/x402](https://github.com/coinbase/x402) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/10/30 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/10/29 [第156期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/29/第156期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)
@@ -26,9 +38,6 @@
 
 ## 一周杂记
 - 2025/10/27 [一周杂记 in Week 4 Oct 2025](http://kingsamchen.github.io/2025/10/27/weekly-2025-oct-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Raye's Journey
-- 2025/10/27 [周报40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost/%E5%91%A8%E6%8A%A540-%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%B8%8E%E6%97%A5%E8%90%BD/) | [More](channels/Raye%27s%20Journey.md)
 
 ## AIGC Weekly
 - 2025/10/27 [AIGC Weekly #144 续订 7 折优惠开始](https://quaily.com/op7418/p/aigc-weekly-fourteen-four-renewal-discount-starts) | [More](channels/AIGC%20Weekly.md)
@@ -69,17 +78,8 @@
 ## Self-Host Weekly
 - 2025/10/24 [Self-Host Weekly (24 October 2025)](https://selfh.st/weekly/2025-10-24/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/10/23 [科技創業週報 #504：AI 正在扼殺你的創意，解藥可能只是一句話](https://blog.starrocket.io/posts/newsletter-2025-10-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2025/10/23 [学习周刊-总第234期-2025年第43周](https://wiki.eryajf.net/pages/1bdec0/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/10/23 [LWN.net Weekly Edition for October 23, 2025](https://lwn.net/Articles/1042221/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/10/23 [FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-43/) | [More](channels/FOSS%20Weekly.md)
 
 ## Taxodium
 - 2025/10/22 [Zine#43 - 桌面变形记](https://taxodium.ink/43.html) | [More](channels/Taxodium.md)
@@ -104,6 +104,9 @@
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
+## 拾月通讯
+- 2025/09/28 [2025W38：新家的猫洞](https://www.skyue.com/25092907.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)

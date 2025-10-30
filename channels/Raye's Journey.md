@@ -1,3 +1,5 @@
+- [周报40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost40/)
+- [周报30 ENFJ人格、双月湾拾遗与阅读笔记](https://rayepeng.net/posts/weekpost30/)
 - [周报#40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost/%E5%91%A8%E6%8A%A540-%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%B8%8E%E6%97%A5%E8%90%BD/)
 - [周报37 重新拾起的写作](https://rayepeng.net/posts/weekpost/%E5%91%A8%E6%8A%A537-%E9%87%8D%E6%96%B0%E6%8B%BE%E8%B5%B7%E7%9A%84%E5%86%99%E4%BD%9C/)
 - [周报38 汕尾之行](https://rayepeng.net/posts/weekpost/%E5%91%A8%E6%8A%A538-%E6%B1%95%E5%B0%BE%E4%B9%8B%E8%A1%8C/)
