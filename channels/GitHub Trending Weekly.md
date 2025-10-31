@@ -1,3 +1,6 @@
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+- [cjpais/Handy](https://github.com/cjpais/Handy)
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 - [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)
 - [karpathy/micrograd](https://github.com/karpathy/micrograd)

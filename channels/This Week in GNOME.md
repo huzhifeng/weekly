@@ -1,3 +1,4 @@
+- [#223 Spooky Updates](https://thisweek.gnome.org/posts/2025/10/twig-223/)
 - [#222 Trip Notifications](https://thisweek.gnome.org/posts/2025/10/twig-222/)
 - [#221 Virus Season](https://thisweek.gnome.org/posts/2025/10/twig-221/)
 - [#220 Exemplary Snake](https://thisweek.gnome.org/posts/2025/10/twig-220/)
