@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/10/31 [科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 有个问题
+- 2025/11/01 [如何让你的努力变得“值钱”？｜人间松弛指南](https://newsletter.emmmme.com/p/depth-how-to-make-your-efforts-valuable-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## This Week in Plasma
+- 2025/11/01 [This Week in Plasma: control of frame intensity and image sharpening](https://blogs.kde.org/2025/11/01/this-week-in-plasma-control-of-frame-intensity-and-image-sharpening/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/11/01 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/01 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/10/31 [Web Review, Week 2025-44](https://ervin.ipsquad.net/blog/2025/10/31/web-review-week-2025-44/) | [More](channels/Web%20Review.md)
 
@@ -18,17 +30,8 @@
 ## Self-Host Weekly
 - 2025/10/31 [Self-Host Weekly (31 October 2025)](https://selfh.st/weekly/2025-10-31/) | [More](channels/Self-Host%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/10/31 [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/10/31 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 科技創業週報
 - 2025/10/30 [科技創業週報 #505：你還在「搜尋」嗎？AI 瀏覽器已經開始幫你「思考」了](https://blog.starrocket.io/posts/newsletter-2025-10-29/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## Raye's Journey
-- 2025/10/30 [周报40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost40/) | [More](channels/Raye%27s%20Journey.md)
 
 ## LWN.net Weekly Edition
 - 2025/10/30 [LWN.net Weekly Edition for October 30, 2025](https://lwn.net/Articles/1042980/) | [More](channels/LWN.net%20Weekly%20Edition.md)
@@ -63,6 +66,9 @@
 ## Ubuntu Weekly Newsletter
 - 2025/10/27 [Ubuntu Weekly Newsletter Issue 916](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-916/71163) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
+## 猫鱼周刊
+- 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
 ## 稻草人周刊
 - 2025/10/26 [稻草人周刊 Vol. 52](https://www.geedea.pro/posts/weekly/52/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -75,17 +81,11 @@
 ## 更好生活
 - 2025/10/25 [千粉 UP 主的拍剪设备清单：9 个高性价比好物](https://quaily.com/jiayifun/p/video-shoot-edit-gear) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
-## This Week in Plasma
-- 2025/10/25 [This Week in Plasma: Plasma 6.5 is here!](https://blogs.kde.org/2025/10/25/this-week-in-plasma-plasma-6.5-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## Taxodium
 - 2025/10/22 [Zine#43 - 桌面变形记](https://taxodium.ink/43.html) | [More](channels/Taxodium.md)
 
 ## 肖恩技术周刊
 - 2025/10/20 [肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！](https://weekly.shawnxie.top/content/2025/66.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
-## 有个问题
-- 2025/10/20 [28. 为什么重要的事情会被忘掉？](https://newsletter.emmmme.com/p/important-but-forgotten) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 试行错误
 - 2025/10/20 [先待在一起，自然有沟通｜🥫阅读罐头（9 月刊）](https://quaily.com/shixingcuowu/p/stay-together-communication-read-canned-september) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

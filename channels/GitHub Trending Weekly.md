@@ -1,3 +1,4 @@
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 - [cjpais/Handy](https://github.com/cjpais/Handy)
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
