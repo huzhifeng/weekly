@@ -1,3 +1,4 @@
+- [Zine#44 - 善意、远离手机、阅读、万圣节主题](https://taxodium.ink/44.html)
 - [Zine#43 - 桌面变形记](https://taxodium.ink/43.html)
 - [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html)
 - [Zine#41](https://taxodium.ink/41.html)

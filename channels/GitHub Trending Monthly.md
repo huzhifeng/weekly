@@ -1,3 +1,4 @@
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
 - [cjpais/Handy](https://github.com/cjpais/Handy)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [nextcloud/server](https://github.com/nextcloud/server)

@@ -1,3 +1,4 @@
+- [周报21 惠州、新域名与阅读分享](https://rayepeng.net/posts/weekpost21/)
 - [周报40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost40/)
 - [周报30 ENFJ人格、双月湾拾遗与阅读笔记](https://rayepeng.net/posts/weekpost30/)
 - [周报#40 浏阳,烟花与日落](https://rayepeng.net/posts/weekpost/%E5%91%A8%E6%8A%A540-%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%B8%8E%E6%97%A5%E8%90%BD/)
