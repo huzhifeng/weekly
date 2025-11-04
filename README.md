@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/10/31 [科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/11/05 [第157期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/05/第157期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/11/04 [Ubuntu Weekly Newsletter Issue 917](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-917/71610) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/11/04 [get-convex/chef](https://github.com/get-convex/chef) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/04 [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/11/03 [第243期 - 森泊不错](https://weekly.tw93.fun/posts/243/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -11,6 +23,9 @@
 
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 试行错误
+- 2025/11/03 [读书的乐趣，正是源于阅读并不等同于理解｜🥫阅读罐头（10 月刊）](https://quaily.com/shixingcuowu/p/reading-pleasure-sourced-from-reading-is-not-equal-to-understanding) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 一周杂记
 - 2025/11/03 [一周杂记 in Week 5 Oct 2025](http://kingsamchen.github.io/2025/11/03/weekly-2025-oct-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -24,12 +39,6 @@
 ## DistroWatch Weekly
 - 2025/11/03 [DistroWatch Weekly, Issue 1146](https://distrowatch.com/weekly.php?issue=20251103) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/11/03 [get-convex/chef](https://github.com/get-convex/chef) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/03 [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 肖恩技术周刊
 - 2025/11/02 [肖恩技术周刊（第 68 期）：苍山洱海](https://weekly.shawnxie.top/content/2025/68.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
@@ -38,9 +47,6 @@
 
 ## 9to5Linux Weekly Roundup
 - 2025/11/02 [9to5Linux Weekly Roundup: November 2nd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-2nd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## V2EX 周报
-- 2025/11/02 [✨ V2EX 周报 本周热门主题及高赞回复 10.25-10.31](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 有个问题
 - 2025/11/01 [如何让你的努力变得“值钱”？｜人间松弛指南](https://newsletter.emmmme.com/p/depth-how-to-make-your-efforts-valuable-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -72,17 +78,11 @@
 ## FOSS Weekly
 - 2025/10/30 [FOSS Weekly #25.44: KDE Plasma 6.5 and Fedora 43 Released, Ghostty Terminal, Nextcloud Over Microsoft and Productivity App for Linux](https://itsfoss.com/newsletter/foss-weekly-25-44/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/10/29 [第156期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/29/第156期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## HelloGitHub
 - 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)
 
 ## Pseudoyu 周报
 - 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/10/27 [Ubuntu Weekly Newsletter Issue 916](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-916/71163) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -92,9 +92,6 @@
 
 ## 更好生活
 - 2025/10/25 [千粉 UP 主的拍剪设备清单：9 个高性价比好物](https://quaily.com/jiayifun/p/video-shoot-edit-gear) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## 试行错误
-- 2025/10/20 [先待在一起，自然有沟通｜🥫阅读罐头（9 月刊）](https://quaily.com/shixingcuowu/p/stay-together-communication-read-canned-september) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 我脑袋里的怪东西
 - 2025/10/19 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)

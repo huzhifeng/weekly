@@ -1,3 +1,4 @@
+- [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [get-convex/chef](https://github.com/get-convex/chef)
 - [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
