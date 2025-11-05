@@ -6,14 +6,17 @@
 ## 偷懒爱好者周刊
 - 2025/11/05 [第157期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/05/第157期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Ubuntu Weekly Newsletter
-- 2025/11/04 [Ubuntu Weekly Newsletter Issue 917](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-917/71610) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+## 胡言乱语
+- 2025/11/05 [20251105的胡言乱语](https://www.bboy.app/2025/11/05/20251105%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GitHub Trending Weekly
-- 2025/11/04 [get-convex/chef](https://github.com/get-convex/chef) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/11/05 [get-convex/chef](https://github.com/get-convex/chef) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/11/04 [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/11/05 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/11/04 [Ubuntu Weekly Newsletter Issue 917](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-917/71610) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 潮流周刊
 - 2025/11/03 [第243期 - 森泊不错](https://weekly.tw93.fun/posts/243/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -57,9 +60,6 @@
 ## Web Review
 - 2025/10/31 [Web Review, Week 2025-44](https://ervin.ipsquad.net/blog/2025/10/31/web-review-week-2025-44/) | [More](channels/Web%20Review.md)
 
-## 胡言乱语
-- 2025/10/31 [20251031的胡言乱语](https://www.bboy.app/2025/10/31/20251031%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## 二丫讲梵学习周刊
 - 2025/10/31 [学习周刊-总第235期-2025年第44周](https://wiki.eryajf.net/pages/14c483/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
@@ -83,9 +83,6 @@
 
 ## Pseudoyu 周报
 - 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 猫鱼周刊
-- 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## zdyxry Weekly Issue
 - 2025/10/26 [Weekly Issue-《史密斯夫妇》](https://zdyxry.github.io/2025/10/26/Weekly-Issue-%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87/) | [More](channels/zdyxry%20Weekly%20Issue.md)

@@ -1,3 +1,4 @@
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [get-convex/chef](https://github.com/get-convex/chef)
