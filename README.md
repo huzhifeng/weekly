@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2025/10/31 [科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2025/11/06 [科技創業週報 #506：2025 AI 職場變形記：當任務被拆解，價值重新組裝](https://blog.starrocket.io/posts/newsletter-2025-11-05/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/11/06 [学习周刊-总第236期-2025年第45周](https://wiki.eryajf.net/pages/ff912f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/11/06 [LWN.net Weekly Edition for November 6, 2025](https://lwn.net/Articles/1044227/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/11/06 [FOSS Weekly #25.45: Rust in Apt, Devuan 6, Modular Router, FSearch, Workspace Mastery and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-45/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/11/06 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/06 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2025/11/05 [第157期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/05/第157期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2025/11/05 [20251105的胡言乱语](https://www.bboy.app/2025/11/05/20251105%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2025/11/05 [get-convex/chef](https://github.com/get-convex/chef) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/05 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/11/04 [Ubuntu Weekly Newsletter Issue 917](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-917/71610) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -60,23 +72,11 @@
 ## Web Review
 - 2025/10/31 [Web Review, Week 2025-44](https://ervin.ipsquad.net/blog/2025/10/31/web-review-week-2025-44/) | [More](channels/Web%20Review.md)
 
-## 二丫讲梵学习周刊
-- 2025/10/31 [学习周刊-总第235期-2025年第44周](https://wiki.eryajf.net/pages/14c483/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in GNOME
 - 2025/10/31 [#223 Spooky Updates](https://thisweek.gnome.org/posts/2025/10/twig-223/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2025/10/31 [Self-Host Weekly (31 October 2025)](https://selfh.st/weekly/2025-10-31/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2025/10/30 [科技創業週報 #505：你還在「搜尋」嗎？AI 瀏覽器已經開始幫你「思考」了](https://blog.starrocket.io/posts/newsletter-2025-10-29/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2025/10/30 [LWN.net Weekly Edition for October 30, 2025](https://lwn.net/Articles/1042980/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/10/30 [FOSS Weekly #25.44: KDE Plasma 6.5 and Fedora 43 Released, Ghostty Terminal, Nextcloud Over Microsoft and Productivity App for Linux](https://itsfoss.com/newsletter/foss-weekly-25-44/) | [More](channels/FOSS%20Weekly.md)
 
 ## HelloGitHub
 - 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)

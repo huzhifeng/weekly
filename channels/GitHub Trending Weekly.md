@@ -1,3 +1,4 @@
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
