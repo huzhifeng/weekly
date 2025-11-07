@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/10/31 [科技爱好者周刊（第 371 期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/11/07 [科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/11/07 [Web Review, Week 2025-45](https://ervin.ipsquad.net/blog/2025/11/07/web-review-week-2025-45/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/11/07 [#224 Reduced Motion](https://thisweek.gnome.org/posts/2025/11/twig-224/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2025/11/07 [Self-Host Weekly #144: Memory Limit Exceeded](https://selfh.st/weekly/2025-11-07/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/11/07 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/07 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/11/06 [科技創業週報 #506：2025 AI 職場變形記：當任務被拆解，價值重新組裝](https://blog.starrocket.io/posts/newsletter-2025-11-05/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/11/06 [FOSS Weekly #25.45: Rust in Apt, Devuan 6, Modular Router, FSearch, Workspace Mastery and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-45/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/11/06 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/06 [cjpais/Handy](https://github.com/cjpais/Handy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/11/05 [第157期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/05/第157期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -68,15 +77,6 @@
 
 ## This Week in Plasma
 - 2025/11/01 [This Week in Plasma: control of frame intensity and image sharpening](https://blogs.kde.org/2025/11/01/this-week-in-plasma-control-of-frame-intensity-and-image-sharpening/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2025/10/31 [Web Review, Week 2025-44](https://ervin.ipsquad.net/blog/2025/10/31/web-review-week-2025-44/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/10/31 [#223 Spooky Updates](https://thisweek.gnome.org/posts/2025/10/twig-223/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/10/31 [Self-Host Weekly (31 October 2025)](https://selfh.st/weekly/2025-10-31/) | [More](channels/Self-Host%20Weekly.md)
 
 ## HelloGitHub
 - 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)

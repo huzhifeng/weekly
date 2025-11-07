@@ -1,3 +1,4 @@
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
 - [cjpais/Handy](https://github.com/cjpais/Handy)

@@ -1,3 +1,4 @@
+- [sst/opentui](https://github.com/sst/opentui)
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
