@@ -1,3 +1,4 @@
+- [This Week in Plasma: Virtual desktops only on the primary screen](https://blogs.kde.org/2025/11/08/this-week-in-plasma-virtual-desktops-only-on-the-primary-screen/)
 - [This Week in Plasma: control of frame intensity and image sharpening](https://blogs.kde.org/2025/11/01/this-week-in-plasma-control-of-frame-intensity-and-image-sharpening/)
 - [This Week in Plasma: Plasma 6.5 is here!](https://blogs.kde.org/2025/10/25/this-week-in-plasma-plasma-6.5-is-here/)
 - [This Week in Plasma: Plasma 6.5 is nigh and KDE is 29 years old; help us celebrate!](https://blogs.kde.org/2025/10/18/this-week-in-plasma-plasma-6.5-is-nigh-and-kde-is-29-years-old-help-us-celebrate/)
