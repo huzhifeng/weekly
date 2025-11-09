@@ -1,3 +1,5 @@
+- [topoteretes/cognee](https://github.com/topoteretes/cognee)
+- [mudler/LocalAI](https://github.com/mudler/LocalAI)
 - [sst/opentui](https://github.com/sst/opentui)
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)

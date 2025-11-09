@@ -3,6 +3,21 @@
 ## 科技爱好者周刊
 - 2025/11/07 [科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2025/11/10 [第244期 - 飞机飞过](https://weekly.tw93.fun/posts/244/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2025/11/10 [肖恩技术周刊（第 69 期）：最高的山，最长的河](https://weekly.shawnxie.top/content/2025/69.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2025/11/09 [✨ V2EX 周报 本周热门主题及高赞回复 11.01-11.07](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/11/09 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/09 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 更好生活
 - 2025/11/08 [年龄增长的好处](https://quaily.com/jiayifun/p/benefits-of-aging) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -11,12 +26,6 @@
 
 ## This Week in Plasma
 - 2025/11/08 [This Week in Plasma: Virtual desktops only on the primary screen](https://blogs.kde.org/2025/11/08/this-week-in-plasma-virtual-desktops-only-on-the-primary-screen/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2025/11/08 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/08 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/11/07 [Web Review, Week 2025-45](https://ervin.ipsquad.net/blog/2025/11/07/web-review-week-2025-45/) | [More](channels/Web%20Review.md)
@@ -48,9 +57,6 @@
 ## Ubuntu Weekly Newsletter
 - 2025/11/04 [Ubuntu Weekly Newsletter Issue 917](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-917/71610) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 潮流周刊
-- 2025/11/03 [第243期 - 森泊不错](https://weekly.tw93.fun/posts/243/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/11/03 [稻草人周刊 Vol.53](https://www.geedea.pro/posts/weekly/53/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -72,17 +78,11 @@
 ## DistroWatch Weekly
 - 2025/11/03 [DistroWatch Weekly, Issue 1146](https://distrowatch.com/weekly.php?issue=20251103) | [More](channels/DistroWatch%20Weekly.md)
 
-## 肖恩技术周刊
-- 2025/11/02 [肖恩技术周刊（第 68 期）：苍山洱海](https://weekly.shawnxie.top/content/2025/68.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 拾月通讯
 - 2025/11/02 [晓霞弄和万松书院](https://www.skyue.com/25110220.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## Taxodium
 - 2025/11/02 [Zine#44 - 善意、远离手机、阅读、万圣节主题](https://taxodium.ink/44.html) | [More](channels/Taxodium.md)
-
-## V2EX 周报
-- 2025/11/02 [✨ V2EX 周报 本周热门主题及高赞回复 10.25-10.31](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 有个问题
 - 2025/11/01 [如何让你的努力变得“值钱”？｜人间松弛指南](https://newsletter.emmmme.com/p/depth-how-to-make-your-efforts-valuable-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
