@@ -9,14 +9,32 @@
 ## 肖恩技术周刊
 - 2025/11/10 [肖恩技术周刊（第 69 期）：最高的山，最长的河](https://weekly.shawnxie.top/content/2025/69.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2025/11/09 [✨ V2EX 周报 本周热门主题及高赞回复 11.01-11.07](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+## 稻草人周刊
+- 2025/11/10 [稻草人周刊 Vol.54](https://www.geedea.pro/posts/weekly/54/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2025/11/10 [一周杂记 in Week 1 Nov 2025](http://kingsamchen.github.io/2025/11/10/weekly-2025-nov-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/11/10 [AIGC Weekly #146 藏师傅的 AI 双十一整合优惠开启](https://quaily.com/op7418/p/aigc-weekly-cang-shifu-ai-shuang-shiyi-zhenghe-youhui-kaiji) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/11/10 [DistroWatch Weekly, Issue 1147](https://distrowatch.com/weekly.php?issue=20251110) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/11/10 [9to5Linux Weekly Roundup: November 9th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-9th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## GitHub Trending Weekly
-- 2025/11/09 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/11/10 [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/11/09 [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/11/10 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## zdyxry Weekly Issue
+- 2025/11/09 [Weekly Issue-恭喜 Faker](https://zdyxry.github.io/2025/11/09/Weekly-Issue-%E6%81%AD%E5%96%9C-Faker/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## V2EX 周报
+- 2025/11/09 [✨ V2EX 周报 本周热门主题及高赞回复 11.01-11.07](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2025/11/08 [年龄增长的好处](https://quaily.com/jiayifun/p/benefits-of-aging) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -57,26 +75,14 @@
 ## Ubuntu Weekly Newsletter
 - 2025/11/04 [Ubuntu Weekly Newsletter Issue 917](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-917/71610) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 稻草人周刊
-- 2025/11/03 [稻草人周刊 Vol.53](https://www.geedea.pro/posts/weekly/53/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 试行错误
 - 2025/11/03 [读书的乐趣，正是源于阅读并不等同于理解｜🥫阅读罐头（10 月刊）](https://quaily.com/shixingcuowu/p/reading-pleasure-sourced-from-reading-is-not-equal-to-understanding) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## 一周杂记
-- 2025/11/03 [一周杂记 in Week 5 Oct 2025](http://kingsamchen.github.io/2025/11/03/weekly-2025-oct-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## Raye's Journey
 - 2025/11/03 [周报41 博客装修、汕头团建](https://rayepeng.net/weekpost41/) | [More](channels/Raye%27s%20Journey.md)
-
-## AIGC Weekly
-- 2025/11/03 [AIGC Weekly #145](https://quaily.com/op7418/p/aigc-weekly-ox61wsz9) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/11/03 [DistroWatch Weekly, Issue 1146](https://distrowatch.com/weekly.php?issue=20251103) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 拾月通讯
 - 2025/11/02 [晓霞弄和万松书院](https://www.skyue.com/25110220.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -93,8 +99,8 @@
 ## Pseudoyu 周报
 - 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## zdyxry Weekly Issue
-- 2025/10/26 [Weekly Issue-《史密斯夫妇》](https://zdyxry.github.io/2025/10/26/Weekly-Issue-%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+## 猫鱼周刊
+- 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 我脑袋里的怪东西
 - 2025/10/19 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)

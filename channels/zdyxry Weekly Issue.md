@@ -1,3 +1,5 @@
+- [Weekly Issue-恭喜 Faker](https://zdyxry.github.io/2025/11/09/Weekly-Issue-%E6%81%AD%E5%96%9C-Faker/)
+- [Weekly Issue-《史密斯夫妇》](https://zdyxry.github.io/2025/11/02/Weekly-Issue-%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87/)
 - [Weekly Issue-《史密斯夫妇》](https://zdyxry.github.io/2025/10/26/Weekly-Issue-%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87/)
 - [Weekly Issue-伪连接的时代](https://zdyxry.github.io/2025/10/26/Weekly-Issue-%E4%BC%AA%E8%BF%9E%E6%8E%A5%E7%9A%84%E6%97%B6%E4%BB%A3/)
 - [Weekly Issue-《活下去的理由》](https://zdyxry.github.io/2025/10/19/Weekly-Issue-%E6%B4%BB%E4%B8%8B%E5%8E%BB%E7%9A%84%E7%90%86%E7%94%B1/)

@@ -1,3 +1,4 @@
+- [nitrojs/nitro](https://github.com/nitrojs/nitro)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)

@@ -1,3 +1,4 @@
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
 - [topoteretes/cognee](https://github.com/topoteretes/cognee)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI)
 - [sst/opentui](https://github.com/sst/opentui)
