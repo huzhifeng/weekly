@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2025/11/07 [科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/11/12 [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/第158期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/11/11 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/11 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/11/10 [第244期 - 飞机飞过](https://weekly.tw93.fun/posts/244/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -11,6 +20,9 @@
 
 ## 稻草人周刊
 - 2025/11/10 [稻草人周刊 Vol.54](https://www.geedea.pro/posts/weekly/54/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## 试行错误
+- 2025/11/10 [那些越用越喜欢的好物 | 试行错误143](https://quaily.com/shixingcuowu/p/goods-you-like-more-the-more-you-use-trial-error-143) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 一周杂记
 - 2025/11/10 [一周杂记 in Week 1 Nov 2025](http://kingsamchen.github.io/2025/11/10/weekly-2025-nov-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -24,11 +36,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/11/10 [9to5Linux Weekly Roundup: November 9th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-9th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/11/10 [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/10 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/11/10 [Ubuntu Weekly Newsletter Issue 918](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-918/72013) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## zdyxry Weekly Issue
 - 2025/11/09 [Weekly Issue-恭喜 Faker](https://zdyxry.github.io/2025/11/09/Weekly-Issue-%E6%81%AD%E5%96%9C-Faker/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -66,20 +75,11 @@
 ## FOSS Weekly
 - 2025/11/06 [FOSS Weekly #25.45: Rust in Apt, Devuan 6, Modular Router, FSearch, Workspace Mastery and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-45/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/11/05 [第157期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/05/第157期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 胡言乱语
 - 2025/11/05 [20251105的胡言乱语](https://www.bboy.app/2025/11/05/20251105%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## Ubuntu Weekly Newsletter
-- 2025/11/04 [Ubuntu Weekly Newsletter Issue 917](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-917/71610) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 试行错误
-- 2025/11/03 [读书的乐趣，正是源于阅读并不等同于理解｜🥫阅读罐头（10 月刊）](https://quaily.com/shixingcuowu/p/reading-pleasure-sourced-from-reading-is-not-equal-to-understanding) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## Raye's Journey
 - 2025/11/03 [周报41 博客装修、汕头团建](https://rayepeng.net/weekpost41/) | [More](channels/Raye%27s%20Journey.md)
@@ -102,11 +102,11 @@
 ## 猫鱼周刊
 - 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## 我脑袋里的怪东西
-- 2025/10/19 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
 ## 棱镜通讯
 - 2025/10/19 [棱镜通讯 No.116 诺兰·布什内尔（Nolan Bushnell）](https://wangyurui.com/posts/leng-jing-tong-xun-no-116-2f55ee50) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## 我脑袋里的怪东西
+- 2025/10/17 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
