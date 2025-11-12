@@ -1,3 +1,4 @@
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
 - [usestrix/strix](https://github.com/usestrix/strix)
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager)

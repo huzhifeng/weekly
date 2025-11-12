@@ -7,10 +7,10 @@
 - 2025/11/12 [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/第158期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/11/11 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/11/12 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/11/11 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/11/12 [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/11/10 [第244期 - 飞机飞过](https://weekly.tw93.fun/posts/244/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -110,9 +110,6 @@
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 广林月刊
-- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
