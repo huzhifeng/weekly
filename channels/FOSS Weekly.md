@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-46/)
 - [FOSS Weekly #25.45: Rust in Apt, Devuan 6, Modular Router, FSearch, Workspace Mastery and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-45/)
 - [FOSS Weekly #25.44: KDE Plasma 6.5 and Fedora 43 Released, Ghostty Terminal, Nextcloud Over Microsoft and Productivity App for Linux](https://itsfoss.com/newsletter/foss-weekly-25-44/)
 - [FOSS Weekly #25.43: NebiOS Linux, GNOME Enhancements, LMDE 7, COSMIC Beta Review and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-43/)

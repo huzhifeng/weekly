@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2025/11/07 [科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/11/12 [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/第158期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/11/13 [科技創業週報 #507：當 AI 進入服務業，我們需要的不是「完美機器」，而是「有溫度的科技」](https://blog.starrocket.io/posts/newsletter-2025-11-12/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 胡言乱语
+- 2025/11/13 [20251113的胡言乱语](https://www.bboy.app/2025/11/13/20251113%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2025/11/13 [学习周刊-总第237期-2025年第46周](https://wiki.eryajf.net/pages/713e30/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/11/13 [LWN.net Weekly Edition for November 13, 2025](https://lwn.net/Articles/1045243/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/11/13 [FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-46/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/11/12 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/11/13 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/11/12 [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/11/13 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/11/12 [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/第158期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/11/10 [第244期 - 飞机飞过](https://weekly.tw93.fun/posts/244/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -32,9 +47,6 @@
 
 ## DistroWatch Weekly
 - 2025/11/10 [DistroWatch Weekly, Issue 1147](https://distrowatch.com/weekly.php?issue=20251110) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/11/10 [9to5Linux Weekly Roundup: November 9th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-9th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/11/10 [Ubuntu Weekly Newsletter Issue 918](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-918/72013) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -62,21 +74,6 @@
 
 ## Self-Host Weekly
 - 2025/11/07 [Self-Host Weekly #144: Memory Limit Exceeded](https://selfh.st/weekly/2025-11-07/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2025/11/06 [科技創業週報 #506：2025 AI 職場變形記：當任務被拆解，價值重新組裝](https://blog.starrocket.io/posts/newsletter-2025-11-05/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/11/06 [学习周刊-总第236期-2025年第45周](https://wiki.eryajf.net/pages/ff912f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/11/06 [LWN.net Weekly Edition for November 6, 2025](https://lwn.net/Articles/1044227/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/11/06 [FOSS Weekly #25.45: Rust in Apt, Devuan 6, Modular Router, FSearch, Workspace Mastery and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-45/) | [More](channels/FOSS%20Weekly.md)
-
-## 胡言乱语
-- 2025/11/05 [20251105的胡言乱语](https://www.bboy.app/2025/11/05/20251105%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -110,6 +107,9 @@
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
+## 广林月刊
+- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)

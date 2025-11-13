@@ -1,3 +1,5 @@
+- [lima-vm/lima](https://github.com/lima-vm/lima)
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
 - [usestrix/strix](https://github.com/usestrix/strix)
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
