@@ -1,3 +1,4 @@
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
 - [usestrix/strix](https://github.com/usestrix/strix)
 - [nitrojs/nitro](https://github.com/nitrojs/nitro)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)

@@ -1,3 +1,5 @@
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+- [containerd/containerd](https://github.com/containerd/containerd)
 - [lima-vm/lima](https://github.com/lima-vm/lima)
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)

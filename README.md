@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/11/07 [科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/11/14 [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Taxodium
+- 2025/11/14 [Zine#45](https://taxodium.ink/45.html) | [More](channels/Taxodium.md)
+
+## Web Review
+- 2025/11/14 [Web Review, Week 2025-46](https://ervin.ipsquad.net/blog/2025/11/14/web-review-week-2025-46/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/11/14 [#225 Volume Levels](https://thisweek.gnome.org/posts/2025/11/twig-225/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2025/11/14 [Self-Host Weekly #145: Agentic](https://selfh.st/weekly/2025-11-14/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/11/14 [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/14 [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/11/13 [科技創業週報 #507：當 AI 進入服務業，我們需要的不是「完美機器」，而是「有溫度的科技」](https://blog.starrocket.io/posts/newsletter-2025-11-12/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +35,6 @@
 
 ## FOSS Weekly
 - 2025/11/13 [FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-46/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/11/13 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/13 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/11/12 [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/第158期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -66,15 +78,6 @@
 ## This Week in Plasma
 - 2025/11/08 [This Week in Plasma: Virtual desktops only on the primary screen](https://blogs.kde.org/2025/11/08/this-week-in-plasma-virtual-desktops-only-on-the-primary-screen/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2025/11/07 [Web Review, Week 2025-45](https://ervin.ipsquad.net/blog/2025/11/07/web-review-week-2025-45/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/11/07 [#224 Reduced Motion](https://thisweek.gnome.org/posts/2025/11/twig-224/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/11/07 [Self-Host Weekly #144: Memory Limit Exceeded](https://selfh.st/weekly/2025-11-07/) | [More](channels/Self-Host%20Weekly.md)
-
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -83,9 +86,6 @@
 
 ## 拾月通讯
 - 2025/11/02 [晓霞弄和万松书院](https://www.skyue.com/25110220.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## Taxodium
-- 2025/11/02 [Zine#44 - 善意、远离手机、阅读、万圣节主题](https://taxodium.ink/44.html) | [More](channels/Taxodium.md)
 
 ## 有个问题
 - 2025/11/01 [如何让你的努力变得“值钱”？｜人间松弛指南](https://newsletter.emmmme.com/p/depth-how-to-make-your-efforts-valuable-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -96,9 +96,6 @@
 ## Pseudoyu 周报
 - 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 猫鱼周刊
-- 2025/10/26 [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 棱镜通讯
 - 2025/10/19 [棱镜通讯 No.116 诺兰·布什内尔（Nolan Bushnell）](https://wangyurui.com/posts/leng-jing-tong-xun-no-116-2f55ee50) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -107,9 +104,6 @@
 
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 广林月刊
-- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
