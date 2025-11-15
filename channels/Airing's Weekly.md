@@ -1,3 +1,4 @@
+- [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/)
 - [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/)
 - [月刊（第31期）：基于 Claude 的阅读流](https://blog.ursb.me/posts/weekly-31/)
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/)

@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/11/14 [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Airing's Weekly
+- 2025/11/15 [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) | [More](channels/Airing%27s%20Weekly.md)
+
+## This Week in Plasma
+- 2025/11/15 [This Week in Plasma: OCR in Spectacle and many UI improvements](https://blogs.kde.org/2025/11/15/this-week-in-plasma-ocr-in-spectacle-and-many-ui-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/11/15 [containerd/containerd](https://github.com/containerd/containerd) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/15 [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Taxodium
 - 2025/11/14 [Zine#45](https://taxodium.ink/45.html) | [More](channels/Taxodium.md)
 
@@ -14,12 +26,6 @@
 
 ## Self-Host Weekly
 - 2025/11/14 [Self-Host Weekly #145: Agentic](https://selfh.st/weekly/2025-11-14/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/11/14 [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/14 [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/11/13 [科技創業週報 #507：當 AI 進入服務業，我們需要的不是「完美機器」，而是「有溫度的科技」](https://blog.starrocket.io/posts/newsletter-2025-11-12/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -75,9 +81,6 @@
 ## 视野修炼
 - 2025/11/08 [视野修炼第126期 | TypeScript #1](https://sugarat.top/weekly/2025-11-08.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## This Week in Plasma
-- 2025/11/08 [This Week in Plasma: Virtual desktops only on the primary screen](https://blogs.kde.org/2025/11/08/this-week-in-plasma-virtual-desktops-only-on-the-primary-screen/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -105,14 +108,14 @@
 ## 虹线周刊
 - 2025/09/29 [2025#39 无限电台](https://weekly.1q43.blog/article/27bca795c95680699e6ce24459518446) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
+## 广林月刊
+- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
+
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
 
 ## 大橘和朋友们的周刊
 - 2025/08/30 [第036期 - 风语山巅](https://rrorangeandfriends.de/posts/2025/036) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## Airing's Weekly
-- 2025/08/16 [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
