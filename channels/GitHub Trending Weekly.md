@@ -1,3 +1,4 @@
+- [ayn2op/discordo](https://github.com/ayn2op/discordo)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 - [containerd/containerd](https://github.com/containerd/containerd)
 - [lima-vm/lima](https://github.com/lima-vm/lima)
