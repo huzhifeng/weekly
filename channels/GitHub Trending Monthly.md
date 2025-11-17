@@ -1,3 +1,5 @@
+- [volcengine/MineContext](https://github.com/volcengine/MineContext)
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
 - [usestrix/strix](https://github.com/usestrix/strix)
 - [nitrojs/nitro](https://github.com/nitrojs/nitro)
