@@ -1,3 +1,4 @@
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 - [containerd/containerd](https://github.com/containerd/containerd)

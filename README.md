@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/11/14 [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 拾月通讯
+- 2025/11/19 [孕妇照](https://www.skyue.com/25111921.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## 偷懒爱好者周刊
+- 2025/11/19 [第159期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/19/第159期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/11/19 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/19 [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/11/17 [第245期 - 秋天出租](https://weekly.tw93.fun/posts/245/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,6 +27,9 @@
 ## 更好生活
 - 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
+## 试行错误
+- 2025/11/17 [出门换乘5次？你为「麻烦」成本付出了多少机会代价｜试行错误144](https://quaily.com/shixingcuowu/p/going-out-transfer-five-times-how-much-opportunity-cost-did-you-pay-for-troubleshooting-error) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## 一周杂记
 - 2025/11/17 [一周杂记 in Week 2 Nov 2025](http://kingsamchen.github.io/2025/11/17/weekly-2025-nov-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -24,26 +39,17 @@
 ## DistroWatch Weekly
 - 2025/11/17 [DistroWatch Weekly, Issue 1148](https://distrowatch.com/weekly.php?issue=20251117) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/11/17 [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/17 [volcengine/MineContext](https://github.com/volcengine/MineContext) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/11/17 [Ubuntu Weekly Newsletter Issue 919](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-919/72377) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/11/16 [猫鱼周刊 vol. 085 标签页焦虑](https://ameow.xyz/archives/weekly-085) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 拾月通讯
-- 2025/11/16 [湘湖花海、遇见答案咖啡馆](https://www.skyue.com/25111616.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## 视野修炼
 - 2025/11/16 [视野修炼第127期 | Valdi](https://sugarat.top/weekly/2025-11-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## zdyxry Weekly Issue
 - 2025/11/16 [Weekly Issue-《天生就会跑》](https://zdyxry.github.io/2025/11/16/Weekly-Issue-%E5%A4%A9%E7%94%9F%E5%B0%B1%E4%BC%9A%E8%B7%91/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/11/16 [9to5Linux Weekly Roundup: November 16th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-16th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2025/11/16 [✨ V2EX 周报 本周热门主题及高赞回复 11.08-11.14](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
@@ -80,15 +86,6 @@
 
 ## FOSS Weekly
 - 2025/11/13 [FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-46/) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2025/11/12 [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/第158期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 试行错误
-- 2025/11/10 [那些越用越喜欢的好物 | 试行错误143](https://quaily.com/shixingcuowu/p/goods-you-like-more-the-more-you-use-trial-error-143) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/11/10 [Ubuntu Weekly Newsletter Issue 918](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-918/72013) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
