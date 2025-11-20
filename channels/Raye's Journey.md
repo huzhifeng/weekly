@@ -1,3 +1,4 @@
+- [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/)
 - [周报41 博客装修、汕头团建](https://rayepeng.net/weekpost41/)
 - [周报40 浏阳,烟花与日落](https://rayepeng.net/weekpost40/)
 - [周报37 重新拾起的写作](https://rayepeng.net/weekpost/%E5%91%A8%E6%8A%A537-%E9%87%8D%E6%96%B0%E6%8B%BE%E8%B5%B7%E7%9A%84%E5%86%99%E4%BD%9C/)

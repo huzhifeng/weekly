@@ -3,17 +3,32 @@
 ## 科技爱好者周刊
 - 2025/11/14 [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2025/11/20 [科技創業週報 #508：當AI 開始理解你的旅行偏好：未來旅遊不是比價，而是比誰更懂你](https://blog.starrocket.io/posts/newsletter-2025-11-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## Raye's Journey
+- 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
+
+## 胡言乱语
+- 2025/11/20 [20251120的胡言乱语](https://www.bboy.app/2025/11/20/20251120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## LWN.net Weekly Edition
+- 2025/11/20 [LWN.net Weekly Edition for November 20, 2025](https://lwn.net/Articles/1046323/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/11/20 [FOSS Weekly #25.47: AI Mode in Firefox, Nitrux 5, GNOME Panel, Rust Alternative Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-47/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/11/20 [sst/opentui](https://github.com/sst/opentui) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/20 [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 拾月通讯
 - 2025/11/19 [孕妇照](https://www.skyue.com/25111921.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## 偷懒爱好者周刊
 - 2025/11/19 [第159期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/19/第159期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2025/11/19 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/19 [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/11/17 [第245期 - 秋天出租](https://weekly.tw93.fun/posts/245/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -72,26 +87,11 @@
 ## Self-Host Weekly
 - 2025/11/14 [Self-Host Weekly #145: Agentic](https://selfh.st/weekly/2025-11-14/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/11/13 [科技創業週報 #507：當 AI 進入服務業，我們需要的不是「完美機器」，而是「有溫度的科技」](https://blog.starrocket.io/posts/newsletter-2025-11-12/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 胡言乱语
-- 2025/11/13 [20251113的胡言乱语](https://www.bboy.app/2025/11/13/20251113%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## 二丫讲梵学习周刊
-- 2025/11/13 [学习周刊-总第237期-2025年第46周](https://wiki.eryajf.net/pages/713e30/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/11/13 [LWN.net Weekly Edition for November 13, 2025](https://lwn.net/Articles/1045243/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/11/13 [FOSS Weekly #25.46: sudo-rs Issues, Kaspersky on Linux, Flathub Troubles, Homelab Starter and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-46/) | [More](channels/FOSS%20Weekly.md)
+- 2025/11/13 [学习周刊-总第238期-2025年第47周](https://wiki.eryajf.net/pages/453e0f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/11/03 [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Raye's Journey
-- 2025/11/03 [周报41 博客装修、汕头团建](https://rayepeng.net/weekpost41/) | [More](channels/Raye%27s%20Journey.md)
 
 ## 有个问题
 - 2025/11/01 [如何让你的努力变得“值钱”？｜人间松弛指南](https://newsletter.emmmme.com/p/depth-how-to-make-your-efforts-valuable-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
