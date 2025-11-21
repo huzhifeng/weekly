@@ -1,3 +1,4 @@
+- [Self-Host Weekly #146: Survey Says](https://selfh.st/weekly/2025-11-21/)
 - [Self-Host Weekly #145: Agentic](https://selfh.st/weekly/2025-11-14/)
 - [Self-Host Weekly #144: Memory Limit Exceeded](https://selfh.st/weekly/2025-11-07/)
 - [Self-Host Weekly (31 October 2025)](https://selfh.st/weekly/2025-10-31/)
