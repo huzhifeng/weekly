@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2025/11/21 [科技爱好者周刊（第 374 期）：6GHz 的问题](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2025/11/22 [This Week in Plasma: UI and performance improvements](https://blogs.kde.org/2025/11/22/this-week-in-plasma-ui-and-performance-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/11/22 [ayn2op/discordo](https://github.com/ayn2op/discordo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/22 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/11/21 [Web Review, Week 2025-47](https://ervin.ipsquad.net/blog/2025/11/21/web-review-week-2025-47/) | [More](channels/Web%20Review.md)
 
+## This Week in GNOME
+- 2025/11/21 [#226 Exporting Events](https://thisweek.gnome.org/posts/2025/11/twig-226/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## Self-Host Weekly
 - 2025/11/21 [Self-Host Weekly #146: Survey Says](https://selfh.st/weekly/2025-11-21/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/11/21 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/21 [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/11/20 [科技創業週報 #508：當AI 開始理解你的旅行偏好：未來旅遊不是比價，而是比誰更懂你](https://blog.starrocket.io/posts/newsletter-2025-11-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -78,14 +84,8 @@
 ## Airing's Weekly
 - 2025/11/15 [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) | [More](channels/Airing%27s%20Weekly.md)
 
-## This Week in Plasma
-- 2025/11/15 [This Week in Plasma: OCR in Spectacle and many UI improvements](https://blogs.kde.org/2025/11/15/this-week-in-plasma-ocr-in-spectacle-and-many-ui-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## Taxodium
 - 2025/11/14 [Zine#45](https://taxodium.ink/45.html) | [More](channels/Taxodium.md)
-
-## This Week in GNOME
-- 2025/11/14 [#225 Volume Levels](https://thisweek.gnome.org/posts/2025/11/twig-225/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 二丫讲梵学习周刊
 - 2025/11/13 [学习周刊-总第238期-2025年第47周](https://wiki.eryajf.net/pages/453e0f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
