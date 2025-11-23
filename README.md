@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2025/11/21 [科技爱好者周刊（第 374 期）：6GHz 的问题](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2025/11/22 [This Week in Plasma: UI and performance improvements](https://blogs.kde.org/2025/11/22/this-week-in-plasma-ui-and-performance-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2025/11/24 [第246期 - 单向空间](https://weekly.tw93.fun/posts/246/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2025/11/24 [肖恩技术周刊（第 71 期）：何以成事](https://weekly.shawnxie.top/content/2025/71.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 拾月通讯
+- 2025/11/23 [微言小义（2025.10）](https://www.skyue.com/25112321.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## 棱镜通讯
+- 2025/11/23 [隐说 NO.11 杠杆思维](https://wangyurui.com/posts/yin-shuo-no-11-0d53dfcc) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## V2EX 周报
+- 2025/11/23 [✨ V2EX 周报 本周热门主题及高赞回复 11.15-11.21](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/11/22 [ayn2op/discordo](https://github.com/ayn2op/discordo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/11/23 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/11/22 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/11/23 [minio/minio](https://github.com/minio/minio) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2025/11/22 [This Week in Plasma: UI and performance improvements](https://blogs.kde.org/2025/11/22/this-week-in-plasma-ui-and-performance-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2025/11/21 [Web Review, Week 2025-47](https://ervin.ipsquad.net/blog/2025/11/21/web-review-week-2025-47/) | [More](channels/Web%20Review.md)
@@ -36,17 +51,8 @@
 ## FOSS Weekly
 - 2025/11/20 [FOSS Weekly #25.47: AI Mode in Firefox, Nitrux 5, GNOME Panel, Rust Alternative Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-47/) | [More](channels/FOSS%20Weekly.md)
 
-## 拾月通讯
-- 2025/11/19 [孕妇照](https://www.skyue.com/25111921.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
 ## 偷懒爱好者周刊
 - 2025/11/19 [第159期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/19/第159期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 潮流周刊
-- 2025/11/17 [第245期 - 秋天出租](https://weekly.tw93.fun/posts/245/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2025/11/17 [肖恩技术周刊（第 70 期）：流量劫持](https://weekly.shawnxie.top/content/2025/70.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/11/17 [稻草人周刊 Vol. 55](https://www.geedea.pro/posts/weekly/55/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -78,9 +84,6 @@
 ## zdyxry Weekly Issue
 - 2025/11/16 [Weekly Issue-《天生就会跑》](https://zdyxry.github.io/2025/11/16/Weekly-Issue-%E5%A4%A9%E7%94%9F%E5%B0%B1%E4%BC%9A%E8%B7%91/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2025/11/16 [✨ V2EX 周报 本周热门主题及高赞回复 11.08-11.14](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## Airing's Weekly
 - 2025/11/15 [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) | [More](channels/Airing%27s%20Weekly.md)
 
@@ -104,9 +107,6 @@
 
 ## Pseudoyu 周报
 - 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 棱镜通讯
-- 2025/10/19 [棱镜通讯 No.116 诺兰·布什内尔（Nolan Bushnell）](https://wangyurui.com/posts/leng-jing-tong-xun-no-116-2f55ee50) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 我脑袋里的怪东西
 - 2025/10/17 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)

@@ -1,3 +1,4 @@
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
