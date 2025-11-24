@@ -1,3 +1,5 @@
+- [【CDT周报】第245期：为了回击高市早苗的挑衅，本月起无偿多加5个班](https://chinadigitaltimes.net/chinese/722864.html)
+- [【CDT周报】第244期：“求求让西贝进校园吧！至少没虫子、没头发、没馊味！”](https://chinadigitaltimes.net/chinese/722674.html)
 - [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html)
 - [【CDT周报】第242期：好一个没办法，那你们存在的意义何在？](https://chinadigitaltimes.net/chinese/722144.html)
 - [【CDT周报】第241期：小米法务部：将以零容忍态度强化舆情监控](https://chinadigitaltimes.net/chinese/721985.html)

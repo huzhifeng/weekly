@@ -1,3 +1,4 @@
+- [Weekly Issue-《一战再战》](https://zdyxry.github.io/2025/11/23/Weekly-Issue-%E4%B8%80%E6%88%98%E5%86%8D%E6%88%98/)
 - [Weekly Issue-《天生就会跑》](https://zdyxry.github.io/2025/11/16/Weekly-Issue-%E5%A4%A9%E7%94%9F%E5%B0%B1%E4%BC%9A%E8%B7%91/)
 - [Weekly Issue-恭喜 Faker](https://zdyxry.github.io/2025/11/09/Weekly-Issue-%E6%81%AD%E5%96%9C-Faker/)
 - [Weekly Issue-《史密斯夫妇》](https://zdyxry.github.io/2025/11/02/Weekly-Issue-%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87/)
