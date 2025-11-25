@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/11/21 [科技爱好者周刊（第 374 期）：6GHz 的问题](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/11/26 [第160期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/26/第160期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 有个问题
+- 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## GitHub Trending Weekly
+- 2025/11/25 [ayn2op/discordo](https://github.com/ayn2op/discordo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/25 [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/11/24 [第246期 - 单向空间](https://weekly.tw93.fun/posts/246/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -18,6 +30,9 @@
 ## 拾月通讯
 - 2025/11/24 [周末苏州行](https://www.skyue.com/25112421.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
+## 试行错误
+- 2025/11/24 [为什么好人会黑化？如果你正身处黑暗，请先别急着做好人｜试行错误145](https://quaily.com/shixingcuowu/p/why-good-people-go-rogue-if-you-are-in-darkness-dont-rush-to-be-a-good-person-trial-error-144) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## 一周杂记
 - 2025/11/24 [一周杂记 in Week 3 Nov 2025](http://kingsamchen.github.io/2025/11/24/weekly-2025-nov-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -29,12 +44,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/11/24 [Ubuntu Weekly Newsletter Issue 920](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-920/72669) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/11/24 [sst/opentui](https://github.com/sst/opentui) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/24 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 棱镜通讯
 - 2025/11/23 [隐说 NO.11 杠杆思维](https://wangyurui.com/posts/yin-shuo-no-11-0d53dfcc) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -75,17 +84,8 @@
 ## FOSS Weekly
 - 2025/11/20 [FOSS Weekly #25.47: AI Mode in Firefox, Nitrux 5, GNOME Panel, Rust Alternative Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-47/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/11/19 [第159期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/19/第159期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 更好生活
 - 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## 试行错误
-- 2025/11/17 [出门换乘5次？你为「麻烦」成本付出了多少机会代价｜试行错误144](https://quaily.com/shixingcuowu/p/going-out-transfer-five-times-how-much-opportunity-cost-did-you-pay-for-troubleshooting-error) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 猫鱼周刊
-- 2025/11/16 [猫鱼周刊 vol. 085 标签页焦虑](https://ameow.xyz/archives/weekly-085) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2025/11/16 [视野修炼第127期 | Valdi](https://sugarat.top/weekly/2025-11-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -98,9 +98,6 @@
 
 ## 二丫讲梵学习周刊
 - 2025/11/13 [学习周刊-总第238期-2025年第47周](https://wiki.eryajf.net/pages/453e0f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## 有个问题
-- 2025/11/01 [如何让你的努力变得“值钱”？｜人间松弛指南](https://newsletter.emmmme.com/p/depth-how-to-make-your-efforts-valuable-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## HelloGitHub
 - 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)
