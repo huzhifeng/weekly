@@ -6,14 +6,17 @@
 ## 偷懒爱好者周刊
 - 2025/11/26 [第160期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/26/第160期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 有个问题
-- 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+## This Week in Plasma
+- 2025/11/26 [Going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## GitHub Trending Weekly
-- 2025/11/25 [ayn2op/discordo](https://github.com/ayn2op/discordo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/11/26 [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/11/25 [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/11/26 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 有个问题
+- 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 潮流周刊
 - 2025/11/24 [第246期 - 单向空间](https://weekly.tw93.fun/posts/246/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -56,9 +59,6 @@
 
 ## V2EX 周报
 - 2025/11/23 [✨ V2EX 周报 本周热门主题及高赞回复 11.15-11.21](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2025/11/22 [This Week in Plasma: UI and performance improvements](https://blogs.kde.org/2025/11/22/this-week-in-plasma-ui-and-performance-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2025/11/21 [Web Review, Week 2025-47](https://ervin.ipsquad.net/blog/2025/11/21/web-review-week-2025-47/) | [More](channels/Web%20Review.md)
