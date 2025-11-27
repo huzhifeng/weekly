@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2025/11/21 [科技爱好者周刊（第 374 期）：6GHz 的问题](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2025/11/27 [科技創業週報 #509：別只是跟AI 聊天，讓它替你上班：當「代理人」接管滑鼠，創業者的護城河還在嗎？](https://blog.starrocket.io/posts/newsletter-2025-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2025/11/27 [学习周刊-总第239期-2025年第48周](https://wiki.eryajf.net/pages/7b0c3c/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## FOSS Weekly
+- 2025/11/27 [FOSS Weekly #25.48: Backup Flatpaks and Snaps, Arduino's Troubled Future, New Office, Popular Linux Apps Reborn and More](https://itsfoss.com/newsletter/foss-weekly-25-48/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/11/27 [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/27 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2025/11/26 [第160期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/26/第160期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## This Week in Plasma
 - 2025/11/26 [Going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2025/11/26 [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/26 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 有个问题
 - 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -69,9 +78,6 @@
 ## Self-Host Weekly
 - 2025/11/21 [Self-Host Weekly #146: Survey Says](https://selfh.st/weekly/2025-11-21/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/11/20 [科技創業週報 #508：當AI 開始理解你的旅行偏好：未來旅遊不是比價，而是比誰更懂你](https://blog.starrocket.io/posts/newsletter-2025-11-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
 
@@ -80,9 +86,6 @@
 
 ## LWN.net Weekly Edition
 - 2025/11/20 [LWN.net Weekly Edition for November 20, 2025](https://lwn.net/Articles/1046323/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/11/20 [FOSS Weekly #25.47: AI Mode in Firefox, Nitrux 5, GNOME Panel, Rust Alternative Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-47/) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -96,9 +99,6 @@
 ## Taxodium
 - 2025/11/14 [Zine#45](https://taxodium.ink/45.html) | [More](channels/Taxodium.md)
 
-## 二丫讲梵学习周刊
-- 2025/11/13 [学习周刊-总第238期-2025年第47周](https://wiki.eryajf.net/pages/453e0f/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## HelloGitHub
 - 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)
 
@@ -110,9 +110,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/10/17 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## 广林月刊
-- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,4 @@
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo)
