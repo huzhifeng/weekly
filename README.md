@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/11/21 [科技爱好者周刊（第 374 期）：6GHz 的问题](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/11/28 [科技爱好者周刊（第 375 期）：一扇门的 Bug](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/11/28 [Web Review, Week 2025-48](https://ervin.ipsquad.net/blog/2025/11/28/web-review-week-2025-48/) | [More](channels/Web%20Review.md)
+
+## HelloGitHub
+- 2025/11/28 [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [More](channels/HelloGitHub.md)
+
+## Self-Host Weekly
+- 2025/11/28 [Self-Host Weekly #147: Ad-Free](https://selfh.st/weekly/2025-11-28/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/11/28 [lima-vm/lima](https://github.com/lima-vm/lima) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/28 [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/11/27 [科技創業週報 #509：別只是跟AI 聊天，讓它替你上班：當「代理人」接管滑鼠，創業者的護城河還在嗎？](https://blog.starrocket.io/posts/newsletter-2025-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -11,12 +26,6 @@
 
 ## FOSS Weekly
 - 2025/11/27 [FOSS Weekly #25.48: Backup Flatpaks and Snaps, Arduino's Troubled Future, New Office, Popular Linux Apps Reborn and More](https://itsfoss.com/newsletter/foss-weekly-25-48/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/11/27 [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/27 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/11/26 [第160期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/26/第160期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -69,14 +78,8 @@
 ## V2EX 周报
 - 2025/11/23 [✨ V2EX 周报 本周热门主题及高赞回复 11.15-11.21](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## Web Review
-- 2025/11/21 [Web Review, Week 2025-47](https://ervin.ipsquad.net/blog/2025/11/21/web-review-week-2025-47/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2025/11/21 [#226 Exporting Events](https://thisweek.gnome.org/posts/2025/11/twig-226/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/11/21 [Self-Host Weekly #146: Survey Says](https://selfh.st/weekly/2025-11-21/) | [More](channels/Self-Host%20Weekly.md)
 
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
@@ -90,6 +93,9 @@
 ## 更好生活
 - 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
+## 猫鱼周刊
+- 2025/11/16 [猫鱼周刊 vol. 085 标签页焦虑](https://ameow.xyz/archives/weekly-085) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
 ## 视野修炼
 - 2025/11/16 [视野修炼第127期 | Valdi](https://sugarat.top/weekly/2025-11-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
@@ -98,9 +104,6 @@
 
 ## Taxodium
 - 2025/11/14 [Zine#45](https://taxodium.ink/45.html) | [More](channels/Taxodium.md)
-
-## HelloGitHub
-- 2025/10/28 [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [More](channels/HelloGitHub.md)
 
 ## 虹线周刊
 - 2025/10/27 [2025#43 逐臭之夫](https://weekly.1q43.blog/article/298ca795c956808a8f11dbf6d907812e) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
@@ -125,7 +128,4 @@
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
-
-## 壹苇可航
-- 2025/03/18 [Vol.99 不要等到失去后才懂得珍惜](https://letter.justgoidea.com/p/2025005) | [More](channels/%E5%A3%B9%E8%8B%87%E5%8F%AF%E8%88%AA.md)
 
