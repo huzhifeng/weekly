@@ -1,3 +1,4 @@
+- [This Week in Plasma: lots of cool stuff](https://blogs.kde.org/2025/11/29/this-week-in-plasma-lots-of-cool-stuff/)
 - [Going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
 - [This Week in Plasma: UI and performance improvements](https://blogs.kde.org/2025/11/22/this-week-in-plasma-ui-and-performance-improvements/)
 - [This Week in Plasma: OCR in Spectacle and many UI improvements](https://blogs.kde.org/2025/11/15/this-week-in-plasma-ocr-in-spectacle-and-many-ui-improvements/)

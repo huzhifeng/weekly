@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/11/28 [科技爱好者周刊（第 375 期）：一扇门的 Bug](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in GNOME
+- 2025/11/29 [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Plasma
+- 2025/11/29 [This Week in Plasma: lots of cool stuff](https://blogs.kde.org/2025/11/29/this-week-in-plasma-lots-of-cool-stuff/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/11/29 [lima-vm/lima](https://github.com/lima-vm/lima) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/29 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/11/28 [Web Review, Week 2025-48](https://ervin.ipsquad.net/blog/2025/11/28/web-review-week-2025-48/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +23,6 @@
 
 ## Self-Host Weekly
 - 2025/11/28 [Self-Host Weekly #147: Ad-Free](https://selfh.st/weekly/2025-11-28/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/11/28 [lima-vm/lima](https://github.com/lima-vm/lima) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/28 [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/11/27 [科技創業週報 #509：別只是跟AI 聊天，讓它替你上班：當「代理人」接管滑鼠，創業者的護城河還在嗎？](https://blog.starrocket.io/posts/newsletter-2025-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -29,9 +35,6 @@
 
 ## 偷懒爱好者周刊
 - 2025/11/26 [第160期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/26/第160期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## This Week in Plasma
-- 2025/11/26 [Going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 有个问题
 - 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -72,14 +75,8 @@
 ## zdyxry Weekly Issue
 - 2025/11/23 [Weekly Issue-《一战再战》](https://zdyxry.github.io/2025/11/23/Weekly-Issue-%E4%B8%80%E6%88%98%E5%86%8D%E6%88%98/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/11/23 [9to5Linux Weekly Roundup: November 23rd, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-23rd-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## V2EX 周报
 - 2025/11/23 [✨ V2EX 周报 本周热门主题及高赞回复 11.15-11.21](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in GNOME
-- 2025/11/21 [#226 Exporting Events](https://thisweek.gnome.org/posts/2025/11/twig-226/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)

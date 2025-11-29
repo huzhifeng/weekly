@@ -1,3 +1,4 @@
+- [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/)
 - [#226 Exporting Events](https://thisweek.gnome.org/posts/2025/11/twig-226/)
 - [#225 Volume Levels](https://thisweek.gnome.org/posts/2025/11/twig-225/)
 - [#224 Reduced Motion](https://thisweek.gnome.org/posts/2025/11/twig-224/)
