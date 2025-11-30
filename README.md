@@ -3,17 +3,38 @@
 ## 科技爱好者周刊
 - 2025/11/28 [科技爱好者周刊（第 375 期）：一扇门的 Bug](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2025/12/01 [第247期 - 东京大学](https://weekly.tw93.fun/posts/247/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2025/12/01 [肖恩技术周刊（第 72 期）：有趣的C语言谜题](https://weekly.shawnxie.top/content/2025/72.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/11/30 [猫鱼周刊 vol. 086 走出迷茫](https://ameow.xyz/archives/weekly-086) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 拾月通讯
+- 2025/11/30 [嘉兴银杏天鹅湖和径山View Cafe村咖](https://www.skyue.com/25113021.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## 我脑袋里的怪东西
+- 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
+
+## AIGC Weekly
+- 2025/11/30 [AIGC Weekly #149 感恩节假期没啥东西](https://quaily.com/op7418/p/aigc-weekly-149-thanksgiving-holiday-nothing) | [More](channels/AIGC%20Weekly.md)
+
+## V2EX 周报
+- 2025/11/30 [✨ V2EX 周报 本周热门主题及高赞回复 11.22-11.28](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/11/30 [ayn2op/discordo](https://github.com/ayn2op/discordo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/11/30 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## This Week in GNOME
 - 2025/11/29 [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in Plasma
 - 2025/11/29 [This Week in Plasma: lots of cool stuff](https://blogs.kde.org/2025/11/29/this-week-in-plasma-lots-of-cool-stuff/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2025/11/29 [lima-vm/lima](https://github.com/lima-vm/lima) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/11/29 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2025/11/28 [Web Review, Week 2025-48](https://ervin.ipsquad.net/blog/2025/11/28/web-review-week-2025-48/) | [More](channels/Web%20Review.md)
@@ -39,29 +60,17 @@
 ## 有个问题
 - 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
-## 潮流周刊
-- 2025/11/24 [第246期 - 单向空间](https://weekly.tw93.fun/posts/246/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2025/11/24 [肖恩技术周刊（第 71 期）：何以成事](https://weekly.shawnxie.top/content/2025/71.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/11/24 [稻草人周刊 Vol.56](https://www.geedea.pro/posts/weekly/56/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/11/24 [【CDT周报】第245期：为了回击高市早苗的挑衅，本月起无偿多加5个班](https://chinadigitaltimes.net/chinese/722864.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
-## 拾月通讯
-- 2025/11/24 [周末苏州行](https://www.skyue.com/25112421.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
 ## 试行错误
 - 2025/11/24 [为什么好人会黑化？如果你正身处黑暗，请先别急着做好人｜试行错误145](https://quaily.com/shixingcuowu/p/why-good-people-go-rogue-if-you-are-in-darkness-dont-rush-to-be-a-good-person-trial-error-144) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 一周杂记
 - 2025/11/24 [一周杂记 in Week 3 Nov 2025](http://kingsamchen.github.io/2025/11/24/weekly-2025-nov-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2025/11/24 [AIGC Weekly #148 真是充实的一周啊](https://quaily.com/op7418/p/aigc-weekly-148-what-a-fulfilling-week) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2025/11/24 [DistroWatch Weekly, Issue 1149](https://distrowatch.com/weekly.php?issue=20251124) | [More](channels/DistroWatch%20Weekly.md)
@@ -75,9 +84,6 @@
 ## zdyxry Weekly Issue
 - 2025/11/23 [Weekly Issue-《一战再战》](https://zdyxry.github.io/2025/11/23/Weekly-Issue-%E4%B8%80%E6%88%98%E5%86%8D%E6%88%98/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2025/11/23 [✨ V2EX 周报 本周热门主题及高赞回复 11.15-11.21](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
 
@@ -89,9 +95,6 @@
 
 ## 更好生活
 - 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## 猫鱼周刊
-- 2025/11/16 [猫鱼周刊 vol. 085 标签页焦虑](https://ameow.xyz/archives/weekly-085) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2025/11/16 [视野修炼第127期 | Valdi](https://sugarat.top/weekly/2025-11-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -107,9 +110,6 @@
 
 ## Pseudoyu 周报
 - 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 我脑袋里的怪东西
-- 2025/10/17 [我脑袋里的怪东西 38 - 影视飓风很强，但毫不影响你继续创作和分享](https://quaily.com/somethinginmybrain/p/weird-things-in-my-head-sharing-creating) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
