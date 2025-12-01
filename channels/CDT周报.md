@@ -1,3 +1,4 @@
+- [【CDT周报】第246期：“真正要取代的从来不是竹棚，而是……”](https://chinadigitaltimes.net/chinese/723032.html)
 - [【CDT周报】第245期：为了回击高市早苗的挑衅，本月起无偿多加5个班](https://chinadigitaltimes.net/chinese/722864.html)
 - [【CDT周报】第244期：“求求让西贝进校园吧！至少没虫子、没头发、没馊味！”](https://chinadigitaltimes.net/chinese/722674.html)
 - [【CDT周报】第243期：只有强者才能生存，那就不是社会而是丛林](https://chinadigitaltimes.net/chinese/722368.html)
