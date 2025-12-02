@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/11/28 [科技爱好者周刊（第 375 期）：一扇门的 Bug](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/12/03 [第161期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/03/第161期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Pseudoyu 周报
+- 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2025/12/02 [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/02 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/12/01 [第247期 - 东京大学](https://weekly.tw93.fun/posts/247/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -18,6 +30,9 @@
 ## Taxodium
 - 2025/12/01 [Zine#46](https://taxodium.ink/46.html) | [More](channels/Taxodium.md)
 
+## 试行错误
+- 2025/12/01 [春晖：爱会向低处流淌，因为那里最需要它｜试行错误146](https://quaily.com/shixingcuowu/p/chunhui-love-will-flow-downward-because-it-is-most-needed-test-error-146) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## 一周杂记
 - 2025/12/01 [一周杂记 in Week 4 Nov 2025](http://kingsamchen.github.io/2025/12/01/weekly-2025-nov-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -27,11 +42,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/12/01 [9to5Linux Weekly Roundup: November 30th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-30th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/12/01 [nocobase/nocobase](https://github.com/nocobase/nocobase) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/01 [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/12/01 [Ubuntu Weekly Newsletter Issue 921](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-921/72976) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/11/30 [猫鱼周刊 vol. 086 走出迷茫](https://ameow.xyz/archives/weekly-086) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -75,17 +87,8 @@
 ## FOSS Weekly
 - 2025/11/27 [FOSS Weekly #25.48: Backup Flatpaks and Snaps, Arduino's Troubled Future, New Office, Popular Linux Apps Reborn and More](https://itsfoss.com/newsletter/foss-weekly-25-48/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/11/26 [第160期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/26/第160期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 有个问题
 - 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 试行错误
-- 2025/11/24 [为什么好人会黑化？如果你正身处黑暗，请先别急着做好人｜试行错误145](https://quaily.com/shixingcuowu/p/why-good-people-go-rogue-if-you-are-in-darkness-dont-rush-to-be-a-good-person-trial-error-144) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/11/24 [Ubuntu Weekly Newsletter Issue 920](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-920/72669) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 棱镜通讯
 - 2025/11/23 [隐说 NO.11 杠杆思维](https://wangyurui.com/posts/yin-shuo-no-11-0d53dfcc) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -111,8 +114,8 @@
 ## 虹线周刊
 - 2025/10/27 [2025#43 逐臭之夫](https://weekly.1q43.blog/article/298ca795c956808a8f11dbf6d907812e) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
-## Pseudoyu 周报
-- 2025/10/27 [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+## 广林月刊
+- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
