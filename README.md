@@ -3,17 +3,20 @@
 ## 科技爱好者周刊
 - 2025/11/28 [科技爱好者周刊（第 375 期）：一扇门的 Bug](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 拾月通讯
+- 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
 ## 偷懒爱好者周刊
 - 2025/12/03 [第161期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/03/第161期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Pseudoyu 周报
-- 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
 ## GitHub Trending Weekly
-- 2025/12/02 [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/03 [lima-vm/lima](https://github.com/lima-vm/lima) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/02 [mudler/LocalAI](https://github.com/mudler/LocalAI) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/03 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Pseudoyu 周报
+- 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 潮流周刊
 - 2025/12/01 [第247期 - 东京大学](https://weekly.tw93.fun/posts/247/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -39,17 +42,11 @@
 ## DistroWatch Weekly
 - 2025/12/01 [DistroWatch Weekly, Issue 1150](https://distrowatch.com/weekly.php?issue=20251201) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/12/01 [9to5Linux Weekly Roundup: November 30th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-november-30th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/12/01 [Ubuntu Weekly Newsletter Issue 921](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-921/72976) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/11/30 [猫鱼周刊 vol. 086 走出迷茫](https://ameow.xyz/archives/weekly-086) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 拾月通讯
-- 2025/11/30 [嘉兴银杏天鹅湖和径山View Cafe村咖](https://www.skyue.com/25113021.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
@@ -80,12 +77,6 @@
 
 ## 科技創業週報
 - 2025/11/27 [科技創業週報 #509：別只是跟AI 聊天，讓它替你上班：當「代理人」接管滑鼠，創業者的護城河還在嗎？](https://blog.starrocket.io/posts/newsletter-2025-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2025/11/27 [学习周刊-总第239期-2025年第48周](https://wiki.eryajf.net/pages/7b0c3c/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## FOSS Weekly
-- 2025/11/27 [FOSS Weekly #25.48: Backup Flatpaks and Snaps, Arduino's Troubled Future, New Office, Popular Linux Apps Reborn and More](https://itsfoss.com/newsletter/foss-weekly-25-48/) | [More](channels/FOSS%20Weekly.md)
 
 ## 有个问题
 - 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
