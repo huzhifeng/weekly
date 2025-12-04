@@ -3,17 +3,32 @@
 ## 科技爱好者周刊
 - 2025/11/28 [科技爱好者周刊（第 375 期）：一扇门的 Bug](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2025/12/04 [科技創業週報 #510：埃森哲把 ChatGPT 發給幾萬名員工用了，這對老闆們意味著什麼？](https://blog.starrocket.io/posts/newsletter-2025-12-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 胡言乱语
+- 2025/12/04 [20251204的胡言乱语](https://www.bboy.app/2025/12/04/20251204%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2025/12/04 [学习周刊-总第240期-2025年第49周](https://wiki.eryajf.net/pages/462c25/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/12/04 [LWN.net Weekly Edition for December 4, 2025](https://lwn.net/Articles/1047221/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/12/04 [FOSS Weekly #25.49: Kernel 6.18 'LTS', Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-49/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/12/04 [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/04 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 拾月通讯
 - 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## 偷懒爱好者周刊
 - 2025/12/03 [第161期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/03/第161期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2025/12/03 [lima-vm/lima](https://github.com/lima-vm/lima) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/03 [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Pseudoyu 周报
 - 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -75,9 +90,6 @@
 ## Self-Host Weekly
 - 2025/11/28 [Self-Host Weekly #147: Ad-Free](https://selfh.st/weekly/2025-11-28/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/11/27 [科技創業週報 #509：別只是跟AI 聊天，讓它替你上班：當「代理人」接管滑鼠，創業者的護城河還在嗎？](https://blog.starrocket.io/posts/newsletter-2025-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 有个问题
 - 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
@@ -86,12 +98,6 @@
 
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
-
-## 胡言乱语
-- 2025/11/20 [20251120的胡言乱语](https://www.bboy.app/2025/11/20/20251120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## LWN.net Weekly Edition
-- 2025/11/20 [LWN.net Weekly Edition for November 20, 2025](https://lwn.net/Articles/1046323/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 更好生活
 - 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
