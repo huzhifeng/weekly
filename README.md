@@ -1,7 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/11/28 [科技爱好者周刊（第 375 期）：一扇门的 Bug](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/12/05 [科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/12/05 [Web Review, Week 2025-49](https://ervin.ipsquad.net/blog/2025/12/05/web-review-week-2025-49/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2025/12/05 [Self-Host Weekly #148: Maintenance Mode](https://selfh.st/weekly/2025-12-05/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/12/05 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/05 [kavishdevar/librepods](https://github.com/kavishdevar/librepods) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/12/04 [科技創業週報 #510：埃森哲把 ChatGPT 發給幾萬名員工用了，這對老闆們意味著什麼？](https://blog.starrocket.io/posts/newsletter-2025-12-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/12/04 [FOSS Weekly #25.49: Kernel 6.18 'LTS', Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-49/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/12/04 [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/04 [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 拾月通讯
 - 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -81,14 +87,8 @@
 ## This Week in Plasma
 - 2025/11/29 [This Week in Plasma: lots of cool stuff](https://blogs.kde.org/2025/11/29/this-week-in-plasma-lots-of-cool-stuff/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2025/11/28 [Web Review, Week 2025-48](https://ervin.ipsquad.net/blog/2025/11/28/web-review-week-2025-48/) | [More](channels/Web%20Review.md)
-
 ## HelloGitHub
 - 2025/11/28 [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [More](channels/HelloGitHub.md)
-
-## Self-Host Weekly
-- 2025/11/28 [Self-Host Weekly #147: Ad-Free](https://selfh.st/weekly/2025-11-28/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 有个问题
 - 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)

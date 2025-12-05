@@ -1,3 +1,4 @@
+- [Self-Host Weekly #148: Maintenance Mode](https://selfh.st/weekly/2025-12-05/)
 - [Self-Host Weekly #147: Ad-Free](https://selfh.st/weekly/2025-11-28/)
 - [Self-Host Weekly #146: Survey Says](https://selfh.st/weekly/2025-11-21/)
 - [Self-Host Weekly #145: Agentic](https://selfh.st/weekly/2025-11-14/)

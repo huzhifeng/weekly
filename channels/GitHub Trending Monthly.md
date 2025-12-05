@@ -1,3 +1,6 @@
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
 - [minio/minio](https://github.com/minio/minio)
 - [volcengine/MineContext](https://github.com/volcengine/MineContext)
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)

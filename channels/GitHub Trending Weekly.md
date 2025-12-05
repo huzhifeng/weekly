@@ -1,3 +1,4 @@
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
