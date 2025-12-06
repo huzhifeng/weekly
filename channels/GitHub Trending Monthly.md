@@ -1,3 +1,5 @@
+- [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
