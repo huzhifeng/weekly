@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2025/12/05 [科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2025/12/06 [This Week in Plasma: Better hardware support](https://blogs.kde.org/2025/12/06/this-week-in-plasma-better-hardware-support/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2025/12/08 [第248期 - 街头僧人](https://weekly.tw93.fun/posts/248/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2025/12/08 [肖恩技术周刊（第 73 期）：何意味？](https://weekly.shawnxie.top/content/2025/73.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/12/07 [猫鱼周刊 vol. 087 做一个 RSS 阅读器](https://ameow.xyz/archives/weekly-087) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## V2EX 周报
+- 2025/12/07 [✨ V2EX 周报 本周热门主题及高赞回复 11.29-12.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/12/06 [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/07 [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/06 [kavishdevar/librepods](https://github.com/kavishdevar/librepods) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/07 [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2025/12/06 [This Week in Plasma: Better hardware support](https://blogs.kde.org/2025/12/06/this-week-in-plasma-better-hardware-support/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2025/12/05 [Web Review, Week 2025-49](https://ervin.ipsquad.net/blog/2025/12/05/web-review-week-2025-49/) | [More](channels/Web%20Review.md)
@@ -42,12 +57,6 @@
 ## Pseudoyu 周报
 - 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2025/12/01 [第247期 - 东京大学](https://weekly.tw93.fun/posts/247/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2025/12/01 [肖恩技术周刊（第 72 期）：有趣的C语言谜题](https://weekly.shawnxie.top/content/2025/72.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/12/01 [稻草人周刊 Vol. 57](https://www.geedea.pro/posts/weekly/57/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -69,9 +78,6 @@
 ## Ubuntu Weekly Newsletter
 - 2025/12/01 [Ubuntu Weekly Newsletter Issue 921](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-921/72976) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/11/30 [猫鱼周刊 vol. 086 走出迷茫](https://ameow.xyz/archives/weekly-086) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
@@ -80,9 +86,6 @@
 
 ## AIGC Weekly
 - 2025/11/30 [AIGC Weekly #149 感恩节假期没啥东西](https://quaily.com/op7418/p/aigc-weekly-149-thanksgiving-holiday-nothing) | [More](channels/AIGC%20Weekly.md)
-
-## V2EX 周报
-- 2025/11/30 [✨ V2EX 周报 本周热门主题及高赞回复 11.22-11.28](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in GNOME
 - 2025/11/29 [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -101,9 +104,6 @@
 
 ## 更好生活
 - 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## 视野修炼
-- 2025/11/16 [视野修炼第127期 | Valdi](https://sugarat.top/weekly/2025-11-16.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Airing's Weekly
 - 2025/11/15 [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) | [More](channels/Airing%27s%20Weekly.md)

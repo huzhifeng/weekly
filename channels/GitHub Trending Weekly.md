@@ -1,3 +1,4 @@
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
