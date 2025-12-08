@@ -1,3 +1,4 @@
+- [【CDT周报】第247期：我上吊了，他们却说我在荡秋千](https://chinadigitaltimes.net/chinese/723264.html)
 - [【CDT周报】第246期：“真正要取代的从来不是竹棚，而是……”](https://chinadigitaltimes.net/chinese/723032.html)
 - [【CDT周报】第245期：为了回击高市早苗的挑衅，本月起无偿多加5个班](https://chinadigitaltimes.net/chinese/722864.html)
 - [【CDT周报】第244期：“求求让西贝进校园吧！至少没虫子、没头发、没馊味！”](https://chinadigitaltimes.net/chinese/722674.html)

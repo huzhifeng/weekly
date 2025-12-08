@@ -1,3 +1,4 @@
+- [android/nav3-recipes](https://github.com/android/nav3-recipes)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)

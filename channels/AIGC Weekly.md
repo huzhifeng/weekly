@@ -1,3 +1,4 @@
+- [AIGC Weekly #150](https://quaily.com/op7418/p/aigc-weekly-m3e7y0l3)
 - [AIGC Weekly #149 感恩节假期没啥东西](https://quaily.com/op7418/p/aigc-weekly-149-thanksgiving-holiday-nothing)
 - [AIGC Weekly #148 真是充实的一周啊](https://quaily.com/op7418/p/aigc-weekly-148-what-a-fulfilling-week)
 - [AIGC Weekly #147 优惠券兑换里面请](https://quaily.com/op7418/p/aigc-weekly-477k58lx)

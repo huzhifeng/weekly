@@ -1,3 +1,4 @@
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)

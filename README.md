@@ -9,20 +9,47 @@
 ## 肖恩技术周刊
 - 2025/12/08 [肖恩技术周刊（第 73 期）：何意味？](https://weekly.shawnxie.top/content/2025/73.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2025/12/08 [稻草人周刊 Vol.58](https://www.geedea.pro/posts/weekly/58/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/12/08 [【CDT周报】第247期：我上吊了，他们却说我在荡秋千](https://chinadigitaltimes.net/chinese/723264.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 有个问题
+- 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## 一周杂记
+- 2025/12/08 [一周杂记 in Week 1 Dec 2025](http://kingsamchen.github.io/2025/12/08/weekly-2025-dec-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/12/08 [AIGC Weekly #150](https://quaily.com/op7418/p/aigc-weekly-m3e7y0l3) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/12/08 [DistroWatch Weekly, Issue 1151](https://distrowatch.com/weekly.php?issue=20251208) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2025/12/08 [Ubuntu Weekly Newsletter Issue 922](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-922/73338) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2025/12/08 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/08 [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/12/07 [猫鱼周刊 vol. 087 做一个 RSS 阅读器](https://ameow.xyz/archives/weekly-087) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
+## zdyxry Weekly Issue
+- 2025/12/07 [Weekly Issue-《你可以跑的更快》](https://zdyxry.github.io/2025/12/07/Weekly-Issue-%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%B7%91%E7%9A%84%E6%9B%B4%E5%BF%AB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/12/07 [9to5Linux Weekly Roundup: December 7th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-7th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
 ## V2EX 周报
 - 2025/12/07 [✨ V2EX 周报 本周热门主题及高赞回复 11.29-12.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2025/12/07 [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/07 [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2025/12/06 [This Week in Plasma: Better hardware support](https://blogs.kde.org/2025/12/06/this-week-in-plasma-better-hardware-support/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -46,7 +73,7 @@
 - 2025/12/04 [LWN.net Weekly Edition for December 4, 2025](https://lwn.net/Articles/1047221/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
-- 2025/12/04 [FOSS Weekly #25.49: Kernel 6.18 'LTS', Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-49/) | [More](channels/FOSS%20Weekly.md)
+- 2025/12/04 [FOSS Weekly #25.49: Kernel 6.18 &#x27;LTS&#x27;, Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-49/) | [More](channels/FOSS%20Weekly.md)
 
 ## 拾月通讯
 - 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -57,44 +84,20 @@
 ## Pseudoyu 周报
 - 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 稻草人周刊
-- 2025/12/01 [稻草人周刊 Vol. 57](https://www.geedea.pro/posts/weekly/57/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/12/01 [【CDT周报】第246期：“真正要取代的从来不是竹棚，而是……”](https://chinadigitaltimes.net/chinese/723032.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## Taxodium
 - 2025/12/01 [Zine#46](https://taxodium.ink/46.html) | [More](channels/Taxodium.md)
 
 ## 试行错误
 - 2025/12/01 [春晖：爱会向低处流淌，因为那里最需要它｜试行错误146](https://quaily.com/shixingcuowu/p/chunhui-love-will-flow-downward-because-it-is-most-needed-test-error-146) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## 一周杂记
-- 2025/12/01 [一周杂记 in Week 4 Nov 2025](http://kingsamchen.github.io/2025/12/01/weekly-2025-nov-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2025/12/01 [DistroWatch Weekly, Issue 1150](https://distrowatch.com/weekly.php?issue=20251201) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/12/01 [Ubuntu Weekly Newsletter Issue 921](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-921/72976) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## zdyxry Weekly Issue
-- 2025/11/30 [Weekly Issue-《我们的箱根驿传》](https://zdyxry.github.io/2025/11/30/Weekly-Issue-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AE%B1%E6%A0%B9%E9%A9%BF%E4%BC%A0/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## AIGC Weekly
-- 2025/11/30 [AIGC Weekly #149 感恩节假期没啥东西](https://quaily.com/op7418/p/aigc-weekly-149-thanksgiving-holiday-nothing) | [More](channels/AIGC%20Weekly.md)
 
 ## This Week in GNOME
 - 2025/11/29 [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## HelloGitHub
 - 2025/11/28 [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [More](channels/HelloGitHub.md)
-
-## 有个问题
-- 2025/11/25 [如何与自己做朋友？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-become-friends-with-yourself) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 棱镜通讯
 - 2025/11/23 [隐说 NO.11 杠杆思维](https://wangyurui.com/posts/yin-shuo-no-11-0d53dfcc) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
