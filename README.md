@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2025/12/05 [科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/12/10 [第162期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/10/第162期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/12/09 [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/09 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/12/08 [第248期 - 街头僧人](https://weekly.tw93.fun/posts/248/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -18,6 +27,9 @@
 ## 有个问题
 - 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
+## 试行错误
+- 2025/12/08 [把小红书扔进抽屉里：既然打不赢算法，就让每次取用变麻烦｜试行错误147](https://quaily.com/shixingcuowu/p/throw-xiaohongshu-into-drawer-since-cannot-beat-algorithm-let-each-use-become-troublesome-trial-error-147) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## 一周杂记
 - 2025/12/08 [一周杂记 in Week 1 Dec 2025](http://kingsamchen.github.io/2025/12/08/weekly-2025-dec-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -29,12 +41,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2025/12/08 [Ubuntu Weekly Newsletter Issue 922](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-922/73338) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/12/08 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/08 [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2025/12/07 [猫鱼周刊 vol. 087 做一个 RSS 阅读器](https://ameow.xyz/archives/weekly-087) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -72,23 +78,14 @@
 ## LWN.net Weekly Edition
 - 2025/12/04 [LWN.net Weekly Edition for December 4, 2025](https://lwn.net/Articles/1047221/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## FOSS Weekly
-- 2025/12/04 [FOSS Weekly #25.49: Kernel 6.18 &#x27;LTS&#x27;, Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-49/) | [More](channels/FOSS%20Weekly.md)
-
 ## 拾月通讯
 - 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## 偷懒爱好者周刊
-- 2025/12/03 [第161期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/03/第161期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## Taxodium
 - 2025/12/01 [Zine#46](https://taxodium.ink/46.html) | [More](channels/Taxodium.md)
-
-## 试行错误
-- 2025/12/01 [春晖：爱会向低处流淌，因为那里最需要它｜试行错误146](https://quaily.com/shixingcuowu/p/chunhui-love-will-flow-downward-because-it-is-most-needed-test-error-146) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
