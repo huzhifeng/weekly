@@ -1,3 +1,4 @@
+- [google/adk-go](https://github.com/google/adk-go)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)

@@ -7,10 +7,10 @@
 - 2025/12/10 [第162期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/10/第162期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2025/12/09 [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/10 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/09 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/10 [google/adk-go](https://github.com/google/adk-go) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/12/08 [第248期 - 街头僧人](https://weekly.tw93.fun/posts/248/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -92,9 +92,6 @@
 
 ## This Week in GNOME
 - 2025/11/29 [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## HelloGitHub
-- 2025/11/28 [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [More](channels/HelloGitHub.md)
 
 ## 棱镜通讯
 - 2025/11/23 [隐说 NO.11 杠杆思维](https://wangyurui.com/posts/yin-shuo-no-11-0d53dfcc) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
