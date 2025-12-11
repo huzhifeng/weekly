@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2025/12/05 [科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/12/10 [第162期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/10/第162期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/12/11 [科技創業週報 #511：美國把國家變成AI 實驗室，正重寫自己的作業系統](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-511%ef%bc%9a%e7%be%8e%e5%9c%8b%e6%8a%8a%e5%9c%8b%e5%ae%b6%e8%ae%8a%e6%88%90ai-%e5%af%a6%e9%a9%97%e5%ae%a4%ef%bc%8c%e6%ad%a3%e9%87%8d%e5%af%ab/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 胡言乱语
+- 2025/12/11 [20251211的胡言乱语](https://www.bboy.app/2025/12/11/20251211%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2025/12/11 [学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/12/11 [LWN.net Weekly Edition for December 11, 2025](https://lwn.net/Articles/1049161/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/12/11 [FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More](https://itsfoss.com/newsletter/foss-weekly-25-50/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/12/10 [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/11 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/10 [google/adk-go](https://github.com/google/adk-go) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/11 [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/12/10 [第162期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/10/第162期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/12/08 [第248期 - 街头僧人](https://weekly.tw93.fun/posts/248/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,9 +66,6 @@
 ## zdyxry Weekly Issue
 - 2025/12/07 [Weekly Issue-《你可以跑的更快》](https://zdyxry.github.io/2025/12/07/Weekly-Issue-%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%B7%91%E7%9A%84%E6%9B%B4%E5%BF%AB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/12/07 [9to5Linux Weekly Roundup: December 7th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-7th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## V2EX 周报
 - 2025/12/07 [✨ V2EX 周报 本周热门主题及高赞回复 11.29-12.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -65,18 +77,6 @@
 
 ## Self-Host Weekly
 - 2025/12/05 [Self-Host Weekly #148: Maintenance Mode](https://selfh.st/weekly/2025-12-05/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2025/12/04 [科技創業週報 #510：埃森哲把 ChatGPT 發給幾萬名員工用了，這對老闆們意味著什麼？](https://blog.starrocket.io/posts/newsletter-2025-12-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 胡言乱语
-- 2025/12/04 [20251204的胡言乱语](https://www.bboy.app/2025/12/04/20251204%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 二丫讲梵学习周刊
-- 2025/12/04 [学习周刊-总第240期-2025年第49周](https://wiki.eryajf.net/pages/462c25/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2025/12/04 [LWN.net Weekly Edition for December 4, 2025](https://lwn.net/Articles/1047221/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 拾月通讯
 - 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -92,6 +92,9 @@
 
 ## This Week in GNOME
 - 2025/11/29 [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## HelloGitHub
+- 2025/11/28 [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [More](channels/HelloGitHub.md)
 
 ## 棱镜通讯
 - 2025/11/23 [隐说 NO.11 杠杆思维](https://wangyurui.com/posts/yin-shuo-no-11-0d53dfcc) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

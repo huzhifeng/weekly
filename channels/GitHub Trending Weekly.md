@@ -1,3 +1,6 @@
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+- [basecamp/fizzy](https://github.com/basecamp/fizzy)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
 - [android/nav3-recipes](https://github.com/android/nav3-recipes)

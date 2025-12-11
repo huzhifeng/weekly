@@ -1,3 +1,5 @@
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - [google/adk-go](https://github.com/google/adk-go)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)

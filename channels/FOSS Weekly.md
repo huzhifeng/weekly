@@ -1,3 +1,4 @@
+- [FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More](https://itsfoss.com/newsletter/foss-weekly-25-50/)
 - [FOSS Weekly #25.49: Kernel 6.18 'LTS', Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-49/)
 - [FOSS Weekly #25.48: Backup Flatpaks and Snaps, Arduino's Troubled Future, New Office, Popular Linux Apps Reborn and More](https://itsfoss.com/newsletter/foss-weekly-25-48/)
 - [FOSS Weekly #25.47: AI Mode in Firefox, Nitrux 5, GNOME Panel, Rust Alternative Commands and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-47/)
