@@ -1,3 +1,4 @@
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 - [basecamp/fizzy](https://github.com/basecamp/fizzy)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)

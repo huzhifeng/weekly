@@ -1,3 +1,4 @@
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - [google/adk-go](https://github.com/google/adk-go)

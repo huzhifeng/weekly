@@ -1,7 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/12/05 [科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/12/12 [科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/12/12 [Web Review, Week 2025-50](https://ervin.ipsquad.net/blog/2025/12/12/web-review-week-2025-50/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2025/12/12 [Self-Host Weekly #149: A Few of My Favorite Things](https://selfh.st/weekly/2025-12-12/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/12/12 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/12 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/12/11 [科技創業週報 #511：美國把國家變成AI 實驗室，正重寫自己的作業系統](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-511%ef%bc%9a%e7%be%8e%e5%9c%8b%e6%8a%8a%e5%9c%8b%e5%ae%b6%e8%ae%8a%e6%88%90ai-%e5%af%a6%e9%a9%97%e5%ae%a4%ef%bc%8c%e6%ad%a3%e9%87%8d%e5%af%ab/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/12/11 [FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More](https://itsfoss.com/newsletter/foss-weekly-25-50/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/12/11 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/11 [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/12/10 [第162期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/10/第162期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -71,12 +77,6 @@
 
 ## This Week in Plasma
 - 2025/12/06 [This Week in Plasma: Better hardware support](https://blogs.kde.org/2025/12/06/this-week-in-plasma-better-hardware-support/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2025/12/05 [Web Review, Week 2025-49](https://ervin.ipsquad.net/blog/2025/12/05/web-review-week-2025-49/) | [More](channels/Web%20Review.md)
-
-## Self-Host Weekly
-- 2025/12/05 [Self-Host Weekly #148: Maintenance Mode](https://selfh.st/weekly/2025-12-05/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 拾月通讯
 - 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
