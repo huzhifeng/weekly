@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2025/12/12 [科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 拾月通讯
+- 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## This Week in Plasma
+- 2025/12/13 [This Week in Plasma: Wayland screen mirroring and custom modes](https://blogs.kde.org/2025/12/13/this-week-in-plasma-wayland-screen-mirroring-and-custom-modes/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/12/13 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/13 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2025/12/12 [Web Review, Week 2025-50](https://ervin.ipsquad.net/blog/2025/12/12/web-review-week-2025-50/) | [More](channels/Web%20Review.md)
 
+## This Week in GNOME
+- 2025/12/12 [#228 Midnight Edition](https://thisweek.gnome.org/posts/2025/12/twig-228/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## Self-Host Weekly
 - 2025/12/12 [Self-Host Weekly #149: A Few of My Favorite Things](https://selfh.st/weekly/2025-12-12/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/12/12 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/12 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/12/11 [科技創業週報 #511：美國把國家變成AI 實驗室，正重寫自己的作業系統](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-511%ef%bc%9a%e7%be%8e%e5%9c%8b%e6%8a%8a%e5%9c%8b%e5%ae%b6%e8%ae%8a%e6%88%90ai-%e5%af%a6%e9%a9%97%e5%ae%a4%ef%bc%8c%e6%ad%a3%e9%87%8d%e5%af%ab/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -75,12 +84,6 @@
 ## V2EX 周报
 - 2025/12/07 [✨ V2EX 周报 本周热门主题及高赞回复 11.29-12.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2025/12/06 [This Week in Plasma: Better hardware support](https://blogs.kde.org/2025/12/06/this-week-in-plasma-better-hardware-support/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## 拾月通讯
-- 2025/12/03 [作为日记本的博客](https://www.skyue.com/25120313.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
 ## Pseudoyu 周报
 - 2025/12/02 [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
@@ -89,9 +92,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## This Week in GNOME
-- 2025/11/29 [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## HelloGitHub
 - 2025/11/28 [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [More](channels/HelloGitHub.md)

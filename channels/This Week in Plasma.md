@@ -1,3 +1,4 @@
+- [This Week in Plasma: Wayland screen mirroring and custom modes](https://blogs.kde.org/2025/12/13/this-week-in-plasma-wayland-screen-mirroring-and-custom-modes/)
 - [This Week in Plasma: Better hardware support](https://blogs.kde.org/2025/12/06/this-week-in-plasma-better-hardware-support/)
 - [This Week in Plasma: lots of cool stuff](https://blogs.kde.org/2025/11/29/this-week-in-plasma-lots-of-cool-stuff/)
 - [Going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
