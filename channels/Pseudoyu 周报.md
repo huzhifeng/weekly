@@ -1,3 +1,4 @@
+- [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104)
 - [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103)
 - [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102)
 - [周报 #101 - 消失了三个月，我的生活发生了什么变化](https://www.pseudoyu.com/posts/weekly_review_101)

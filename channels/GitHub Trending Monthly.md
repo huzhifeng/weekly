@@ -1,3 +1,4 @@
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs)
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
