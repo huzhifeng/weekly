@@ -9,20 +9,41 @@
 ## 肖恩技术周刊
 - 2025/12/15 [肖恩技术周刊（第 74 期）：AI重塑未来](https://weekly.shawnxie.top/content/2025/74.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2025/12/15 [稻草人周刊 Vol.59](https://www.geedea.pro/posts/weekly/59/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/12/15 [【CDT周报】第248期：当现实失语，历史就会被反复调用](https://chinadigitaltimes.net/chinese/723480.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2025/12/15 [一周杂记 in Week 2 Dec 2025](http://kingsamchen.github.io/2025/12/15/weekly-2025-dec-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2025/12/15 [AIGC Weekly #151 谷歌在多模态上的投入到了收获的时候](https://quaily.com/op7418/p/aigc-weekly-151-google-multimodal-investment-harvest-time) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/12/15 [DistroWatch Weekly, Issue 1152](https://distrowatch.com/weekly.php?issue=20251215) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/12/15 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/15 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/12/14 [猫鱼周刊 vol. 088 两个 Linus 的史诗级会面](https://ameow.xyz/archives/weekly-088) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
+## zdyxry Weekly Issue
+- 2025/12/14 [Weekly Issue-感冒](https://zdyxry.github.io/2025/12/14/Weekly-Issue-%E6%84%9F%E5%86%92/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/12/14 [9to5Linux Weekly Roundup: December 14th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-14th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
 ## V2EX 周报
 - 2025/12/14 [✨ V2EX 周报 本周热门主题及高赞回复 12.06-12.12](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2025/12/14 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/14 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 拾月通讯
 - 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -40,7 +61,7 @@
 - 2025/12/12 [Self-Host Weekly #149: A Few of My Favorite Things](https://selfh.st/weekly/2025-12-12/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
-- 2025/12/11 [科技創業週報 #511：美國把國家變成AI 實驗室，正重寫自己的作業系統](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-511%ef%bc%9a%e7%be%8e%e5%9c%8b%e6%8a%8a%e5%9c%8b%e5%ae%b6%e8%ae%8a%e6%88%90ai-%e5%af%a6%e9%a9%97%e5%ae%a4%ef%bc%8c%e6%ad%a3%e9%87%8d%e5%af%ab/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2025/12/11 [科技創業週報 #511：美國把國家變成AI 實驗室，正重寫自己的作業系統](https://blog.starrocket.io/posts/newsletter-2025-12-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 胡言乱语
 - 2025/12/11 [20251211的胡言乱语](https://www.bboy.app/2025/12/11/20251211%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -57,35 +78,17 @@
 ## 偷懒爱好者周刊
 - 2025/12/10 [第162期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/10/第162期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/12/08 [稻草人周刊 Vol.58](https://www.geedea.pro/posts/weekly/58/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/12/08 [【CDT周报】第247期：我上吊了，他们却说我在荡秋千](https://chinadigitaltimes.net/chinese/723264.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 有个问题
 - 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 试行错误
 - 2025/12/08 [把小红书扔进抽屉里：既然打不赢算法，就让每次取用变麻烦｜试行错误147](https://quaily.com/shixingcuowu/p/throw-xiaohongshu-into-drawer-since-cannot-beat-algorithm-let-each-use-become-troublesome-trial-error-147) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## 一周杂记
-- 2025/12/08 [一周杂记 in Week 1 Dec 2025](http://kingsamchen.github.io/2025/12/08/weekly-2025-dec-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2025/12/08 [AIGC Weekly #150](https://quaily.com/op7418/p/aigc-weekly-m3e7y0l3) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/12/08 [DistroWatch Weekly, Issue 1151](https://distrowatch.com/weekly.php?issue=20251208) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/12/08 [Ubuntu Weekly Newsletter Issue 922](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-922/73338) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 视野修炼
 - 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## zdyxry Weekly Issue
-- 2025/12/07 [Weekly Issue-《你可以跑的更快》](https://zdyxry.github.io/2025/12/07/Weekly-Issue-%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%B7%91%E7%9A%84%E6%9B%B4%E5%BF%AB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Taxodium
 - 2025/12/01 [Zine#46](https://taxodium.ink/46.html) | [More](channels/Taxodium.md)

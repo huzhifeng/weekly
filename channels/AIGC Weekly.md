@@ -1,3 +1,4 @@
+- [AIGC Weekly #151 谷歌在多模态上的投入到了收获的时候](https://quaily.com/op7418/p/aigc-weekly-151-google-multimodal-investment-harvest-time)
 - [AIGC Weekly #150](https://quaily.com/op7418/p/aigc-weekly-m3e7y0l3)
 - [AIGC Weekly #149 感恩节假期没啥东西](https://quaily.com/op7418/p/aigc-weekly-149-thanksgiving-holiday-nothing)
 - [AIGC Weekly #148 真是充实的一周啊](https://quaily.com/op7418/p/aigc-weekly-148-what-a-fulfilling-week)

@@ -1,3 +1,4 @@
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 - [basecamp/fizzy](https://github.com/basecamp/fizzy)

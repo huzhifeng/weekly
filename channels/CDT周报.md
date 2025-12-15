@@ -1,3 +1,4 @@
+- [【CDT周报】第248期：当现实失语，历史就会被反复调用](https://chinadigitaltimes.net/chinese/723480.html)
 - [【CDT周报】第247期：我上吊了，他们却说我在荡秋千](https://chinadigitaltimes.net/chinese/723264.html)
 - [【CDT周报】第246期：“真正要取代的从来不是竹棚，而是……”](https://chinadigitaltimes.net/chinese/723032.html)
 - [【CDT周报】第245期：为了回击高市早苗的挑衅，本月起无偿多加5个班](https://chinadigitaltimes.net/chinese/722864.html)
