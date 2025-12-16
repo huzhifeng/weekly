@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2025/12/12 [科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2025/12/16 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/16 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/12/15 [第249期 - 美洲红鹮](https://weekly.tw93.fun/posts/249/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,6 +21,9 @@
 ## CDT周报
 - 2025/12/15 [【CDT周报】第248期：当现实失语，历史就会被反复调用](https://chinadigitaltimes.net/chinese/723480.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
+## 试行错误
+- 2025/12/15 [总是邀请她，是为了让她始终觉得自己是这个群体中的一员｜🥫阅读罐头（11 月刊）](https://quaily.com/shixingcuowu/p/always-inviting-her-to-feel-like-a-member-of-the-group-reading-can-11) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## 一周杂记
 - 2025/12/15 [一周杂记 in Week 2 Dec 2025](http://kingsamchen.github.io/2025/12/15/weekly-2025-dec-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -24,11 +33,8 @@
 ## DistroWatch Weekly
 - 2025/12/15 [DistroWatch Weekly, Issue 1152](https://distrowatch.com/weekly.php?issue=20251215) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2025/12/15 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/15 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/12/15 [Ubuntu Weekly Newsletter Issue 923](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-923/73690) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/12/14 [猫鱼周刊 vol. 088 两个 Linus 的史诗级会面](https://ameow.xyz/archives/weekly-088) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -80,12 +86,6 @@
 
 ## 有个问题
 - 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 试行错误
-- 2025/12/08 [把小红书扔进抽屉里：既然打不赢算法，就让每次取用变麻烦｜试行错误147](https://quaily.com/shixingcuowu/p/throw-xiaohongshu-into-drawer-since-cannot-beat-algorithm-let-each-use-become-troublesome-trial-error-147) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/12/08 [Ubuntu Weekly Newsletter Issue 922](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-922/73338) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 视野修炼
 - 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)

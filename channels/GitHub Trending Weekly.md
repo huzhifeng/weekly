@@ -1,3 +1,4 @@
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
