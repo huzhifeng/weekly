@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2025/12/12 [科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2025/12/17 [第163期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/17/第163期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/12/16 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/17 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/16 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/17 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/12/15 [第249期 - 美洲红鹮](https://weekly.tw93.fun/posts/249/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -80,9 +83,6 @@
 
 ## FOSS Weekly
 - 2025/12/11 [FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More](https://itsfoss.com/newsletter/foss-weekly-25-50/) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2025/12/10 [第162期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/10/第162期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 有个问题
 - 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
