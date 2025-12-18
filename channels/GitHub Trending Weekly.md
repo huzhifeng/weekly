@@ -1,3 +1,4 @@
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md)

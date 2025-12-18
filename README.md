@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2025/12/12 [科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/12/17 [第163期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/17/第163期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/12/18 [科技創業週報 #512：當Google 拆掉圍牆，Apple 築起堡壘，耳機裡的「AI 翻譯戰」將如何重塑我們的溝通與世界？](https://blog.starrocket.io/posts/newsletter-2025-12-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2025/12/18 [LWN.net Weekly Edition for December 18, 2025](https://lwn.net/Articles/1049996/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/12/18 [FOSS Weekly #25.51: Pop OS 24.04 Release, Fresh Editor, eBPF Tools, Cinnamon 6.6, NTFSPlus and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-51/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/12/17 [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/18 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/17 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/18 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/12/17 [第163期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/17/第163期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/12/15 [第249期 - 美洲红鹮](https://weekly.tw93.fun/posts/249/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -48,9 +57,6 @@
 ## zdyxry Weekly Issue
 - 2025/12/14 [Weekly Issue-感冒](https://zdyxry.github.io/2025/12/14/Weekly-Issue-%E6%84%9F%E5%86%92/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 9to5Linux Weekly Roundup
-- 2025/12/14 [9to5Linux Weekly Roundup: December 14th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-14th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## V2EX 周报
 - 2025/12/14 [✨ V2EX 周报 本周热门主题及高赞回复 12.06-12.12](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -69,29 +75,17 @@
 ## Self-Host Weekly
 - 2025/12/12 [Self-Host Weekly #149: A Few of My Favorite Things](https://selfh.st/weekly/2025-12-12/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/12/11 [科技創業週報 #511：美國把國家變成AI 實驗室，正重寫自己的作業系統](https://blog.starrocket.io/posts/newsletter-2025-12-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 胡言乱语
 - 2025/12/11 [20251211的胡言乱语](https://www.bboy.app/2025/12/11/20251211%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 二丫讲梵学习周刊
 - 2025/12/11 [学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## LWN.net Weekly Edition
-- 2025/12/11 [LWN.net Weekly Edition for December 11, 2025](https://lwn.net/Articles/1049161/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/12/11 [FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More](https://itsfoss.com/newsletter/foss-weekly-25-50/) | [More](channels/FOSS%20Weekly.md)
-
 ## 有个问题
 - 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 视野修炼
 - 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## Taxodium
-- 2025/12/01 [Zine#46](https://taxodium.ink/46.html) | [More](channels/Taxodium.md)
 
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
