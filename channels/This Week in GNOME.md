@@ -1,3 +1,4 @@
+- [#229 Good Rhythm](https://thisweek.gnome.org/posts/2025/12/twig-229/)
 - [#228 Midnight Edition](https://thisweek.gnome.org/posts/2025/12/twig-228/)
 - [#227 Circle Benefits](https://thisweek.gnome.org/posts/2025/11/twig-227/)
 - [#226 Exporting Events](https://thisweek.gnome.org/posts/2025/11/twig-226/)

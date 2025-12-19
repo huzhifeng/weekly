@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/12/12 [科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/12/19 [科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 更好生活
+- 2025/12/19 [我的 2025｜享受生活，好好工作，大力创造](https://quaily.com/jiayifun/p/2025-year-in-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## Web Review
+- 2025/12/19 [Web Review, Week 2025-51](https://ervin.ipsquad.net/blog/2025/12/19/web-review-week-2025-51/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2025/12/19 [#229 Good Rhythm](https://thisweek.gnome.org/posts/2025/12/twig-229/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2025/12/19 [Self-Host Weekly #150: Watchtower No More](https://selfh.st/weekly/2025-12-19/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/12/19 [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/19 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/12/18 [科技創業週報 #512：當Google 拆掉圍牆，Apple 築起堡壘，耳機裡的「AI 翻譯戰」將如何重塑我們的溝通與世界？](https://blog.starrocket.io/posts/newsletter-2025-12-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -11,12 +29,6 @@
 
 ## FOSS Weekly
 - 2025/12/18 [FOSS Weekly #25.51: Pop OS 24.04 Release, Fresh Editor, eBPF Tools, Cinnamon 6.6, NTFSPlus and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-51/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/12/18 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/18 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/12/17 [第163期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/17/第163期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -66,15 +78,6 @@
 ## This Week in Plasma
 - 2025/12/13 [This Week in Plasma: Wayland screen mirroring and custom modes](https://blogs.kde.org/2025/12/13/this-week-in-plasma-wayland-screen-mirroring-and-custom-modes/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2025/12/12 [Web Review, Week 2025-50](https://ervin.ipsquad.net/blog/2025/12/12/web-review-week-2025-50/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2025/12/12 [#228 Midnight Edition](https://thisweek.gnome.org/posts/2025/12/twig-228/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/12/12 [Self-Host Weekly #149: A Few of My Favorite Things](https://selfh.st/weekly/2025-12-12/) | [More](channels/Self-Host%20Weekly.md)
-
 ## 胡言乱语
 - 2025/12/11 [20251211的胡言乱语](https://www.bboy.app/2025/12/11/20251211%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -98,9 +101,6 @@
 
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
-
-## 更好生活
-- 2025/11/17 [Apple Watch 4 年使用体验：这 10 个功能最实用](https://quaily.com/jiayifun/p/apple-watch-ten-most-useful-features) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## Airing's Weekly
 - 2025/11/15 [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) | [More](channels/Airing%27s%20Weekly.md)
