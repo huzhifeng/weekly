@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2025/12/19 [科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2025/12/20 [This Week in Plasma: ambient light sensor support](https://blogs.kde.org/2025/12/20/this-week-in-plasma-ambient-light-sensor-support/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2025/12/20 [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/20 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 更好生活
 - 2025/12/19 [我的 2025｜享受生活，好好工作，大力创造](https://quaily.com/jiayifun/p/2025-year-in-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -14,12 +23,6 @@
 
 ## Self-Host Weekly
 - 2025/12/19 [Self-Host Weekly #150: Watchtower No More](https://selfh.st/weekly/2025-12-19/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/12/19 [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/19 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/12/18 [科技創業週報 #512：當Google 拆掉圍牆，Apple 築起堡壘，耳機裡的「AI 翻譯戰」將如何重塑我們的溝通與世界？](https://blog.starrocket.io/posts/newsletter-2025-12-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -74,9 +77,6 @@
 
 ## 拾月通讯
 - 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## This Week in Plasma
-- 2025/12/13 [This Week in Plasma: Wayland screen mirroring and custom modes](https://blogs.kde.org/2025/12/13/this-week-in-plasma-wayland-screen-mirroring-and-custom-modes/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 胡言乱语
 - 2025/12/11 [20251211的胡言乱语](https://www.bboy.app/2025/12/11/20251211%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
