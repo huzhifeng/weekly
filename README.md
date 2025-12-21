@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2025/12/19 [科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2025/12/20 [This Week in Plasma: ambient light sensor support](https://blogs.kde.org/2025/12/20/this-week-in-plasma-ambient-light-sensor-support/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2025/12/22 [第250期 - 北京的冬](https://weekly.tw93.fun/posts/250/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2025/12/22 [肖恩技术周刊（第 75 期）：Slop](https://weekly.shawnxie.top/content/2025/75.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/12/21 [猫鱼周刊 vol. 089 Vibe Engineering](https://ameow.xyz/archives/weekly-089) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2025/12/21 [✨ V2EX 周报 本周热门主题及高赞回复 12.13-12.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/12/20 [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/21 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/20 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/21 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 大橘和朋友们的周刊
+- 2025/12/20 [第037期 - 西西弗书店](https://rrorangeandfriends.de/posts/2025/037) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
+## This Week in Plasma
+- 2025/12/20 [This Week in Plasma: ambient light sensor support](https://blogs.kde.org/2025/12/20/this-week-in-plasma-ambient-light-sensor-support/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 更好生活
 - 2025/12/19 [我的 2025｜享受生活，好好工作，大力创造](https://quaily.com/jiayifun/p/2025-year-in-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -36,12 +51,6 @@
 ## 偷懒爱好者周刊
 - 2025/12/17 [第163期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/17/第163期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2025/12/15 [第249期 - 美洲红鹮](https://weekly.tw93.fun/posts/249/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2025/12/15 [肖恩技术周刊（第 74 期）：AI重塑未来](https://weekly.shawnxie.top/content/2025/74.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/12/15 [稻草人周刊 Vol.59](https://www.geedea.pro/posts/weekly/59/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -63,17 +72,11 @@
 ## Ubuntu Weekly Newsletter
 - 2025/12/15 [Ubuntu Weekly Newsletter Issue 923](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-923/73690) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/12/14 [猫鱼周刊 vol. 088 两个 Linus 的史诗级会面](https://ameow.xyz/archives/weekly-088) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## zdyxry Weekly Issue
 - 2025/12/14 [Weekly Issue-感冒](https://zdyxry.github.io/2025/12/14/Weekly-Issue-%E6%84%9F%E5%86%92/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2025/12/14 [✨ V2EX 周报 本周热门主题及高赞回复 12.06-12.12](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 拾月通讯
 - 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -113,9 +116,6 @@
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## 大橘和朋友们的周刊
-- 2025/08/30 [第036期 - 风语山巅](https://rrorangeandfriends.de/posts/2025/036) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## PIVOT
 - 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
