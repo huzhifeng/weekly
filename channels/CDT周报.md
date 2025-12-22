@@ -1,3 +1,4 @@
+- [【CDT周报】第249期：南京博物院治愈了爱哭的你们](https://chinadigitaltimes.net/chinese/723750.html)
 - [【CDT周报】第248期：当现实失语，历史就会被反复调用](https://chinadigitaltimes.net/chinese/723480.html)
 - [【CDT周报】第247期：我上吊了，他们却说我在荡秋千](https://chinadigitaltimes.net/chinese/723264.html)
 - [【CDT周报】第246期：“真正要取代的从来不是竹棚，而是……”](https://chinadigitaltimes.net/chinese/723032.html)

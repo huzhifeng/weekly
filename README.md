@@ -9,17 +9,35 @@
 ## 肖恩技术周刊
 - 2025/12/22 [肖恩技术周刊（第 75 期）：Slop](https://weekly.shawnxie.top/content/2025/75.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2025/12/22 [稻草人周刊 Vol.60](https://www.geedea.pro/posts/weekly/60/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2025/12/22 [【CDT周报】第249期：南京博物院治愈了爱哭的你们](https://chinadigitaltimes.net/chinese/723750.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2025/12/22 [AIGC Weekly #152](https://quaily.com/op7418/p/aigc-weekly-jdqbeeya) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2025/12/22 [DistroWatch Weekly, Issue 1153](https://distrowatch.com/weekly.php?issue=20251222) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2025/12/22 [9to5Linux Weekly Roundup: December 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-21st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2025/12/22 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/22 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2025/12/21 [猫鱼周刊 vol. 089 Vibe Engineering](https://ameow.xyz/archives/weekly-089) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
+## zdyxry Weekly Issue
+- 2025/12/21 [Weekly Issue-《我呀》](https://zdyxry.github.io/2025/12/21/Weekly-Issue-%E6%88%91%E5%91%80/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2025/12/21 [✨ V2EX 周报 本周热门主题及高赞回复 12.13-12.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2025/12/21 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/21 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 大橘和朋友们的周刊
 - 2025/12/20 [第037期 - 西西弗书店](https://rrorangeandfriends.de/posts/2025/037) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -51,32 +69,17 @@
 ## 偷懒爱好者周刊
 - 2025/12/17 [第163期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/17/第163期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/12/15 [稻草人周刊 Vol.59](https://www.geedea.pro/posts/weekly/59/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/12/15 [【CDT周报】第248期：当现实失语，历史就会被反复调用](https://chinadigitaltimes.net/chinese/723480.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 试行错误
 - 2025/12/15 [总是邀请她，是为了让她始终觉得自己是这个群体中的一员｜🥫阅读罐头（11 月刊）](https://quaily.com/shixingcuowu/p/always-inviting-her-to-feel-like-a-member-of-the-group-reading-can-11) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 一周杂记
 - 2025/12/15 [一周杂记 in Week 2 Dec 2025](http://kingsamchen.github.io/2025/12/15/weekly-2025-dec-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## AIGC Weekly
-- 2025/12/15 [AIGC Weekly #151 谷歌在多模态上的投入到了收获的时候](https://quaily.com/op7418/p/aigc-weekly-151-google-multimodal-investment-harvest-time) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2025/12/15 [DistroWatch Weekly, Issue 1152](https://distrowatch.com/weekly.php?issue=20251215) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2025/12/15 [Ubuntu Weekly Newsletter Issue 923](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-923/73690) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## zdyxry Weekly Issue
-- 2025/12/14 [Weekly Issue-感冒](https://zdyxry.github.io/2025/12/14/Weekly-Issue-%E6%84%9F%E5%86%92/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 拾月通讯
 - 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
