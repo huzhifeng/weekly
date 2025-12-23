@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2025/12/19 [科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2025/12/23 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/23 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/12/22 [第250期 - 北京的冬](https://weekly.tw93.fun/posts/250/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,6 +21,12 @@
 ## CDT周报
 - 2025/12/22 [【CDT周报】第249期：南京博物院治愈了爱哭的你们](https://chinadigitaltimes.net/chinese/723750.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
+## 试行错误
+- 2025/12/22 [真正适合你的机会，通常不是最热的那个｜🥫阅读罐头（12 月刊）](https://quaily.com/shixingcuowu/p/opportunities-not-hot-reading-canned-12-monthly) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## 一周杂记
+- 2025/12/22 [一周杂记 in Week 3 Dec 2025](http://kingsamchen.github.io/2025/12/22/weekly-2025-dec-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
 ## AIGC Weekly
 - 2025/12/22 [AIGC Weekly #152](https://quaily.com/op7418/p/aigc-weekly-jdqbeeya) | [More](channels/AIGC%20Weekly.md)
 
@@ -24,11 +36,8 @@
 ## 9to5Linux Weekly Roundup
 - 2025/12/22 [9to5Linux Weekly Roundup: December 21st, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-21st-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2025/12/22 [simstudioai/sim](https://github.com/simstudioai/sim) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/22 [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2025/12/22 [Ubuntu Weekly Newsletter Issue 924](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-924/74003) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/12/21 [猫鱼周刊 vol. 089 Vibe Engineering](https://ameow.xyz/archives/weekly-089) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -63,20 +72,8 @@
 ## LWN.net Weekly Edition
 - 2025/12/18 [LWN.net Weekly Edition for December 18, 2025](https://lwn.net/Articles/1049996/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## FOSS Weekly
-- 2025/12/18 [FOSS Weekly #25.51: Pop OS 24.04 Release, Fresh Editor, eBPF Tools, Cinnamon 6.6, NTFSPlus and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-51/) | [More](channels/FOSS%20Weekly.md)
-
 ## 偷懒爱好者周刊
 - 2025/12/17 [第163期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/17/第163期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 试行错误
-- 2025/12/15 [总是邀请她，是为了让她始终觉得自己是这个群体中的一员｜🥫阅读罐头（11 月刊）](https://quaily.com/shixingcuowu/p/always-inviting-her-to-feel-like-a-member-of-the-group-reading-can-11) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 一周杂记
-- 2025/12/15 [一周杂记 in Week 2 Dec 2025](http://kingsamchen.github.io/2025/12/15/weekly-2025-dec-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/12/15 [Ubuntu Weekly Newsletter Issue 923](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-923/73690) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -113,9 +110,6 @@
 
 ## 虹线周刊
 - 2025/10/27 [2025#43 逐臭之夫](https://weekly.1q43.blog/article/298ca795c956808a8f11dbf6d907812e) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 广林月刊
-- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,5 @@
+- [Morganamilo/paru](https://github.com/Morganamilo/paru)
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
 - [sst/opencode](https://github.com/sst/opencode)
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
