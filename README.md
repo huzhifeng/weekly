@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2025/12/19 [科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2025/12/24 [第164期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/24/第164期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2025/12/25 [科技創業週報 #513：當 78% 的員工都在「帶AI 上班」：企業治理如何從「圍堵」走向「疏導」？](https://blog.starrocket.io/posts/newsletter-2025-12-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 胡言乱语
-- 2025/12/24 [20251224的胡言乱语](https://www.bboy.app/2025/12/24/20251224%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2025/12/25 [20251225的胡言乱语](https://www.bboy.app/2025/12/25/20251225%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2025/12/25 [学习周刊-总第243期-2025年第52周](https://wiki.eryajf.net/pages/211cb3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2025/12/25 [LWN.net Weekly Edition for December 25, 2025](https://lwn.net/Articles/1051064/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2025/12/25 [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2025/12/24 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/25 [exo-explore/exo](https://github.com/exo-explore/exo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/24 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/25 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2025/12/24 [第164期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/24/第164期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2025/12/22 [第250期 - 北京的冬](https://weekly.tw93.fun/posts/250/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -72,20 +84,11 @@
 ## Self-Host Weekly
 - 2025/12/19 [Self-Host Weekly #150: Watchtower No More](https://selfh.st/weekly/2025-12-19/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/12/18 [科技創業週報 #512：當Google 拆掉圍牆，Apple 築起堡壘，耳機裡的「AI 翻譯戰」將如何重塑我們的溝通與世界？](https://blog.starrocket.io/posts/newsletter-2025-12-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2025/12/18 [LWN.net Weekly Edition for December 18, 2025](https://lwn.net/Articles/1049996/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 拾月通讯
 - 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## 二丫讲梵学习周刊
-- 2025/12/11 [学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 有个问题
 - 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)

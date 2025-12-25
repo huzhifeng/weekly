@@ -1,3 +1,4 @@
+- [astral-sh/ty](https://github.com/astral-sh/ty)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru)
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
 - [sst/opencode](https://github.com/sst/opencode)
