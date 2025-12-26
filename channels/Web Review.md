@@ -1,3 +1,4 @@
+- [Web Review, Week 2025-52](https://ervin.ipsquad.net/blog/2025/12/26/web-review-week-2025-52/)
 - [Web Review, Week 2025-51](https://ervin.ipsquad.net/blog/2025/12/19/web-review-week-2025-51/)
 - [Web Review, Week 2025-50](https://ervin.ipsquad.net/blog/2025/12/12/web-review-week-2025-50/)
 - [Web Review, Week 2025-49](https://ervin.ipsquad.net/blog/2025/12/05/web-review-week-2025-49/)

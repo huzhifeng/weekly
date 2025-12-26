@@ -1,3 +1,5 @@
+- [anthropics/skills](https://github.com/anthropics/skills)
+- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 - [astral-sh/ty](https://github.com/astral-sh/ty)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru)
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)

@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/12/19 [科技爱好者周刊（第 378 期）：预测是新的互联网热点](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2025/12/26 [Web Review, Week 2025-52](https://ervin.ipsquad.net/blog/2025/12/26/web-review-week-2025-52/) | [More](channels/Web%20Review.md)
+
+## HelloGitHub
+- 2025/12/26 [HelloGitHub 第 117 期](https://hellogithub.com/periodical/volume/117) | [More](channels/HelloGitHub.md)
+
+## Self-Host Weekly
+- 2025/12/26 [Self-Host Weekly #151: Figgy Pudding](https://selfh.st/weekly/2025-12-26/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2025/12/26 [anthropics/skills](https://github.com/anthropics/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/26 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2025/12/25 [科技創業週報 #513：當 78% 的員工都在「帶AI 上班」：企業治理如何從「圍堵」走向「疏導」？](https://blog.starrocket.io/posts/newsletter-2025-12-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +32,6 @@
 
 ## FOSS Weekly
 - 2025/12/25 [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2025/12/25 [exo-explore/exo](https://github.com/exo-explore/exo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/25 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2025/12/24 [第164期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/24/第164期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -75,14 +84,8 @@
 ## 更好生活
 - 2025/12/19 [我的 2025｜享受生活，好好工作，大力创造](https://quaily.com/jiayifun/p/2025-year-in-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
-## Web Review
-- 2025/12/19 [Web Review, Week 2025-51](https://ervin.ipsquad.net/blog/2025/12/19/web-review-week-2025-51/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2025/12/19 [#229 Good Rhythm](https://thisweek.gnome.org/posts/2025/12/twig-229/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2025/12/19 [Self-Host Weekly #150: Watchtower No More](https://selfh.st/weekly/2025-12-19/) | [More](channels/Self-Host%20Weekly.md)
 
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -98,9 +101,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## HelloGitHub
-- 2025/11/28 [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [More](channels/HelloGitHub.md)
 
 ## 棱镜通讯
 - 2025/11/23 [隐说 NO.11 杠杆思维](https://wangyurui.com/posts/yin-shuo-no-11-0d53dfcc) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
