@@ -1,3 +1,4 @@
+- [exo-explore/exo](https://github.com/exo-explore/exo)
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md)

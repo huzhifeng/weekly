@@ -1,3 +1,5 @@
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
+- [google/A2UI](https://github.com/google/A2UI)
 - [anthropics/skills](https://github.com/anthropics/skills)
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 - [astral-sh/ty](https://github.com/astral-sh/ty)
