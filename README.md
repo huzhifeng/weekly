@@ -3,14 +3,32 @@
 ## 科技爱好者周刊
 - 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 棱镜通讯
-- 2025/12/27 [隐说 NO.12 鲁迅的书单](https://wangyurui.com/posts/yin-shuo-no-12-lu-xun-de-shu-dan-b9794e45) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+## 潮流周刊
+- 2025/12/29 [第251期 - 阳台的猫](https://weekly.tw93.fun/posts/251/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2025/12/29 [肖恩技术周刊（第 76 期）：疯狂的白银](https://weekly.shawnxie.top/content/2025/76.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2025/12/28 [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 有个问题
+- 2025/12/28 [如何理解知行合一？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-zhixing-he-yi) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## This Week in Plasma
+- 2025/12/28 [8 years of “This Week in Plasma”](https://blogs.kde.org/2025/12/28/8-years-of-this-week-in-plasma/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## V2EX 周报
+- 2025/12/28 [✨ V2EX 周报 本周热门主题及高赞回复 12.20-12.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2025/12/27 [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/28 [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/27 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/28 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 棱镜通讯
+- 2025/12/27 [隐说 NO.12 鲁迅的书单](https://wangyurui.com/posts/yin-shuo-no-12-lu-xun-de-shu-dan-b9794e45) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## Web Review
 - 2025/12/26 [Web Review, Week 2025-52](https://ervin.ipsquad.net/blog/2025/12/26/web-review-week-2025-52/) | [More](channels/Web%20Review.md)
@@ -39,12 +57,6 @@
 ## 偷懒爱好者周刊
 - 2025/12/24 [第164期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/24/第164期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2025/12/22 [第250期 - 北京的冬](https://weekly.tw93.fun/posts/250/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2025/12/22 [肖恩技术周刊（第 75 期）：Slop](https://weekly.shawnxie.top/content/2025/75.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2025/12/22 [稻草人周刊 Vol.60](https://www.geedea.pro/posts/weekly/60/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -69,20 +81,11 @@
 ## Ubuntu Weekly Newsletter
 - 2025/12/22 [Ubuntu Weekly Newsletter Issue 924](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-924/74003) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2025/12/21 [猫鱼周刊 vol. 089 Vibe Engineering](https://ameow.xyz/archives/weekly-089) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## zdyxry Weekly Issue
 - 2025/12/21 [Weekly Issue-《我呀》](https://zdyxry.github.io/2025/12/21/Weekly-Issue-%E6%88%91%E5%91%80/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2025/12/21 [✨ V2EX 周报 本周热门主题及高赞回复 12.13-12.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 大橘和朋友们的周刊
 - 2025/12/20 [第037期 - 西西弗书店](https://rrorangeandfriends.de/posts/2025/037) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## This Week in Plasma
-- 2025/12/20 [This Week in Plasma: ambient light sensor support](https://blogs.kde.org/2025/12/20/this-week-in-plasma-ambient-light-sensor-support/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 更好生活
 - 2025/12/19 [我的 2025｜享受生活，好好工作，大力创造](https://quaily.com/jiayifun/p/2025-year-in-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -96,8 +99,8 @@
 ## 拾月通讯
 - 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
-## 有个问题
-- 2025/12/08 [如何理解假装？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-pretending) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+## 视野修炼
+- 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 我脑袋里的怪东西
 - 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
