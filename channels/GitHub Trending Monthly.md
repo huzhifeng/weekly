@@ -1,3 +1,5 @@
+- [tw93/Mole](https://github.com/tw93/Mole)
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 - [exo-explore/exo](https://github.com/exo-explore/exo)
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)

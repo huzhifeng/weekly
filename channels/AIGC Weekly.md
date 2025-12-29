@@ -1,3 +1,4 @@
+- [AIGC Weekly #153 元旦快乐，没啥内容](https://quaily.com/op7418/p/aigc-weekly-happy-new-year-no-content)
 - [AIGC Weekly #152](https://quaily.com/op7418/p/aigc-weekly-jdqbeeya)
 - [AIGC Weekly #151 谷歌在多模态上的投入到了收获的时候](https://quaily.com/op7418/p/aigc-weekly-151-google-multimodal-investment-harvest-time)
 - [AIGC Weekly #150](https://quaily.com/op7418/p/aigc-weekly-m3e7y0l3)
