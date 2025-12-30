@@ -1,3 +1,4 @@
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 - [tw93/Mole](https://github.com/tw93/Mole)
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 - [exo-explore/exo](https://github.com/exo-explore/exo)

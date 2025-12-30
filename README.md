@@ -3,11 +3,17 @@
 ## 科技爱好者周刊
 - 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 肖恩技术周刊
+- 2025/12/31 [2025年总结：Agent元年，寻找人类最后的护城河](https://weekly.shawnxie.top/collection/2025.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2025/12/30 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2025/12/30 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2025/12/29 [第251期 - 阳台的猫](https://weekly.tw93.fun/posts/251/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2025/12/29 [肖恩技术周刊（第 76 期）：疯狂的白银](https://weekly.shawnxie.top/content/2025/76.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/12/29 [稻草人周刊 Vol.61](https://www.geedea.pro/posts/weekly/61/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -15,17 +21,17 @@
 ## CDT周报
 - 2025/12/29 [【CDT周报】第250期：对近处的哭声充耳不闻，对远方的苦难惺惺作态](https://chinadigitaltimes.net/chinese/723984.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
+## 试行错误
+- 2025/12/29 [2025：在概率世界里，打捞那些温热的瞬间｜试行错误148](https://quaily.com/shixingcuowu/p/in-probability-world-retrieve-warm-moments-error-148) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## 一周杂记
+- 2025/12/29 [一周杂记 in Week 4 Dec 2025](http://kingsamchen.github.io/2025/12/29/weekly-2025-dec-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
 ## AIGC Weekly
 - 2025/12/29 [AIGC Weekly #153 元旦快乐，没啥内容](https://quaily.com/op7418/p/aigc-weekly-happy-new-year-no-content) | [More](channels/AIGC%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2025/12/29 [Ubuntu Weekly Newsletter Issue 925](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-925/74261) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2025/12/29 [anthropics/skills](https://github.com/anthropics/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/29 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2025/12/28 [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -74,12 +80,6 @@
 
 ## 偷懒爱好者周刊
 - 2025/12/24 [第164期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/24/第164期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 试行错误
-- 2025/12/22 [真正适合你的机会，通常不是最热的那个｜🥫阅读罐头（12 月刊）](https://quaily.com/shixingcuowu/p/opportunities-not-hot-reading-canned-12-monthly) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 一周杂记
-- 2025/12/22 [一周杂记 in Week 3 Dec 2025](http://kingsamchen.github.io/2025/12/22/weekly-2025-dec-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## DistroWatch Weekly
 - 2025/12/22 [DistroWatch Weekly, Issue 1153](https://distrowatch.com/weekly.php?issue=20251222) | [More](channels/DistroWatch%20Weekly.md)

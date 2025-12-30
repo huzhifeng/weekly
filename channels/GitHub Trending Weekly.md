@@ -1,3 +1,4 @@
+- [sinelaw/fresh](https://github.com/sinelaw/fresh)
 - [tw93/Mole](https://github.com/tw93/Mole)
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
