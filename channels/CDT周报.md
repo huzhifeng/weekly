@@ -1,3 +1,4 @@
+- [【CDT月度视频】十二月之声(2025)——“请自觉放弃一切自由”](https://chinadigitaltimes.net/chinese/724051.html)
 - [【CDT周报】第250期：对近处的哭声充耳不闻，对远方的苦难惺惺作态](https://chinadigitaltimes.net/chinese/723984.html)
 - [【CDT周报】第249期：南京博物院治愈了爱哭的你们](https://chinadigitaltimes.net/chinese/723750.html)
 - [【CDT周报】第248期：当现实失语，历史就会被反复调用](https://chinadigitaltimes.net/chinese/723480.html)

@@ -6,20 +6,29 @@
 ## 肖恩技术周刊
 - 2025/12/31 [2025年总结：Agent元年，寻找人类最后的护城河](https://weekly.shawnxie.top/collection/2025.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2025/12/31 [【CDT月度视频】十二月之声(2025)——“请自觉放弃一切自由”](https://chinadigitaltimes.net/chinese/724051.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 拾月通讯
+- 2025/12/31 [2025.12.31](https://www.skyue.com/25123121.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## 我脑袋里的怪东西
+- 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
+
+## 偷懒爱好者周刊
+- 2025/12/31 [第165期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/31/第165期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2025/12/30 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2025/12/31 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2025/12/30 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2025/12/31 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/12/29 [第251期 - 阳台的猫](https://weekly.tw93.fun/posts/251/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 稻草人周刊
 - 2025/12/29 [稻草人周刊 Vol.61](https://www.geedea.pro/posts/weekly/61/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2025/12/29 [【CDT周报】第250期：对近处的哭声充耳不闻，对远方的苦难惺惺作态](https://chinadigitaltimes.net/chinese/723984.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 试行错误
 - 2025/12/29 [2025：在概率世界里，打捞那些温热的瞬间｜试行错误148](https://quaily.com/shixingcuowu/p/in-probability-world-retrieve-warm-moments-error-148) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -78,9 +87,6 @@
 ## FOSS Weekly
 - 2025/12/25 [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2025/12/24 [第164期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/24/第164期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## DistroWatch Weekly
 - 2025/12/22 [DistroWatch Weekly, Issue 1153](https://distrowatch.com/weekly.php?issue=20251222) | [More](channels/DistroWatch%20Weekly.md)
 
@@ -96,14 +102,8 @@
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 拾月通讯
-- 2025/12/13 [35岁生日，在横店](https://www.skyue.com/25121320.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
 ## 视野修炼
 - 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 我脑袋里的怪东西
-- 2025/11/30 [我脑袋里的怪东西 39 - 尝试开始做数字花园](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-knowledge-management) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
@@ -113,6 +113,9 @@
 
 ## 虹线周刊
 - 2025/10/27 [2025#43 逐臭之夫](https://weekly.1q43.blog/article/298ca795c956808a8f11dbf6d907812e) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
+
+## 广林月刊
+- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
