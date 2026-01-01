@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/)
 - [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/)
 - [FOSS Weekly #25.51: Pop OS 24.04 Release, Fresh Editor, eBPF Tools, Cinnamon 6.6, NTFSPlus and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-51/)
 - [FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More](https://itsfoss.com/newsletter/foss-weekly-25-50/)

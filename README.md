@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/01/01 [科技創業週報 #514：NVIDIA 與 Groq 的 200 億美元豪賭，預告 2026 年企業的「智力革命」](https://blog.starrocket.io/posts/newsletter-2025-12-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## FOSS Weekly
+- 2026/01/01 [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/01/01 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/01 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 肖恩技术周刊
 - 2025/12/31 [2025年总结：Agent元年，寻找人类最后的护城河](https://weekly.shawnxie.top/collection/2025.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +29,6 @@
 
 ## 偷懒爱好者周刊
 - 2025/12/31 [第165期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/31/第165期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2025/12/31 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2025/12/31 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2025/12/29 [第251期 - 阳台的猫](https://weekly.tw93.fun/posts/251/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -72,9 +78,6 @@
 ## Self-Host Weekly
 - 2025/12/26 [Self-Host Weekly #151: Figgy Pudding](https://selfh.st/weekly/2025-12-26/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2025/12/25 [科技創業週報 #513：當 78% 的員工都在「帶AI 上班」：企業治理如何從「圍堵」走向「疏導」？](https://blog.starrocket.io/posts/newsletter-2025-12-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 胡言乱语
 - 2025/12/25 [20251225的胡言乱语](https://www.bboy.app/2025/12/25/20251225%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -83,9 +86,6 @@
 
 ## LWN.net Weekly Edition
 - 2025/12/25 [LWN.net Weekly Edition for December 25, 2025](https://lwn.net/Articles/1051064/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2025/12/25 [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/) | [More](channels/FOSS%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2025/12/22 [DistroWatch Weekly, Issue 1153](https://distrowatch.com/weekly.php?issue=20251222) | [More](channels/DistroWatch%20Weekly.md)
