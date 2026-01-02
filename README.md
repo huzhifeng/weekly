@@ -3,26 +3,29 @@
 ## 科技爱好者周刊
 - 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Web Review
+- 2026/01/02 [Web Review, Week 2026-01](https://ervin.ipsquad.net/blog/2026/01/02/web-review-week-2026-01/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2026/01/02 [Self-Host Weekly #152: Wrapped](https://selfh.st/weekly/2026-01-02/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/01/02 [iptv-org/iptv](https://github.com/iptv-org/iptv) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/02 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 科技創業週報
 - 2026/01/01 [科技創業週報 #514：NVIDIA 與 Groq 的 200 億美元豪賭，預告 2026 年企業的「智力革命」](https://blog.starrocket.io/posts/newsletter-2025-12-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## FOSS Weekly
 - 2026/01/01 [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2026/01/01 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/01 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 肖恩技术周刊
 - 2025/12/31 [2025年总结：Agent元年，寻找人类最后的护城河](https://weekly.shawnxie.top/collection/2025.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2025/12/31 [【CDT月度视频】十二月之声(2025)——“请自觉放弃一切自由”](https://chinadigitaltimes.net/chinese/724051.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 拾月通讯
-- 2025/12/31 [2025.12.31](https://www.skyue.com/25123121.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
@@ -69,14 +72,8 @@
 ## 棱镜通讯
 - 2025/12/27 [隐说 NO.12 鲁迅的书单](https://wangyurui.com/posts/yin-shuo-no-12-lu-xun-de-shu-dan-b9794e45) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
-## Web Review
-- 2025/12/26 [Web Review, Week 2025-52](https://ervin.ipsquad.net/blog/2025/12/26/web-review-week-2025-52/) | [More](channels/Web%20Review.md)
-
 ## HelloGitHub
 - 2025/12/26 [HelloGitHub 第 117 期](https://hellogithub.com/periodical/volume/117) | [More](channels/HelloGitHub.md)
-
-## Self-Host Weekly
-- 2025/12/26 [Self-Host Weekly #151: Figgy Pudding](https://selfh.st/weekly/2025-12-26/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 胡言乱语
 - 2025/12/25 [20251225的胡言乱语](https://www.bboy.app/2025/12/25/20251225%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

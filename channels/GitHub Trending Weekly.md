@@ -1,3 +1,5 @@
+- [iptv-org/iptv](https://github.com/iptv-org/iptv)
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh)
 - [tw93/Mole](https://github.com/tw93/Mole)
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)

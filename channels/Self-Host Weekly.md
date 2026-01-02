@@ -1,3 +1,4 @@
+- [Self-Host Weekly #152: Wrapped](https://selfh.st/weekly/2026-01-02/)
 - [Self-Host Weekly #151: Figgy Pudding](https://selfh.st/weekly/2025-12-26/)
 - [Self-Host Weekly #150: Watchtower No More](https://selfh.st/weekly/2025-12-19/)
 - [Self-Host Weekly #149: A Few of My Favorite Things](https://selfh.st/weekly/2025-12-12/)
