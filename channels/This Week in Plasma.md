@@ -1,3 +1,4 @@
+- [This Week in Plasma: new year, new accessibility features!](https://blogs.kde.org/2026/01/03/this-week-in-plasma-new-year-new-accessibility-features/)
 - [8 years of “This Week in Plasma”](https://blogs.kde.org/2025/12/28/8-years-of-this-week-in-plasma/)
 - [This Week in Plasma: ambient light sensor support](https://blogs.kde.org/2025/12/20/this-week-in-plasma-ambient-light-sensor-support/)
 - [This Week in Plasma: Wayland screen mirroring and custom modes](https://blogs.kde.org/2025/12/13/this-week-in-plasma-wayland-screen-mirroring-and-custom-modes/)

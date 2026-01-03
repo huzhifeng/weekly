@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/01/03 [This Week in Plasma: new year, new accessibility features!](https://blogs.kde.org/2026/01/03/this-week-in-plasma-new-year-new-accessibility-features/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/01/03 [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/03 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/01/02 [Web Review, Week 2026-01](https://ervin.ipsquad.net/blog/2026/01/02/web-review-week-2026-01/) | [More](channels/Web%20Review.md)
 
+## This Week in GNOME
+- 2026/01/02 [#230 Happy New Year!](https://thisweek.gnome.org/posts/2026/01/twig-230/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## Self-Host Weekly
 - 2026/01/02 [Self-Host Weekly #152: Wrapped](https://selfh.st/weekly/2026-01-02/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/01/02 [iptv-org/iptv](https://github.com/iptv-org/iptv) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/02 [sst/opencode](https://github.com/sst/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/01/01 [科技創業週報 #514：NVIDIA 與 Groq 的 200 億美元豪賭，預告 2026 年企業的「智力革命」](https://blog.starrocket.io/posts/newsletter-2025-12-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -63,9 +69,6 @@
 ## 9to5Linux Weekly Roundup
 - 2025/12/28 [9to5Linux Weekly Roundup: December 28th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-28th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## This Week in Plasma
-- 2025/12/28 [8 years of “This Week in Plasma”](https://blogs.kde.org/2025/12/28/8-years-of-this-week-in-plasma/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## V2EX 周报
 - 2025/12/28 [✨ V2EX 周报 本周热门主题及高赞回复 12.20-12.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -92,9 +95,6 @@
 
 ## 更好生活
 - 2025/12/19 [我的 2025｜享受生活，好好工作，大力创造](https://quaily.com/jiayifun/p/2025-year-in-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## This Week in GNOME
-- 2025/12/19 [#229 Good Rhythm](https://thisweek.gnome.org/posts/2025/12/twig-229/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Pseudoyu 周报
 - 2025/12/14 [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)

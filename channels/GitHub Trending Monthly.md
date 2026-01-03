@@ -1,3 +1,5 @@
+- [anomalyco/opencode](https://github.com/anomalyco/opencode)
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)

@@ -1,3 +1,4 @@
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh)
