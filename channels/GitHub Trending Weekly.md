@@ -1,3 +1,5 @@
+- [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview)
+- [antiwork/gumroad](https://github.com/antiwork/gumroad)
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
