@@ -9,20 +9,41 @@
 ## 肖恩技术周刊
 - 2026/01/05 [肖恩技术周刊（第 77 期）：稀缺特质](https://weekly.shawnxie.top/content/2026/77.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2026/01/05 [稻草人周刊 Vol.62](https://www.geedea.pro/posts/weekly/62/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/01/05 [【CDT周报】第251期：回归人，回到人，回到人之为人](https://chinadigitaltimes.net/chinese/724134.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/01/05 [一周杂记 in Week 1 Jan 2026](http://kingsamchen.github.io/2026/01/05/weekly-2026-jan-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2026/01/05 [Weekly Issue-2026](https://zdyxry.github.io/2026/01/05/Weekly-Issue-2026/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## DistroWatch Weekly
+- 2026/01/05 [DistroWatch Weekly, Issue 1154](https://distrowatch.com/weekly.php?issue=20260105) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/01/05 [Ubuntu Weekly Newsletter Issue 926](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-926/74558) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/01/05 [usememos/memos](https://github.com/usememos/memos) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/05 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 胡言乱语
 - 2026/01/04 [20260104的胡言乱语](https://www.bboy.app/2026/01/04/20260104%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 二丫讲梵学习周刊
 - 2026/01/04 [学习周刊-总第244期-2026年第01周](https://wiki.eryajf.net/pages/d70a85/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## 9to5Linux Weekly Roundup
+- 2026/01/04 [9to5Linux Weekly Roundup: January 4th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-4th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
 ## V2EX 周报
 - 2026/01/04 [✨ V2EX 周报 本周热门主题及高赞回复 12.27-01.02](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/01/04 [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/04 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/01/03 [This Week in Plasma: new year, new accessibility features!](https://blogs.kde.org/2026/01/03/this-week-in-plasma-new-year-new-accessibility-features/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -42,41 +63,23 @@
 ## FOSS Weekly
 - 2026/01/01 [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/) | [More](channels/FOSS%20Weekly.md)
 
-## CDT周报
-- 2025/12/31 [【CDT月度视频】十二月之声(2025)——“请自觉放弃一切自由”](https://chinadigitaltimes.net/chinese/724051.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
 ## 偷懒爱好者周刊
 - 2025/12/31 [第165期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/31/第165期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2025/12/29 [稻草人周刊 Vol.61](https://www.geedea.pro/posts/weekly/61/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
 ## 试行错误
 - 2025/12/29 [2025：在概率世界里，打捞那些温热的瞬间｜试行错误148](https://quaily.com/shixingcuowu/p/in-probability-world-retrieve-warm-moments-error-148) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## 一周杂记
-- 2025/12/29 [一周杂记 in Week 4 Dec 2025](http://kingsamchen.github.io/2025/12/29/weekly-2025-dec-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## AIGC Weekly
 - 2025/12/29 [AIGC Weekly #153 元旦快乐，没啥内容](https://quaily.com/op7418/p/aigc-weekly-happy-new-year-no-content) | [More](channels/AIGC%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2025/12/29 [Ubuntu Weekly Newsletter Issue 925](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-925/74261) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2025/12/28 [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 有个问题
 - 2025/12/28 [如何理解知行合一？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-zhixing-he-yi) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## zdyxry Weekly Issue
-- 2025/12/28 [Weekly Issue-LLM可以提高我的学习速度么？](https://zdyxry.github.io/2025/12/28/Weekly-Issue-LLM%E5%8F%AF%E4%BB%A5%E6%8F%90%E9%AB%98%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%80%9F%E5%BA%A6%E4%B9%88/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2025/12/28 [9to5Linux Weekly Roundup: December 28th, 2025](https://9to5linux.com/9to5linux-weekly-roundup-december-28th-2025) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 棱镜通讯
 - 2025/12/27 [隐说 NO.12 鲁迅的书单](https://wangyurui.com/posts/yin-shuo-no-12-lu-xun-de-shu-dan-b9794e45) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -86,9 +89,6 @@
 
 ## LWN.net Weekly Edition
 - 2025/12/25 [LWN.net Weekly Edition for December 25, 2025](https://lwn.net/Articles/1051064/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## DistroWatch Weekly
-- 2025/12/22 [DistroWatch Weekly, Issue 1153](https://distrowatch.com/weekly.php?issue=20251222) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 大橘和朋友们的周刊
 - 2025/12/20 [第037期 - 西西弗书店](https://rrorangeandfriends.de/posts/2025/037) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

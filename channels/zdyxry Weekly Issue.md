@@ -1,3 +1,4 @@
+- [Weekly Issue-2026](https://zdyxry.github.io/2026/01/05/Weekly-Issue-2026/)
 - [Weekly Issue-LLM可以提高我的学习速度么？](https://zdyxry.github.io/2025/12/28/Weekly-Issue-LLM%E5%8F%AF%E4%BB%A5%E6%8F%90%E9%AB%98%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%80%9F%E5%BA%A6%E4%B9%88/)
 - [Weekly Issue-《我呀》](https://zdyxry.github.io/2025/12/21/Weekly-Issue-%E6%88%91%E5%91%80/)
 - [Weekly Issue-感冒](https://zdyxry.github.io/2025/12/14/Weekly-Issue-%E6%84%9F%E5%86%92/)
