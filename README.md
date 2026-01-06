@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/01/07 [第166期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/07/第166期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/01/06 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/06 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/01/05 [第252期 - 大兴机场](https://weekly.tw93.fun/posts/252/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -26,12 +35,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/01/05 [Ubuntu Weekly Newsletter Issue 926](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-926/74558) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/01/05 [usememos/memos](https://github.com/usememos/memos) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/05 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 胡言乱语
 - 2026/01/04 [20260104的胡言乱语](https://www.bboy.app/2026/01/04/20260104%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -65,9 +68,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## 偷懒爱好者周刊
-- 2025/12/31 [第165期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/12/31/第165期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 试行错误
 - 2025/12/29 [2025：在概率世界里，打捞那些温热的瞬间｜试行错误148](https://quaily.com/shixingcuowu/p/in-probability-world-retrieve-warm-moments-error-148) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

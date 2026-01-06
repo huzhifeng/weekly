@@ -1,3 +1,4 @@
+- [anomalyco/opencode](https://github.com/anomalyco/opencode)
 - [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview)
 - [antiwork/gumroad](https://github.com/antiwork/gumroad)
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
