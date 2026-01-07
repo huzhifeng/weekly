@@ -7,10 +7,10 @@
 - 2026/01/07 [第166期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/07/第166期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/01/06 [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/01/07 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/01/06 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/01/07 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/01/05 [第252期 - 大兴机场](https://weekly.tw93.fun/posts/252/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
