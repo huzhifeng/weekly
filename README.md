@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/01/07 [第166期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/07/第166期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/01/08 [科技創業週報 #515：鍵盤的終結與「聆聽」的文藝復興：OpenAI 開啟「Audio-First」時代](https://blog.starrocket.io/posts/newsletter-2026-01-07/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/01/08 [学习周刊-总第245期-2026年第02周](https://wiki.eryajf.net/pages/b8d1f9/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/01/08 [LWN.net Weekly Edition for January 8, 2026](https://lwn.net/Articles/1051994/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/01/08 [FOSS Weekly #26.02: Level Up in 2026, Liquorix Kernel, Open Source Apps from Web Browser and More](https://itsfoss.com/newsletter/foss-weekly-26-02/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/01/07 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/01/08 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/01/07 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/01/08 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/01/07 [第166期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/07/第166期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/01/05 [第252期 - 大兴机场](https://weekly.tw93.fun/posts/252/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -39,9 +51,6 @@
 ## 胡言乱语
 - 2026/01/04 [20260104的胡言乱语](https://www.bboy.app/2026/01/04/20260104%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 二丫讲梵学习周刊
-- 2026/01/04 [学习周刊-总第244期-2026年第01周](https://wiki.eryajf.net/pages/d70a85/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## 9to5Linux Weekly Roundup
 - 2026/01/04 [9to5Linux Weekly Roundup: January 4th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-4th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
@@ -59,12 +68,6 @@
 
 ## Self-Host Weekly
 - 2026/01/02 [Self-Host Weekly #152: Wrapped](https://selfh.st/weekly/2026-01-02/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/01/01 [科技創業週報 #514：NVIDIA 與 Groq 的 200 億美元豪賭，預告 2026 年企業的「智力革命」](https://blog.starrocket.io/posts/newsletter-2025-12-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## FOSS Weekly
-- 2026/01/01 [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/) | [More](channels/FOSS%20Weekly.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
@@ -86,9 +89,6 @@
 
 ## HelloGitHub
 - 2025/12/26 [HelloGitHub 第 117 期](https://hellogithub.com/periodical/volume/117) | [More](channels/HelloGitHub.md)
-
-## LWN.net Weekly Edition
-- 2025/12/25 [LWN.net Weekly Edition for December 25, 2025](https://lwn.net/Articles/1051064/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 大橘和朋友们的周刊
 - 2025/12/20 [第037期 - 西西弗书店](https://rrorangeandfriends.de/posts/2025/037) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

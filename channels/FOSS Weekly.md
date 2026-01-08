@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.02: Level Up in 2026, Liquorix Kernel, Open Source Apps from Web Browser and More](https://itsfoss.com/newsletter/foss-weekly-26-02/)
 - [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/)
 - [FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends](https://itsfoss.com/newsletter/foss-weekly-25-52/)
 - [FOSS Weekly #25.51: Pop OS 24.04 Release, Fresh Editor, eBPF Tools, Cinnamon 6.6, NTFSPlus and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-51/)
