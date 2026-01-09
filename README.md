@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2025/12/25 [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/01/09 [科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 有个问题
+- 2026/01/09 [如何意识到这有问题？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-realize-this-is-an-issue) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## Web Review
+- 2026/01/09 [Web Review, Week 2026-02](https://ervin.ipsquad.net/blog/2026/01/09/web-review-week-2026-02/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2026/01/09 [20260109的胡言乱语](https://www.bboy.app/2026/01/09/20260109%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## Self-Host Weekly
+- 2026/01/09 [Self-Host Weekly #153: Hivemind](https://selfh.st/weekly/2026-01-09/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/01/09 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/09 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/01/08 [科技創業週報 #515：鍵盤的終結與「聆聽」的文藝復興：OpenAI 開啟「Audio-First」時代](https://blog.starrocket.io/posts/newsletter-2026-01-07/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +32,6 @@
 
 ## FOSS Weekly
 - 2026/01/08 [FOSS Weekly #26.02: Level Up in 2026, Liquorix Kernel, Open Source Apps from Web Browser and More](https://itsfoss.com/newsletter/foss-weekly-26-02/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/01/08 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/08 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/01/07 [第166期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/07/第166期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -48,9 +60,6 @@
 ## Ubuntu Weekly Newsletter
 - 2026/01/05 [Ubuntu Weekly Newsletter Issue 926](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-926/74558) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 胡言乱语
-- 2026/01/04 [20260104的胡言乱语](https://www.bboy.app/2026/01/04/20260104%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## 9to5Linux Weekly Roundup
 - 2026/01/04 [9to5Linux Weekly Roundup: January 4th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-4th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
@@ -60,14 +69,8 @@
 ## This Week in Plasma
 - 2026/01/03 [This Week in Plasma: new year, new accessibility features!](https://blogs.kde.org/2026/01/03/this-week-in-plasma-new-year-new-accessibility-features/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/01/02 [Web Review, Week 2026-01](https://ervin.ipsquad.net/blog/2026/01/02/web-review-week-2026-01/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2026/01/02 [#230 Happy New Year!](https://thisweek.gnome.org/posts/2026/01/twig-230/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/01/02 [Self-Host Weekly #152: Wrapped](https://selfh.st/weekly/2026-01-02/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
@@ -80,9 +83,6 @@
 
 ## 猫鱼周刊
 - 2025/12/28 [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 有个问题
-- 2025/12/28 [如何理解知行合一？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-zhixing-he-yi) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 棱镜通讯
 - 2025/12/27 [隐说 NO.12 鲁迅的书单](https://wangyurui.com/posts/yin-shuo-no-12-lu-xun-de-shu-dan-b9794e45) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
