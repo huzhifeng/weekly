@@ -1,3 +1,4 @@
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode)

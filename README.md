@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/01/09 [科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/01/10 [This Week in Plasma: car of the year edition](https://blogs.kde.org/2026/01/10/this-week-in-plasma-car-of-the-year-edition/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/01/12 [第253期 - 爱无人机](https://weekly.tw93.fun/posts/253/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2026/01/12 [肖恩技术周刊（第 78 期）：Markup or Markdown！](https://weekly.shawnxie.top/content/2026/78.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/01/11 [✨ V2EX 周报 本周热门主题及高赞回复 01.03-01.09](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/01/10 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/01/11 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/01/10 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/01/11 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/01/10 [This Week in Plasma: car of the year edition](https://blogs.kde.org/2026/01/10/this-week-in-plasma-car-of-the-year-edition/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 大橘和朋友们的周刊
 - 2026/01/09 [第038期 - 布鲁斯科](https://rrorangeandfriends.de/posts/2026/038) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -45,12 +54,6 @@
 ## 偷懒爱好者周刊
 - 2026/01/07 [第166期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/07/第166期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2026/01/05 [第252期 - 大兴机场](https://weekly.tw93.fun/posts/252/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2026/01/05 [肖恩技术周刊（第 77 期）：稀缺特质](https://weekly.shawnxie.top/content/2026/77.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2026/01/05 [稻草人周刊 Vol.62](https://www.geedea.pro/posts/weekly/62/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -68,9 +71,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/01/05 [Ubuntu Weekly Newsletter Issue 926](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-926/74558) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## V2EX 周报
-- 2026/01/04 [✨ V2EX 周报 本周热门主题及高赞回复 12.27-01.02](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)

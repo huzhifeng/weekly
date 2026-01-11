@@ -1,3 +1,4 @@
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
