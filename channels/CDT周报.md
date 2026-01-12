@@ -1,3 +1,4 @@
+- [【CDT周报】第252期：蓝天越蓝，屋子越寒；北京越体面，河北越冰冷](https://chinadigitaltimes.net/chinese/724292.html)
 - [【CDT周报】第251期：回归人，回到人，回到人之为人](https://chinadigitaltimes.net/chinese/724134.html)
 - [【CDT月度视频】十二月之声(2025)——“请自觉放弃一切自由”](https://chinadigitaltimes.net/chinese/724051.html)
 - [【CDT周报】第250期：对近处的哭声充耳不闻，对远方的苦难惺惺作态](https://chinadigitaltimes.net/chinese/723984.html)
