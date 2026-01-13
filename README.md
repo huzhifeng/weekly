@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/01/09 [科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益"](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/01/13 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/13 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/01/12 [第253期 - 爱无人机](https://weekly.tw93.fun/posts/253/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -27,20 +33,11 @@
 ## Ubuntu Weekly Newsletter
 - 2026/01/12 [Ubuntu Weekly Newsletter Issue 927](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-927/74886) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2026/01/12 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/12 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 一周杂记
 - 2026/01/11 [一周杂记 in Week 2 Jan 2026](http://kingsamchen.github.io/2026/01/11/weekly-2026-jan-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## zdyxry Weekly Issue
 - 2026/01/11 [Weekly Issue-《多谢不阅》](https://zdyxry.github.io/2026/01/11/Weekly-Issue-%E5%A4%9A%E8%B0%A2%E4%B8%8D%E9%98%85/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/01/11 [9to5Linux Weekly Roundup: January 11th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-11th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/01/11 [✨ V2EX 周报 本周热门主题及高赞回复 01.03-01.09](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)

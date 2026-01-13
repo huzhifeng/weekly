@@ -1,3 +1,4 @@
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
