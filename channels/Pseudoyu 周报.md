@@ -1,3 +1,4 @@
+- [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105)
 - [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104)
 - [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103)
 - [周报 #102 - 我是如何使用 AI 的](https://www.pseudoyu.com/posts/weekly_review_102)
