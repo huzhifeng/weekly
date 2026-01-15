@@ -1,3 +1,4 @@
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
 - [steveyegge/beads](https://github.com/steveyegge/beads)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
