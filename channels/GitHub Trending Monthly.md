@@ -1,3 +1,4 @@
+- [obra/superpowers](https://github.com/obra/superpowers)
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode)

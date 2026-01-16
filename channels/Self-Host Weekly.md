@@ -1,3 +1,4 @@
+- [Self-Host Weekly #154: Hello, My Name Is](https://selfh.st/weekly/2026-01-16/)
 - [Self-Host Weekly #153: Hivemind](https://selfh.st/weekly/2026-01-09/)
 - [Self-Host Weekly #152: Wrapped](https://selfh.st/weekly/2026-01-02/)
 - [Self-Host Weekly #151: Figgy Pudding](https://selfh.st/weekly/2025-12-26/)
