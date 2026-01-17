@@ -3,20 +3,26 @@
 ## 科技爱好者周刊
 - 2026/01/16 [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/01/17 [This Week in Plasma: dark mode switch and global push-to-talk](https://blogs.kde.org/2026/01/17/this-week-in-plasma-dark-mode-switch-and-global-push-to-talk/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/01/17 [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/17 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/01/16 [Web Review, Week 2026-03](https://ervin.ipsquad.net/blog/2026/01/16/web-review-week-2026-03/) | [More](channels/Web%20Review.md)
+
+## 试行错误
+- 2026/01/16 [用词造句需谨慎｜NL149](https://quaily.com/shixingcuowu/p/use-words-carefully-nl149) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## This Week in GNOME
 - 2026/01/16 [#232 Upcoming Deadlines](https://thisweek.gnome.org/posts/2026/01/twig-232/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/01/16 [Self-Host Weekly #154: Hello, My Name Is](https://selfh.st/weekly/2026-01-16/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/01/16 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/16 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/01/15 [科技創業週報 #516：從「炫技」到「隱形」：CES 2026 告訴我們，AI 已經是每天在呼吸的空氣，不再是個「話題」](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-516%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -75,9 +81,6 @@
 ## V2EX 周报
 - 2026/01/11 [✨ V2EX 周报 本周热门主题及高赞回复 01.03-01.09](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/01/10 [This Week in Plasma: car of the year edition](https://blogs.kde.org/2026/01/10/this-week-in-plasma-car-of-the-year-edition/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## 大橘和朋友们的周刊
 - 2026/01/09 [第038期 - 布鲁斯科](https://rrorangeandfriends.de/posts/2026/038) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
@@ -86,9 +89,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## 试行错误
-- 2025/12/29 [2025：在概率世界里，打捞那些温热的瞬间｜试行错误148](https://quaily.com/shixingcuowu/p/in-probability-world-retrieve-warm-moments-error-148) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 猫鱼周刊
 - 2025/12/28 [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)

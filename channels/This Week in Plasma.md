@@ -1,3 +1,4 @@
+- [This Week in Plasma: dark mode switch and global push-to-talk](https://blogs.kde.org/2026/01/17/this-week-in-plasma-dark-mode-switch-and-global-push-to-talk/)
 - [This Week in Plasma: car of the year edition](https://blogs.kde.org/2026/01/10/this-week-in-plasma-car-of-the-year-edition/)
 - [This Week in Plasma: new year, new accessibility features!](https://blogs.kde.org/2026/01/03/this-week-in-plasma-new-year-new-accessibility-features/)
 - [8 years of “This Week in Plasma”](https://blogs.kde.org/2025/12/28/8-years-of-this-week-in-plasma/)

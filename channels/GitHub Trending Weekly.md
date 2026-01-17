@@ -1,3 +1,4 @@
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 - [obra/superpowers](https://github.com/obra/superpowers)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
