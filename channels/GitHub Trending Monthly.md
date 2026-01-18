@@ -1,3 +1,4 @@
+- [anthropics/skills](https://github.com/anthropics/skills)
 - [obra/superpowers](https://github.com/obra/superpowers)
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)

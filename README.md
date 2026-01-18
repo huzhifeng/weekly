@@ -3,14 +3,32 @@
 ## 科技爱好者周刊
 - 2026/01/16 [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/01/17 [This Week in Plasma: dark mode switch and global push-to-talk](https://blogs.kde.org/2026/01/17/this-week-in-plasma-dark-mode-switch-and-global-push-to-talk/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/01/19 [第254期 - 二零二六](https://weekly.tw93.fun/posts/254/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2026/01/19 [肖恩技术周刊（第 79 期）：AI结对编程](https://weekly.shawnxie.top/content/2026/79.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2026/01/18 [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2026/01/18 [一周杂记 in Week 3 Jan 2026](http://kingsamchen.github.io/2026/01/18/weekly-2026-jan-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/01/18 [9to5Linux Weekly Roundup: January 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-18th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/01/18 [✨ V2EX 周报 本周热门主题及高赞回复 01.10-01.16](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/01/17 [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/01/18 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/01/17 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/01/18 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/01/17 [This Week in Plasma: dark mode switch and global push-to-talk](https://blogs.kde.org/2026/01/17/this-week-in-plasma-dark-mode-switch-and-global-push-to-talk/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/01/16 [Web Review, Week 2026-03](https://ervin.ipsquad.net/blog/2026/01/16/web-review-week-2026-03/) | [More](channels/Web%20Review.md)
@@ -48,12 +66,6 @@
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 潮流周刊
-- 2026/01/12 [第253期 - 爱无人机](https://weekly.tw93.fun/posts/253/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2026/01/12 [肖恩技术周刊（第 78 期）：Markup or Markdown！](https://weekly.shawnxie.top/content/2026/78.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2026/01/12 [稻草人周刊 Vol.63](https://www.geedea.pro/posts/weekly/63/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -72,14 +84,8 @@
 ## Ubuntu Weekly Newsletter
 - 2026/01/12 [Ubuntu Weekly Newsletter Issue 927](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-927/74886) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 一周杂记
-- 2026/01/11 [一周杂记 in Week 2 Jan 2026](http://kingsamchen.github.io/2026/01/11/weekly-2026-jan-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## zdyxry Weekly Issue
 - 2026/01/11 [Weekly Issue-《多谢不阅》](https://zdyxry.github.io/2026/01/11/Weekly-Issue-%E5%A4%9A%E8%B0%A2%E4%B8%8D%E9%98%85/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/01/11 [✨ V2EX 周报 本周热门主题及高赞回复 01.03-01.09](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 大橘和朋友们的周刊
 - 2026/01/09 [第038期 - 布鲁斯科](https://rrorangeandfriends.de/posts/2026/038) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -89,9 +95,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## 猫鱼周刊
-- 2025/12/28 [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2025/12/26 [HelloGitHub 第 117 期](https://hellogithub.com/periodical/volume/117) | [More](channels/HelloGitHub.md)
