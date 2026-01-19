@@ -1,3 +1,4 @@
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [virattt/dexter](https://github.com/virattt/dexter)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 - [obra/superpowers](https://github.com/obra/superpowers)

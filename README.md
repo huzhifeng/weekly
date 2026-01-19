@@ -9,23 +9,38 @@
 ## 肖恩技术周刊
 - 2026/01/19 [肖恩技术周刊（第 79 期）：AI结对编程](https://weekly.shawnxie.top/content/2026/79.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2026/01/19 [稻草人周刊 Vol.64](https://www.geedea.pro/posts/weekly/64/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/01/19 [【CDT周报】第253期：前有“公驴戴套”，后有“贵妃穿衣”](https://chinadigitaltimes.net/chinese/724458.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/01/19 [AIGC Weekly #155](https://quaily.com/op7418/p/aigc-weekly-one-five-five) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/01/19 [DistroWatch Weekly, Issue 1156](https://distrowatch.com/weekly.php?issue=20260119) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/01/19 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/19 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2026/01/18 [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 一周杂记
 - 2026/01/18 [一周杂记 in Week 3 Jan 2026](http://kingsamchen.github.io/2026/01/18/weekly-2026-jan-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
+## zdyxry Weekly Issue
+- 2026/01/18 [Weekly Issue-半马](https://zdyxry.github.io/2026/01/18/Weekly-Issue-%E5%8D%8A%E9%A9%AC/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## 9to5Linux Weekly Roundup
 - 2026/01/18 [9to5Linux Weekly Roundup: January 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-18th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/01/18 [✨ V2EX 周报 本周热门主题及高赞回复 01.10-01.16](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/01/18 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/18 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/01/17 [This Week in Plasma: dark mode switch and global push-to-talk](https://blogs.kde.org/2026/01/17/this-week-in-plasma-dark-mode-switch-and-global-push-to-talk/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -66,26 +81,11 @@
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## 稻草人周刊
-- 2026/01/12 [稻草人周刊 Vol.63](https://www.geedea.pro/posts/weekly/63/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/01/12 [【CDT周报】第252期：蓝天越蓝，屋子越寒；北京越体面，河北越冰冷](https://chinadigitaltimes.net/chinese/724292.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 棱镜通讯
 - 2026/01/12 [隐说 NO.13  禅宗三重境](https://wangyurui.com/posts/yin-shuo-no-13-shan-zong-san-zhong-jing-d3e84c7e) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
-## AIGC Weekly
-- 2026/01/12 [AIGC Weekly #154](https://quaily.com/op7418/p/aigc-weekly-miswgibx) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/01/12 [DistroWatch Weekly, Issue 1155](https://distrowatch.com/weekly.php?issue=20260112) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/01/12 [Ubuntu Weekly Newsletter Issue 927](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-927/74886) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/01/11 [Weekly Issue-《多谢不阅》](https://zdyxry.github.io/2026/01/11/Weekly-Issue-%E5%A4%9A%E8%B0%A2%E4%B8%8D%E9%98%85/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 大橘和朋友们的周刊
 - 2026/01/09 [第038期 - 布鲁斯科](https://rrorangeandfriends.de/posts/2026/038) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
