@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/01/16 [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 胡言乱语
+- 2026/01/20 [20260120的胡言乱语](https://www.bboy.app/2026/01/20/20260120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2026/01/20 [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/20 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/01/19 [第254期 - 二零二六](https://weekly.tw93.fun/posts/254/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -15,17 +24,17 @@
 ## CDT周报
 - 2026/01/19 [【CDT周报】第253期：前有“公驴戴套”，后有“贵妃穿衣”](https://chinadigitaltimes.net/chinese/724458.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
+## 试行错误
+- 2026/01/19 [我为什么开始闭眼买沃尔玛｜NL150](https://quaily.com/shixingcuowu/p/why-i-started-buying-walmart-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## AIGC Weekly
 - 2026/01/19 [AIGC Weekly #155](https://quaily.com/op7418/p/aigc-weekly-one-five-five) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2026/01/19 [DistroWatch Weekly, Issue 1156](https://distrowatch.com/weekly.php?issue=20260119) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2026/01/19 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/19 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2026/01/19 [Ubuntu Weekly Newsletter Issue 928](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-928/75270) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2026/01/18 [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -47,9 +56,6 @@
 
 ## Web Review
 - 2026/01/16 [Web Review, Week 2026-03](https://ervin.ipsquad.net/blog/2026/01/16/web-review-week-2026-03/) | [More](channels/Web%20Review.md)
-
-## 试行错误
-- 2026/01/16 [用词造句需谨慎｜NL149](https://quaily.com/shixingcuowu/p/use-words-carefully-nl149) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## This Week in GNOME
 - 2026/01/16 [#232 Upcoming Deadlines](https://thisweek.gnome.org/posts/2026/01/twig-232/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -75,17 +81,11 @@
 ## 偷懒爱好者周刊
 - 2026/01/14 [第167期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/14/第167期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 胡言乱语
-- 2026/01/14 [20260114的胡言乱语](https://www.bboy.app/2026/01/14/20260114%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 棱镜通讯
 - 2026/01/12 [隐说 NO.13  禅宗三重境](https://wangyurui.com/posts/yin-shuo-no-13-shan-zong-san-zhong-jing-d3e84c7e) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/01/12 [Ubuntu Weekly Newsletter Issue 927](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-927/74886) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 大橘和朋友们的周刊
 - 2026/01/09 [第038期 - 布鲁斯科](https://rrorangeandfriends.de/posts/2026/038) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

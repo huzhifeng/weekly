@@ -1,3 +1,5 @@
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [virattt/dexter](https://github.com/virattt/dexter)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
