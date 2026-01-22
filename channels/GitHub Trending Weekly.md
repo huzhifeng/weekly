@@ -1,3 +1,4 @@
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)

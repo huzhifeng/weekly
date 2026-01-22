@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/01/16 [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/01/22 [科技創業週報 #517：從 Apple 讓 Siri 導入 Google Gemini，看巨頭 AI 競合帶給 iPhone 用戶的好處](https://blog.starrocket.io/posts/newsletter-2026-01-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/01/22 [学习周刊-总第247期-2026年第04周](https://wiki.eryajf.net/pages/12031d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/01/22 [LWN.net Weekly Edition for January 22, 2026](https://lwn.net/Articles/1054411/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/01/22 [FOSS Weekly #26.04: Mint 22.3 Released, Stallman is Back, Ubuntu&#x27;s Snap Store Under Attack and More](https://itsfoss.com/newsletter/foss-weekly-26-04/) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/01/22 [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/22 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 有个问题
 - 2026/01/21 [如何改变现状？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-change-the-situation) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 偷懒爱好者周刊
 - 2026/01/21 [第168期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/21/第168期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2026/01/21 [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/21 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 胡言乱语
 - 2026/01/20 [20260120的胡言乱语](https://www.bboy.app/2026/01/20/20260120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -68,18 +80,6 @@
 
 ## Self-Host Weekly
 - 2026/01/16 [Self-Host Weekly #154: Hello, My Name Is](https://selfh.st/weekly/2026-01-16/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/01/15 [科技創業週報 #516：從「炫技」到「隱形」：CES 2026 告訴我們，AI 已經是每天在呼吸的空氣，不再是個「話題」](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-516%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/01/15 [学习周刊-总第246期-2026年第03周](https://wiki.eryajf.net/pages/d06784/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/01/15 [LWN.net Weekly Edition for January 15, 2026](https://lwn.net/Articles/1053201/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/01/15 [FOSS Weekly #26.03: Torvalds Using AI, Dash to Dock, Linux Kernel Bugs, Pacman&#x27;s Rust Replacement and More](https://itsfoss.com/newsletter/foss-weekly-26-03/) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2026/01/14 [看书也是一种偷懒，聊聊注意力的变化](https://quaily.com/jiayifun/p/reading-is-also-a-form-of-laziness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

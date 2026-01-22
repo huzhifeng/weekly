@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for January 22, 2026](https://lwn.net/Articles/1054411/)
 - [LWN.net Weekly Edition for January 15, 2026](https://lwn.net/Articles/1053201/)
 - [LWN.net Weekly Edition for January 8, 2026](https://lwn.net/Articles/1051994/)
 - [LWN.net Weekly Edition for December 25, 2025](https://lwn.net/Articles/1051064/)

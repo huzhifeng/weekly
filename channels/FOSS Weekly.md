@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.04: Mint 22.3 Released, Stallman is Back, Ubuntu&#x27;s Snap Store Under Attack and More](https://itsfoss.com/newsletter/foss-weekly-26-04/)
 - [FOSS Weekly #26.03: Torvalds Using AI, Dash to Dock, Linux Kernel Bugs, Pacman&#x27;s Rust Replacement and More](https://itsfoss.com/newsletter/foss-weekly-26-03/)
 - [FOSS Weekly #26.02: Level Up in 2026, Liquorix Kernel, Open Source Apps from Web Browser and More](https://itsfoss.com/newsletter/foss-weekly-26-02/)
 - [FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-01/)
