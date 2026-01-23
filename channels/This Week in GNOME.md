@@ -1,3 +1,4 @@
+- [#233 Editing Events](https://thisweek.gnome.org/posts/2026/01/twig-233/)
 - [#232 Upcoming Deadlines](https://thisweek.gnome.org/posts/2026/01/twig-232/)
 - [#231 Blueprint Maps](https://thisweek.gnome.org/posts/2026/01/twig-231/)
 - [#230 Happy New Year!](https://thisweek.gnome.org/posts/2026/01/twig-230/)

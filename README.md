@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/01/16 [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/01/23 [科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/01/23 [Web Review, Week 2026-04](https://ervin.ipsquad.net/blog/2026/01/23/web-review-week-2026-04/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/01/23 [#233 Editing Events](https://thisweek.gnome.org/posts/2026/01/twig-233/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/01/23 [Self-Host Weekly #155: One Hundred Million](https://selfh.st/weekly/2026-01-23/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/01/23 [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/23 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/01/22 [科技創業週報 #517：從 Apple 讓 Siri 導入 Google Gemini，看巨頭 AI 競合帶給 iPhone 用戶的好處](https://blog.starrocket.io/posts/newsletter-2026-01-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/01/22 [FOSS Weekly #26.04: Mint 22.3 Released, Stallman is Back, Ubuntu&#x27;s Snap Store Under Attack and More](https://itsfoss.com/newsletter/foss-weekly-26-04/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/01/22 [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/22 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 有个问题
 - 2026/01/21 [如何改变现状？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-change-the-situation) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -71,15 +80,6 @@
 
 ## This Week in Plasma
 - 2026/01/17 [This Week in Plasma: dark mode switch and global push-to-talk](https://blogs.kde.org/2026/01/17/this-week-in-plasma-dark-mode-switch-and-global-push-to-talk/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/01/16 [Web Review, Week 2026-03](https://ervin.ipsquad.net/blog/2026/01/16/web-review-week-2026-03/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/01/16 [#232 Upcoming Deadlines](https://thisweek.gnome.org/posts/2026/01/twig-232/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/01/16 [Self-Host Weekly #154: Hello, My Name Is](https://selfh.st/weekly/2026-01-16/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 更好生活
 - 2026/01/14 [看书也是一种偷懒，聊聊注意力的变化](https://quaily.com/jiayifun/p/reading-is-also-a-form-of-laziness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

@@ -1,3 +1,4 @@
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
