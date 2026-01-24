@@ -1,3 +1,4 @@
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 - [anthropics/skills](https://github.com/anthropics/skills)
 - [obra/superpowers](https://github.com/obra/superpowers)
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)

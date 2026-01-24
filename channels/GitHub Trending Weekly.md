@@ -1,3 +1,5 @@
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
