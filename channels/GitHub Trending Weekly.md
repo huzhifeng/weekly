@@ -1,3 +1,4 @@
+- [tobi/try](https://github.com/tobi/try)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent)

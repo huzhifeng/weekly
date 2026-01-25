@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/01/23 [科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/01/24 [This Week in Plasma: fixing all the things](https://blogs.kde.org/2026/01/24/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/01/26 [第255期 - 好吃鸡翅](https://weekly.tw93.fun/posts/255/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2026/01/26 [肖恩技术周刊（第 80 期）：AI编程的9条心得](https://weekly.shawnxie.top/content/2026/80.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2026/01/25 [一周杂记 in Week 4 Jan 2026](http://kingsamchen.github.io/2026/01/25/weekly-2026-jan-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## V2EX 周报
+- 2026/01/25 [✨ V2EX 周报 本周热门主题及高赞回复 01.17-01.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/01/24 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/01/25 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/01/24 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/01/25 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/01/24 [This Week in Plasma: fixing all the things](https://blogs.kde.org/2026/01/24/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/01/23 [Web Review, Week 2026-04](https://ervin.ipsquad.net/blog/2026/01/23/web-review-week-2026-04/) | [More](channels/Web%20Review.md)
@@ -42,12 +54,6 @@
 ## 胡言乱语
 - 2026/01/20 [20260120的胡言乱语](https://www.bboy.app/2026/01/20/20260120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2026/01/19 [第254期 - 二零二六](https://weekly.tw93.fun/posts/254/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2026/01/19 [肖恩技术周刊（第 79 期）：AI结对编程](https://weekly.shawnxie.top/content/2026/79.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2026/01/19 [稻草人周刊 Vol.64](https://www.geedea.pro/posts/weekly/64/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -69,17 +75,11 @@
 ## 猫鱼周刊
 - 2026/01/18 [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2026/01/18 [一周杂记 in Week 3 Jan 2026](http://kingsamchen.github.io/2026/01/18/weekly-2026-jan-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## zdyxry Weekly Issue
 - 2026/01/18 [Weekly Issue-半马](https://zdyxry.github.io/2026/01/18/Weekly-Issue-%E5%8D%8A%E9%A9%AC/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 9to5Linux Weekly Roundup
 - 2026/01/18 [9to5Linux Weekly Roundup: January 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-18th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
-## V2EX 周报
-- 2026/01/18 [✨ V2EX 周报 本周热门主题及高赞回复 01.10-01.16](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2026/01/14 [看书也是一种偷懒，聊聊注意力的变化](https://quaily.com/jiayifun/p/reading-is-also-a-form-of-laziness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
