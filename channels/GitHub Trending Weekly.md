@@ -1,3 +1,4 @@
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)
 - [tobi/try](https://github.com/tobi/try)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo)

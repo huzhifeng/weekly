@@ -1,3 +1,4 @@
+- [AIGC Weekly #156](https://quaily.com/op7418/p/aigc-weekly-one-five-six)
 - [AIGC Weekly #155](https://quaily.com/op7418/p/aigc-weekly-one-five-five)
 - [AIGC Weekly #154](https://quaily.com/op7418/p/aigc-weekly-miswgibx)
 - [AIGC Weekly #153 元旦快乐，没啥内容](https://quaily.com/op7418/p/aigc-weekly-happy-new-year-no-content)

@@ -9,17 +9,38 @@
 ## 肖恩技术周刊
 - 2026/01/26 [肖恩技术周刊（第 80 期）：AI编程的9条心得](https://weekly.shawnxie.top/content/2026/80.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2026/01/26 [稻草人周刊 Vol.65](https://www.geedea.pro/posts/weekly/65/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/01/26 [【CDT周报】第254期：大人们哭声多了，小孩的哭声就少了](https://chinadigitaltimes.net/chinese/724625.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/01/26 [AIGC Weekly #156](https://quaily.com/op7418/p/aigc-weekly-one-five-six) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/01/26 [DistroWatch Weekly, Issue 1157](https://distrowatch.com/weekly.php?issue=20260126) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/01/26 [9to5Linux Weekly Roundup: January 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-25th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/01/26 [Ubuntu Weekly Newsletter Issue 929](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-929/75636) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/01/26 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/26 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 一周杂记
 - 2026/01/25 [一周杂记 in Week 4 Jan 2026](http://kingsamchen.github.io/2026/01/25/weekly-2026-jan-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
+## zdyxry Weekly Issue
+- 2026/01/25 [Weekly Issue-《无可奈何》](https://zdyxry.github.io/2026/01/25/Weekly-Issue-%E6%97%A0%E5%8F%AF%E5%A5%88%E4%BD%95/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/01/25 [✨ V2EX 周报 本周热门主题及高赞回复 01.17-01.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/01/25 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/25 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/01/24 [This Week in Plasma: fixing all the things](https://blogs.kde.org/2026/01/24/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -54,32 +75,11 @@
 ## 胡言乱语
 - 2026/01/20 [20260120的胡言乱语](https://www.bboy.app/2026/01/20/20260120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 稻草人周刊
-- 2026/01/19 [稻草人周刊 Vol.64](https://www.geedea.pro/posts/weekly/64/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/01/19 [【CDT周报】第253期：前有“公驴戴套”，后有“贵妃穿衣”](https://chinadigitaltimes.net/chinese/724458.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 试行错误
 - 2026/01/19 [我为什么开始闭眼买沃尔玛｜NL150](https://quaily.com/shixingcuowu/p/why-i-started-buying-walmart-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## AIGC Weekly
-- 2026/01/19 [AIGC Weekly #155](https://quaily.com/op7418/p/aigc-weekly-one-five-five) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/01/19 [DistroWatch Weekly, Issue 1156](https://distrowatch.com/weekly.php?issue=20260119) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/01/19 [Ubuntu Weekly Newsletter Issue 928](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-928/75270) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2026/01/18 [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## zdyxry Weekly Issue
-- 2026/01/18 [Weekly Issue-半马](https://zdyxry.github.io/2026/01/18/Weekly-Issue-%E5%8D%8A%E9%A9%AC/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/01/18 [9to5Linux Weekly Roundup: January 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-january-18th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## 更好生活
 - 2026/01/14 [看书也是一种偷懒，聊聊注意力的变化](https://quaily.com/jiayifun/p/reading-is-also-a-form-of-laziness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

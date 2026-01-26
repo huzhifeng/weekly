@@ -1,3 +1,4 @@
+- [【CDT周报】第254期：大人们哭声多了，小孩的哭声就少了](https://chinadigitaltimes.net/chinese/724625.html)
 - [【CDT周报】第253期：前有“公驴戴套”，后有“贵妃穿衣”](https://chinadigitaltimes.net/chinese/724458.html)
 - [【CDT周报】第252期：蓝天越蓝，屋子越寒；北京越体面，河北越冰冷](https://chinadigitaltimes.net/chinese/724292.html)
 - [【CDT周报】第251期：回归人，回到人，回到人之为人](https://chinadigitaltimes.net/chinese/724134.html)
