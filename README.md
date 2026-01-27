@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/01/23 [科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/01/27 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/27 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/01/26 [第255期 - 好吃鸡翅](https://weekly.tw93.fun/posts/255/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -27,12 +33,6 @@
 ## Ubuntu Weekly Newsletter
 - 2026/01/26 [Ubuntu Weekly Newsletter Issue 929](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-929/75636) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2026/01/26 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/26 [anomalyco/opencode](https://github.com/anomalyco/opencode) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 一周杂记
 - 2026/01/25 [一周杂记 in Week 4 Jan 2026](http://kingsamchen.github.io/2026/01/25/weekly-2026-jan-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -44,9 +44,6 @@
 
 ## This Week in Plasma
 - 2026/01/24 [This Week in Plasma: fixing all the things](https://blogs.kde.org/2026/01/24/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/01/23 [Web Review, Week 2026-04](https://ervin.ipsquad.net/blog/2026/01/23/web-review-week-2026-04/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2026/01/23 [#233 Editing Events](https://thisweek.gnome.org/posts/2026/01/twig-233/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -110,9 +107,6 @@
 
 ## 虹线周刊
 - 2025/10/27 [2025#43 逐臭之夫](https://weekly.1q43.blog/article/298ca795c956808a8f11dbf6d907812e) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
-## 广林月刊
-- 2025/09/29 [广林月刊 #009 ：兴起时喝茶](https://xlog.app/api/redirection?characterId=57267&noteId=30) | [More](channels/%E5%B9%BF%E6%9E%97%E6%9C%88%E5%88%8A.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)

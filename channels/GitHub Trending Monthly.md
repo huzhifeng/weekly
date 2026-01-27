@@ -1,3 +1,4 @@
+- [steveyegge/beads](https://github.com/steveyegge/beads)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 - [virattt/dexter](https://github.com/virattt/dexter)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
