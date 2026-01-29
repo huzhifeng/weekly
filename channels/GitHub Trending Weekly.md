@@ -1,3 +1,4 @@
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)
 - [tobi/try](https://github.com/tobi/try)
