@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/01/23 [科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/01/30 [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/01/30 [Web Review, Week 2026-05](https://ervin.ipsquad.net/blog/2026/01/30/web-review-week-2026-05/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/01/30 [#234 Annotated Documents](https://thisweek.gnome.org/posts/2026/01/twig-234/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/01/30 [Self-Host Weekly (30 January 2026)](https://selfh.st/weekly/2026-01-30/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/01/30 [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/01/30 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/01/29 [科技創業週報 #518： 為了豐饒，還是為了淘汰？解讀馬斯克「機器人超越人類數量」預言背後的經濟學與哲學](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-518%ef%bc%9a-%e7%82%ba%e4%ba%86%e8%b1%90%e9%a5%92%ef%bc%8c%e9%82%84%e6%98%af%e7%82%ba%e4%ba%86%e6%b7%98%e6%b1%b0%ef%bc%9f%e8%a7%a3%e8%ae%80/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +32,6 @@
 
 ## FOSS Weekly
 - 2026/01/29 [FOSS Weekly #26.05: Clawdbot Mania, NexPhone, Things We No Longer Use Terminal for and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-05/) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/01/29 [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/01/29 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## HelloGitHub
 - 2026/01/28 [HelloGitHub 第 118 期](https://hellogithub.com/periodical/volume/118) | [More](channels/HelloGitHub.md)
@@ -65,15 +74,6 @@
 
 ## This Week in Plasma
 - 2026/01/24 [This Week in Plasma: fixing all the things](https://blogs.kde.org/2026/01/24/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/01/23 [Web Review, Week 2026-04](https://ervin.ipsquad.net/blog/2026/01/23/web-review-week-2026-04/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/01/23 [#233 Editing Events](https://thisweek.gnome.org/posts/2026/01/twig-233/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/01/23 [Self-Host Weekly (23 January 2026)](https://selfh.st/weekly/2026-01-23/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 有个问题
 - 2026/01/21 [如何改变现状？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-change-the-situation) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)

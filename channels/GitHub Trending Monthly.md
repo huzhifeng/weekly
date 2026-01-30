@@ -1,3 +1,4 @@
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [steveyegge/beads](https://github.com/steveyegge/beads)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 - [virattt/dexter](https://github.com/virattt/dexter)
