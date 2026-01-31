@@ -1,3 +1,4 @@
+- [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)
 - [moltbot/moltbot](https://github.com/moltbot/moltbot)
 - [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
