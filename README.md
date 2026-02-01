@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/01/30 [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/01/31 [This Week in Plasma: getting 6.6 ready for release](https://blogs.kde.org/2026/01/31/this-week-in-plasma-getting-6.6-ready-for-release/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/02/02 [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2026/02/01 [猫鱼周刊 vol. 092 AI 的贴吧](https://ameow.xyz/archives/weekly-092) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/02/01 [✨ V2EX 周报 本周热门主题及高赞回复 01.24-01.30](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/01/31 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/01 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/01/31 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/01 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/01/31 [This Week in Plasma: getting 6.6 ready for release](https://blogs.kde.org/2026/01/31/this-week-in-plasma-getting-6.6-ready-for-release/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/01/30 [Web Review, Week 2026-05](https://ervin.ipsquad.net/blog/2026/01/30/web-review-week-2026-05/) | [More](channels/Web%20Review.md)
@@ -45,12 +54,6 @@
 ## 偷懒爱好者周刊
 - 2026/01/28 [第169期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/28/第169期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2026/01/26 [第255期 - 好吃鸡翅](https://weekly.tw93.fun/posts/255/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2026/01/26 [肖恩技术周刊（第 80 期）：AI编程的9条心得](https://weekly.shawnxie.top/content/2026/80.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 稻草人周刊
 - 2026/01/26 [稻草人周刊 Vol.65](https://www.geedea.pro/posts/weekly/65/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -72,14 +75,8 @@
 ## zdyxry Weekly Issue
 - 2026/01/25 [Weekly Issue-《无可奈何》](https://zdyxry.github.io/2026/01/25/Weekly-Issue-%E6%97%A0%E5%8F%AF%E5%A5%88%E4%BD%95/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/01/25 [✨ V2EX 周报 本周热门主题及高赞回复 01.17-01.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 有个问题
 - 2026/01/21 [如何改变现状？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-change-the-situation) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 猫鱼周刊
-- 2026/01/18 [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/01/14 [看书也是一种偷懒，聊聊注意力的变化](https://quaily.com/jiayifun/p/reading-is-also-a-form-of-laziness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -119,4 +116,7 @@
 
 ## CyberClip
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
+
+## 肖恩技术周刊
+- 2025/02/02 [肖恩技术周刊（第 81 期）：太空光伏可行吗？](https://weekly.shawnxie.top/content/2026/81.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 

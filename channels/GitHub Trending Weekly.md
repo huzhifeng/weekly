@@ -1,3 +1,5 @@
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)
 - [moltbot/moltbot](https://github.com/moltbot/moltbot)
 - [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
