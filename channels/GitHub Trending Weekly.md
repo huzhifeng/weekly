@@ -1,3 +1,4 @@
+- [ThePrimeagen/99](https://github.com/ThePrimeagen/99)
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)
