@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/01/30 [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/02/04 [第170期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/04/第170期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/02/03 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/04 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/02/03 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/04 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/02/02 [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -69,17 +72,11 @@
 ## LWN.net Weekly Edition
 - 2026/01/29 [LWN.net Weekly Edition for January 29, 2026](https://lwn.net/Articles/1055441/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## FOSS Weekly
-- 2026/01/29 [FOSS Weekly #26.05: Clawdbot Mania, NexPhone, Things We No Longer Use Terminal for and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-05/) | [More](channels/FOSS%20Weekly.md)
-
 ## HelloGitHub
 - 2026/01/28 [HelloGitHub 第 118 期](https://hellogithub.com/periodical/volume/118) | [More](channels/HelloGitHub.md)
 
 ## 试行错误
 - 2026/01/28 [给所有「精神内耗」打工人的能量自救指南｜NL151](https://quaily.com/shixingcuowu/p/energy-self-help-guide-for-mental-exhaustion-workers-nl151) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 偷懒爱好者周刊
-- 2026/01/28 [第169期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/28/第169期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 有个问题
 - 2026/01/21 [如何改变现状？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-change-the-situation) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
