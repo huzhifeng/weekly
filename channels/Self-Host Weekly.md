@@ -1,3 +1,4 @@
+- [Self-Host Weekly (6 February 2026)](https://selfh.st/weekly/2026-02-06/)
 - [Self-Host Weekly (30 January 2026)](https://selfh.st/weekly/2026-01-30/)
 - [Self-Host Weekly #155: One Hundred Million](https://selfh.st/weekly/2026-01-23/)
 - [Self-Host Weekly #154: Hello, My Name Is](https://selfh.st/weekly/2026-01-16/)

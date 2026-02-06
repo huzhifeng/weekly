@@ -1,7 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/01/30 [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/02/06 [科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/02/06 [Web Review, Week 2026-06](https://ervin.ipsquad.net/blog/2026/02/06/web-review-week-2026-06/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2026/02/06 [Self-Host Weekly (6 February 2026)](https://selfh.st/weekly/2026-02-06/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/02/06 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/06 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/02/05 [科技創業週報 #519：Moltbot 爆紅的背後：當 AI 開始替你動手，誰來管權限與風險？](https://blog.starrocket.io/posts/newsletter-2026-02-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +26,6 @@
 
 ## LWN.net Weekly Edition
 - 2026/02/05 [LWN.net Weekly Edition for February 5, 2026](https://lwn.net/Articles/1056417/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## GitHub Trending Weekly
-- 2026/02/05 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/05 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/02/04 [第170期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/04/第170期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,9 +48,6 @@
 ## DistroWatch Weekly
 - 2026/02/02 [DistroWatch Weekly, Issue 1158](https://distrowatch.com/weekly.php?issue=20260202) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/02/02 [9to5Linux Weekly Roundup: February 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-1st-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/02/02 [Ubuntu Weekly Newsletter Issue 930](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-930/76031) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -63,14 +66,8 @@
 ## This Week in Plasma
 - 2026/01/31 [This Week in Plasma: getting 6.6 ready for release](https://blogs.kde.org/2026/01/31/this-week-in-plasma-getting-6.6-ready-for-release/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/01/30 [Web Review, Week 2026-05](https://ervin.ipsquad.net/blog/2026/01/30/web-review-week-2026-05/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2026/01/30 [#234 Annotated Documents](https://thisweek.gnome.org/posts/2026/01/twig-234/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/01/30 [Self-Host Weekly (30 January 2026)](https://selfh.st/weekly/2026-01-30/) | [More](channels/Self-Host%20Weekly.md)
 
 ## HelloGitHub
 - 2026/01/28 [HelloGitHub 第 118 期](https://hellogithub.com/periodical/volume/118) | [More](channels/HelloGitHub.md)
