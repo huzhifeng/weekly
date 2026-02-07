@@ -1,3 +1,4 @@
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [steveyegge/beads](https://github.com/steveyegge/beads)

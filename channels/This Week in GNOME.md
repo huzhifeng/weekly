@@ -1,3 +1,4 @@
+- [#235 Integrating Fonts](https://thisweek.gnome.org/posts/2026/02/twig-235/)
 - [#234 Annotated Documents](https://thisweek.gnome.org/posts/2026/01/twig-234/)
 - [#233 Editing Events](https://thisweek.gnome.org/posts/2026/01/twig-233/)
 - [#232 Upcoming Deadlines](https://thisweek.gnome.org/posts/2026/01/twig-232/)

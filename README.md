@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2026/02/06 [科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/02/07 [This Week in Plasma: beefed-up Window List widget](https://blogs.kde.org/2026/02/07/this-week-in-plasma-beefed-up-window-list-widget/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/02/07 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/07 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/02/06 [Web Review, Week 2026-06](https://ervin.ipsquad.net/blog/2026/02/06/web-review-week-2026-06/) | [More](channels/Web%20Review.md)
 
+## This Week in GNOME
+- 2026/02/06 [#235 Integrating Fonts](https://thisweek.gnome.org/posts/2026/02/twig-235/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## Self-Host Weekly
 - 2026/02/06 [Self-Host Weekly (6 February 2026)](https://selfh.st/weekly/2026-02-06/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/02/06 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/06 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/02/05 [科技創業週報 #519：Moltbot 爆紅的背後：當 AI 開始替你動手，誰來管權限與風險？](https://blog.starrocket.io/posts/newsletter-2026-02-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -62,12 +68,6 @@
 
 ## V2EX 周报
 - 2026/02/01 [✨ V2EX 周报 本周热门主题及高赞回复 01.24-01.30](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/01/31 [This Week in Plasma: getting 6.6 ready for release](https://blogs.kde.org/2026/01/31/this-week-in-plasma-getting-6.6-ready-for-release/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## This Week in GNOME
-- 2026/01/30 [#234 Annotated Documents](https://thisweek.gnome.org/posts/2026/01/twig-234/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## HelloGitHub
 - 2026/01/28 [HelloGitHub 第 118 期](https://hellogithub.com/periodical/volume/118) | [More](channels/HelloGitHub.md)
