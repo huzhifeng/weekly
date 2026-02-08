@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/02/06 [科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/02/07 [This Week in Plasma: beefed-up Window List widget](https://blogs.kde.org/2026/02/07/this-week-in-plasma-beefed-up-window-list-widget/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 棱镜通讯
+- 2026/02/08 [棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）](https://wangyurui.com/posts/leng-jing-tong-xun-no-117-4bcde289) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## V2EX 周报
+- 2026/02/08 [✨ V2EX 周报 本周热门主题及高赞回复 01.31-02.06](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/02/07 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/08 [openai/skills](https://github.com/openai/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/02/07 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/08 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/02/07 [This Week in Plasma: beefed-up Window List widget](https://blogs.kde.org/2026/02/07/this-week-in-plasma-beefed-up-window-list-widget/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/02/06 [Web Review, Week 2026-06](https://ervin.ipsquad.net/blog/2026/02/06/web-review-week-2026-06/) | [More](channels/Web%20Review.md)
@@ -66,9 +72,6 @@
 ## zdyxry Weekly Issue
 - 2026/02/01 [Weekly Issue-《基普乔格：最后的里程碑》](https://zdyxry.github.io/2026/02/01/Weekly-Issue-Kipchoge/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/02/01 [✨ V2EX 周报 本周热门主题及高赞回复 01.24-01.30](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## HelloGitHub
 - 2026/01/28 [HelloGitHub 第 118 期](https://hellogithub.com/periodical/volume/118) | [More](channels/HelloGitHub.md)
 
@@ -80,9 +83,6 @@
 
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 棱镜通讯
-- 2026/01/12 [隐说 NO.13  禅宗三重境](https://wangyurui.com/posts/yin-shuo-no-13-shan-zong-san-zhong-jing-d3e84c7e) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 大橘和朋友们的周刊
 - 2026/01/09 [第038期 - 布鲁斯科](https://rrorangeandfriends.de/posts/2026/038) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -115,5 +115,5 @@
 - 2025/05/24 [CyberClip #66 个人成长](https://shyrz.me/cyberclip-66-personal-growth/) | [More](channels/CyberClip.md)
 
 ## 肖恩技术周刊
-- 2025/02/02 [肖恩技术周刊（第 81 期）：太空光伏可行吗？](https://weekly.shawnxie.top/content/2026/81.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+- 2025/02/09 [肖恩技术周刊（第 82 期）：AI春晚？！](https://weekly.shawnxie.top/content/2026/82.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 

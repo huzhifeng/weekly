@@ -1,3 +1,5 @@
+- [openai/skills](https://github.com/openai/skills)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo)
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99)
