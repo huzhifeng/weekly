@@ -1,3 +1,4 @@
+- [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
 - [openai/skills](https://github.com/openai/skills)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)

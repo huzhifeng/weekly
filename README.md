@@ -3,17 +3,38 @@
 ## 科技爱好者周刊
 - 2026/02/06 [科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 稻草人周刊
+- 2026/02/09 [稻草人周刊 Vol.67](https://www.geedea.pro/posts/weekly/67/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
+
+## AIGC Weekly
+- 2026/02/09 [AIGC Weekly #158](https://quaily.com/op7418/p/aigc-weekly-hrvftmrj) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/02/09 [DistroWatch Weekly, Issue 1159](https://distrowatch.com/weekly.php?issue=20260209) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/02/09 [9to5Linux Weekly Roundup: February 8th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-8th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/02/09 [Ubuntu Weekly Newsletter Issue 931](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-931/76675) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/02/09 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/09 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 棱镜通讯
 - 2026/02/08 [棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）](https://wangyurui.com/posts/leng-jing-tong-xun-no-117-4bcde289) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## 一周杂记
+- 2026/02/08 [一周杂记 in Week 1 Feb 2026](http://kingsamchen.github.io/2026/02/08/weekly-2026-feb-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2026/02/08 [Weekly Issue-回家过年](https://zdyxry.github.io/2026/02/08/Weekly-Issue-%20%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/02/08 [✨ V2EX 周报 本周热门主题及高赞回复 01.31-02.06](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/02/08 [openai/skills](https://github.com/openai/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/08 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/02/07 [This Week in Plasma: beefed-up Window List widget](https://blogs.kde.org/2026/02/07/this-week-in-plasma-beefed-up-window-list-widget/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -45,32 +66,14 @@
 ## 潮流周刊
 - 2026/02/02 [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## 稻草人周刊
-- 2026/02/02 [稻草人周刊 Vol.66](https://www.geedea.pro/posts/weekly/66/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/02/02 [【CDT周报】第255期：阿富汗的悲剧不是别人的故事，而是一面镜子](https://chinadigitaltimes.net/chinese/724880.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2026/02/02 [一月小结｜看了哪些书影音，做了哪些小创作](https://quaily.com/jiayifun/p/january-review-books-movies-and-small-creations) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
-## AIGC Weekly
-- 2026/02/02 [AIGC Weekly #157](https://quaily.com/op7418/p/aigc-weekly-0rwyt1in) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/02/02 [DistroWatch Weekly, Issue 1158](https://distrowatch.com/weekly.php?issue=20260202) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/02/02 [Ubuntu Weekly Newsletter Issue 930](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-930/76031) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2026/02/01 [猫鱼周刊 vol. 092 AI 的贴吧](https://ameow.xyz/archives/weekly-092) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2026/02/01 [一周杂记 in Week 5 Jan 2026](http://kingsamchen.github.io/2026/02/01/weekly-2026-jan-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2026/02/01 [Weekly Issue-《基普乔格：最后的里程碑》](https://zdyxry.github.io/2026/02/01/Weekly-Issue-Kipchoge/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## HelloGitHub
 - 2026/01/28 [HelloGitHub 第 118 期](https://hellogithub.com/periodical/volume/118) | [More](channels/HelloGitHub.md)
