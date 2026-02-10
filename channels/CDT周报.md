@@ -1,3 +1,4 @@
+- [【CDT周报】第256期：调查记者几近消亡，但刘虎、巫英蛟、韩福涛等是仍在坚持的人](https://chinadigitaltimes.net/chinese/725118.html)
 - [【CDT周报】第255期：阿富汗的悲剧不是别人的故事，而是一面镜子](https://chinadigitaltimes.net/chinese/724880.html)
 - [【CDT周报】第254期：大人们哭声多了，小孩的哭声就少了](https://chinadigitaltimes.net/chinese/724625.html)
 - [【CDT周报】第253期：前有“公驴戴套”，后有“贵妃穿衣”](https://chinadigitaltimes.net/chinese/724458.html)

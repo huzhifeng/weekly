@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/02/06 [科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/02/11 [第171期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/11/第171期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/02/10 [【CDT周报】第256期：调查记者几近消亡，但刘虎、巫英蛟、韩福涛等是仍在坚持的人](https://chinadigitaltimes.net/chinese/725118.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/02/10 [virattt/dexter](https://github.com/virattt/dexter) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/10 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 稻草人周刊
 - 2026/02/09 [稻草人周刊 Vol.67](https://www.geedea.pro/posts/weekly/67/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/02/09 [Ubuntu Weekly Newsletter Issue 931](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-931/76675) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/02/09 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/09 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 棱镜通讯
 - 2026/02/08 [棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）](https://wangyurui.com/posts/leng-jing-tong-xun-no-117-4bcde289) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -60,14 +66,8 @@
 ## LWN.net Weekly Edition
 - 2026/02/05 [LWN.net Weekly Edition for February 5, 2026](https://lwn.net/Articles/1056417/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## 偷懒爱好者周刊
-- 2026/02/04 [第170期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/04/第170期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 潮流周刊
 - 2026/02/02 [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/02/02 [【CDT周报】第255期：阿富汗的悲剧不是别人的故事，而是一面镜子](https://chinadigitaltimes.net/chinese/724880.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2026/02/02 [一月小结｜看了哪些书影音，做了哪些小创作](https://quaily.com/jiayifun/p/january-review-books-movies-and-small-creations) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
