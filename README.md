@@ -6,14 +6,14 @@
 ## 偷懒爱好者周刊
 - 2026/02/11 [第171期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/11/第171期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2026/02/10 [【CDT周报】第256期：调查记者几近消亡，但刘虎、巫英蛟、韩福涛等是仍在坚持的人](https://chinadigitaltimes.net/chinese/725118.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## GitHub Trending Weekly
-- 2026/02/10 [virattt/dexter](https://github.com/virattt/dexter) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/11 [virattt/dexter](https://github.com/virattt/dexter) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/02/10 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/11 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## CDT周报
+- 2026/02/10 [【CDT周报】第256期：调查记者几近消亡，但刘虎、巫英蛟、韩福涛等是仍在坚持的人](https://chinadigitaltimes.net/chinese/725118.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 稻草人周刊
 - 2026/02/09 [稻草人周刊 Vol.67](https://www.geedea.pro/posts/weekly/67/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
