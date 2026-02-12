@@ -1,3 +1,4 @@
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
 - [tobi/qmd](https://github.com/tobi/qmd)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
