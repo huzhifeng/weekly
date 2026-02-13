@@ -1,3 +1,4 @@
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
 - [tobi/qmd](https://github.com/tobi/qmd)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)

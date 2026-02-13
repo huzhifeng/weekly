@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/02/06 [科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/02/13 [Web Review, Week 2026-07](https://ervin.ipsquad.net/blog/2026/02/13/web-review-week-2026-07/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/02/13 [#236 New Library](https://thisweek.gnome.org/posts/2026/02/twig-236/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/02/13 [Self-Host Weekly (13 February 2026)](https://selfh.st/weekly/2026-02-13/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/02/13 [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/13 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/02/12 [科技創業週報 #519：](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-519%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -9,11 +24,8 @@
 ## LWN.net Weekly Edition
 - 2026/02/12 [LWN.net Weekly Edition for February 12, 2026](https://lwn.net/Articles/1057382/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/02/12 [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/12 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/02/12 [FOSS Weekly #26.07: Kernel 6.19, AI for Real Sysadmin Works, Arch Apps on Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-07/) | [More](channels/FOSS%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/02/11 [第171期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/11/第171期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -26,9 +38,6 @@
 
 ## AIGC Weekly
 - 2026/02/09 [AIGC Weekly #158](https://quaily.com/op7418/p/aigc-weekly-hrvftmrj) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/02/09 [DistroWatch Weekly, Issue 1159](https://distrowatch.com/weekly.php?issue=20260209) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/02/09 [Ubuntu Weekly Newsletter Issue 931](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-931/76675) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -47,15 +56,6 @@
 
 ## This Week in Plasma
 - 2026/02/07 [This Week in Plasma: beefed-up Window List widget](https://blogs.kde.org/2026/02/07/this-week-in-plasma-beefed-up-window-list-widget/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/02/06 [Web Review, Week 2026-06](https://ervin.ipsquad.net/blog/2026/02/06/web-review-week-2026-06/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/02/06 [#235 Integrating Fonts](https://thisweek.gnome.org/posts/2026/02/twig-235/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/02/06 [Self-Host Weekly (6 February 2026)](https://selfh.st/weekly/2026-02-06/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 胡言乱语
 - 2026/02/05 [20260205的胡言乱语](https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

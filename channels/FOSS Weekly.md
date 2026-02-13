@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.07: Kernel 6.19, AI for Real Sysadmin Works, Arch Apps on Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-07/)
 - [FOSS Weekly #26.05: Clawdbot Mania, NexPhone, Things We No Longer Use Terminal for and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-05/)
 - [FOSS Weekly #26.04: Mint 22.3 Released, Stallman is Back, Ubuntu&#x27;s Snap Store Under Attack and More](https://itsfoss.com/newsletter/foss-weekly-26-04/)
 - [FOSS Weekly #26.03: Torvalds Using AI, Dash to Dock, Linux Kernel Bugs, Pacman&#x27;s Rust Replacement and More](https://itsfoss.com/newsletter/foss-weekly-26-03/)
