@@ -1,3 +1,4 @@
+- [github/gh-aw](https://github.com/github/gh-aw)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
