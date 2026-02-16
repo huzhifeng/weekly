@@ -1,3 +1,4 @@
+- [DistroWatch Weekly, Issue 1160](https://distrowatch.com/weekly.php?issue=20260216)
 - [DistroWatch Weekly, Issue 1159](https://distrowatch.com/weekly.php?issue=20260209)
 - [DistroWatch Weekly, Issue 1158](https://distrowatch.com/weekly.php?issue=20260202)
 - [DistroWatch Weekly, Issue 1157](https://distrowatch.com/weekly.php?issue=20260126)

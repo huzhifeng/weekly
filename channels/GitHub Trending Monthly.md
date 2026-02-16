@@ -1,3 +1,4 @@
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
 - [openai/skills](https://github.com/openai/skills)
 - [tobi/qmd](https://github.com/tobi/qmd)
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
