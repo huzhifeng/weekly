@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/02/17 [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/17 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## DistroWatch Weekly
 - 2026/02/16 [DistroWatch Weekly, Issue 1160](https://distrowatch.com/weekly.php?issue=20260216) | [More](channels/DistroWatch%20Weekly.md)
 
@@ -11,12 +17,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/02/16 [Ubuntu Weekly Newsletter Issue 932](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-932/77095) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/02/16 [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/16 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 稻草人周刊
 - 2026/02/15 [稻草人周刊 Vol.68](https://www.geedea.pro/posts/weekly/68/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
@@ -35,9 +35,6 @@
 
 ## This Week in Plasma
 - 2026/02/14 [This Week in Plasma: Finalizing 6.6](https://blogs.kde.org/2026/02/14/this-week-in-plasma-finalizing-6.6/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/02/13 [Web Review, Week 2026-07](https://ervin.ipsquad.net/blog/2026/02/13/web-review-week-2026-07/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2026/02/13 [#236 New Library](https://thisweek.gnome.org/posts/2026/02/twig-236/) | [More](channels/This%20Week%20in%20GNOME.md)
