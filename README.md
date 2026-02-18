@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 更好生活
+- 2026/02/18 [我为什么要花 ¥1800 多，开通 Notion AI 会员？](https://quaily.com/jiayifun/p/why-subscribe-notion-ai) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
 ## GitHub Trending Weekly
-- 2026/02/17 [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/18 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/02/17 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/18 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## DistroWatch Weekly
 - 2026/02/16 [DistroWatch Weekly, Issue 1160](https://distrowatch.com/weekly.php?issue=20260216) | [More](channels/DistroWatch%20Weekly.md)
@@ -35,6 +38,9 @@
 
 ## This Week in Plasma
 - 2026/02/14 [This Week in Plasma: Finalizing 6.6](https://blogs.kde.org/2026/02/14/this-week-in-plasma-finalizing-6.6/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## Web Review
+- 2026/02/13 [Web Review, Week 2026-07](https://ervin.ipsquad.net/blog/2026/02/13/web-review-week-2026-07/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
 - 2026/02/13 [#236 New Library](https://thisweek.gnome.org/posts/2026/02/twig-236/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -68,9 +74,6 @@
 
 ## 潮流周刊
 - 2026/02/02 [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 更好生活
-- 2026/02/02 [一月小结｜看了哪些书影音，做了哪些小创作](https://quaily.com/jiayifun/p/january-review-books-movies-and-small-creations) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## 猫鱼周刊
 - 2026/02/01 [猫鱼周刊 vol. 092 AI 的贴吧](https://ameow.xyz/archives/weekly-092) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
