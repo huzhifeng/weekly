@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 更好生活
-- 2026/02/18 [我为什么要花 ¥1800 多，开通 Notion AI 会员？](https://quaily.com/jiayifun/p/why-subscribe-notion-ai) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+## 潮流周刊
+- 2026/02/19 [第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 二丫讲梵学习周刊
+- 2026/02/19 [学习周刊-总第251期-2026年第08周](https://wiki.eryajf.net/pages/f80a48/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/02/19 [LWN.net Weekly Edition for February 19, 2026](https://lwn.net/Articles/1058474/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/02/19 [FOSS Weekly #26.08: KDE Plasma 6.6, Mint Release Schedule Change, ASCII Weather, Firefox Tweaking and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-08/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/02/18 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/19 [steipete/gogcli](https://github.com/steipete/gogcli) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/02/18 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/19 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 更好生活
+- 2026/02/18 [我为什么要花 ¥1800 多，开通 Notion AI 会员？](https://quaily.com/jiayifun/p/why-subscribe-notion-ai) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## DistroWatch Weekly
 - 2026/02/16 [DistroWatch Weekly, Issue 1160](https://distrowatch.com/weekly.php?issue=20260216) | [More](channels/DistroWatch%20Weekly.md)
@@ -33,9 +45,6 @@
 ## V2EX 周报
 - 2026/02/15 [✨ V2EX 周报 本周热门主题及高赞回复 02.07-02.13](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## 二丫讲梵学习周刊
-- 2026/02/14 [学习周刊-总第250期-2026年第07周](https://wiki.eryajf.net/pages/c8b5cc/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in Plasma
 - 2026/02/14 [This Week in Plasma: Finalizing 6.6](https://blogs.kde.org/2026/02/14/this-week-in-plasma-finalizing-6.6/) | [More](channels/This%20Week%20in%20Plasma.md)
 
@@ -51,12 +60,6 @@
 ## 科技創業週報
 - 2026/02/12 [科技創業週報 #519：](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-519%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## LWN.net Weekly Edition
-- 2026/02/12 [LWN.net Weekly Edition for February 12, 2026](https://lwn.net/Articles/1057382/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/02/12 [FOSS Weekly #26.07: Kernel 6.19, AI for Real Sysadmin Works, Arch Apps on Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-07/) | [More](channels/FOSS%20Weekly.md)
-
 ## 偷懒爱好者周刊
 - 2026/02/11 [第171期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/11/第171期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -71,9 +74,6 @@
 
 ## 胡言乱语
 - 2026/02/05 [20260205的胡言乱语](https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 潮流周刊
-- 2026/02/02 [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 猫鱼周刊
 - 2026/02/01 [猫鱼周刊 vol. 092 AI 的贴吧](https://ameow.xyz/archives/weekly-092) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)

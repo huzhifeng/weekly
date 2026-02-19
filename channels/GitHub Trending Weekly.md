@@ -1,3 +1,4 @@
+- [steipete/gogcli](https://github.com/steipete/gogcli)
 - [p-e-w/heretic](https://github.com/p-e-w/heretic)
 - [github/gh-aw](https://github.com/github/gh-aw)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
