@@ -1,3 +1,4 @@
+- [alibaba/zvec](https://github.com/alibaba/zvec)
 - [steipete/gogcli](https://github.com/steipete/gogcli)
 - [p-e-w/heretic](https://github.com/p-e-w/heretic)
 - [github/gh-aw](https://github.com/github/gh-aw)

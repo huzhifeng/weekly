@@ -1,3 +1,4 @@
+- [#237 Article Rendering](https://thisweek.gnome.org/posts/2026/02/twig-237/)
 - [#236 New Library](https://thisweek.gnome.org/posts/2026/02/twig-236/)
 - [#235 Integrating Fonts](https://thisweek.gnome.org/posts/2026/02/twig-235/)
 - [#234 Annotated Documents](https://thisweek.gnome.org/posts/2026/01/twig-234/)
