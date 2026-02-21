@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/02/21 [This Week in Plasma: 6.6 is Here!](https://blogs.kde.org/2026/02/21/this-week-in-plasma-6.6-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/02/21 [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/21 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/02/20 [Web Review, Week 2026-08](https://ervin.ipsquad.net/blog/2026/02/20/web-review-week-2026-08/) | [More](channels/Web%20Review.md)
 
@@ -14,12 +23,6 @@
 
 ## Self-Host Weekly
 - 2026/02/20 [Self-Host Weekly (20 February 2026)](https://selfh.st/weekly/2026-02-20/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/02/20 [alibaba/zvec](https://github.com/alibaba/zvec) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/20 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/02/19 [第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -53,9 +56,6 @@
 
 ## V2EX 周报
 - 2026/02/15 [✨ V2EX 周报 本周热门主题及高赞回复 02.07-02.13](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/02/14 [This Week in Plasma: Finalizing 6.6](https://blogs.kde.org/2026/02/14/this-week-in-plasma-finalizing-6.6/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 科技創業週報
 - 2026/02/12 [科技創業週報 #519：](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-519%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
