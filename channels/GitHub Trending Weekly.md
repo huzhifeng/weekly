@@ -1,3 +1,4 @@
+- [steipete/summarize](https://github.com/steipete/summarize)
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
 - [alibaba/zvec](https://github.com/alibaba/zvec)
 - [steipete/gogcli](https://github.com/steipete/gogcli)
