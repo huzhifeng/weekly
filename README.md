@@ -3,17 +3,35 @@
 ## 科技爱好者周刊
 - 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/02/23 [【CDT周报】第257期：春晚不光没有年味，连人味都没有了](https://chinadigitaltimes.net/chinese/725395.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 更好生活
+- 2026/02/23 [从安装 OpenClaw 到理解 Skill](https://quaily.com/jiayifun/p/openclaw-and-skill) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## DistroWatch Weekly
+- 2026/02/23 [DistroWatch Weekly, Issue 1161](https://distrowatch.com/weekly.php?issue=20260223) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/02/23 [9to5Linux Weekly Roundup: February 22nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-22nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/02/23 [Ubuntu Weekly Newsletter Issue 933](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-933/77522) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/02/23 [alibaba/zvec](https://github.com/alibaba/zvec) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/23 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 稻草人周刊
 - 2026/02/22 [稻草人周刊 Vol.69](https://www.geedea.pro/posts/weekly/69/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
 
+## zdyxry Weekly Issue
+- 2026/02/22 [Weekly Issue-《念念远山》](https://zdyxry.github.io/2026/02/22/Weekly-Issue-Mountains-of-the-Mind/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/02/22 [✨ V2EX 周报 本周热门主题及高赞回复 02.14-02.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/02/22 [steipete/gogcli](https://github.com/steipete/gogcli) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/22 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/02/21 [This Week in Plasma: 6.6 is Here!](https://blogs.kde.org/2026/02/21/this-week-in-plasma-6.6-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -42,32 +60,17 @@
 ## FOSS Weekly
 - 2026/02/19 [FOSS Weekly #26.08: KDE Plasma 6.6, Mint Release Schedule Change, ASCII Weather, Firefox Tweaking and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-08/) | [More](channels/FOSS%20Weekly.md)
 
-## 更好生活
-- 2026/02/18 [我为什么要花 ¥1800 多，开通 Notion AI 会员？](https://quaily.com/jiayifun/p/why-subscribe-notion-ai) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
 ## 肖恩技术周刊
 - 2026/02/16 [肖恩技术周刊（第 83 期）：金句达人](https://weekly.shawnxie.top/content/2026/83.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
-## DistroWatch Weekly
-- 2026/02/16 [DistroWatch Weekly, Issue 1160](https://distrowatch.com/weekly.php?issue=20260216) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/02/16 [Ubuntu Weekly Newsletter Issue 932](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-932/77095) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 一周杂记
 - 2026/02/15 [一周杂记 in Week 2 Feb 2026](http://kingsamchen.github.io/2026/02/15/weekly-2026-feb-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2026/02/15 [Weekly Issue-春节回家见闻](https://zdyxry.github.io/2026/02/15/Weekly-Issue-%E6%98%A5%E8%8A%82%E5%9B%9E%E5%AE%B6%E8%A7%81%E9%97%BB/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 科技創業週報
 - 2026/02/12 [科技創業週報 #519：](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-519%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 偷懒爱好者周刊
 - 2026/02/11 [第171期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/11/第171期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/02/10 [【CDT周报】第256期：调查记者几近消亡，但刘虎、巫英蛟、韩福涛等是仍在坚持的人](https://chinadigitaltimes.net/chinese/725118.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
 - 2026/02/09 [AIGC Weekly #158](https://quaily.com/op7418/p/aigc-weekly-hrvftmrj) | [More](channels/AIGC%20Weekly.md)

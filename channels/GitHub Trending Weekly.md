@@ -1,3 +1,4 @@
+- [seerr-team/seerr](https://github.com/seerr-team/seerr)
 - [steipete/summarize](https://github.com/steipete/summarize)
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
 - [alibaba/zvec](https://github.com/alibaba/zvec)

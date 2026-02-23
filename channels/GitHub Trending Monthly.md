@@ -1,3 +1,4 @@
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
 - [openai/skills](https://github.com/openai/skills)

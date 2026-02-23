@@ -1,3 +1,4 @@
+- [Weekly Issue-《念念远山》](https://zdyxry.github.io/2026/02/22/Weekly-Issue-Mountains-of-the-Mind/)
 - [Weekly Issue-春节回家见闻](https://zdyxry.github.io/2026/02/15/Weekly-Issue-%E6%98%A5%E8%8A%82%E5%9B%9E%E5%AE%B6%E8%A7%81%E9%97%BB/)
 - [Weekly Issue-回家过年](https://zdyxry.github.io/2026/02/08/Weekly-Issue-%20%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4/)
 - [Weekly Issue-《基普乔格：最后的里程碑》](https://zdyxry.github.io/2026/02/01/Weekly-Issue-Kipchoge/)
