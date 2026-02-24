@@ -1,3 +1,4 @@
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo)

@@ -1,3 +1,4 @@
+- [cloudflare/agents](https://github.com/cloudflare/agents)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr)
 - [steipete/summarize](https://github.com/steipete/summarize)
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
