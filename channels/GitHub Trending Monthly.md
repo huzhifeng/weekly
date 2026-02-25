@@ -1,3 +1,4 @@
+- [p-e-w/heretic](https://github.com/p-e-w/heretic)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)

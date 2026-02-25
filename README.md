@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## AIGC Weekly
-- 2026/02/24 [AIGC Weekly #159 新年快乐](https://quaily.com/op7418/p/aigc-weekly-new-year-happy) | [More](channels/AIGC%20Weekly.md)
+## 偷懒爱好者周刊
+- 2026/02/25 [第172期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/25/第172期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/02/24 [cloudflare/agents](https://github.com/cloudflare/agents) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/25 [cloudflare/agents](https://github.com/cloudflare/agents) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/02/24 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/25 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## AIGC Weekly
+- 2026/02/24 [AIGC Weekly #159 新年快乐](https://quaily.com/op7418/p/aigc-weekly-new-year-happy) | [More](channels/AIGC%20Weekly.md)
 
 ## CDT周报
 - 2026/02/23 [【CDT周报】第257期：春晚不光没有年味，连人味都没有了](https://chinadigitaltimes.net/chinese/725395.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -20,9 +23,6 @@
 
 ## 一周杂记
 - 2026/02/23 [一周杂记 in Week 3 Feb 2026](http://kingsamchen.github.io/2026/02/23/weekly-2026-feb-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2026/02/23 [DistroWatch Weekly, Issue 1161](https://distrowatch.com/weekly.php?issue=20260223) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 9to5Linux Weekly Roundup
 - 2026/02/23 [9to5Linux Weekly Roundup: February 22nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-22nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
@@ -70,10 +70,7 @@
 - 2026/02/16 [肖恩技术周刊（第 83 期）：金句达人](https://weekly.shawnxie.top/content/2026/83.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## 科技創業週報
-- 2026/02/12 [科技創業週報 #519：](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-519%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 偷懒爱好者周刊
-- 2026/02/11 [第171期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/11/第171期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/02/12 [科技創業週報 #520：紅杉資本重磅宣告：通用人工智慧不再是科幻預言，而是 2026 年的經濟現實](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-519%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 棱镜通讯
 - 2026/02/08 [棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）](https://wangyurui.com/posts/leng-jing-tong-xun-no-117-4bcde289) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

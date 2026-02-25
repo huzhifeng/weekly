@@ -1,3 +1,4 @@
+- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)
 - [cloudflare/agents](https://github.com/cloudflare/agents)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr)
 - [steipete/summarize](https://github.com/steipete/summarize)
