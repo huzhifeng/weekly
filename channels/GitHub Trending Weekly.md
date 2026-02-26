@@ -1,3 +1,5 @@
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [huggingface/skills](https://github.com/huggingface/skills)
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)
 - [cloudflare/agents](https://github.com/cloudflare/agents)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr)

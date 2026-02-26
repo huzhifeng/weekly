@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/02/12 [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/02/25 [第172期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/25/第172期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/02/26 [科技創業週報 #521：訂閱型 AI＋AI 代理人工作流，重寫一人公司的成長上限](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-521%ef%bc%9a%e8%a8%82%e9%96%b1%e5%9e%8b-ai%ef%bc%8bai-%e4%bb%a3%e7%90%86%e4%ba%ba%e5%b7%a5%e4%bd%9c%e6%b5%81%ef%bc%8c%e9%87%8d%e5%af%ab%e4%b8%80/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/02/26 [LWN.net Weekly Edition for February 26, 2026](https://lwn.net/Articles/1059501/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/02/26 [FOSS Weekly #26.09: Linux Mint Shortcuts, OpenClaw Alternatives, Ladybird&#x27;s Rust Move, Super Productivity and More](https://itsfoss.com/newsletter/foss-weekly-26-09/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/02/25 [cloudflare/agents](https://github.com/cloudflare/agents) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/02/26 [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/02/25 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/02/26 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/02/25 [第172期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/25/第172期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2026/02/24 [AIGC Weekly #159 新年快乐](https://quaily.com/op7418/p/aigc-weekly-new-year-happy) | [More](channels/AIGC%20Weekly.md)
@@ -24,8 +33,8 @@
 ## 一周杂记
 - 2026/02/23 [一周杂记 in Week 3 Feb 2026](http://kingsamchen.github.io/2026/02/23/weekly-2026-feb-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/02/23 [9to5Linux Weekly Roundup: February 22nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-february-22nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+## DistroWatch Weekly
+- 2026/02/23 [DistroWatch Weekly, Issue 1161](https://distrowatch.com/weekly.php?issue=20260223) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/02/23 [Ubuntu Weekly Newsletter Issue 933](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-933/77522) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -60,17 +69,8 @@
 ## 二丫讲梵学习周刊
 - 2026/02/19 [学习周刊-总第251期-2026年第08周](https://wiki.eryajf.net/pages/f80a48/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## LWN.net Weekly Edition
-- 2026/02/19 [LWN.net Weekly Edition for February 19, 2026](https://lwn.net/Articles/1058474/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/02/19 [FOSS Weekly #26.08: KDE Plasma 6.6, Mint Release Schedule Change, ASCII Weather, Firefox Tweaking and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-08/) | [More](channels/FOSS%20Weekly.md)
-
 ## 肖恩技术周刊
 - 2026/02/16 [肖恩技术周刊（第 83 期）：金句达人](https://weekly.shawnxie.top/content/2026/83.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
-## 科技創業週報
-- 2026/02/12 [科技創業週報 #520：紅杉資本重磅宣告：通用人工智慧不再是科幻預言，而是 2026 年的經濟現實](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-519%ef%bc%9a/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 棱镜通讯
 - 2026/02/08 [棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）](https://wangyurui.com/posts/leng-jing-tong-xun-no-117-4bcde289) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
