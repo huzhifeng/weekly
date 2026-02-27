@@ -1,3 +1,5 @@
+- [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [huggingface/skills](https://github.com/huggingface/skills)
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)
