@@ -1,3 +1,5 @@
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 - [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)

@@ -1,3 +1,4 @@
+- [This Week in Plasma: Vietnamese lunar calendar and rounder highlights](https://blogs.kde.org/2026/02/28/this-week-in-plasma-vietnamese-lunar-calendar-and-rounder-highlights/)
 - [This Week in Plasma: 6.6 is Here!](https://blogs.kde.org/2026/02/21/this-week-in-plasma-6.6-is-here/)
 - [This Week in Plasma: Finalizing 6.6](https://blogs.kde.org/2026/02/14/this-week-in-plasma-finalizing-6.6/)
 - [This Week in Plasma: beefed-up Window List widget](https://blogs.kde.org/2026/02/07/this-week-in-plasma-beefed-up-window-list-widget/)

@@ -3,20 +3,32 @@
 ## 科技爱好者周刊
 - 2026/02/27 [科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 棱镜通讯
+- 2026/02/28 [隐说 NO.14 真理必须是前进的](https://wangyurui.com/posts/yin-shuo-no-14-cong-zheng-zhi-xue-jiao-du-du-li-8630e17e) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## HelloGitHub
+- 2026/02/28 [HelloGitHub 第 119 期](https://hellogithub.com/periodical/volume/119) | [More](channels/HelloGitHub.md)
+
+## This Week in Plasma
+- 2026/02/28 [This Week in Plasma: Vietnamese lunar calendar and rounder highlights](https://blogs.kde.org/2026/02/28/this-week-in-plasma-vietnamese-lunar-calendar-and-rounder-highlights/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/02/28 [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/02/28 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/02/27 [Web Review, Week 2026-09](https://ervin.ipsquad.net/blog/2026/02/27/web-review-week-2026-09/) | [More](channels/Web%20Review.md)
 
 ## 二丫讲梵学习周刊
 - 2026/02/27 [学习周刊-总第252期-2026年第09周](https://wiki.eryajf.net/pages/5d3e72/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## This Week in GNOME
+- 2026/02/27 [#238 Navigating Months](https://thisweek.gnome.org/posts/2026/02/twig-238/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## Self-Host Weekly
 - 2026/02/27 [Self-Host Weekly (27 February 2026)](https://selfh.st/weekly/2026-02-27/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/02/27 [huggingface/skills](https://github.com/huggingface/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/02/27 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/02/26 [科技創業週報 #521：訂閱型 AI＋AI 代理人工作流，重寫一人公司的成長上限](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-521%ef%bc%9a%e8%a8%82%e9%96%b1%e5%9e%8b-ai%ef%bc%8bai-%e4%bb%a3%e7%90%86%e4%ba%ba%e5%b7%a5%e4%bd%9c%e6%b5%81%ef%bc%8c%e9%87%8d%e5%af%ab%e4%b8%80/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -57,14 +69,8 @@
 ## V2EX 周报
 - 2026/02/22 [✨ V2EX 周报 本周热门主题及高赞回复 02.14-02.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/02/21 [This Week in Plasma: 6.6 is Here!](https://blogs.kde.org/2026/02/21/this-week-in-plasma-6.6-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## 试行错误
 - 2026/02/20 [冷酷的慈悲：为什么法律不关心你的委屈｜NL152](https://quaily.com/shixingcuowu/p/cold-compassion-why-law-does-not-care-about-your-resentment-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## This Week in GNOME
-- 2026/02/20 [#237 Article Rendering](https://thisweek.gnome.org/posts/2026/02/twig-237/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 潮流周刊
 - 2026/02/19 [第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -72,17 +78,11 @@
 ## 肖恩技术周刊
 - 2026/02/16 [肖恩技术周刊（第 83 期）：金句达人](https://weekly.shawnxie.top/content/2026/83.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
-## 棱镜通讯
-- 2026/02/08 [棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）](https://wangyurui.com/posts/leng-jing-tong-xun-no-117-4bcde289) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## 胡言乱语
 - 2026/02/05 [20260205的胡言乱语](https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 猫鱼周刊
 - 2026/02/01 [猫鱼周刊 vol. 092 AI 的贴吧](https://ameow.xyz/archives/weekly-092) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## HelloGitHub
-- 2026/01/28 [HelloGitHub 第 118 期](https://hellogithub.com/periodical/volume/118) | [More](channels/HelloGitHub.md)
 
 ## 有个问题
 - 2026/01/21 [如何改变现状？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-change-the-situation) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
