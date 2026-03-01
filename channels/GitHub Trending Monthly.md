@@ -1,3 +1,4 @@
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
 - [steipete/gogcli](https://github.com/steipete/gogcli)
 - [p-e-w/heretic](https://github.com/p-e-w/heretic)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
