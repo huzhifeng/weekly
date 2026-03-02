@@ -9,6 +9,27 @@
 ## 肖恩技术周刊
 - 2026/03/02 [肖恩技术周刊（第 84 期）：Token 粉碎机](https://weekly.shawnxie.top/content/2026/84.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/03/02 [【CDT周报】第258期：长大以后才发现整个社会都是我爹](https://chinadigitaltimes.net/chinese/725541.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 有个问题
+- 2026/03/02 [29. 为什么ADHD变得流行？](https://newsletter.emmmme.com/p/why-adhd-became-popular) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## AIGC Weekly
+- 2026/03/02 [AIGC Weekly #160](https://quaily.com/op7418/p/aigc-weekly-one-sixty) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/03/02 [DistroWatch Weekly, Issue 1162](https://distrowatch.com/weekly.php?issue=20260302) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/03/02 [9to5Linux Weekly Roundup: March 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-march-1st-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2026/03/02 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/02 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2026/03/01 [猫鱼周刊 vol. 093 马年快乐](https://ameow.xyz/archives/weekly-093) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -18,14 +39,14 @@
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
+## 一周杂记
+- 2026/03/01 [一周杂记 in Week 4 Feb 2026](http://kingsamchen.github.io/2026/03/01/weekly-2026-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2026/03/01 [Weekly Issue-Treeverse](https://zdyxry.github.io/2026/03/01/Weekly-Issue-Treeverse/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/03/01 [✨ V2EX 周报 本周热门主题及高赞回复 02.21-02.27](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/03/01 [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/01 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 棱镜通讯
 - 2026/02/28 [隐说 NO.14 真理必须是前进的](https://wangyurui.com/posts/yin-shuo-no-14-cong-zheng-zhi-xue-jiao-du-du-li-8630e17e) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -60,35 +81,17 @@
 ## 偷懒爱好者周刊
 - 2026/02/25 [第172期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/25/第172期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## AIGC Weekly
-- 2026/02/24 [AIGC Weekly #159 新年快乐](https://quaily.com/op7418/p/aigc-weekly-new-year-happy) | [More](channels/AIGC%20Weekly.md)
-
-## CDT周报
-- 2026/02/23 [【CDT周报】第257期：春晚不光没有年味，连人味都没有了](https://chinadigitaltimes.net/chinese/725395.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 更好生活
 - 2026/02/23 [从安装 OpenClaw 到理解 Skill](https://quaily.com/jiayifun/p/openclaw-and-skill) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
-## 一周杂记
-- 2026/02/23 [一周杂记 in Week 3 Feb 2026](http://kingsamchen.github.io/2026/02/23/weekly-2026-feb-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2026/02/23 [DistroWatch Weekly, Issue 1161](https://distrowatch.com/weekly.php?issue=20260223) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/02/23 [Ubuntu Weekly Newsletter Issue 933](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-933/77522) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/02/22 [Weekly Issue-《念念远山》](https://zdyxry.github.io/2026/02/22/Weekly-Issue-Mountains-of-the-Mind/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 试行错误
 - 2026/02/20 [冷酷的慈悲：为什么法律不关心你的委屈｜NL152](https://quaily.com/shixingcuowu/p/cold-compassion-why-law-does-not-care-about-your-resentment-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 胡言乱语
 - 2026/02/05 [20260205的胡言乱语](https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 有个问题
-- 2026/01/21 [如何改变现状？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-change-the-situation) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
@@ -113,9 +116,6 @@
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
-
-## PIVOT
-- 2025/08/13 [PIVOT Vol.19 有 19 个链接](https://anotherdayu.com/2025/7121/) | [More](channels/PIVOT.md)
 
 ## 泰晓资讯
 - 2025/06/12 [泰晓资讯·6 月 / 第一期 / 2025](https://tinylab.org/tinylab-weekly-06-1st-2025/) | [More](channels/%E6%B3%B0%E6%99%93%E8%B5%84%E8%AE%AF.md)
