@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/02/27 [科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/03/03 [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/03 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/03/02 [第258期 - 赛博充电](https://weekly.tw93.fun/posts/258/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -24,11 +30,8 @@
 ## 9to5Linux Weekly Roundup
 - 2026/03/02 [9to5Linux Weekly Roundup: March 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-march-1st-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2026/03/02 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/02 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2026/03/02 [Ubuntu Weekly Newsletter Issue 934](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-934/77876) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2026/03/01 [猫鱼周刊 vol. 093 马年快乐](https://ameow.xyz/archives/weekly-093) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -83,9 +86,6 @@
 
 ## 更好生活
 - 2026/02/23 [从安装 OpenClaw 到理解 Skill](https://quaily.com/jiayifun/p/openclaw-and-skill) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/02/23 [Ubuntu Weekly Newsletter Issue 933](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-933/77522) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 试行错误
 - 2026/02/20 [冷酷的慈悲：为什么法律不关心你的委屈｜NL152](https://quaily.com/shixingcuowu/p/cold-compassion-why-law-does-not-care-about-your-resentment-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

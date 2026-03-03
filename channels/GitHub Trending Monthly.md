@@ -1,3 +1,5 @@
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [google/langextract](https://github.com/google/langextract)
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
 - [steipete/gogcli](https://github.com/steipete/gogcli)
 - [p-e-w/heretic](https://github.com/p-e-w/heretic)
