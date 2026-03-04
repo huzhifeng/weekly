@@ -1,3 +1,4 @@
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)

@@ -4,10 +4,10 @@
 - 2026/02/27 [科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/03/03 [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/03/04 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/03/03 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/03/04 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/03/02 [第258期 - 赛博充电](https://weekly.tw93.fun/posts/258/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -73,7 +73,7 @@
 - 2026/02/27 [Self-Host Weekly (27 February 2026)](https://selfh.st/weekly/2026-02-27/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
-- 2026/02/26 [科技創業週報 #521：訂閱型 AI＋AI 代理人工作流，重寫一人公司的成長上限](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-521%ef%bc%9a%e8%a8%82%e9%96%b1%e5%9e%8b-ai%ef%bc%8bai-%e4%bb%a3%e7%90%86%e4%ba%ba%e5%b7%a5%e4%bd%9c%e6%b5%81%ef%bc%8c%e9%87%8d%e5%af%ab%e4%b8%80/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+- 2026/02/26 [科技創業週報 #521：訂閱型 AI＋AI 代理人工作流，重寫一人公司的成長上限](https://blog.starrocket.io/posts/newsletter-2026-02-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## LWN.net Weekly Edition
 - 2026/02/26 [LWN.net Weekly Edition for February 26, 2026](https://lwn.net/Articles/1059501/) | [More](channels/LWN.net%20Weekly%20Edition.md)
