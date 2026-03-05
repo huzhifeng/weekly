@@ -1,13 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/02/27 [科技爱好者周刊（第 386 期）：当外卖员接入 AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/03/05 [科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 科技創業週報
+- 2026/03/05 [科技創業週報 #522：Anthropic 拒簽、OpenAI 接手：AI 的最終解釋權究竟在誰手中？](https://blog.starrocket.io/posts/newsletter-2026-03-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/03/05 [学习周刊-总第253期-2026年第10周](https://wiki.eryajf.net/pages/bfc406/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/03/05 [LWN.net Weekly Edition for March 5, 2026](https://lwn.net/Articles/1060392/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/03/05 [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://itsfoss.com/newsletter/foss-weekly-26-10/) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/03/04 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/03/05 [huggingface/skills](https://github.com/huggingface/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/03/04 [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/03/05 [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/03/02 [第258期 - 赛博充电](https://weekly.tw93.fun/posts/258/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -63,23 +75,11 @@
 ## Web Review
 - 2026/02/27 [Web Review, Week 2026-09](https://ervin.ipsquad.net/blog/2026/02/27/web-review-week-2026-09/) | [More](channels/Web%20Review.md)
 
-## 二丫讲梵学习周刊
-- 2026/02/27 [学习周刊-总第252期-2026年第09周](https://wiki.eryajf.net/pages/5d3e72/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in GNOME
 - 2026/02/27 [#238 Navigating Months](https://thisweek.gnome.org/posts/2026/02/twig-238/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/02/27 [Self-Host Weekly (27 February 2026)](https://selfh.st/weekly/2026-02-27/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/02/26 [科技創業週報 #521：訂閱型 AI＋AI 代理人工作流，重寫一人公司的成長上限](https://blog.starrocket.io/posts/newsletter-2026-02-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/02/26 [LWN.net Weekly Edition for February 26, 2026](https://lwn.net/Articles/1059501/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/02/26 [FOSS Weekly #26.09: Linux Mint Shortcuts, OpenClaw Alternatives, Ladybird&#x27;s Rust Move, Super Productivity and More](https://itsfoss.com/newsletter/foss-weekly-26-09/) | [More](channels/FOSS%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/02/25 [第172期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/25/第172期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -89,6 +89,9 @@
 
 ## 试行错误
 - 2026/02/20 [冷酷的慈悲：为什么法律不关心你的委屈｜NL152](https://quaily.com/shixingcuowu/p/cold-compassion-why-law-does-not-care-about-your-resentment-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## GitHub一周热点汇总
+- 2026/02/13 [GitHub一周热点第104期](https://itcoffee66.github.io/githubweekly/104.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
 ## 胡言乱语
 - 2026/02/05 [20260205的胡言乱语](https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

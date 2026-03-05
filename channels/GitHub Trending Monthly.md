@@ -1,3 +1,5 @@
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+- [github/gh-aw](https://github.com/github/gh-aw)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [google/langextract](https://github.com/google/langextract)
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)

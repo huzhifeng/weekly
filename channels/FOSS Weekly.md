@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://itsfoss.com/newsletter/foss-weekly-26-10/)
 - [FOSS Weekly #26.09: Linux Mint Shortcuts, OpenClaw Alternatives, Ladybird&#x27;s Rust Move, Super Productivity and More](https://itsfoss.com/newsletter/foss-weekly-26-09/)
 - [FOSS Weekly #26.08: KDE Plasma 6.6, Mint Release Schedule Change, ASCII Weather, Firefox Tweaking and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-08/)
 - [FOSS Weekly #26.07: Kernel 6.19, AI for Real Sysadmin Works, Arch Apps on Ubuntu and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-26-07/)
