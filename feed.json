@@ -145,6 +145,11 @@
 			"url": "https://hellogithub.com/rss"
 		},
 		{
+			"channel": "GitHub一周热点汇总",
+			"portal": "https://github.com/itcoffee66/githubweekly",
+			"url": "https://itcoffee66.github.io/githubweekly/feed.xml"
+		},
+		{
 			"channel": "Hacker News Weekly Top 10",
 			"portal": "https://github.com/headllines/hackernews-weekly",
 			"url": "https://rsshub.app/github/issue/headllines/hackernews-weekly",
