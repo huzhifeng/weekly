@@ -1,3 +1,4 @@
+- [huggingface/skills](https://github.com/huggingface/skills)
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
 - [github/gh-aw](https://github.com/github/gh-aw)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)

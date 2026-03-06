@@ -1,3 +1,5 @@
+- [superset-sh/superset](https://github.com/superset-sh/superset)
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
