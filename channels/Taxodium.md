@@ -1,3 +1,4 @@
+- [Zine#47](https://taxodium.ink/47.html)
 - [Zine#46](https://taxodium.ink/46.html)
 - [Zine#45](https://taxodium.ink/45.html)
 - [Zine#44 - 善意、远离手机、阅读、万圣节主题](https://taxodium.ink/44.html)

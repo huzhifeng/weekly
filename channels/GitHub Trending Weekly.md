@@ -1,3 +1,4 @@
+- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
 - [superset-sh/superset](https://github.com/superset-sh/superset)
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
