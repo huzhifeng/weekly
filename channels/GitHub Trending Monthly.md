@@ -1,3 +1,4 @@
+- [superset-sh/superset](https://github.com/superset-sh/superset)
 - [huggingface/skills](https://github.com/huggingface/skills)
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
 - [github/gh-aw](https://github.com/github/gh-aw)

@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/03/05 [科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/03/09 [第259期 - 空中径山](https://weekly.tw93.fun/posts/259/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2026/03/08 [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2026/03/08 [一周杂记 in Week 1 Mar 2026](http://kingsamchen.github.io/2026/03/08/weekly-2026-mar-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## V2EX 周报
+- 2026/03/08 [✨ V2EX 周报 本周热门主题及高赞回复 02.28-03.06](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/03/08 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/08 [superset-sh/superset](https://github.com/superset-sh/superset) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)
 
 ## This Week in Plasma
 - 2026/03/07 [This Week in Plasma: Polish and Stability](https://blogs.kde.org/2026/03/07/this-week-in-plasma-polish-and-stability/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/03/07 [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/07 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 有个问题
 - 2026/03/06 [如何理解生活节奏？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-life-rhythm-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -42,9 +54,6 @@
 ## 偷懒爱好者周刊
 - 2026/03/04 [第173期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/04/第173期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2026/03/02 [第258期 - 赛博充电](https://weekly.tw93.fun/posts/258/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 肖恩技术周刊
 - 2026/03/02 [肖恩技术周刊（第 84 期）：Token 粉碎机](https://weekly.shawnxie.top/content/2026/84.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
@@ -60,23 +69,11 @@
 ## Ubuntu Weekly Newsletter
 - 2026/03/02 [Ubuntu Weekly Newsletter Issue 934](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-934/77876) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2026/03/01 [猫鱼周刊 vol. 093 马年快乐](https://ameow.xyz/archives/weekly-093) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 稻草人周刊
-- 2026/03/01 [稻草人周刊 Vol.70](https://www.geedea.pro/posts/weekly/70/) | [More](channels/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A.md)
-
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
-## 一周杂记
-- 2026/03/01 [一周杂记 in Week 4 Feb 2026](http://kingsamchen.github.io/2026/03/01/weekly-2026-feb-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## zdyxry Weekly Issue
 - 2026/03/01 [Weekly Issue-Treeverse](https://zdyxry.github.io/2026/03/01/Weekly-Issue-Treeverse/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/03/01 [✨ V2EX 周报 本周热门主题及高赞回复 02.21-02.27](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 棱镜通讯
 - 2026/02/28 [隐说 NO.14 真理必须是前进的](https://wangyurui.com/posts/yin-shuo-no-14-cong-zheng-zhi-xue-jiao-du-du-li-8630e17e) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
