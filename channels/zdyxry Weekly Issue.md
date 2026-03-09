@@ -1,3 +1,4 @@
+- [Weekly Issue-《我的妹妹是连环杀手》](https://zdyxry.github.io/2026/03/08/Weekly-Issue-my-sister-the-serial-killer/)
 - [Weekly Issue-Treeverse](https://zdyxry.github.io/2026/03/01/Weekly-Issue-Treeverse/)
 - [Weekly Issue-《念念远山》](https://zdyxry.github.io/2026/02/22/Weekly-Issue-Mountains-of-the-Mind/)
 - [Weekly Issue-春节回家见闻](https://zdyxry.github.io/2026/02/15/Weekly-Issue-%E6%98%A5%E8%8A%82%E5%9B%9E%E5%AE%B6%E8%A7%81%E9%97%BB/)
