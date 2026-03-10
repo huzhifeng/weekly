@@ -1,3 +1,4 @@
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
 - [superset-sh/superset](https://github.com/superset-sh/superset)
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)

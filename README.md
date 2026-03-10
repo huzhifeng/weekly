@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/03/05 [科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/03/11 [第174期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/11/第174期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/03/10 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/10 [superset-sh/superset](https://github.com/superset-sh/superset) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/03/09 [第259期 - 空中径山](https://weekly.tw93.fun/posts/259/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/03/09 [Ubuntu Weekly Newsletter Issue 935](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-935/78211) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/03/09 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/09 [superset-sh/superset](https://github.com/superset-sh/superset) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2026/03/08 [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -68,9 +71,6 @@
 
 ## FOSS Weekly
 - 2026/03/05 [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://feedpress.me/link/24361/17295015/foss-weekly-26-10) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/03/04 [第173期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/04/第173期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 肖恩技术周刊
 - 2026/03/02 [肖恩技术周刊（第 84 期）：Token 粉碎机](https://weekly.shawnxie.top/content/2026/84.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
