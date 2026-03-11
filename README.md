@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/03/05 [科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 更好生活
+- 2026/03/11 [2月小结｜休假、阅读和新产品Kollab](https://quaily.com/jiayifun/p/2026-feb-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## 棱镜通讯
+- 2026/03/11 [隐说 NO.15  官僚集团的运转逻辑](https://wangyurui.com/posts/yin-shuo-no-15-guan-liao-ji-tuan-de-yun-zhuan-lu-dff28a7c) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
 ## 偷懒爱好者周刊
 - 2026/03/11 [第174期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/11/第174期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/03/10 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/03/11 [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/03/10 [superset-sh/superset](https://github.com/superset-sh/superset) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/03/11 [superset-sh/superset](https://github.com/superset-sh/superset) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/03/09 [第259期 - 空中径山](https://weekly.tw93.fun/posts/259/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -78,14 +84,8 @@
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
-## 棱镜通讯
-- 2026/02/28 [隐说 NO.14 真理必须是前进的](https://wangyurui.com/posts/yin-shuo-no-14-cong-zheng-zhi-xue-jiao-du-du-li-8630e17e) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## HelloGitHub
 - 2026/02/28 [HelloGitHub 第 119 期](https://hellogithub.com/periodical/volume/119) | [More](channels/HelloGitHub.md)
-
-## 更好生活
-- 2026/02/23 [从安装 OpenClaw 到理解 Skill](https://quaily.com/jiayifun/p/openclaw-and-skill) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## 试行错误
 - 2026/02/20 [冷酷的慈悲：为什么法律不关心你的委屈｜NL152](https://quaily.com/shixingcuowu/p/cold-compassion-why-law-does-not-care-about-your-resentment-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

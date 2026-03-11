@@ -1,3 +1,4 @@
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
 - [superset-sh/superset](https://github.com/superset-sh/superset)
