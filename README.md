@@ -3,6 +3,21 @@
 ## 科技爱好者周刊
 - 2026/03/05 [科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/03/12 [科技創業週報 #523：人形機器人真正值得關心的，不是科幻感，而是社會如何與AI 共處](https://blog.starrocket.io/posts/newsletter-2026-03-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/03/12 [学习周刊-总第254期-2026年第11周](https://wiki.eryajf.net/pages/41978b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/03/12 [LWN.net Weekly Edition for March 12, 2026](https://lwn.net/Articles/1061465/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## GitHub Trending Weekly
+- 2026/03/12 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/12 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 更好生活
 - 2026/03/11 [2月小结｜休假、阅读和新产品Kollab](https://quaily.com/jiayifun/p/2026-feb-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -11,12 +26,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/03/11 [第174期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/11/第174期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2026/03/11 [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/11 [superset-sh/superset](https://github.com/superset-sh/superset) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/03/09 [第259期 - 空中径山](https://weekly.tw93.fun/posts/259/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -29,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2026/03/09 [DistroWatch Weekly, Issue 1163](https://distrowatch.com/weekly.php?issue=20260309) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/03/09 [9to5Linux Weekly Roundup: March 8th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-march-8th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/03/09 [Ubuntu Weekly Newsletter Issue 935](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-935/78211) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -65,15 +71,6 @@
 
 ## Self-Host Weekly
 - 2026/03/06 [Self-Host Weekly (6 March 2026)](https://selfh.st/weekly/2026-03-06/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/03/05 [科技創業週報 #522：Anthropic 拒簽、OpenAI 接手：AI 的最終解釋權究竟在誰手中？](https://blog.starrocket.io/posts/newsletter-2026-03-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/03/05 [学习周刊-总第253期-2026年第10周](https://wiki.eryajf.net/pages/bfc406/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/03/05 [LWN.net Weekly Edition for March 5, 2026](https://lwn.net/Articles/1060392/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2026/03/05 [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://feedpress.me/link/24361/17295015/foss-weekly-26-10) | [More](channels/FOSS%20Weekly.md)
