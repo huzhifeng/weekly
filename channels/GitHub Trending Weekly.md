@@ -1,3 +1,4 @@
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish)

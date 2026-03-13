@@ -1,3 +1,5 @@
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
 - [superset-sh/superset](https://github.com/superset-sh/superset)
 - [huggingface/skills](https://github.com/huggingface/skills)
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)

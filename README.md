@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/03/05 [科技爱好者周刊（第 387 期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/03/12 [科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/03/13 [Web Review, Week 2026-11](https://ervin.ipsquad.net/blog/2026/03/13/web-review-week-2026-11/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2026/03/13 [20260313的胡言乱语](https://www.bboy.app/2026/03/13/20260313%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## Self-Host Weekly
+- 2026/03/13 [Self-Host Weekly (13 March 2026)](https://selfh.st/weekly/2026-03-13/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/03/13 [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/13 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/03/12 [科技創業週報 #523：人形機器人真正值得關心的，不是科幻感，而是社會如何與AI 共處](https://blog.starrocket.io/posts/newsletter-2026-03-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -12,11 +27,8 @@
 ## LWN.net Weekly Edition
 - 2026/03/12 [LWN.net Weekly Edition for March 12, 2026](https://lwn.net/Articles/1061465/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/03/12 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/12 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/03/12 [FOSS Weekly #26.11: SUSE for Sale, Firefox Redesign, New-ish Terminal, i3 Customization and More](https://feed.itsfoss.com/link/24361/17298788/foss-weekly-26-11) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2026/03/11 [2月小结｜休假、阅读和新产品Kollab](https://quaily.com/jiayifun/p/2026-feb-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -63,17 +75,8 @@
 ## 有个问题
 - 2026/03/06 [如何理解生活节奏？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-life-rhythm-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
-## Web Review
-- 2026/03/06 [Web Review, Week 2026-10](https://ervin.ipsquad.net/blog/2026/03/06/web-review-week-2026-10/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2026/03/06 [#239 Accessibility Contributions](https://thisweek.gnome.org/posts/2026/03/twig-239/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/03/06 [Self-Host Weekly (6 March 2026)](https://selfh.st/weekly/2026-03-06/) | [More](channels/Self-Host%20Weekly.md)
-
-## FOSS Weekly
-- 2026/03/05 [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://feedpress.me/link/24361/17295015/foss-weekly-26-10) | [More](channels/FOSS%20Weekly.md)
 
 ## 肖恩技术周刊
 - 2026/03/02 [肖恩技术周刊（第 84 期）：Token 粉碎机](https://weekly.shawnxie.top/content/2026/84.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -89,9 +92,6 @@
 
 ## GitHub一周热点汇总
 - 2026/02/13 [GitHub一周热点第104期](https://itcoffee66.github.io/githubweekly/104.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## 胡言乱语
-- 2026/02/05 [20260205的胡言乱语](https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)

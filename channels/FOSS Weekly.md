@@ -1,3 +1,5 @@
+- [FOSS Weekly #26.11: SUSE for Sale, Firefox Redesign, New-ish Terminal, i3 Customization and More](https://feed.itsfoss.com/link/24361/17298788/foss-weekly-26-11)
+- [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://feed.itsfoss.com/link/24361/17295015/foss-weekly-26-10)
 - [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://feedpress.me/link/24361/17295015/foss-weekly-26-10)
 - [FOSS Weekly #26.09: Linux Mint Shortcuts, OpenClaw Alternatives, Ladybird&#x27;s Rust Move, Super Productivity and More](https://feedpress.me/link/24361/17295025/foss-weekly-26-09)
 - [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://itsfoss.com/newsletter/foss-weekly-26-10/)
