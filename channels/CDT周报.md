@@ -1,3 +1,4 @@
+- [【CDT周报】第260期：小龙虾大跃进，从“龙虾十条”到非必要不部署](https://chinadigitaltimes.net/chinese/725887.html)
 - [【CDT周报】第259期：农民养老金每年提高20元远远不够](https://chinadigitaltimes.net/chinese/725738.html)
 - [【CDT周报】第258期：长大以后才发现整个社会都是我爹](https://chinadigitaltimes.net/chinese/725541.html)
 - [【CDT周报】第257期：春晚不光没有年味，连人味都没有了](https://chinadigitaltimes.net/chinese/725395.html)

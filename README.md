@@ -6,26 +6,41 @@
 ## 潮流周刊
 - 2026/03/16 [第260期 - 去太子湾](https://weekly.tw93.fun/posts/260/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/03/16 [【CDT周报】第260期：小龙虾大跃进，从“龙虾十条”到非必要不部署](https://chinadigitaltimes.net/chinese/725887.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 胡言乱语
+- 2026/03/16 [20260316的胡言乱语](https://www.bboy.app/2026/03/16/20260316%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## AIGC Weekly
+- 2026/03/16 [AIGC Weekly #162](https://quaily.com/op7418/p/aigc-weekly-6qvmilbu) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/03/16 [DistroWatch Weekly, Issue 1164](https://distrowatch.com/weekly.php?issue=20260316) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/03/16 [Ubuntu Weekly Newsletter Issue 936](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-936/78586) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/03/16 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/16 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 一周杂记
 - 2026/03/15 [一周杂记 in Week 2 Mar 2026](http://kingsamchen.github.io/2026/03/15/weekly-2026-mar-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
+## zdyxry Weekly Issue
+- 2026/03/15 [Weekly Issue-《疑犯追踪》](https://zdyxry.github.io/2026/03/15/Weekly-Issue-POI/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/03/15 [✨ V2EX 周报 本周热门主题及高赞回复 03.07-03.13](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/03/15 [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/15 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/03/14 [This Week in Plasma: Press-and-Hold for Alternative Characters](https://blogs.kde.org/2026/03/14/this-week-in-plasma-press-and-hold-for-alternative-characters/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/03/13 [Web Review, Week 2026-11](https://ervin.ipsquad.net/blog/2026/03/13/web-review-week-2026-11/) | [More](channels/Web%20Review.md)
-
-## 胡言乱语
-- 2026/03/13 [20260313的胡言乱语](https://www.bboy.app/2026/03/13/20260313%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## This Week in GNOME
 - 2026/03/13 [#240 Big Reworks](https://thisweek.gnome.org/posts/2026/03/twig-240/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -54,23 +69,8 @@
 ## 偷懒爱好者周刊
 - 2026/03/11 [第174期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/11/第174期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2026/03/09 [【CDT周报】第259期：农民养老金每年提高20元远远不够](https://chinadigitaltimes.net/chinese/725738.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## AIGC Weekly
-- 2026/03/09 [AIGC Weekly #161](https://quaily.com/op7418/p/aigc-weekly-60bkn8x8) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/03/09 [DistroWatch Weekly, Issue 1163](https://distrowatch.com/weekly.php?issue=20260309) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/03/09 [Ubuntu Weekly Newsletter Issue 935](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-935/78211) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2026/03/08 [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## zdyxry Weekly Issue
-- 2026/03/08 [Weekly Issue-《我的妹妹是连环杀手》](https://zdyxry.github.io/2026/03/08/Weekly-Issue-my-sister-the-serial-killer/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)
