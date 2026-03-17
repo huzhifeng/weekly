@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/03/12 [科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/03/18 [第175期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/18/第175期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2026/03/17 [20260317的胡言乱语](https://www.bboy.app/2026/03/17/20260317%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2026/03/17 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/17 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/03/16 [第260期 - 去太子湾](https://weekly.tw93.fun/posts/260/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/03/16 [【CDT周报】第260期：小龙虾大跃进，从“龙虾十条”到非必要不部署](https://chinadigitaltimes.net/chinese/725887.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 胡言乱语
-- 2026/03/16 [20260316的胡言乱语](https://www.bboy.app/2026/03/16/20260316%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## AIGC Weekly
 - 2026/03/16 [AIGC Weekly #162](https://quaily.com/op7418/p/aigc-weekly-6qvmilbu) | [More](channels/AIGC%20Weekly.md)
@@ -20,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/03/16 [Ubuntu Weekly Newsletter Issue 936](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-936/78586) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/03/16 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/16 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 一周杂记
 - 2026/03/15 [一周杂记 in Week 2 Mar 2026](http://kingsamchen.github.io/2026/03/15/weekly-2026-mar-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -65,9 +68,6 @@
 
 ## 棱镜通讯
 - 2026/03/11 [隐说 NO.15  官僚集团的运转逻辑](https://wangyurui.com/posts/yin-shuo-no-15-guan-liao-ji-tuan-de-yun-zhuan-lu-dff28a7c) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 偷懒爱好者周刊
-- 2026/03/11 [第174期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/11/第174期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 猫鱼周刊
 - 2026/03/08 [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)

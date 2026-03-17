@@ -1,3 +1,5 @@
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+- [alibaba/zvec](https://github.com/alibaba/zvec)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
