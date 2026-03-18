@@ -3,17 +3,20 @@
 ## 科技爱好者周刊
 - 2026/03/12 [科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 棱镜通讯
+- 2026/03/18 [隐说 NO.16  “默认为假”的时代](https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
 ## 偷懒爱好者周刊
 - 2026/03/18 [第175期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/18/第175期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 胡言乱语
-- 2026/03/17 [20260317的胡言乱语](https://www.bboy.app/2026/03/17/20260317%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## GitHub Trending Weekly
-- 2026/03/17 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/03/18 [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/03/17 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/03/18 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 胡言乱语
+- 2026/03/17 [20260317的胡言乱语](https://www.bboy.app/2026/03/17/20260317%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2026/03/16 [第260期 - 去太子湾](https://weekly.tw93.fun/posts/260/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -66,9 +69,6 @@
 ## 更好生活
 - 2026/03/11 [2月小结｜休假、阅读和新产品Kollab](https://quaily.com/jiayifun/p/2026-feb-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
-## 棱镜通讯
-- 2026/03/11 [隐说 NO.15  官僚集团的运转逻辑](https://wangyurui.com/posts/yin-shuo-no-15-guan-liao-ji-tuan-de-yun-zhuan-lu-dff28a7c) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## 猫鱼周刊
 - 2026/03/08 [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -77,6 +77,9 @@
 
 ## 有个问题
 - 2026/03/06 [如何理解生活节奏？ | 人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-life-rhythm-relaxed-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## GitHub一周热点汇总
+- 2026/03/06 [GitHub一周热点第106期](https://itcoffee66.github.io/githubweekly/106.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
 ## 肖恩技术周刊
 - 2026/03/02 [肖恩技术周刊（第 84 期）：Token 粉碎机](https://weekly.shawnxie.top/content/2026/84.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -89,9 +92,6 @@
 
 ## 试行错误
 - 2026/02/20 [冷酷的慈悲：为什么法律不关心你的委屈｜NL152](https://quaily.com/shixingcuowu/p/cold-compassion-why-law-does-not-care-about-your-resentment-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## GitHub一周热点汇总
-- 2026/02/13 [GitHub一周热点第104期](https://itcoffee66.github.io/githubweekly/104.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)

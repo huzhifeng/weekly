@@ -1,3 +1,5 @@
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 - [alibaba/zvec](https://github.com/alibaba/zvec)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)

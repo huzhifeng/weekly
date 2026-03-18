@@ -1,3 +1,4 @@
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [Q00/ouroboros](https://github.com/Q00/ouroboros)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
