@@ -1,3 +1,4 @@
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor)

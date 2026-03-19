@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/03/12 [科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/03/19 [科技創業週報 #524：OpenClaw 現象解析：AI Agent 如何走向意圖驅動與 AI 作業系統？](https://blog.starrocket.io/posts/newsletter-2026-03-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/03/19 [学习周刊-总第255期-2026年第12周](https://wiki.eryajf.net/pages/5f9192/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/03/19 [LWN.net Weekly Edition for March 19, 2026](https://lwn.net/Articles/1062571/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/03/19 [FOSS Weekly #26.12: GNOME 50 Release, Fedora for Apple, New Ageless Linux, Manjaro Drama and More](https://feed.itsfoss.com/link/24361/17302092/foss-weekly-26-12) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/03/19 [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/19 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 棱镜通讯
 - 2026/03/18 [隐说 NO.16  “默认为假”的时代](https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 偷懒爱好者周刊
 - 2026/03/18 [第175期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/18/第175期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2026/03/18 [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/18 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 胡言乱语
 - 2026/03/17 [20260317的胡言乱语](https://www.bboy.app/2026/03/17/20260317%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -53,18 +65,6 @@
 
 ## Self-Host Weekly
 - 2026/03/13 [Self-Host Weekly (13 March 2026)](https://selfh.st/weekly/2026-03-13/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/03/12 [科技創業週報 #523：人形機器人真正值得關心的，不是科幻感，而是社會如何與AI 共處](https://blog.starrocket.io/posts/newsletter-2026-03-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/03/12 [学习周刊-总第254期-2026年第11周](https://wiki.eryajf.net/pages/41978b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/03/12 [LWN.net Weekly Edition for March 12, 2026](https://lwn.net/Articles/1061465/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/03/12 [FOSS Weekly #26.11: SUSE for Sale, Firefox Redesign, New-ish Terminal, i3 Customization and More](https://feed.itsfoss.com/link/24361/17298788/foss-weekly-26-11) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2026/03/11 [2月小结｜休假、阅读和新产品Kollab](https://quaily.com/jiayifun/p/2026-feb-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
