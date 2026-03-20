@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/03/12 [科技爱好者周刊（第 388 期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/03/19 [科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/03/20 [Web Review, Week 2026-12](https://ervin.ipsquad.net/blog/2026/03/20/web-review-week-2026-12/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/03/20 [#241 Fifty!](https://thisweek.gnome.org/posts/2026/03/twig-241/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/03/20 [Self-Host Weekly (20 March 2026)](https://selfh.st/weekly/2026-03-20/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/03/20 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/20 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/03/19 [科技創業週報 #524：OpenClaw 現象解析：AI Agent 如何走向意圖驅動與 AI 作業系統？](https://blog.starrocket.io/posts/newsletter-2026-03-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/03/19 [FOSS Weekly #26.12: GNOME 50 Release, Fedora for Apple, New Ageless Linux, Manjaro Drama and More](https://feed.itsfoss.com/link/24361/17302092/foss-weekly-26-12) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/03/19 [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/19 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 棱镜通讯
 - 2026/03/18 [隐说 NO.16  “默认为假”的时代](https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -56,15 +65,6 @@
 
 ## This Week in Plasma
 - 2026/03/14 [This Week in Plasma: Press-and-Hold for Alternative Characters](https://blogs.kde.org/2026/03/14/this-week-in-plasma-press-and-hold-for-alternative-characters/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/03/13 [Web Review, Week 2026-11](https://ervin.ipsquad.net/blog/2026/03/13/web-review-week-2026-11/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/03/13 [#240 Big Reworks](https://thisweek.gnome.org/posts/2026/03/twig-240/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/03/13 [Self-Host Weekly (13 March 2026)](https://selfh.st/weekly/2026-03-13/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 更好生活
 - 2026/03/11 [2月小结｜休假、阅读和新产品Kollab](https://quaily.com/jiayifun/p/2026-feb-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
