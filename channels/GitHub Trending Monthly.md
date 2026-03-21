@@ -1,3 +1,4 @@
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)

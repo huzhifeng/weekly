@@ -1,3 +1,4 @@
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
 - [alibaba/page-agent](https://github.com/alibaba/page-agent)
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)

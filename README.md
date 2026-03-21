@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/03/19 [科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/03/21 [This Week in Plasma: Time Zone Offsets and Type-Ahead on the Desktop](https://blogs.kde.org/2026/03/21/this-week-in-plasma-time-zone-offsets-and-type-ahead-on-the-desktop/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/03/21 [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/21 [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/03/20 [Web Review, Week 2026-12](https://ervin.ipsquad.net/blog/2026/03/20/web-review-week-2026-12/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +20,6 @@
 
 ## Self-Host Weekly
 - 2026/03/20 [Self-Host Weekly (20 March 2026)](https://selfh.st/weekly/2026-03-20/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/03/20 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/20 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/03/19 [科技創業週報 #524：OpenClaw 現象解析：AI Agent 如何走向意圖驅動與 AI 作業系統？](https://blog.starrocket.io/posts/newsletter-2026-03-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -62,9 +65,6 @@
 
 ## V2EX 周报
 - 2026/03/15 [✨ V2EX 周报 本周热门主题及高赞回复 03.07-03.13](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/03/14 [This Week in Plasma: Press-and-Hold for Alternative Characters](https://blogs.kde.org/2026/03/14/this-week-in-plasma-press-and-hold-for-alternative-characters/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 更好生活
 - 2026/03/11 [2月小结｜休假、阅读和新产品Kollab](https://quaily.com/jiayifun/p/2026-feb-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
