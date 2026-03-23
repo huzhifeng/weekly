@@ -1,3 +1,4 @@
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)

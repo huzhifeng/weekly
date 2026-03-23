@@ -9,17 +9,32 @@
 ## 肖恩技术周刊
 - 2026/03/23 [肖恩技术周刊（第 86 期）：思路打开](https://weekly.shawnxie.top/content/2026/86.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/03/23 [【CDT周报】第261期：罚款、约谈、下架、封号，翻墙围剿接踵而至](https://chinadigitaltimes.net/chinese/726028.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/03/23 [AIGC Weekly #163](https://quaily.com/op7418/p/aigc-weekly-cynmjqb7) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/03/23 [DistroWatch Weekly, Issue 1165](https://distrowatch.com/weekly.php?issue=20260323) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/03/23 [Ubuntu Weekly Newsletter Issue 937](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-937/78987) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/03/23 [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/23 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 更好生活
 - 2026/03/22 [分享几个我在用的 AI Skill](https://quaily.com/jiayifun/p/share-my-ai-skills) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
+## zdyxry Weekly Issue
+- 2026/03/22 [Weekly Issue-《挽救计划》](https://zdyxry.github.io/2026/03/22/Weekly-Issue-Project-Hail-Mary/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/03/22 [✨ V2EX 周报 本周热门主题及高赞回复 03.14-03.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/03/22 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/22 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/03/21 [This Week in Plasma: Time Zone Offsets and Type-Ahead on the Desktop](https://blogs.kde.org/2026/03/21/this-week-in-plasma-time-zone-offsets-and-type-ahead-on-the-desktop/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -54,23 +69,8 @@
 ## 胡言乱语
 - 2026/03/17 [20260317的胡言乱语](https://www.bboy.app/2026/03/17/20260317%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## CDT周报
-- 2026/03/16 [【CDT周报】第260期：小龙虾大跃进，从“龙虾十条”到非必要不部署](https://chinadigitaltimes.net/chinese/725887.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## AIGC Weekly
-- 2026/03/16 [AIGC Weekly #162](https://quaily.com/op7418/p/aigc-weekly-6qvmilbu) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/03/16 [DistroWatch Weekly, Issue 1164](https://distrowatch.com/weekly.php?issue=20260316) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/03/16 [Ubuntu Weekly Newsletter Issue 936](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-936/78586) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 一周杂记
 - 2026/03/15 [一周杂记 in Week 2 Mar 2026](http://kingsamchen.github.io/2026/03/15/weekly-2026-mar-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2026/03/15 [Weekly Issue-《疑犯追踪》](https://zdyxry.github.io/2026/03/15/Weekly-Issue-POI/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 猫鱼周刊
 - 2026/03/08 [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
