@@ -1,3 +1,4 @@
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
