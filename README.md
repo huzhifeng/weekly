@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/03/19 [科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/03/25 [第176期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/03/24 [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/03/25 [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/03/24 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/03/25 [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/03/23 [第261期 - 春天小姐](https://weekly.tw93.fun/posts/261/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -65,9 +68,6 @@
 
 ## 棱镜通讯
 - 2026/03/18 [隐说 NO.16  “默认为假”的时代](https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 偷懒爱好者周刊
-- 2026/03/18 [第175期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/18/第175期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/03/17 [20260317的胡言乱语](https://www.bboy.app/2026/03/17/20260317%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
