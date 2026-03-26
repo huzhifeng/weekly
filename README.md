@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2026/03/19 [科技爱好者周刊（第 389 期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/03/25 [第176期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/03/26 [科技創業週報 #525：馬斯克的 Terafab 野望：不只是蓋晶圓廠，而是把算力主導權握在自己手上](https://blog.starrocket.io/posts/newsletter-2026-03-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 更好生活
+- 2026/03/26 [展示一下做了快三个月的 Booko✌️挺好看的](https://quaily.com/jiayifun/p/showing-off-booko) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## 二丫讲梵学习周刊
+- 2026/03/26 [学习周刊-总第256期-2026年第13周](https://wiki.eryajf.net/pages/f71cfa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/03/26 [LWN.net Weekly Edition for March 26, 2026](https://lwn.net/Articles/1063660/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/03/26 [FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More](https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/03/25 [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/03/26 [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/03/25 [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/03/26 [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/03/25 [第176期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/03/23 [第261期 - 春天小姐](https://weekly.tw93.fun/posts/261/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -33,9 +48,6 @@
 ## Ubuntu Weekly Newsletter
 - 2026/03/23 [Ubuntu Weekly Newsletter Issue 937](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-937/78987) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 更好生活
-- 2026/03/22 [分享几个我在用的 AI Skill](https://quaily.com/jiayifun/p/share-my-ai-skills) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
 ## zdyxry Weekly Issue
 - 2026/03/22 [Weekly Issue-《挽救计划》](https://zdyxry.github.io/2026/03/22/Weekly-Issue-Project-Hail-Mary/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
@@ -53,18 +65,6 @@
 
 ## Self-Host Weekly
 - 2026/03/20 [Self-Host Weekly (20 March 2026)](https://selfh.st/weekly/2026-03-20/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/03/19 [科技創業週報 #524：OpenClaw 現象解析：AI Agent 如何走向意圖驅動與 AI 作業系統？](https://blog.starrocket.io/posts/newsletter-2026-03-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/03/19 [学习周刊-总第255期-2026年第12周](https://wiki.eryajf.net/pages/5f9192/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/03/19 [LWN.net Weekly Edition for March 19, 2026](https://lwn.net/Articles/1062571/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/03/19 [FOSS Weekly #26.12: GNOME 50 Release, Fedora for Apple, New Ageless Linux, Manjaro Drama and More](https://feed.itsfoss.com/link/24361/17302092/foss-weekly-26-12) | [More](channels/FOSS%20Weekly.md)
 
 ## 棱镜通讯
 - 2026/03/18 [隐说 NO.16  “默认为假”的时代](https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)

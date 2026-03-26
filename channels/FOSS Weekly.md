@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More](https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13)
 - [FOSS Weekly #26.12: GNOME 50 Release, Fedora for Apple, New Ageless Linux, Manjaro Drama and More](https://feed.itsfoss.com/link/24361/17302092/foss-weekly-26-12)
 - [FOSS Weekly #26.11: SUSE for Sale, Firefox Redesign, New-ish Terminal, i3 Customization and More](https://feed.itsfoss.com/link/24361/17298788/foss-weekly-26-11)
 - [FOSS Weekly #26.10: Age Verification in Linux, systemd Troubleshooting Tools, Graphene Phone, Longer Linux LTS Kernels and More](https://feed.itsfoss.com/link/24361/17295015/foss-weekly-26-10)
