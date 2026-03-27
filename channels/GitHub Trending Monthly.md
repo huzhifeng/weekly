@@ -1,3 +1,4 @@
+- [ruvnet/RuView](https://github.com/ruvnet/RuView)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
