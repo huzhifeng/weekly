@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/03/26 [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 试行错误
+- 2026/03/28 [混合二十多种调料香味的芒市回忆，探秘瑞丽的中缅边陲往事｜NL153](https://quaily.com/shixingcuowu/p/memories-of-mangshi-mixed-spices-exploring-ruili-border-history-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## This Week in Plasma
+- 2026/03/28 [This Week in Plasma: Easier Microphone Sensitivity Adjustment](https://blogs.kde.org/2026/03/28/this-week-in-plasma-easier-microphone-sensitivity-adjustment/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/03/28 [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/28 [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/03/27 [Web Review, Week 2026-13](https://ervin.ipsquad.net/blog/2026/03/27/web-review-week-2026-13/) | [More](channels/Web%20Review.md)
 
@@ -17,12 +29,6 @@
 
 ## Self-Host Weekly
 - 2026/03/27 [Self-Host Weekly (27 March 2026)](https://selfh.st/weekly/2026-03-27/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/03/27 [obra/superpowers](https://github.com/obra/superpowers) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/27 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/03/26 [科技創業週報 #525：馬斯克的 Terafab 野望：不只是蓋晶圓廠，而是把算力主導權握在自己手上](https://blog.starrocket.io/posts/newsletter-2026-03-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -69,11 +75,11 @@
 ## V2EX 周报
 - 2026/03/22 [✨ V2EX 周报 本周热门主题及高赞回复 03.14-03.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/03/21 [This Week in Plasma: Time Zone Offsets and Type-Ahead on the Desktop](https://blogs.kde.org/2026/03/21/this-week-in-plasma-time-zone-offsets-and-type-ahead-on-the-desktop/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## 棱镜通讯
 - 2026/03/18 [隐说 NO.16  “默认为假”的时代](https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## 猫鱼周刊
+- 2026/03/08 [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)
@@ -86,9 +92,6 @@
 
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
-
-## 试行错误
-- 2026/02/20 [冷酷的慈悲：为什么法律不关心你的委屈｜NL152](https://quaily.com/shixingcuowu/p/cold-compassion-why-law-does-not-care-about-your-resentment-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## Pseudoyu 周报
 - 2026/01/13 [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)

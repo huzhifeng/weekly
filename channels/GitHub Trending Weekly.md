@@ -1,3 +1,4 @@
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 - [louis-e/arnis](https://github.com/louis-e/arnis)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)

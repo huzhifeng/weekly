@@ -1,3 +1,4 @@
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser)

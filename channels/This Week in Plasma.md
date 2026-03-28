@@ -1,3 +1,4 @@
+- [This Week in Plasma: Easier Microphone Sensitivity Adjustment](https://blogs.kde.org/2026/03/28/this-week-in-plasma-easier-microphone-sensitivity-adjustment/)
 - [This Week in Plasma: Time Zone Offsets and Type-Ahead on the Desktop](https://blogs.kde.org/2026/03/21/this-week-in-plasma-time-zone-offsets-and-type-ahead-on-the-desktop/)
 - [This Week in Plasma: Press-and-Hold for Alternative Characters](https://blogs.kde.org/2026/03/14/this-week-in-plasma-press-and-hold-for-alternative-characters/)
 - [This Week in Plasma: Polish and Stability](https://blogs.kde.org/2026/03/07/this-week-in-plasma-polish-and-stability/)
