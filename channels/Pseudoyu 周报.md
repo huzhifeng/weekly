@@ -1,3 +1,4 @@
+- [周报 #106 - OpenClaw 实践、搬家与生活的能量](https://www.pseudoyu.com/posts/weekly_review_106)
 - [周报 #105 - 打破无聊的社会](https://www.pseudoyu.com/posts/weekly_review_105)
 - [周报 #104 - 被遗忘的生活一隅](https://www.pseudoyu.com/posts/weekly_review_104)
 - [周报 #103 - 工作随想与被吞噬的生活](https://www.pseudoyu.com/posts/weekly_review_103)

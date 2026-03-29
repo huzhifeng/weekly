@@ -1,3 +1,4 @@
+- [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 - [louis-e/arnis](https://github.com/louis-e/arnis)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
