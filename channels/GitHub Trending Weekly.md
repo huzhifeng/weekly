@@ -1,3 +1,5 @@
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [pascalorg/editor](https://github.com/pascalorg/editor)
 - [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 - [louis-e/arnis](https://github.com/louis-e/arnis)

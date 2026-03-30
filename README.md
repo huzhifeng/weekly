@@ -9,6 +9,27 @@
 ## 肖恩技术周刊
 - 2026/03/30 [肖恩技术周刊（第 87 期）：青少年社交媒体禁令](https://weekly.shawnxie.top/content/2026/87.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/03/30 [【CDT周报】第262期：人们需要的并不是精明的“避坑指南”，而是……](https://chinadigitaltimes.net/chinese/726188.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/03/30 [一周杂记 in Week 4 Mar 2026](http://kingsamchen.github.io/2026/03/30/weekly-2026-mar-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/03/30 [AIGC Weekly #164](https://quaily.com/op7418/p/aigc-weekly-uxdqoxef) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/03/30 [DistroWatch Weekly, Issue 1166](https://distrowatch.com/weekly.php?issue=20260330) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/03/30 [Ubuntu Weekly Newsletter Issue 938](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-938/79450) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/03/30 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/03/30 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2026/03/29 [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -21,14 +42,11 @@
 ## Pseudoyu 周报
 - 2026/03/29 [周报 #106 - OpenClaw 实践、搬家与生活的能量](https://www.pseudoyu.com/posts/weekly_review_106) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
+## zdyxry Weekly Issue
+- 2026/03/29 [Weekly Issue-《我们如何理解这个世界》](https://zdyxry.github.io/2026/03/29/Weekly-Issue-Conversations-with-Zygmunt-Bauman/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/03/29 [✨ V2EX 周报 本周热门主题及高赞回复 03.21-03.27](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/03/29 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/03/29 [moeru-ai/airi](https://github.com/moeru-ai/airi) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/03/28 [This Week in Plasma: Easier Microphone Sensitivity Adjustment](https://blogs.kde.org/2026/03/28/this-week-in-plasma-easier-microphone-sensitivity-adjustment/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -68,24 +86,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/03/25 [第176期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/03/23 [【CDT周报】第261期：罚款、约谈、下架、封号，翻墙围剿接踵而至](https://chinadigitaltimes.net/chinese/726028.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2026/03/23 [一周杂记 in Week 3 Mar 2026](http://kingsamchen.github.io/2026/03/24/weekly-2026-mar-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/03/23 [AIGC Weekly #163](https://quaily.com/op7418/p/aigc-weekly-cynmjqb7) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/03/23 [DistroWatch Weekly, Issue 1165](https://distrowatch.com/weekly.php?issue=20260323) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/03/23 [Ubuntu Weekly Newsletter Issue 937](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-937/78987) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/03/22 [Weekly Issue-《挽救计划》](https://zdyxry.github.io/2026/03/22/Weekly-Issue-Project-Hail-Mary/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)

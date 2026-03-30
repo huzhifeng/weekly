@@ -1,3 +1,4 @@
+- [【CDT周报】第262期：人们需要的并不是精明的“避坑指南”，而是……](https://chinadigitaltimes.net/chinese/726188.html)
 - [【CDT周报】第261期：罚款、约谈、下架、封号，翻墙围剿接踵而至](https://chinadigitaltimes.net/chinese/726028.html)
 - [【CDT周报】第260期：小龙虾大跃进，从“龙虾十条”到非必要不部署](https://chinadigitaltimes.net/chinese/725887.html)
 - [【CDT周报】第259期：农民养老金每年提高20元远远不够](https://chinadigitaltimes.net/chinese/725738.html)
