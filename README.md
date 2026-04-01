@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/03/26 [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/04/01 [第177期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/03/31 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/01 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/03/31 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/01 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/03/30 [第262期 - 飞机飞丢](https://weekly.tw93.fun/posts/262/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -29,6 +32,9 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/03/30 [Ubuntu Weekly Newsletter Issue 938](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-938/79450) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## 猫鱼周刊
+- 2026/03/29 [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2026/03/29 [隐说 NO.17  曹雪芹之后](https://wangyurui.com/posts/yin-shuo-no-17-wei-shi-yao-xu-xie-ming-zhu-zhe-y-9cde2cd0) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -80,9 +86,6 @@
 
 ## FOSS Weekly
 - 2026/03/26 [FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More](https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/03/25 [第176期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)

@@ -1,3 +1,4 @@
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)

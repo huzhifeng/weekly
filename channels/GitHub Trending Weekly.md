@@ -1,3 +1,4 @@
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [pascalorg/editor](https://github.com/pascalorg/editor)
 - [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
