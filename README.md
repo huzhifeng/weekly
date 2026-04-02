@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/03/26 [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/04/01 [第177期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/04/02 [科技創業週報 #526：人形機器人站上白宮舞台，AI 的下一場競爭已不只在模型](https://blog.starrocket.io/posts/newsletter-2026-04-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/04/02 [LWN.net Weekly Edition for April 2, 2026](https://lwn.net/Articles/1064762/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/04/02 [FOSS Weekly #26.14: Open Source Office Drama, Ubuntu MATE Troubles, Conky With Ease, Session Management in Wayland and More Linux Stuff](https://feed.itsfoss.com/link/24361/17312387/foss-weekly-26-14) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/04/01 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/02 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/01 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/02 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/04/01 [第177期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/03/30 [第262期 - 飞机飞丢](https://weekly.tw93.fun/posts/262/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -32,9 +41,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/03/30 [Ubuntu Weekly Newsletter Issue 938](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-938/79450) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 猫鱼周刊
-- 2026/03/29 [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2026/03/29 [隐说 NO.17  曹雪芹之后](https://wangyurui.com/posts/yin-shuo-no-17-wei-shi-yao-xu-xie-ming-zhu-zhe-y-9cde2cd0) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -66,12 +72,6 @@
 ## This Week in GNOME
 - 2026/03/27 [#242 Shuffling Cards](https://thisweek.gnome.org/posts/2026/03/twig-242/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## Self-Host Weekly
-- 2026/03/27 [Self-Host Weekly (27 March 2026)](https://selfh.st/weekly/2026-03-27/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/03/26 [科技創業週報 #525：馬斯克的 Terafab 野望：不只是蓋晶圓廠，而是把算力主導權握在自己手上](https://blog.starrocket.io/posts/newsletter-2026-03-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 更好生活
 - 2026/03/26 [展示一下做了快三个月的 Booko✌️挺好看的](https://quaily.com/jiayifun/p/showing-off-booko) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -80,12 +80,6 @@
 
 ## 二丫讲梵学习周刊
 - 2026/03/26 [学习周刊-总第256期-2026年第13周](https://wiki.eryajf.net/pages/f71cfa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/03/26 [LWN.net Weekly Edition for March 26, 2026](https://lwn.net/Articles/1063660/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/03/26 [FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More](https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13) | [More](channels/FOSS%20Weekly.md)
 
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)
