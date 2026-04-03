@@ -1,7 +1,28 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/03/26 [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/04/03 [科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/04/03 [Web Review, Week 2026-14](https://ervin.ipsquad.net/blog/2026/04/03/web-review-week-2026-14/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2026/04/03 [20260403的胡言乱语](https://www.bboy.app/2026/04/03/20260403%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2026/04/03 [学习周刊-总第257期-2026年第14周](https://wiki.eryajf.net/pages/22ef3d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2026/04/03 [#243 Delayed Trains](https://thisweek.gnome.org/posts/2026/04/twig-243/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/04/03 [Self-Host Weekly (3 April 2026)](https://selfh.st/weekly/2026-04-03/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/04/03 [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/03 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/02 [科技創業週報 #526：人形機器人站上白宮舞台，AI 的下一場競爭已不只在模型](https://blog.starrocket.io/posts/newsletter-2026-04-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -11,12 +32,6 @@
 
 ## FOSS Weekly
 - 2026/04/02 [FOSS Weekly #26.14: Open Source Office Drama, Ubuntu MATE Troubles, Conky With Ease, Session Management in Wayland and More Linux Stuff](https://feed.itsfoss.com/link/24361/17312387/foss-weekly-26-14) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/04/02 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/02 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/04/01 [第177期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,6 +57,9 @@
 ## Ubuntu Weekly Newsletter
 - 2026/03/30 [Ubuntu Weekly Newsletter Issue 938](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-938/79450) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
+## 猫鱼周刊
+- 2026/03/29 [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
 ## 棱镜通讯
 - 2026/03/29 [隐说 NO.17  曹雪芹之后](https://wangyurui.com/posts/yin-shuo-no-17-wei-shi-yao-xu-xie-ming-zhu-zhe-y-9cde2cd0) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -60,26 +78,14 @@
 ## This Week in Plasma
 - 2026/03/28 [This Week in Plasma: Easier Microphone Sensitivity Adjustment](https://blogs.kde.org/2026/03/28/this-week-in-plasma-easier-microphone-sensitivity-adjustment/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/03/27 [Web Review, Week 2026-13](https://ervin.ipsquad.net/blog/2026/03/27/web-review-week-2026-13/) | [More](channels/Web%20Review.md)
-
 ## HelloGitHub
 - 2026/03/27 [HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120) | [More](channels/HelloGitHub.md)
-
-## 胡言乱语
-- 2026/03/27 [20260327的胡言乱语](https://www.bboy.app/2026/03/27/20260327%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## This Week in GNOME
-- 2026/03/27 [#242 Shuffling Cards](https://thisweek.gnome.org/posts/2026/03/twig-242/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 更好生活
 - 2026/03/26 [展示一下做了快三个月的 Booko✌️挺好看的](https://quaily.com/jiayifun/p/showing-off-booko) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## GitHub一周热点汇总
 - 2026/03/26 [GitHub一周热点第108期](https://itcoffee66.github.io/githubweekly/108.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## 二丫讲梵学习周刊
-- 2026/03/26 [学习周刊-总第256期-2026年第13周](https://wiki.eryajf.net/pages/f71cfa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)
