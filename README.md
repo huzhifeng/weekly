@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/04/03 [科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/04/04 [This Week in Plasma: UI and Stability Improvements](https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/04/04 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/04 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/04/03 [Web Review, Week 2026-14](https://ervin.ipsquad.net/blog/2026/04/03/web-review-week-2026-14/) | [More](channels/Web%20Review.md)
 
@@ -17,12 +26,6 @@
 
 ## Self-Host Weekly
 - 2026/04/03 [Self-Host Weekly (3 April 2026)](https://selfh.st/weekly/2026-04-03/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/04/03 [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/03 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/02 [科技創業週報 #526：人形機器人站上白宮舞台，AI 的下一場競爭已不只在模型](https://blog.starrocket.io/posts/newsletter-2026-04-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -74,9 +77,6 @@
 
 ## V2EX 周报
 - 2026/03/29 [✨ V2EX 周报 本周热门主题及高赞回复 03.21-03.27](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/03/28 [This Week in Plasma: Easier Microphone Sensitivity Adjustment](https://blogs.kde.org/2026/03/28/this-week-in-plasma-easier-microphone-sensitivity-adjustment/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## HelloGitHub
 - 2026/03/27 [HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120) | [More](channels/HelloGitHub.md)
