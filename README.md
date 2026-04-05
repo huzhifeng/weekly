@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/04/03 [科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/04/04 [This Week in Plasma: UI and Stability Improvements](https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
+## Airing's Weekly
+- 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
+
+## V2EX 周报
+- 2026/04/05 [✨ V2EX 周报 本周热门主题及高赞回复 03.28-04.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/04/04 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/05 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/04 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/05 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/04/04 [This Week in Plasma: UI and Stability Improvements](https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/04/03 [Web Review, Week 2026-14](https://ervin.ipsquad.net/blog/2026/04/03/web-review-week-2026-14/) | [More](channels/Web%20Review.md)
@@ -75,9 +81,6 @@
 ## zdyxry Weekly Issue
 - 2026/03/29 [Weekly Issue-《我们如何理解这个世界》](https://zdyxry.github.io/2026/03/29/Weekly-Issue-Conversations-with-Zygmunt-Bauman/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/03/29 [✨ V2EX 周报 本周热门主题及高赞回复 03.21-03.27](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## HelloGitHub
 - 2026/03/27 [HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120) | [More](channels/HelloGitHub.md)
 
@@ -86,6 +89,9 @@
 
 ## GitHub一周热点汇总
 - 2026/03/26 [GitHub一周热点第108期](https://itcoffee66.github.io/githubweekly/108.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
+
+## 虹线周刊
+- 2026/03/23 [2026#12 褶皱](https://weekly.1q43.blog/article/adaa763a0ad04dccb715bf49edfc8ade) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
 
 ## Taxodium
 - 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)
@@ -102,17 +108,11 @@
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
-## 虹线周刊
-- 2025/12/08 [2025#48 静养在床](https://weekly.1q43.blog/article/2c1ca795c95680b59643e81e1fc119b6) | [More](channels/%E8%99%B9%E7%BA%BF%E5%91%A8%E5%88%8A.md)
-
 ## 视野修炼
 - 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
-
-## Airing's Weekly
-- 2025/11/15 [月刊（第33期）：推理阶梯](https://ursb.me/posts/weekly-33/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
