@@ -3,17 +3,35 @@
 ## 科技爱好者周刊
 - 2026/04/03 [科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/04/06 [第263期 - 硬件之美](https://weekly.tw93.fun/posts/263/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2026/04/06 [肖恩技术周刊（第 88 期）：无头软件（Headless Software）](https://weekly.shawnxie.top/content/2026/88.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 棱镜通讯
+- 2026/04/06 [隐说 NO.18  善举未必会有善报](https://wangyurui.com/posts/yin-shuo-no-18-shan-ju-wei-bi-hui-you-shan-bao-2cbf9f45) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## AIGC Weekly
+- 2026/04/06 [AIGC Weekly #165](https://quaily.com/op7418/p/aigc-weekly-76h33fvw) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/04/06 [DistroWatch Weekly, Issue 1167](https://distrowatch.com/weekly.php?issue=20260406) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/04/06 [Ubuntu Weekly Newsletter Issue 939](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-939/79847) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/04/06 [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/06 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## V2EX 周报
 - 2026/04/05 [✨ V2EX 周报 本周热门主题及高赞回复 03.28-04.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/04/05 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/05 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/04/04 [This Week in Plasma: UI and Stability Improvements](https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -45,32 +63,14 @@
 ## 偷懒爱好者周刊
 - 2026/04/01 [第177期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2026/03/30 [第262期 - 飞机飞丢](https://weekly.tw93.fun/posts/262/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2026/03/30 [肖恩技术周刊（第 87 期）：青少年社交媒体禁令](https://weekly.shawnxie.top/content/2026/87.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/03/30 [【CDT周报】第262期：人们需要的并不是精明的“避坑指南”，而是……](https://chinadigitaltimes.net/chinese/726188.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 一周杂记
 - 2026/03/30 [一周杂记 in Week 4 Mar 2026](http://kingsamchen.github.io/2026/03/30/weekly-2026-mar-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## AIGC Weekly
-- 2026/03/30 [AIGC Weekly #164](https://quaily.com/op7418/p/aigc-weekly-uxdqoxef) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/03/30 [DistroWatch Weekly, Issue 1166](https://distrowatch.com/weekly.php?issue=20260330) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/03/30 [Ubuntu Weekly Newsletter Issue 938](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-938/79450) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2026/03/29 [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## 棱镜通讯
-- 2026/03/29 [隐说 NO.17  曹雪芹之后](https://wangyurui.com/posts/yin-shuo-no-17-wei-shi-yao-xu-xie-ming-zhu-zhe-y-9cde2cd0) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 试行错误
 - 2026/03/29 [AI，龙虾，人类小孩：那种亲手实现想法的感觉真神奇｜NL154](https://quaily.com/shixingcuowu/p/ai-lobster-human-child-the-feeling-of-realizing-an-idea-with-your-own-hands-is-amazing-nl154) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
