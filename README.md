@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/04/03 [科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 一周杂记
+- 2026/04/07 [一周杂记 in Week 1 Apr 2026](http://kingsamchen.github.io/2026/04/07/weekly-2026-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GitHub Trending Weekly
+- 2026/04/07 [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/07 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/04/06 [第263期 - 硬件之美](https://weekly.tw93.fun/posts/263/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/04/06 [Ubuntu Weekly Newsletter Issue 939](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-939/79847) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/04/06 [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/06 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
@@ -65,9 +68,6 @@
 
 ## CDT周报
 - 2026/03/30 [【CDT周报】第262期：人们需要的并不是精明的“避坑指南”，而是……](https://chinadigitaltimes.net/chinese/726188.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2026/03/30 [一周杂记 in Week 4 Mar 2026](http://kingsamchen.github.io/2026/03/30/weekly-2026-mar-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 猫鱼周刊
 - 2026/03/29 [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
