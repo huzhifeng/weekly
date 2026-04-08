@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/04/03 [科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2026/04/07 [一周杂记 in Week 1 Apr 2026](http://kingsamchen.github.io/2026/04/07/weekly-2026-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+## 偷懒爱好者周刊
+- 2026/04/08 [第178期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/08/第178期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/04/07 [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/08 [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/07 [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/08 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 一周杂记
+- 2026/04/07 [一周杂记 in Week 1 Apr 2026](http://kingsamchen.github.io/2026/04/07/weekly-2026-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 潮流周刊
 - 2026/04/06 [第263期 - 硬件之美](https://weekly.tw93.fun/posts/263/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -62,9 +65,6 @@
 
 ## FOSS Weekly
 - 2026/04/02 [FOSS Weekly #26.14: Open Source Office Drama, Ubuntu MATE Troubles, Conky With Ease, Session Management in Wayland and More Linux Stuff](https://feed.itsfoss.com/link/24361/17312387/foss-weekly-26-14) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/04/01 [第177期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/03/30 [【CDT周报】第262期：人们需要的并不是精明的“避坑指南”，而是……](https://chinadigitaltimes.net/chinese/726188.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
