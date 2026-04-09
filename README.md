@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/04/03 [科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/04/08 [第178期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/08/第178期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/04/09 [科技創業週報 #527：當AI 影音競爭改變了工作流程，值得注意的是AI 素養有沒有跟上](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-527%ef%bc%9a%e7%95%b6ai-%e5%bd%b1%e9%9f%b3%e7%ab%b6%e7%88%ad%e6%94%b9%e8%ae%8a%e4%ba%86%e5%b7%a5%e4%bd%9c%e6%b5%81%e7%a8%8b%ef%bc%8c%e5%80%bc/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/04/09 [学习周刊-总第258期-2026年第15周](https://wiki.eryajf.net/pages/323cfa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/04/09 [LWN.net Weekly Edition for April 9, 2026](https://lwn.net/Articles/1065979/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/04/09 [FOSS Weekly #26.15: Rollback in apt, bad USB detection, Glass UI in KDE, Linux Kernel dropping older processor support and more](https://feed.itsfoss.com/link/24361/17316448/foss-weekly-26-15) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/04/08 [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/09 [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/08 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/09 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/04/08 [第178期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/08/第178期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 一周杂记
 - 2026/04/07 [一周杂记 in Week 1 Apr 2026](http://kingsamchen.github.io/2026/04/07/weekly-2026-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -48,23 +60,11 @@
 ## 胡言乱语
 - 2026/04/03 [20260403的胡言乱语](https://www.bboy.app/2026/04/03/20260403%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 二丫讲梵学习周刊
-- 2026/04/03 [学习周刊-总第257期-2026年第14周](https://wiki.eryajf.net/pages/22ef3d/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## This Week in GNOME
 - 2026/04/03 [#243 Delayed Trains](https://thisweek.gnome.org/posts/2026/04/twig-243/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/04/03 [Self-Host Weekly (3 April 2026)](https://selfh.st/weekly/2026-04-03/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/04/02 [科技創業週報 #526：人形機器人站上白宮舞台，AI 的下一場競爭已不只在模型](https://blog.starrocket.io/posts/newsletter-2026-04-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/04/02 [LWN.net Weekly Edition for April 2, 2026](https://lwn.net/Articles/1064762/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/04/02 [FOSS Weekly #26.14: Open Source Office Drama, Ubuntu MATE Troubles, Conky With Ease, Session Management in Wayland and More Linux Stuff](https://feed.itsfoss.com/link/24361/17312387/foss-weekly-26-14) | [More](channels/FOSS%20Weekly.md)
 
 ## CDT周报
 - 2026/03/30 [【CDT周报】第262期：人们需要的并不是精明的“避坑指南”，而是……](https://chinadigitaltimes.net/chinese/726188.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
