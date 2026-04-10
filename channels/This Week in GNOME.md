@@ -1,3 +1,4 @@
+- [#244 Recognizing Hieroglyphs](https://thisweek.gnome.org/posts/2026/04/twig-244/)
 - [#243 Delayed Trains](https://thisweek.gnome.org/posts/2026/04/twig-243/)
 - [#242 Shuffling Cards](https://thisweek.gnome.org/posts/2026/03/twig-242/)
 - [#241 Fifty!](https://thisweek.gnome.org/posts/2026/03/twig-241/)
