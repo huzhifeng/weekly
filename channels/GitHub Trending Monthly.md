@@ -1,3 +1,4 @@
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 - [mattpocock/skills](https://github.com/mattpocock/skills)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)

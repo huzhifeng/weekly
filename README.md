@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/04/09 [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/04/11 [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/11 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/04/10 [Web Review, Week 2026-15](https://ervin.ipsquad.net/blog/2026/04/10/web-review-week-2026-15/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +17,6 @@
 
 ## Self-Host Weekly
 - 2026/04/10 [Self-Host Weekly (10 April 2026)](https://selfh.st/weekly/2026-04-10/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/04/10 [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/10 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/09 [科技創業週報 #527：當AI 影音競爭改變了工作流程，值得注意的是AI 素養有沒有跟上](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-527%ef%bc%9a%e7%95%b6ai-%e5%bd%b1%e9%9f%b3%e7%ab%b6%e7%88%ad%e6%94%b9%e8%ae%8a%e4%ba%86%e5%b7%a5%e4%bd%9c%e6%b5%81%e7%a8%8b%ef%bc%8c%e5%80%bc/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
