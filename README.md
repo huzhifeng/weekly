@@ -3,11 +3,23 @@
 ## 科技爱好者周刊
 - 2026/04/09 [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 肖恩技术周刊
+- 2026/04/13 [肖恩技术周刊（第 89 期）：AI算法放大就业不公](https://weekly.shawnxie.top/content/2026/89.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## 更好生活
+- 2026/04/12 [3 月小结｜从沉闷中恢复](https://quaily.com/jiayifun/p/march-summary-recover-from-dullness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## 视野修炼
+- 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## V2EX 周报
+- 2026/04/12 [✨ V2EX 周报 本周热门主题及高赞回复 04.04-04.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
 ## GitHub Trending Weekly
-- 2026/04/11 [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/12 [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/11 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/12 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/04/10 [Web Review, Week 2026-15](https://ervin.ipsquad.net/blog/2026/04/10/web-review-week-2026-15/) | [More](channels/Web%20Review.md)
@@ -39,9 +51,6 @@
 ## 潮流周刊
 - 2026/04/06 [第263期 - 硬件之美](https://weekly.tw93.fun/posts/263/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## 肖恩技术周刊
-- 2026/04/06 [肖恩技术周刊（第 88 期）：无头软件（Headless Software）](https://weekly.shawnxie.top/content/2026/88.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
 ## 棱镜通讯
 - 2026/04/06 [隐说 NO.18  善举未必会有善报](https://wangyurui.com/posts/yin-shuo-no-18-shan-ju-wei-bi-hui-you-shan-bao-2cbf9f45) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -56,9 +65,6 @@
 
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
-
-## V2EX 周报
-- 2026/04/05 [✨ V2EX 周报 本周热门主题及高赞回复 03.28-04.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Plasma
 - 2026/04/04 [This Week in Plasma: UI and Stability Improvements](https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -84,9 +90,6 @@
 ## HelloGitHub
 - 2026/03/27 [HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120) | [More](channels/HelloGitHub.md)
 
-## 更好生活
-- 2026/03/26 [展示一下做了快三个月的 Booko✌️挺好看的](https://quaily.com/jiayifun/p/showing-off-booko) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
 ## GitHub一周热点汇总
 - 2026/03/26 [GitHub一周热点第108期](https://itcoffee66.github.io/githubweekly/108.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
@@ -107,9 +110,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## 视野修炼
-- 2025/12/07 [视野修炼第128期 | Bun 被收购](https://sugarat.top/weekly/2025-12-07.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## Raye's Journey
 - 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
