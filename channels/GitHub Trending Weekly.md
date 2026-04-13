@@ -1,3 +1,4 @@
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
