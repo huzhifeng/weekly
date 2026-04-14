@@ -1,3 +1,4 @@
+- [multica-ai/multica](https://github.com/multica-ai/multica)
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)

@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/04/09 [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/04/14 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/14 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 肖恩技术周刊
 - 2026/04/13 [肖恩技术周刊（第 89 期）：AI算法放大就业不公](https://weekly.shawnxie.top/content/2026/89.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
@@ -15,6 +21,9 @@
 ## 棱镜通讯
 - 2026/04/13 [政治学的第一课不是学政治 ｜ 隐说 NO.19](https://wangyurui.com/posts/yin-shuo-no-19-zheng-zhi-xue-de-di-yi-ke-bu-shi-37faa7ea) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## 一周杂记
+- 2026/04/13 [一周杂记 in Week 2 Apr 2026](http://kingsamchen.github.io/2026/04/13/weekly-2026-apr-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
 ## AIGC Weekly
 - 2026/04/13 [AIGC Weekly #166](https://quaily.com/op7418/p/aigc-weekly-one-six-six) | [More](channels/AIGC%20Weekly.md)
 
@@ -23,12 +32,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/04/13 [Ubuntu Weekly Newsletter Issue 940](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-940/80204) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/04/13 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/13 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/04/12 [第264期 - 终于完工](https://weekly.tw93.fun/posts/264/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -71,9 +74,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/04/08 [第178期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/08/第178期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2026/04/07 [一周杂记 in Week 1 Apr 2026](http://kingsamchen.github.io/2026/04/07/weekly-2026-apr-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
