@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/04/09 [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/04/15 [第179期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/15/第179期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/04/14 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/15 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/14 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/15 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 肖恩技术周刊
 - 2026/04/13 [肖恩技术周刊（第 89 期）：AI算法放大就业不公](https://weekly.shawnxie.top/content/2026/89.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -71,9 +74,6 @@
 
 ## FOSS Weekly
 - 2026/04/09 [FOSS Weekly #26.15: Rollback in apt, bad USB detection, Glass UI in KDE, Linux Kernel dropping older processor support and more](https://feed.itsfoss.com/link/24361/17316448/foss-weekly-26-15) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/04/08 [第178期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/08/第178期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
