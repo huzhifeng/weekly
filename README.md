@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/04/09 [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/04/15 [第179期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/15/第179期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/04/16 [科技創業週報 #528：從 Anthropic 的「低界面」辦公室，來看 AI 將如何重新定義企業的未來？](https://blog.starrocket.io/posts/newsletter-2026-04-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/04/16 [学习周刊-总第259期-2026年第16周](https://wiki.eryajf.net/pages/868c31/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/04/16 [LWN.net Weekly Edition for April 16, 2026](https://lwn.net/Articles/1066922/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/04/16 [FOSS Weekly #26.16: Kernel 7.0, Essential Terminal Tips, France Linux Move, New Age Verification Bill and More](https://feed.itsfoss.com/link/24361/17320215/foss-weekly-26-16) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/04/15 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/16 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/15 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/16 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/04/15 [第179期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/15/第179期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 肖恩技术周刊
 - 2026/04/13 [肖恩技术周刊（第 89 期）：AI算法放大就业不公](https://weekly.shawnxie.top/content/2026/89.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -62,18 +74,6 @@
 
 ## Self-Host Weekly
 - 2026/04/10 [Self-Host Weekly (10 April 2026)](https://selfh.st/weekly/2026-04-10/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/04/09 [科技創業週報 #527：當AI 影音競爭改變了工作流程，值得注意的是AI 素養有沒有跟上](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-527%ef%bc%9a%e7%95%b6ai-%e5%bd%b1%e9%9f%b3%e7%ab%b6%e7%88%ad%e6%94%b9%e8%ae%8a%e4%ba%86%e5%b7%a5%e4%bd%9c%e6%b5%81%e7%a8%8b%ef%bc%8c%e5%80%bc/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/04/09 [学习周刊-总第258期-2026年第15周](https://wiki.eryajf.net/pages/323cfa/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/04/09 [LWN.net Weekly Edition for April 9, 2026](https://lwn.net/Articles/1065979/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/04/09 [FOSS Weekly #26.15: Rollback in apt, bad USB detection, Glass UI in KDE, Linux Kernel dropping older processor support and more](https://feed.itsfoss.com/link/24361/17316448/foss-weekly-26-15) | [More](channels/FOSS%20Weekly.md)
 
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)

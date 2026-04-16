@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.16: Kernel 7.0, Essential Terminal Tips, France Linux Move, New Age Verification Bill and More](https://feed.itsfoss.com/link/24361/17320215/foss-weekly-26-16)
 - [FOSS Weekly #26.15: Rollback in apt, bad USB detection, Glass UI in KDE, Linux Kernel dropping older processor support and more](https://feed.itsfoss.com/link/24361/17316448/foss-weekly-26-15)
 - [FOSS Weekly #26.14: Open Source Office Drama, Ubuntu MATE Troubles, Conky With Ease, Session Management in Wayland and More Linux Stuff](https://feed.itsfoss.com/link/24361/17312387/foss-weekly-26-14)
 - [FOSS Weekly #26.13: Age Verification Added in systemd, Systemd forked, Btrfs Subvolumes, New Backup Tool, Yazi Manager and More](https://feed.itsfoss.com/link/24361/17306727/foss-weekly-26-13)
