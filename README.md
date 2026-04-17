@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/04/09 [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/04/16 [科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/04/17 [Web Review, Week 2026-16](https://ervin.ipsquad.net/blog/2026/04/17/web-review-week-2026-16/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/04/17 [#245 Infinite Ranges](https://thisweek.gnome.org/posts/2026/04/twig-245/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/04/17 [Self-Host Weekly (17 April 2026)](https://selfh.st/weekly/2026-04-17/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/04/17 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/17 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/16 [科技創業週報 #528：從 Anthropic 的「低界面」辦公室，來看 AI 將如何重新定義企業的未來？](https://blog.starrocket.io/posts/newsletter-2026-04-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/04/16 [FOSS Weekly #26.16: Kernel 7.0, Essential Terminal Tips, France Linux Move, New Age Verification Bill and More](https://feed.itsfoss.com/link/24361/17320215/foss-weekly-26-16) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/04/16 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/16 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/04/15 [第179期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/15/第179期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -63,17 +72,8 @@
 ## V2EX 周报
 - 2026/04/12 [✨ V2EX 周报 本周热门主题及高赞回复 04.04-04.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## Web Review
-- 2026/04/10 [Web Review, Week 2026-15](https://ervin.ipsquad.net/blog/2026/04/10/web-review-week-2026-15/) | [More](channels/Web%20Review.md)
-
 ## GitHub一周热点汇总
 - 2026/04/10 [GitHub一周热点第110期](https://itcoffee66.github.io/githubweekly/110.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## This Week in GNOME
-- 2026/04/10 [#244 Recognizing Hieroglyphs](https://thisweek.gnome.org/posts/2026/04/twig-244/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/04/10 [Self-Host Weekly (10 April 2026)](https://selfh.st/weekly/2026-04-10/) | [More](channels/Self-Host%20Weekly.md)
 
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
