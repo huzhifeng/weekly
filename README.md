@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/04/16 [科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/04/18 [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/04/18 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/18 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/04/17 [Web Review, Week 2026-16](https://ervin.ipsquad.net/blog/2026/04/17/web-review-week-2026-16/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +20,6 @@
 
 ## Self-Host Weekly
 - 2026/04/17 [Self-Host Weekly (17 April 2026)](https://selfh.st/weekly/2026-04-17/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/04/17 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/17 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/16 [科技創業週報 #528：從 Anthropic 的「低界面」辦公室，來看 AI 將如何重新定義企業的未來？](https://blog.starrocket.io/posts/newsletter-2026-04-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -77,9 +80,6 @@
 
 ## Airing's Weekly
 - 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
-
-## This Week in Plasma
-- 2026/04/04 [This Week in Plasma: UI and Stability Improvements](https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 胡言乱语
 - 2026/04/03 [20260403的胡言乱语](https://www.bboy.app/2026/04/03/20260403%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
