@@ -1,3 +1,4 @@
+- [Weekly Issue-《鲜花与面包》](https://zdyxry.github.io/2026/04/19/Weekly-Issue-flowers-and-bread/)
 - [Weekly Issue-《飞行家》](https://zdyxry.github.io/2026/04/12/Weekly-Issue-Take-Off/)
 - [Weekly Issue-《我们如何理解这个世界》](https://zdyxry.github.io/2026/03/29/Weekly-Issue-Conversations-with-Zygmunt-Bauman/)
 - [Weekly Issue-《挽救计划》](https://zdyxry.github.io/2026/03/22/Weekly-Issue-Project-Hail-Mary/)

@@ -9,6 +9,24 @@
 ## 肖恩技术周刊
 - 2026/04/20 [肖恩技术周刊（第 90 期）：过程即护城河](https://weekly.shawnxie.top/content/2026/90.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/04/20 [【CDT周报】第264期：什么都没做错，才是我们最悲催的地方](https://chinadigitaltimes.net/chinese/726655.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 棱镜通讯
+- 2026/04/20 [隐说 NO.20  会拒绝的人活得久](https://wangyurui.com/posts/yin-shuo-no-20-hui-ju-jue-de-ren-huo-de-jiu-aeaae2e1) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## AIGC Weekly
+- 2026/04/20 [AIGC Weekly #167](https://quaily.com/op7418/p/aigc-weekly-167) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/04/20 [DistroWatch Weekly, Issue 1169](https://distrowatch.com/weekly.php?issue=20260420) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/04/20 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/20 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 有个问题
 - 2026/04/19 [结语：在 AI 时代，把问题写下来  | 人间松弛指南](https://newsletter.emmmme.com/p/conclusion-in-ai-era-write-down-questions-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
@@ -18,14 +36,11 @@
 ## 一周杂记
 - 2026/04/19 [一周杂记 in Week 3 Apr 2026](http://kingsamchen.github.io/2026/04/19/weekly-2026-apr-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
+## zdyxry Weekly Issue
+- 2026/04/19 [Weekly Issue-《鲜花与面包》](https://zdyxry.github.io/2026/04/19/Weekly-Issue-flowers-and-bread/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/04/19 [✨ V2EX 周报 本周热门主题及高赞回复 04.11-04.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/04/19 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/19 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/04/18 [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -54,18 +69,6 @@
 ## 偷懒爱好者周刊
 - 2026/04/15 [第179期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/15/第179期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2026/04/13 [【CDT周报】第263期：不许翻墙，不许骑车，但请为国争光](https://chinadigitaltimes.net/chinese/726506.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 棱镜通讯
-- 2026/04/13 [政治学的第一课不是学政治 ｜ 隐说 NO.19](https://wangyurui.com/posts/yin-shuo-no-19-zheng-zhi-xue-de-di-yi-ke-bu-shi-37faa7ea) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## AIGC Weekly
-- 2026/04/13 [AIGC Weekly #166](https://quaily.com/op7418/p/aigc-weekly-one-six-six) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/04/13 [DistroWatch Weekly, Issue 1168](https://distrowatch.com/weekly.php?issue=20260413) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/04/13 [Ubuntu Weekly Newsletter Issue 940](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-940/80204) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -74,9 +77,6 @@
 
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## zdyxry Weekly Issue
-- 2026/04/12 [Weekly Issue-《飞行家》](https://zdyxry.github.io/2026/04/12/Weekly-Issue-Take-Off/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## GitHub一周热点汇总
 - 2026/04/10 [GitHub一周热点第110期](https://itcoffee66.github.io/githubweekly/110.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
