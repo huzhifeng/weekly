@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/04/16 [科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/04/21 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/21 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/04/20 [第265期 - 西溪窗外](https://weekly.tw93.fun/posts/265/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -21,11 +27,8 @@
 ## DistroWatch Weekly
 - 2026/04/20 [DistroWatch Weekly, Issue 1169](https://distrowatch.com/weekly.php?issue=20260420) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2026/04/20 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/20 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2026/04/20 [Ubuntu Weekly Newsletter Issue 941](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-941/80699) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 有个问题
 - 2026/04/19 [结语：在 AI 时代，把问题写下来  | 人间松弛指南](https://newsletter.emmmme.com/p/conclusion-in-ai-era-write-down-questions-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -68,9 +71,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/04/15 [第179期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/15/第179期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/04/13 [Ubuntu Weekly Newsletter Issue 940](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-940/80204) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 更好生活
 - 2026/04/12 [3 月小结｜从沉闷中恢复](https://quaily.com/jiayifun/p/march-summary-recover-from-dullness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
