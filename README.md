@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/04/16 [科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/04/22 [第180期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/22/第180期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/04/21 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/22 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/21 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/22 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/04/20 [第265期 - 西溪窗外](https://weekly.tw93.fun/posts/265/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -68,9 +71,6 @@
 
 ## FOSS Weekly
 - 2026/04/16 [FOSS Weekly #26.16: Kernel 7.0, Essential Terminal Tips, France Linux Move, New Age Verification Bill and More](https://feed.itsfoss.com/link/24361/17320215/foss-weekly-26-16) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/04/15 [第179期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/15/第179期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/04/12 [3 月小结｜从沉闷中恢复](https://quaily.com/jiayifun/p/march-summary-recover-from-dullness) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
