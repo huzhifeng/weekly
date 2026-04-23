@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for April 23, 2026](https://lwn.net/Articles/1067989/)
 - [LWN.net Weekly Edition for April 16, 2026](https://lwn.net/Articles/1066922/)
 - [LWN.net Weekly Edition for April 9, 2026](https://lwn.net/Articles/1065979/)
 - [LWN.net Weekly Edition for April 2, 2026](https://lwn.net/Articles/1064762/)
