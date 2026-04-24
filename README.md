@@ -1,7 +1,28 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/04/16 [科技爱好者周刊（第 393 期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 肖恩技术周刊
+- 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/04/24 [Web Review, Week 2026-17](https://ervin.ipsquad.net/blog/2026/04/24/web-review-week-2026-17/) | [More](channels/Web%20Review.md)
+
+## 二丫讲梵学习周刊
+- 2026/04/24 [学习周刊-总第260期-2026年第17周](https://wiki.eryajf.net/pages/907f99/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2026/04/24 [#246 Offline Dictionaries](https://thisweek.gnome.org/posts/2026/04/twig-246/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/04/24 [Self-Host Weekly (24 April 2026)](https://selfh.st/weekly/2026-04-24/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/04/24 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/24 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/23 [科技創業週報 #529：人形機器人半程馬拉松真正測的不是速度，而是實體人工智慧能否落地](https://blog.starrocket.io/posts/newsletter-2026-04-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -15,20 +36,11 @@
 ## FOSS Weekly
 - 2026/04/23 [FOSS Weekly #26.17: Ubuntu 26.04 Release, Firefox Controversy, Positive News on Age-verification and More Linux Stuff](https://feed.itsfoss.com/link/24361/17324247/foss-weekly-26-17) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2026/04/23 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/23 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 偷懒爱好者周刊
 - 2026/04/22 [第180期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/22/第180期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/04/20 [第265期 - 西溪窗外](https://weekly.tw93.fun/posts/265/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 肖恩技术周刊
-- 2026/04/20 [肖恩技术周刊（第 90 期）：过程即护城河](https://weekly.shawnxie.top/content/2026/90.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/04/20 [【CDT周报】第264期：什么都没做错，才是我们最悲催的地方](https://chinadigitaltimes.net/chinese/726655.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -62,18 +74,6 @@
 
 ## This Week in Plasma
 - 2026/04/18 [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/04/17 [Web Review, Week 2026-16](https://ervin.ipsquad.net/blog/2026/04/17/web-review-week-2026-16/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/04/17 [#245 Infinite Ranges](https://thisweek.gnome.org/posts/2026/04/twig-245/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/04/17 [Self-Host Weekly (17 April 2026)](https://selfh.st/weekly/2026-04-17/) | [More](channels/Self-Host%20Weekly.md)
-
-## 二丫讲梵学习周刊
-- 2026/04/16 [学习周刊-总第259期-2026年第16周](https://wiki.eryajf.net/pages/868c31/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
