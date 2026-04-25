@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Taxodium
+- 2026/04/25 [Zine#48](https://taxodium.ink/48.html) | [More](channels/Taxodium.md)
+
+## This Week in Plasma
+- 2026/04/25 [This Week in Plasma: fanciness in Discover and more power efficiency](https://blogs.kde.org/2026/04/25/this-week-in-plasma-fanciness-in-discover-and-more-power-efficiency/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/04/25 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/25 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +29,6 @@
 
 ## Self-Host Weekly
 - 2026/04/24 [Self-Host Weekly (24 April 2026)](https://selfh.st/weekly/2026-04-24/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/04/24 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/24 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/23 [科技創業週報 #529：人形機器人半程馬拉松真正測的不是速度，而是實體人工智慧能否落地](https://blog.starrocket.io/posts/newsletter-2026-04-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -72,9 +78,6 @@
 ## V2EX 周报
 - 2026/04/19 [✨ V2EX 周报 本周热门主题及高赞回复 04.11-04.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/04/18 [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
@@ -95,9 +98,6 @@
 
 ## HelloGitHub
 - 2026/03/27 [HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120) | [More](channels/HelloGitHub.md)
-
-## Taxodium
-- 2026/03/07 [Zine#47](https://taxodium.ink/47.html) | [More](channels/Taxodium.md)
 
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)

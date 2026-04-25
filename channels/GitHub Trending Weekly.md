@@ -1,3 +1,4 @@
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
 - [EvoMap/evolver](https://github.com/EvoMap/evolver)

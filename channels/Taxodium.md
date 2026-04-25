@@ -1,3 +1,4 @@
+- [Zine#48](https://taxodium.ink/48.html)
 - [Zine#47](https://taxodium.ink/47.html)
 - [Zine#46](https://taxodium.ink/46.html)
 - [Zine#45](https://taxodium.ink/45.html)

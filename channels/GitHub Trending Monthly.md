@@ -1,3 +1,4 @@
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)

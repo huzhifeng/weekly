@@ -1,3 +1,4 @@
+- [This Week in Plasma: fanciness in Discover and more power efficiency](https://blogs.kde.org/2026/04/25/this-week-in-plasma-fanciness-in-discover-and-more-power-efficiency/)
 - [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/)
 - [This Week in Plasma: UI and Stability Improvements](https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements/)
 - [This Week in Plasma: Easier Microphone Sensitivity Adjustment](https://blogs.kde.org/2026/03/28/this-week-in-plasma-easier-microphone-sensitivity-adjustment/)
