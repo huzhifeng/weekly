@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 猫鱼周刊
+- 2026/04/26 [猫鱼周刊 vol. 096 AI 无法取代胶片](https://ameow.xyz/archives/weekly-096) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/04/26 [✨ V2EX 周报 本周热门主题及高赞回复 04.18-04.24](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/04/26 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/26 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Taxodium
 - 2026/04/25 [Zine#48](https://taxodium.ink/48.html) | [More](channels/Taxodium.md)
 
 ## This Week in Plasma
 - 2026/04/25 [This Week in Plasma: fanciness in Discover and more power efficiency](https://blogs.kde.org/2026/04/25/this-week-in-plasma-fanciness-in-discover-and-more-power-efficiency/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/04/25 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/25 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
@@ -26,9 +32,6 @@
 
 ## This Week in GNOME
 - 2026/04/24 [#246 Offline Dictionaries](https://thisweek.gnome.org/posts/2026/04/twig-246/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/04/24 [Self-Host Weekly (24 April 2026)](https://selfh.st/weekly/2026-04-24/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/04/23 [科技創業週報 #529：人形機器人半程馬拉松真正測的不是速度，而是實體人工智慧能否落地](https://blog.starrocket.io/posts/newsletter-2026-04-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -75,9 +78,6 @@
 ## zdyxry Weekly Issue
 - 2026/04/19 [Weekly Issue-《鲜花与面包》](https://zdyxry.github.io/2026/04/19/Weekly-Issue-flowers-and-bread/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/04/19 [✨ V2EX 周报 本周热门主题及高赞回复 04.11-04.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
@@ -89,9 +89,6 @@
 
 ## 胡言乱语
 - 2026/04/03 [20260403的胡言乱语](https://www.bboy.app/2026/04/03/20260403%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 猫鱼周刊
-- 2026/03/29 [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 试行错误
 - 2026/03/29 [AI，龙虾，人类小孩：那种亲手实现想法的感觉真神奇｜NL154](https://quaily.com/shixingcuowu/p/ai-lobster-human-child-the-feeling-of-realizing-an-idea-with-your-own-hands-is-amazing-nl154) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
