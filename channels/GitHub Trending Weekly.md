@@ -1,3 +1,4 @@
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
