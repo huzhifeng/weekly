@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## HelloGitHub
+- 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
+
+## GitHub Trending Weekly
+- 2026/04/28 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/04/28 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/04/27 [第266期 - 口罩雕塑](https://weekly.tw93.fun/posts/266/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -11,6 +20,9 @@
 
 ## 棱镜通讯
 - 2026/04/27 [隐说 NO.21  海瑞治不了腐败](https://wangyurui.com/posts/yin-shuo-no-21-fu-bai-bu-neng-zhi-kao-hai-rui-la-eeeb2a84) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## 试行错误
+- 2026/04/27 [体验 ColaOS 的两周：把两种不同的观察放在一起｜NL155](https://quaily.com/shixingcuowu/p/experience-colaos-two-weeks-combining-different-observations-nl155) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 一周杂记
 - 2026/04/27 [一周杂记 in Week 4 Apr 2026](http://kingsamchen.github.io/2026/04/27/weekly-2026-apr-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -23,12 +35,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/04/27 [Ubuntu Weekly Newsletter Issue 942](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-942/81204) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/04/27 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/04/27 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2026/04/26 [猫鱼周刊 vol. 096 AI 无法取代胶片](https://ameow.xyz/archives/weekly-096) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -92,12 +98,6 @@
 
 ## 胡言乱语
 - 2026/04/03 [20260403的胡言乱语](https://www.bboy.app/2026/04/03/20260403%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 试行错误
-- 2026/03/29 [AI，龙虾，人类小孩：那种亲手实现想法的感觉真神奇｜NL154](https://quaily.com/shixingcuowu/p/ai-lobster-human-child-the-feeling-of-realizing-an-idea-with-your-own-hands-is-amazing-nl154) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## HelloGitHub
-- 2026/03/27 [HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120) | [More](channels/HelloGitHub.md)
 
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)

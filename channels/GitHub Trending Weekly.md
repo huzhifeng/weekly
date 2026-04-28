@@ -1,3 +1,4 @@
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
