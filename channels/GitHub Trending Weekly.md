@@ -1,3 +1,4 @@
+- [mattpocock/skills](https://github.com/mattpocock/skills)
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)

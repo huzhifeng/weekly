@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## HelloGitHub
-- 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
+## 偷懒爱好者周刊
+- 2026/04/29 [第181期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/29/第181期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/04/28 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/29 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/28 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/29 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## HelloGitHub
+- 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
 
 ## 潮流周刊
 - 2026/04/27 [第266期 - 口罩雕塑](https://weekly.tw93.fun/posts/266/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -74,12 +77,6 @@
 
 ## LWN.net Weekly Edition
 - 2026/04/23 [LWN.net Weekly Edition for April 23, 2026](https://lwn.net/Articles/1067989/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/04/23 [FOSS Weekly #26.17: Ubuntu 26.04 Release, Firefox Controversy, Positive News on Age-verification and More Linux Stuff](https://feed.itsfoss.com/link/24361/17324247/foss-weekly-26-17) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/04/22 [第180期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/22/第180期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 有个问题
 - 2026/04/19 [结语：在 AI 时代，把问题写下来  | 人间松弛指南](https://newsletter.emmmme.com/p/conclusion-in-ai-era-write-down-questions-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
