@@ -1,3 +1,4 @@
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)

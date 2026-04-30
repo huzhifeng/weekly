@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/04/29 [第181期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/29/第181期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/04/30 [科技創業週報 #530：AI 客服進入語音現場：從 Starlink 使用Grok，看客服中心如何重新設計真人與 AI 的分工](https://blog.starrocket.io/posts/newsletter-2026-04-29/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/04/30 [LWN.net Weekly Edition for April 30, 2026](https://lwn.net/Articles/1069206/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/04/30 [FOSS Weekly #26.18: Ubuntu&#x27;s AI Move, New Entry in Home Directory, New Ubuntu Terminal, Fedora 44 Release and More Linux Stuff](https://feed.itsfoss.com/link/24361/17328513/foss-weekly-26-18) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/04/29 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/04/30 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/04/29 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/04/30 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/04/29 [第181期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/29/第181期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
@@ -69,14 +78,8 @@
 ## Self-Host Weekly
 - 2026/04/24 [Self-Host Weekly (24 April 2026)](https://selfh.st/weekly/2026-04-24/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/04/23 [科技創業週報 #529：人形機器人半程馬拉松真正測的不是速度，而是實體人工智慧能否落地](https://blog.starrocket.io/posts/newsletter-2026-04-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 更好生活
 - 2026/04/23 [Kollab  上线 Product Hunt 打榜啦！](https://quaily.com/jiayifun/p/kollab-released-vote-product-hunt) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## LWN.net Weekly Edition
-- 2026/04/23 [LWN.net Weekly Edition for April 23, 2026](https://lwn.net/Articles/1067989/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 有个问题
 - 2026/04/19 [结语：在 AI 时代，把问题写下来  | 人间松弛指南](https://newsletter.emmmme.com/p/conclusion-in-ai-era-write-down-questions-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
