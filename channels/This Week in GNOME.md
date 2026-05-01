@@ -1,3 +1,4 @@
+- [#247 International Workers' Day](https://thisweek.gnome.org/posts/2026/05/twig-247/)
 - [#246 Offline Dictionaries](https://thisweek.gnome.org/posts/2026/04/twig-246/)
 - [#245 Infinite Ranges](https://thisweek.gnome.org/posts/2026/04/twig-245/)
 - [#244 Recognizing Hieroglyphs](https://thisweek.gnome.org/posts/2026/04/twig-244/)
