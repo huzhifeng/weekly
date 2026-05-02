@@ -3,17 +3,20 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/05/02 [This Week in Plasma: Background Apps and Zoom Up-Scaling](https://blogs.kde.org/2026/05/02/this-week-in-plasma-background-apps-and-zoom-up-scaling/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/05/02 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/02 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## This Week in GNOME
 - 2026/05/01 [#247 International Workers' Day](https://thisweek.gnome.org/posts/2026/05/twig-247/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/05/01 [Self-Host Weekly (1 May 2026)](https://selfh.st/weekly/2026-05-01/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/01 [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/01 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/04/30 [科技創業週報 #530：AI 客服進入語音現場：從 Starlink 使用Grok，看客服中心如何重新設計真人與 AI 的分工](https://blog.starrocket.io/posts/newsletter-2026-04-29/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -65,9 +68,6 @@
 
 ## Taxodium
 - 2026/04/25 [Zine#48](https://taxodium.ink/48.html) | [More](channels/Taxodium.md)
-
-## This Week in Plasma
-- 2026/04/25 [This Week in Plasma: fanciness in Discover and more power efficiency](https://blogs.kde.org/2026/04/25/this-week-in-plasma-fanciness-in-discover-and-more-power-efficiency/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
