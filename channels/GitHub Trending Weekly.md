@@ -1,3 +1,4 @@
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
 - [mattpocock/skills](https://github.com/mattpocock/skills)

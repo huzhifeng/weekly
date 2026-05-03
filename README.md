@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/05/02 [This Week in Plasma: Background Apps and Zoom Up-Scaling](https://blogs.kde.org/2026/05/02/this-week-in-plasma-background-apps-and-zoom-up-scaling/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 猫鱼周刊
+- 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/05/03 [✨ V2EX 周报 本周热门主题及高赞回复 04.25-05.01](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/05/02 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/03 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/02 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/03 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/05/02 [This Week in Plasma: Background Apps and Zoom Up-Scaling](https://blogs.kde.org/2026/05/02/this-week-in-plasma-background-apps-and-zoom-up-scaling/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## This Week in GNOME
 - 2026/05/01 [#247 International Workers' Day](https://thisweek.gnome.org/posts/2026/05/twig-247/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -57,14 +63,8 @@
 ## Ubuntu Weekly Newsletter
 - 2026/04/27 [Ubuntu Weekly Newsletter Issue 942](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-942/81204) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2026/04/26 [猫鱼周刊 vol. 096 AI 无法取代胶片](https://ameow.xyz/archives/weekly-096) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
 ## zdyxry Weekly Issue
 - 2026/04/26 [Weekly Issue-《寄生首尔》](https://zdyxry.github.io/2026/04/26/Weekly-Issue-Exploitation-City-Seoul/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/04/26 [✨ V2EX 周报 本周热门主题及高赞回复 04.18-04.24](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## Taxodium
 - 2026/04/25 [Zine#48](https://taxodium.ink/48.html) | [More](channels/Taxodium.md)
