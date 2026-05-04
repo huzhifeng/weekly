@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 棱镜通讯
+- 2026/05/04 [隐说 NO.22 小人多了，坏人就会兴风作浪](https://wangyurui.com/posts/yin-shuo-no-22-xiao-ren-duo-liao-pi-ren-jiu-hui-99146411) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## Pseudoyu 周报
+- 2026/05/04 [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
+
+## DistroWatch Weekly
+- 2026/05/04 [DistroWatch Weekly, Issue 1171](https://distrowatch.com/weekly.php?issue=20260504) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/05/04 [Ubuntu Weekly Newsletter Issue 943](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-943/81643) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/05/04 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/04 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## V2EX 周报
 - 2026/05/03 [✨ V2EX 周报 本周热门主题及高赞回复 04.25-05.01](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/05/03 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/03 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/05/02 [This Week in Plasma: Background Apps and Zoom Up-Scaling](https://blogs.kde.org/2026/05/02/this-week-in-plasma-background-apps-and-zoom-up-scaling/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -45,9 +57,6 @@
 ## CDT周报
 - 2026/04/27 [【CDT周报】第265期：人在中国只要报过一次警，就会对警察无限失望](https://chinadigitaltimes.net/chinese/726805.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
-## 棱镜通讯
-- 2026/04/27 [隐说 NO.21  海瑞治不了腐败](https://wangyurui.com/posts/yin-shuo-no-21-fu-bai-bu-neng-zhi-kao-hai-rui-la-eeeb2a84) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## 试行错误
 - 2026/04/27 [体验 ColaOS 的两周：把两种不同的观察放在一起｜NL155](https://quaily.com/shixingcuowu/p/experience-colaos-two-weeks-combining-different-observations-nl155) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
@@ -56,12 +65,6 @@
 
 ## AIGC Weekly
 - 2026/04/27 [AIGC Weekly #168](https://quaily.com/op7418/p/aigc-weekly-one-hundred-sixty-eight) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/04/27 [DistroWatch Weekly, Issue 1170](https://distrowatch.com/weekly.php?issue=20260427) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/04/27 [Ubuntu Weekly Newsletter Issue 942](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-942/81204) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## zdyxry Weekly Issue
 - 2026/04/26 [Weekly Issue-《寄生首尔》](https://zdyxry.github.io/2026/04/26/Weekly-Issue-Exploitation-City-Seoul/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -83,9 +86,6 @@
 
 ## 有个问题
 - 2026/04/19 [结语：在 AI 时代，把问题写下来  | 人间松弛指南](https://newsletter.emmmme.com/p/conclusion-in-ai-era-write-down-questions-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## Pseudoyu 周报
-- 2026/04/19 [周报 #107 - 基于 Multica 与 Impeccable 的开发/设计工作流](https://www.pseudoyu.com/posts/weekly_review_107) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
