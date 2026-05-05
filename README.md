@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 一周杂记
+- 2026/05/05 [一周杂记 in Week 5 Apr 2026](http://kingsamchen.github.io/2026/05/05/weekly-2026-apr-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/05/05 [AIGC Weekly #169](https://quaily.com/op7418/p/aigc-weekly-ghbxd7l1) | [More](channels/AIGC%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/05 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/05 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 棱镜通讯
 - 2026/05/04 [隐说 NO.22 小人多了，坏人就会兴风作浪](https://wangyurui.com/posts/yin-shuo-no-22-xiao-ren-duo-liao-pi-ren-jiu-hui-99146411) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -14,12 +26,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/05/04 [Ubuntu Weekly Newsletter Issue 943](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-943/81643) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/05/04 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/04 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -59,12 +65,6 @@
 
 ## 试行错误
 - 2026/04/27 [体验 ColaOS 的两周：把两种不同的观察放在一起｜NL155](https://quaily.com/shixingcuowu/p/experience-colaos-two-weeks-combining-different-observations-nl155) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 一周杂记
-- 2026/04/27 [一周杂记 in Week 4 Apr 2026](http://kingsamchen.github.io/2026/04/27/weekly-2026-apr-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/04/27 [AIGC Weekly #168](https://quaily.com/op7418/p/aigc-weekly-one-hundred-sixty-eight) | [More](channels/AIGC%20Weekly.md)
 
 ## zdyxry Weekly Issue
 - 2026/04/26 [Weekly Issue-《寄生首尔》](https://zdyxry.github.io/2026/04/26/Weekly-Issue-Exploitation-City-Seoul/) | [More](channels/zdyxry%20Weekly%20Issue.md)
