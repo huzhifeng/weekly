@@ -3,17 +3,20 @@
 ## 科技爱好者周刊
 - 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/05/06 [第182期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/06/第182期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/05/06 [warpdotdev/warp](https://github.com/warpdotdev/warp) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/06 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 一周杂记
 - 2026/05/05 [一周杂记 in Week 5 Apr 2026](http://kingsamchen.github.io/2026/05/05/weekly-2026-apr-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2026/05/05 [AIGC Weekly #169](https://quaily.com/op7418/p/aigc-weekly-ghbxd7l1) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/05 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/05 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 棱镜通讯
 - 2026/05/04 [隐说 NO.22 小人多了，坏人就会兴风作浪](https://wangyurui.com/posts/yin-shuo-no-22-xiao-ren-duo-liao-pi-ren-jiu-hui-99146411) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -50,9 +53,6 @@
 
 ## FOSS Weekly
 - 2026/04/30 [FOSS Weekly #26.18: Ubuntu&#x27;s AI Move, New Entry in Home Directory, New Ubuntu Terminal, Fedora 44 Release and More Linux Stuff](https://feed.itsfoss.com/link/24361/17328513/foss-weekly-26-18) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/04/29 [第181期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/04/29/第181期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
