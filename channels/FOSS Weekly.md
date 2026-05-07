@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.19: Ubuntu Under Attack, Linux Exploitation Ongoing, Upgrading to 26.04, Linux on PS5 and More](https://feed.itsfoss.com/link/24361/17336156/foss-weekly-26-19)
 - [FOSS Weekly #26.18: Ubuntu&#x27;s AI Move, New Entry in Home Directory, New Ubuntu Terminal, Fedora 44 Release and More Linux Stuff](https://feed.itsfoss.com/link/24361/17328513/foss-weekly-26-18)
 - [FOSS Weekly #26.17: Ubuntu 26.04 Release, Firefox Controversy, Positive News on Age-verification and More Linux Stuff](https://feed.itsfoss.com/link/24361/17324247/foss-weekly-26-17)
 - [FOSS Weekly #26.16: Kernel 7.0, Essential Terminal Tips, France Linux Move, New Age Verification Bill and More](https://feed.itsfoss.com/link/24361/17320215/foss-weekly-26-16)
