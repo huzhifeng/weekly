@@ -1,7 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/04/23 [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/05/07 [科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/05/08 [Web Review, Week 2026-19](https://ervin.ipsquad.net/blog/2026/05/08/web-review-week-2026-19/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/05/08 [#248 Tracking Performance](https://thisweek.gnome.org/posts/2026/05/twig-248/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## GitHub Trending Weekly
+- 2026/05/08 [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/08 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/05/07 [科技創業週報 #531：零售競爭正在從導流，走向「被 AI 正確推薦與完成交易」](https://blog.starrocket.io/posts/newsletter-2026-05-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -11,12 +23,6 @@
 
 ## FOSS Weekly
 - 2026/05/07 [FOSS Weekly #26.19: Ubuntu Under Attack, Linux Exploitation Ongoing, Upgrading to 26.04, Linux on PS5 and More](https://feed.itsfoss.com/link/24361/17336156/foss-weekly-26-19) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/07 [warpdotdev/warp](https://github.com/warpdotdev/warp) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/07 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/05/06 [第182期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/06/第182期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -48,9 +54,6 @@
 ## This Week in Plasma
 - 2026/05/02 [This Week in Plasma: Background Apps and Zoom Up-Scaling](https://blogs.kde.org/2026/05/02/this-week-in-plasma-background-apps-and-zoom-up-scaling/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## This Week in GNOME
-- 2026/05/01 [#247 International Workers' Day](https://thisweek.gnome.org/posts/2026/05/twig-247/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## Self-Host Weekly
 - 2026/05/01 [Self-Host Weekly (1 May 2026)](https://selfh.st/weekly/2026-05-01/) | [More](channels/Self-Host%20Weekly.md)
 
@@ -74,9 +77,6 @@
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
-## Web Review
-- 2026/04/24 [Web Review, Week 2026-17](https://ervin.ipsquad.net/blog/2026/04/24/web-review-week-2026-17/) | [More](channels/Web%20Review.md)
 
 ## 二丫讲梵学习周刊
 - 2026/04/24 [学习周刊-总第260期-2026年第17周](https://wiki.eryajf.net/pages/907f99/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
