@@ -1,3 +1,4 @@
+- [This Week in Plasma: ICC profiles ❤️ HDR](https://blogs.kde.org/2026/05/09/this-week-in-plasma-icc-profiles-%EF%B8%8F-hdr/)
 - [This Week in Plasma: Background Apps and Zoom Up-Scaling](https://blogs.kde.org/2026/05/02/this-week-in-plasma-background-apps-and-zoom-up-scaling/)
 - [This Week in Plasma: fanciness in Discover and more power efficiency](https://blogs.kde.org/2026/04/25/this-week-in-plasma-fanciness-in-discover-and-more-power-efficiency/)
 - [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/)

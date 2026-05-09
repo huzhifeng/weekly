@@ -1,3 +1,4 @@
+- [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 - [warpdotdev/warp](https://github.com/warpdotdev/warp)
 - [soxoj/maigret](https://github.com/soxoj/maigret)
