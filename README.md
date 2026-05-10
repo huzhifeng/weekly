@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2026/05/07 [科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 二丫讲梵学习周刊
+- 2026/05/10 [学习周刊-总第262期-2026年第19周](https://wiki.eryajf.net/pages/7c16d3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/05/10 [✨ V2EX 周报 本周热门主题及高赞回复 05.02-05.08](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/05/10 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/10 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 胡言乱语
 - 2026/05/09 [20260509的胡言乱语](https://www.bboy.app/2026/05/09/20260509%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## This Week in Plasma
 - 2026/05/09 [This Week in Plasma: ICC profiles ❤️ HDR](https://blogs.kde.org/2026/05/09/this-week-in-plasma-icc-profiles-%EF%B8%8F-hdr/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/05/09 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/09 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/05/08 [Web Review, Week 2026-19](https://ervin.ipsquad.net/blog/2026/05/08/web-review-week-2026-19/) | [More](channels/Web%20Review.md)
@@ -39,6 +45,9 @@
 ## AIGC Weekly
 - 2026/05/05 [AIGC Weekly #169](https://quaily.com/op7418/p/aigc-weekly-ghbxd7l1) | [More](channels/AIGC%20Weekly.md)
 
+## CDT周报
+- 2026/05/04 [【CDT周报】第266期：负重前行的人躺平了，岁月静好的人慌了](https://chinadigitaltimes.net/chinese/726948.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
 ## 棱镜通讯
 - 2026/05/04 [隐说 NO.22 小人多了，坏人就会兴风作浪](https://wangyurui.com/posts/yin-shuo-no-22-xiao-ren-duo-liao-pi-ren-jiu-hui-99146411) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
@@ -51,12 +60,6 @@
 ## Ubuntu Weekly Newsletter
 - 2026/05/04 [Ubuntu Weekly Newsletter Issue 943](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-943/81643) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 猫鱼周刊
-- 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## V2EX 周报
-- 2026/05/03 [✨ V2EX 周报 本周热门主题及高赞回复 04.25-05.01](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## Self-Host Weekly
 - 2026/05/01 [Self-Host Weekly (1 May 2026)](https://selfh.st/weekly/2026-05-01/) | [More](channels/Self-Host%20Weekly.md)
 
@@ -65,9 +68,6 @@
 
 ## 潮流周刊
 - 2026/04/27 [第266期 - 口罩雕塑](https://weekly.tw93.fun/posts/266/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/04/27 [【CDT周报】第265期：人在中国只要报过一次警，就会对警察无限失望](https://chinadigitaltimes.net/chinese/726805.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 试行错误
 - 2026/04/27 [体验 ColaOS 的两周：把两种不同的观察放在一起｜NL155](https://quaily.com/shixingcuowu/p/experience-colaos-two-weeks-combining-different-observations-nl155) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -80,9 +80,6 @@
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
-## 二丫讲梵学习周刊
-- 2026/04/24 [学习周刊-总第260期-2026年第17周](https://wiki.eryajf.net/pages/907f99/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/04/23 [Kollab  上线 Product Hunt 打榜啦！](https://quaily.com/jiayifun/p/kollab-released-vote-product-hunt) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

@@ -1,3 +1,4 @@
+- [【CDT周报】第266期：负重前行的人躺平了，岁月静好的人慌了](https://chinadigitaltimes.net/chinese/726948.html)
 - [【CDT周报】第265期：人在中国只要报过一次警，就会对警察无限失望](https://chinadigitaltimes.net/chinese/726805.html)
 - [【CDT周报】第264期：什么都没做错，才是我们最悲催的地方](https://chinadigitaltimes.net/chinese/726655.html)
 - [【CDT周报】第263期：不许翻墙，不许骑车，但请为国争光](https://chinadigitaltimes.net/chinese/726506.html)
