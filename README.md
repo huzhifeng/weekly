@@ -3,17 +3,35 @@
 ## 科技爱好者周刊
 - 2026/05/07 [科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/05/11 [【CDT周报】第267期：人格都没有了，考上再牛的名校意义也不大](https://chinadigitaltimes.net/chinese/727111.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/05/11 [一周杂记 in Week 1 May 2026](http://kingsamchen.github.io/2026/05/11/weekly-2026-may-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/05/11 [AIGC Weekly #170](https://quaily.com/op7418/p/aigc-weekly-one-seventy) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/05/11 [DistroWatch Weekly, Issue 1172](https://distrowatch.com/weekly.php?issue=20260511) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/11 [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/11 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## zdyxry Weekly Issue
+- 2026/05/10 [Weekly Issue-五一假期](https://zdyxry.github.io/2026/05/10/Weekly-Issue-%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## 二丫讲梵学习周刊
 - 2026/05/10 [学习周刊-总第262期-2026年第19周](https://wiki.eryajf.net/pages/7c16d3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## V2EX 周报
 - 2026/05/10 [✨ V2EX 周报 本周热门主题及高赞回复 05.02-05.08](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/05/10 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/10 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 胡言乱语
 - 2026/05/09 [20260509的胡言乱语](https://www.bboy.app/2026/05/09/20260509%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -39,26 +57,17 @@
 ## 偷懒爱好者周刊
 - 2026/05/06 [第182期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/06/第182期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2026/05/05 [一周杂记 in Week 5 Apr 2026](http://kingsamchen.github.io/2026/05/05/weekly-2026-apr-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/05/05 [AIGC Weekly #169](https://quaily.com/op7418/p/aigc-weekly-ghbxd7l1) | [More](channels/AIGC%20Weekly.md)
-
-## CDT周报
-- 2026/05/04 [【CDT周报】第266期：负重前行的人躺平了，岁月静好的人慌了](https://chinadigitaltimes.net/chinese/726948.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 棱镜通讯
 - 2026/05/04 [隐说 NO.22 小人多了，坏人就会兴风作浪](https://wangyurui.com/posts/yin-shuo-no-22-xiao-ren-duo-liao-pi-ren-jiu-hui-99146411) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## Pseudoyu 周报
 - 2026/05/04 [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## DistroWatch Weekly
-- 2026/05/04 [DistroWatch Weekly, Issue 1171](https://distrowatch.com/weekly.php?issue=20260504) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/05/04 [Ubuntu Weekly Newsletter Issue 943](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-943/81643) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## 猫鱼周刊
+- 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## Self-Host Weekly
 - 2026/05/01 [Self-Host Weekly (1 May 2026)](https://selfh.st/weekly/2026-05-01/) | [More](channels/Self-Host%20Weekly.md)
@@ -66,14 +75,8 @@
 ## HelloGitHub
 - 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
 
-## 潮流周刊
-- 2026/04/27 [第266期 - 口罩雕塑](https://weekly.tw93.fun/posts/266/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 试行错误
 - 2026/04/27 [体验 ColaOS 的两周：把两种不同的观察放在一起｜NL155](https://quaily.com/shixingcuowu/p/experience-colaos-two-weeks-combining-different-observations-nl155) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## zdyxry Weekly Issue
-- 2026/04/26 [Weekly Issue-《寄生首尔》](https://zdyxry.github.io/2026/04/26/Weekly-Issue-Exploitation-City-Seoul/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Taxodium
 - 2026/04/25 [Zine#48](https://taxodium.ink/48.html) | [More](channels/Taxodium.md)
