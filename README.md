@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/05/07 [科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 有个问题
+- 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## GitHub Trending Weekly
+- 2026/05/12 [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/12 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +26,6 @@
 
 ## DistroWatch Weekly
 - 2026/05/11 [DistroWatch Weekly, Issue 1172](https://distrowatch.com/weekly.php?issue=20260511) | [More](channels/DistroWatch%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/11 [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/11 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## zdyxry Weekly Issue
 - 2026/05/10 [Weekly Issue-五一假期](https://zdyxry.github.io/2026/05/10/Weekly-Issue-%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -86,9 +89,6 @@
 
 ## 更好生活
 - 2026/04/23 [Kollab  上线 Product Hunt 打榜啦！](https://quaily.com/jiayifun/p/kollab-released-vote-product-hunt) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## 有个问题
-- 2026/04/19 [结语：在 AI 时代，把问题写下来  | 人间松弛指南](https://newsletter.emmmme.com/p/conclusion-in-ai-era-write-down-questions-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
