@@ -6,11 +6,17 @@
 ## 有个问题
 - 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
+## 棱镜通讯
+- 2026/05/13 [隐说 NO.23 变法效果递减律](https://wangyurui.com/posts/yin-shuo-no-23-bian-fa-xiao-guo-di-jian-lu-a0a87266) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## 偷懒爱好者周刊
+- 2026/05/13 [第183期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/13/第183期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/05/12 [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/13 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/12 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/13 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -57,17 +63,11 @@
 ## FOSS Weekly
 - 2026/05/07 [FOSS Weekly #26.19: Ubuntu Under Attack, Linux Exploitation Ongoing, Upgrading to 26.04, Linux on PS5 and More](https://feed.itsfoss.com/link/24361/17336156/foss-weekly-26-19) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2026/05/06 [第182期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/06/第182期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 棱镜通讯
-- 2026/05/04 [隐说 NO.22 小人多了，坏人就会兴风作浪](https://wangyurui.com/posts/yin-shuo-no-22-xiao-ren-duo-liao-pi-ren-jiu-hui-99146411) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## Pseudoyu 周报
 - 2026/05/04 [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## Ubuntu Weekly Newsletter
-- 2026/05/04 [Ubuntu Weekly Newsletter Issue 943](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-943/81643) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+- 2026/05/04 [Ubuntu Weekly Newsletter Issue 943/944](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-943-944/81643) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
