@@ -3,6 +3,24 @@
 ## 科技爱好者周刊
 - 2026/05/07 [科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/05/14 [科技創業週報 #532：語音 AI 從聊天走向企業服務，關鍵在流程與責任設計](https://blog.starrocket.io/posts/newsletter-2026-05-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/05/14 [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/05/14 [LWN.net Weekly Edition for May 14, 2026](https://lwn.net/Articles/1071535/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/05/14 [FOSS Weekly #26.20: Killswitch in Linux, Fedora&#x27;s AI Move, Rat in Terminal, KDE Dolphine Tweaks and More](https://feed.itsfoss.com/link/24361/17341201/foss-weekly-26-20) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/14 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/14 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 有个问题
 - 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
@@ -11,12 +29,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/05/13 [第183期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/13/第183期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2026/05/13 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/13 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -36,9 +48,6 @@
 ## zdyxry Weekly Issue
 - 2026/05/10 [Weekly Issue-五一假期](https://zdyxry.github.io/2026/05/10/Weekly-Issue-%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 二丫讲梵学习周刊
-- 2026/05/10 [学习周刊-总第262期-2026年第19周](https://wiki.eryajf.net/pages/7c16d3/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## V2EX 周报
 - 2026/05/10 [✨ V2EX 周报 本周热门主题及高赞回复 05.02-05.08](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -53,15 +62,6 @@
 
 ## This Week in GNOME
 - 2026/05/08 [#248 Tracking Performance](https://thisweek.gnome.org/posts/2026/05/twig-248/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 科技創業週報
-- 2026/05/07 [科技創業週報 #531：零售競爭正在從導流，走向「被 AI 正確推薦與完成交易」](https://blog.starrocket.io/posts/newsletter-2026-05-06/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/05/07 [LWN.net Weekly Edition for May 7, 2026](https://lwn.net/Articles/1070466/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/05/07 [FOSS Weekly #26.19: Ubuntu Under Attack, Linux Exploitation Ongoing, Upgrading to 26.04, Linux on PS5 and More](https://feed.itsfoss.com/link/24361/17336156/foss-weekly-26-19) | [More](channels/FOSS%20Weekly.md)
 
 ## Pseudoyu 周报
 - 2026/05/04 [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
