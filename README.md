@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/05/07 [科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/05/15 [科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 更好生活
+- 2026/05/15 [4 月小结｜Booko 上线啦](https://quaily.com/jiayifun/p/april-summary-booko-launch) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## Web Review
+- 2026/05/15 [Web Review, Week 2026-20](https://ervin.ipsquad.net/blog/2026/05/15/web-review-week-2026-20/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/05/15 [#249 Quality Over Quantity](https://thisweek.gnome.org/posts/2026/05/twig-249/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/05/15 [Self-Host Weekly (15 May 2026)](https://selfh.st/weekly/2026-05-15/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/15 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/15 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/05/14 [科技創業週報 #532：語音 AI 從聊天走向企業服務，關鍵在流程與責任設計](https://blog.starrocket.io/posts/newsletter-2026-05-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +32,6 @@
 
 ## FOSS Weekly
 - 2026/05/14 [FOSS Weekly #26.20: Killswitch in Linux, Fedora&#x27;s AI Move, Rat in Terminal, KDE Dolphine Tweaks and More](https://feed.itsfoss.com/link/24361/17341201/foss-weekly-26-20) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/14 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/14 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 有个问题
 - 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -57,12 +69,6 @@
 ## This Week in Plasma
 - 2026/05/09 [This Week in Plasma: ICC profiles ❤️ HDR](https://blogs.kde.org/2026/05/09/this-week-in-plasma-icc-profiles-%EF%B8%8F-hdr/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/05/08 [Web Review, Week 2026-19](https://ervin.ipsquad.net/blog/2026/05/08/web-review-week-2026-19/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/05/08 [#248 Tracking Performance](https://thisweek.gnome.org/posts/2026/05/twig-248/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## Pseudoyu 周报
 - 2026/05/04 [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
@@ -71,9 +77,6 @@
 
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## Self-Host Weekly
-- 2026/05/01 [Self-Host Weekly (1 May 2026)](https://selfh.st/weekly/2026-05-01/) | [More](channels/Self-Host%20Weekly.md)
 
 ## HelloGitHub
 - 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
@@ -86,9 +89,6 @@
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
-## 更好生活
-- 2026/04/23 [Kollab  上线 Product Hunt 打榜啦！](https://quaily.com/jiayifun/p/kollab-released-vote-product-hunt) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)

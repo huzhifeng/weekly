@@ -1,3 +1,4 @@
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
