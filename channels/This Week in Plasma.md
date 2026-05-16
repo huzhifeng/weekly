@@ -1,3 +1,4 @@
+- [This Week in Plasma: 6.7 beta release](https://blogs.kde.org/2026/05/16/this-week-in-plasma-6.7-beta-release/)
 - [This Week in Plasma: ICC profiles ❤️ HDR](https://blogs.kde.org/2026/05/09/this-week-in-plasma-icc-profiles-%EF%B8%8F-hdr/)
 - [This Week in Plasma: Background Apps and Zoom Up-Scaling](https://blogs.kde.org/2026/05/02/this-week-in-plasma-background-apps-and-zoom-up-scaling/)
 - [This Week in Plasma: fanciness in Discover and more power efficiency](https://blogs.kde.org/2026/04/25/this-week-in-plasma-fanciness-in-discover-and-more-power-efficiency/)
