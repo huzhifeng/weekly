@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/05/15 [科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/05/16 [This Week in Plasma: 6.7 beta release](https://blogs.kde.org/2026/05/16/this-week-in-plasma-6.7-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 试行错误
+- 2026/05/17 [能力在信任里成长：与伙伴 Hermes 相处的一周｜NL156](https://quaily.com/shixingcuowu/p/ability-growth-in-trust-a-week-with-partner-hermes) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## V2EX 周报
+- 2026/05/17 [✨ V2EX 周报 本周热门主题及高赞回复 05.09-05.15](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/05/16 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/17 [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/16 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/17 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/05/16 [This Week in Plasma: 6.7 beta release](https://blogs.kde.org/2026/05/16/this-week-in-plasma-6.7-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 更好生活
 - 2026/05/15 [4 月小结｜Booko 上线啦](https://quaily.com/jiayifun/p/april-summary-booko-launch) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -63,9 +69,6 @@
 ## zdyxry Weekly Issue
 - 2026/05/10 [Weekly Issue-五一假期](https://zdyxry.github.io/2026/05/10/Weekly-Issue-%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/05/10 [✨ V2EX 周报 本周热门主题及高赞回复 05.02-05.08](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 胡言乱语
 - 2026/05/09 [20260509的胡言乱语](https://www.bboy.app/2026/05/09/20260509%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -80,9 +83,6 @@
 
 ## HelloGitHub
 - 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
-
-## 试行错误
-- 2026/04/27 [体验 ColaOS 的两周：把两种不同的观察放在一起｜NL155](https://quaily.com/shixingcuowu/p/experience-colaos-two-weeks-combining-different-observations-nl155) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## Taxodium
 - 2026/04/25 [Zine#48](https://taxodium.ink/48.html) | [More](channels/Taxodium.md)
