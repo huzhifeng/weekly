@@ -3,17 +3,38 @@
 ## 科技爱好者周刊
 - 2026/05/15 [科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/05/18 [【CDT周报】第268期：我跟习近平不过是一墙之隔的两个伏地魔罢了](https://chinadigitaltimes.net/chinese/727262.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Taxodium
+- 2026/05/18 [Zine#49](https://taxodium.ink/49.html) | [More](channels/Taxodium.md)
+
+## AIGC Weekly
+- 2026/05/18 [AIGC Weekly #171](https://quaily.com/op7418/p/aigc-weekly-one-seventy-one) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/05/18 [DistroWatch Weekly, Issue 1173](https://distrowatch.com/weekly.php?issue=20260518) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/05/18 [Ubuntu Weekly Newsletter Issue 945](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-945/82487) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/05/18 [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/18 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 试行错误
 - 2026/05/17 [能力在信任里成长：与伙伴 Hermes 相处的一周｜NL156](https://quaily.com/shixingcuowu/p/ability-growth-in-trust-a-week-with-partner-hermes) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
+## 一周杂记
+- 2026/05/17 [一周杂记 in Week 2 May 2026](http://kingsamchen.github.io/2026/05/17/weekly-2026-may-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2026/05/17 [Weekly Issue-《给阿嬷的情书》](https://zdyxry.github.io/2026/05/17/Weekly-Issue-Dear-You/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/05/17 [✨ V2EX 周报 本周热门主题及高赞回复 05.09-05.15](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/05/17 [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/17 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/05/16 [This Week in Plasma: 6.7 beta release](https://blogs.kde.org/2026/05/16/this-week-in-plasma-6.7-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -54,38 +75,17 @@
 ## 潮流周刊
 - 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2026/05/11 [【CDT周报】第267期：人格都没有了，考上再牛的名校意义也不大](https://chinadigitaltimes.net/chinese/727111.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2026/05/11 [一周杂记 in Week 1 May 2026](http://kingsamchen.github.io/2026/05/11/weekly-2026-may-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/05/11 [AIGC Weekly #170](https://quaily.com/op7418/p/aigc-weekly-one-seventy) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/05/11 [DistroWatch Weekly, Issue 1172](https://distrowatch.com/weekly.php?issue=20260511) | [More](channels/DistroWatch%20Weekly.md)
-
-## zdyxry Weekly Issue
-- 2026/05/10 [Weekly Issue-五一假期](https://zdyxry.github.io/2026/05/10/Weekly-Issue-%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## 胡言乱语
 - 2026/05/09 [20260509的胡言乱语](https://www.bboy.app/2026/05/09/20260509%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Pseudoyu 周报
 - 2026/05/04 [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
-## Ubuntu Weekly Newsletter
-- 2026/05/04 [Ubuntu Weekly Newsletter Issue 943/944](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-943-944/81643) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
-
-## Taxodium
-- 2026/04/25 [Zine#48](https://taxodium.ink/48.html) | [More](channels/Taxodium.md)
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
