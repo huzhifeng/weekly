@@ -1,3 +1,4 @@
+- [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109)
 - [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108)
 - [周报 #107 - 基于 Multica 与 Impeccable 的开发/设计工作流](https://www.pseudoyu.com/posts/weekly_review_107)
 - [周报 #106 - OpenClaw 实践、搬家与生活的能量](https://www.pseudoyu.com/posts/weekly_review_106)

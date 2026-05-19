@@ -3,11 +3,23 @@
 ## 科技爱好者周刊
 - 2026/05/15 [科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 胡言乱语
+- 2026/05/19 [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2026/05/19 [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/19 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## CDT周报
 - 2026/05/18 [【CDT周报】第268期：我跟习近平不过是一墙之隔的两个伏地魔罢了](https://chinadigitaltimes.net/chinese/727262.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## Taxodium
 - 2026/05/18 [Zine#49](https://taxodium.ink/49.html) | [More](channels/Taxodium.md)
+
+## Pseudoyu 周报
+- 2026/05/18 [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
 - 2026/05/18 [AIGC Weekly #171](https://quaily.com/op7418/p/aigc-weekly-one-seventy-one) | [More](channels/AIGC%20Weekly.md)
@@ -17,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/05/18 [Ubuntu Weekly Newsletter Issue 945](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-945/82487) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/05/18 [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/18 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 试行错误
 - 2026/05/17 [能力在信任里成长：与伙伴 Hermes 相处的一周｜NL156](https://quaily.com/shixingcuowu/p/ability-growth-in-trust-a-week-with-partner-hermes) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -74,12 +80,6 @@
 
 ## 潮流周刊
 - 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 胡言乱语
-- 2026/05/09 [20260509的胡言乱语](https://www.bboy.app/2026/05/09/20260509%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## Pseudoyu 周报
-- 2026/05/04 [周报 #108 - AI 与创作的困境](https://www.pseudoyu.com/posts/weekly_review_108) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
 
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
