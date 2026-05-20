@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/05/15 [科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/05/20 [第184期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/20/第184期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 胡言乱语
-- 2026/05/19 [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2026/05/20 [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GitHub Trending Weekly
-- 2026/05/19 [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/20 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/19 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/20 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2026/05/18 [【CDT周报】第268期：我跟习近平不过是一墙之隔的两个伏地魔罢了](https://chinadigitaltimes.net/chinese/727262.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -74,9 +77,6 @@
 
 ## 棱镜通讯
 - 2026/05/13 [隐说 NO.23 变法效果递减律](https://wangyurui.com/posts/yin-shuo-no-23-bian-fa-xiao-guo-di-jian-lu-a0a87266) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 偷懒爱好者周刊
-- 2026/05/13 [第183期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/13/第183期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
