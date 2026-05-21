@@ -1,3 +1,4 @@
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [multica-ai/multica](https://github.com/multica-ai/multica)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)

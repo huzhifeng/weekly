@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2026/05/15 [科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/05/21 [科技創業週報 #533：RLWRLD 把老師傅動作變成機器人訓練資料，Physical AI 真正競爭的是現場知識](https://blog.starrocket.io/posts/newsletter-2026-05-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/05/21 [LWN.net Weekly Edition for May 21, 2026](https://lwn.net/Articles/1072730/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/05/21 [FOSS Weekly #26.21: Microsoft&#x27;s Distro, Bitwarden Drama, Adobe on Linux, New Email Client and More](https://feed.itsfoss.com/link/24361/17345706/foss-weekly-26-21) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/21 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/21 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2026/05/20 [第184期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/20/第184期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/05/20 [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2026/05/20 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/20 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2026/05/18 [【CDT周报】第268期：我跟习近平不过是一墙之隔的两个伏地魔罢了](https://chinadigitaltimes.net/chinese/727262.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -60,17 +69,8 @@
 ## Self-Host Weekly
 - 2026/05/15 [Self-Host Weekly (15 May 2026)](https://selfh.st/weekly/2026-05-15/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/05/14 [科技創業週報 #532：語音 AI 從聊天走向企業服務，關鍵在流程與責任設計](https://blog.starrocket.io/posts/newsletter-2026-05-13/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2026/05/14 [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/05/14 [LWN.net Weekly Edition for May 14, 2026](https://lwn.net/Articles/1071535/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/05/14 [FOSS Weekly #26.20: Killswitch in Linux, Fedora&#x27;s AI Move, Rat in Terminal, KDE Dolphine Tweaks and More](https://feed.itsfoss.com/link/24361/17341201/foss-weekly-26-20) | [More](channels/FOSS%20Weekly.md)
 
 ## 有个问题
 - 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
