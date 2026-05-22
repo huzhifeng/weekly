@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/05/15 [科技爱好者周刊（第 396 期）：互联网通信的替代方案](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/05/21 [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/05/22 [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/05/22 [#250 Sideloading](https://thisweek.gnome.org/posts/2026/05/twig-250/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/05/22 [Self-Host Weekly (22 May 2026)](https://selfh.st/weekly/2026-05-22/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/22 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/22 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/05/21 [科技創業週報 #533：RLWRLD 把老師傅動作變成機器人訓練資料，Physical AI 真正競爭的是現場知識](https://blog.starrocket.io/posts/newsletter-2026-05-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -11,12 +26,6 @@
 
 ## FOSS Weekly
 - 2026/05/21 [FOSS Weekly #26.21: Microsoft&#x27;s Distro, Bitwarden Drama, Adobe on Linux, New Email Client and More](https://feed.itsfoss.com/link/24361/17345706/foss-weekly-26-21) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/21 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/21 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/05/20 [第184期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/20/第184期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -59,15 +68,6 @@
 
 ## 更好生活
 - 2026/05/15 [4 月小结｜Booko 上线啦](https://quaily.com/jiayifun/p/april-summary-booko-launch) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## Web Review
-- 2026/05/15 [Web Review, Week 2026-20](https://ervin.ipsquad.net/blog/2026/05/15/web-review-week-2026-20/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/05/15 [#249 Quality Over Quantity](https://thisweek.gnome.org/posts/2026/05/twig-249/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/05/15 [Self-Host Weekly (15 May 2026)](https://selfh.st/weekly/2026-05-15/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 二丫讲梵学习周刊
 - 2026/05/14 [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)

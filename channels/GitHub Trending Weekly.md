@@ -1,3 +1,4 @@
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
