@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/05/21 [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/05/23 [This Week in Plasma: Xe Driver Support and Polishing Discover](https://blogs.kde.org/2026/05/23/this-week-in-plasma-xe-driver-support-and-polishing-discover/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/05/23 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/23 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/05/22 [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +20,6 @@
 
 ## Self-Host Weekly
 - 2026/05/22 [Self-Host Weekly (22 May 2026)](https://selfh.st/weekly/2026-05-22/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/22 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/22 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/05/21 [科技創業週報 #533：RLWRLD 把老師傅動作變成機器人訓練資料，Physical AI 真正競爭的是現場知識](https://blog.starrocket.io/posts/newsletter-2026-05-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -62,9 +65,6 @@
 
 ## V2EX 周报
 - 2026/05/17 [✨ V2EX 周报 本周热门主题及高赞回复 05.09-05.15](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/05/16 [This Week in Plasma: 6.7 beta release](https://blogs.kde.org/2026/05/16/this-week-in-plasma-6.7-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 更好生活
 - 2026/05/15 [4 月小结｜Booko 上线啦](https://quaily.com/jiayifun/p/april-summary-booko-launch) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
