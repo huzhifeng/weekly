@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/05/21 [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/05/23 [This Week in Plasma: Xe Driver Support and Polishing Discover](https://blogs.kde.org/2026/05/23/this-week-in-plasma-xe-driver-support-and-polishing-discover/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 棱镜通讯
+- 2026/05/24 [隐说 NO.24 清史修不出来是好事](https://wangyurui.com/posts/yin-shuo-no-24-qing-shi-xiu-bu-chu-lai-shi-hao-s-159c85e4) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## 二丫讲梵学习周刊
+- 2026/05/24 [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/05/24 [✨ V2EX 周报 本周热门主题及高赞回复 05.16-05.22](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/05/23 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/24 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/23 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/24 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Airing's Weekly
+- 2026/05/23 [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | [More](channels/Airing%27s%20Weekly.md)
+
+## This Week in Plasma
+- 2026/05/23 [This Week in Plasma: Xe Driver Support and Polishing Discover](https://blogs.kde.org/2026/05/23/this-week-in-plasma-xe-driver-support-and-polishing-discover/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/05/22 [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) | [More](channels/Web%20Review.md)
@@ -63,20 +75,11 @@
 ## zdyxry Weekly Issue
 - 2026/05/17 [Weekly Issue-《给阿嬷的情书》](https://zdyxry.github.io/2026/05/17/Weekly-Issue-Dear-You/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/05/17 [✨ V2EX 周报 本周热门主题及高赞回复 05.09-05.15](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 更好生活
 - 2026/05/15 [4 月小结｜Booko 上线啦](https://quaily.com/jiayifun/p/april-summary-booko-launch) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
-## 二丫讲梵学习周刊
-- 2026/05/14 [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## 有个问题
 - 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 棱镜通讯
-- 2026/05/13 [隐说 NO.23 变法效果递减律](https://wangyurui.com/posts/yin-shuo-no-23-bian-fa-xiao-guo-di-jian-lu-a0a87266) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## 潮流周刊
 - 2026/05/11 [第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -95,9 +98,6 @@
 
 ## GitHub一周热点汇总
 - 2026/04/10 [GitHub一周热点第110期](https://itcoffee66.github.io/githubweekly/110.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## Airing's Weekly
-- 2026/04/05 [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)

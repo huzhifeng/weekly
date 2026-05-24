@@ -1,3 +1,5 @@
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+- [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [multica-ai/multica](https://github.com/multica-ai/multica)

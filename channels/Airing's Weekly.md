@@ -1,3 +1,4 @@
+- [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/)
 - [月刊（第34期）：创造的快乐](https://ursb.me/posts/weekly-34/)
 - [月刊（第33期）：推理阶梯](https://ursb.me/posts/weekly-33/)
 - [月刊（第32期）：中大校友会的采访](https://ursb.me/posts/weekly-32/)
