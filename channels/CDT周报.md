@@ -1,3 +1,4 @@
+- [【CDT周报】第269期：短短18天，国务院已成立两个事故调查组](https://chinadigitaltimes.net/chinese/727390.html)
 - [【CDT周报】第268期：我跟习近平不过是一墙之隔的两个伏地魔罢了](https://chinadigitaltimes.net/chinese/727262.html)
 - [【CDT周报】第267期：人格都没有了，考上再牛的名校意义也不大](https://chinadigitaltimes.net/chinese/727111.html)
 - [【CDT周报】第266期：负重前行的人躺平了，岁月静好的人慌了](https://chinadigitaltimes.net/chinese/726948.html)
