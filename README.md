@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/05/21 [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## AIGC Weekly
+- 2026/05/26 [AIGC Weekly #172](https://quaily.com/op7418/p/aigc-weekly-one-seventy-two) | [More](channels/AIGC%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/26 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/26 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/05/25 [第268期 - 小河公园](https://weekly.tw93.fun/posts/268/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -17,12 +26,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/05/25 [Ubuntu Weekly Newsletter Issue 946](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-946/83071) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/05/25 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/25 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 棱镜通讯
 - 2026/05/24 [隐说 NO.24 清史修不出来是好事](https://wangyurui.com/posts/yin-shuo-no-24-qing-shi-xiu-bu-chu-lai-shi-hao-s-159c85e4) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -74,9 +77,6 @@
 
 ## Pseudoyu 周报
 - 2026/05/18 [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## AIGC Weekly
-- 2026/05/18 [AIGC Weekly #171](https://quaily.com/op7418/p/aigc-weekly-one-seventy-one) | [More](channels/AIGC%20Weekly.md)
 
 ## 试行错误
 - 2026/05/17 [能力在信任里成长：与伙伴 Hermes 相处的一周｜NL156](https://quaily.com/shixingcuowu/p/ability-growth-in-trust-a-week-with-partner-hermes) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
