@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/05/21 [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## AIGC Weekly
-- 2026/05/26 [AIGC Weekly #172](https://quaily.com/op7418/p/aigc-weekly-one-seventy-two) | [More](channels/AIGC%20Weekly.md)
+## 偷懒爱好者周刊
+- 2026/05/27 [第185期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/27/第185期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/05/26 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/27 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/26 [mattpocock/skills](https://github.com/mattpocock/skills) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/27 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## AIGC Weekly
+- 2026/05/26 [AIGC Weekly #172](https://quaily.com/op7418/p/aigc-weekly-one-seventy-two) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2026/05/25 [第268期 - 小河公园](https://weekly.tw93.fun/posts/268/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -65,9 +68,6 @@
 
 ## FOSS Weekly
 - 2026/05/21 [FOSS Weekly #26.21: Microsoft&#x27;s Distro, Bitwarden Drama, Adobe on Linux, New Email Client and More](https://feed.itsfoss.com/link/24361/17345706/foss-weekly-26-21) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/05/20 [第184期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/20/第184期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/05/20 [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
