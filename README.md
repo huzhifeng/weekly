@@ -3,14 +3,32 @@
 ## 科技爱好者周刊
 - 2026/05/21 [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/05/27 [第185期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/27/第185期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/05/28 [科技創業週報 #534：AI 的下一個入口可能不是手機螢幕：Google Gemini 智慧眼鏡重回消費市場](https://blog.starrocket.io/posts/newsletter-2026-05-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## HelloGitHub
+- 2026/05/28 [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122) | [More](channels/HelloGitHub.md)
+
+## 胡言乱语
+- 2026/05/28 [20260528的胡言乱语](https://www.bboy.app/2026/05/28/20260528%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2026/05/28 [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/05/28 [LWN.net Weekly Edition for May 28, 2026](https://lwn.net/Articles/1073782/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/05/28 [FOSS Weekly #26.22: Win for Linux, Firefox New AI Feature, AMD Betrayal, Rust Linux Commands and More](https://feed.itsfoss.com/link/24361/17350165/foss-weekly-26-22) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/05/27 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/28 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/27 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/28 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/05/27 [第185期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/27/第185期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2026/05/26 [AIGC Weekly #172](https://quaily.com/op7418/p/aigc-weekly-one-seventy-two) | [More](channels/AIGC%20Weekly.md)
@@ -36,9 +54,6 @@
 ## zdyxry Weekly Issue
 - 2026/05/24 [Weekly Issue-《疯滑雪月》](https://zdyxry.github.io/2026/05/24/Weekly-Issue-Ski-Moonstruck/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 二丫讲梵学习周刊
-- 2026/05/24 [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## V2EX 周报
 - 2026/05/24 [✨ V2EX 周报 本周热门主题及高赞回复 05.16-05.22](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -60,18 +75,6 @@
 ## Self-Host Weekly
 - 2026/05/22 [Self-Host Weekly (22 May 2026)](https://selfh.st/weekly/2026-05-22/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/05/21 [科技創業週報 #533：RLWRLD 把老師傅動作變成機器人訓練資料，Physical AI 真正競爭的是現場知識](https://blog.starrocket.io/posts/newsletter-2026-05-20/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/05/21 [LWN.net Weekly Edition for May 21, 2026](https://lwn.net/Articles/1072730/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/05/21 [FOSS Weekly #26.21: Microsoft&#x27;s Distro, Bitwarden Drama, Adobe on Linux, New Email Client and More](https://feed.itsfoss.com/link/24361/17345706/foss-weekly-26-21) | [More](channels/FOSS%20Weekly.md)
-
-## 胡言乱语
-- 2026/05/20 [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## Taxodium
 - 2026/05/18 [Zine#49](https://taxodium.ink/49.html) | [More](channels/Taxodium.md)
 
@@ -89,9 +92,6 @@
 
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
-
-## HelloGitHub
-- 2026/04/28 [HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121) | [More](channels/HelloGitHub.md)
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
