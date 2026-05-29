@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/05/21 [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/05/29 [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/05/29 [Web Review, Week 2026-22](https://ervin.ipsquad.net/blog/2026/05/29/web-review-week-2026-22/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/05/29 [#251 Monitoring Resources](https://thisweek.gnome.org/posts/2026/05/twig-251/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/05/29 [Self-Host Weekly (29 May 2026)](https://selfh.st/weekly/2026-05-29/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/05/29 [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/29 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/05/28 [科技創業週報 #534：AI 的下一個入口可能不是手機螢幕：Google Gemini 智慧眼鏡重回消費市場](https://blog.starrocket.io/posts/newsletter-2026-05-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -20,12 +35,6 @@
 
 ## FOSS Weekly
 - 2026/05/28 [FOSS Weekly #26.22: Win for Linux, Firefox New AI Feature, AMD Betrayal, Rust Linux Commands and More](https://feed.itsfoss.com/link/24361/17350165/foss-weekly-26-22) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/28 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/28 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/05/27 [第185期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/27/第185期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -63,17 +72,8 @@
 ## This Week in Plasma
 - 2026/05/23 [This Week in Plasma: Xe Driver Support and Polishing Discover](https://blogs.kde.org/2026/05/23/this-week-in-plasma-xe-driver-support-and-polishing-discover/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/05/22 [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) | [More](channels/Web%20Review.md)
-
 ## GitHub一周热点汇总
 - 2026/05/22 [GitHub一周热点第115期](https://itcoffee66.github.io/githubweekly/115.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## This Week in GNOME
-- 2026/05/22 [#250 Sideloading](https://thisweek.gnome.org/posts/2026/05/twig-250/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/05/22 [Self-Host Weekly (22 May 2026)](https://selfh.st/weekly/2026-05-22/) | [More](channels/Self-Host%20Weekly.md)
 
 ## Taxodium
 - 2026/05/18 [Zine#49](https://taxodium.ink/49.html) | [More](channels/Taxodium.md)

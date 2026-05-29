@@ -1,3 +1,4 @@
+- [#251 Monitoring Resources](https://thisweek.gnome.org/posts/2026/05/twig-251/)
 - [#250 Sideloading](https://thisweek.gnome.org/posts/2026/05/twig-250/)
 - [#249 Quality Over Quantity](https://thisweek.gnome.org/posts/2026/05/twig-249/)
 - [#248 Tracking Performance](https://thisweek.gnome.org/posts/2026/05/twig-248/)
