@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/05/29 [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/05/30 [This Week in Plasma: 6.7 Beta 2 Released](https://blogs.kde.org/2026/05/30/this-week-in-plasma-6.7-beta-2-released/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/05/30 [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/05/30 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/05/29 [Web Review, Week 2026-22](https://ervin.ipsquad.net/blog/2026/05/29/web-review-week-2026-22/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +20,6 @@
 
 ## Self-Host Weekly
 - 2026/05/29 [Self-Host Weekly (29 May 2026)](https://selfh.st/weekly/2026-05-29/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/05/29 [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/05/29 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/05/28 [科技創業週報 #534：AI 的下一個入口可能不是手機螢幕：Google Gemini 智慧眼鏡重回消費市場](https://blog.starrocket.io/posts/newsletter-2026-05-27/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -68,9 +71,6 @@
 
 ## Airing's Weekly
 - 2026/05/23 [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | [More](channels/Airing%27s%20Weekly.md)
-
-## This Week in Plasma
-- 2026/05/23 [This Week in Plasma: Xe Driver Support and Polishing Discover](https://blogs.kde.org/2026/05/23/this-week-in-plasma-xe-driver-support-and-polishing-discover/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## GitHub一周热点汇总
 - 2026/05/22 [GitHub一周热点第115期](https://itcoffee66.github.io/githubweekly/115.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
