@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/05/29 [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/05/30 [This Week in Plasma: 6.7 Beta 2 Released](https://blogs.kde.org/2026/05/30/this-week-in-plasma-6.7-beta-2-released/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 棱镜通讯
+- 2026/05/31 [“人可以穷困，但不可以潦倒” ｜ 隐说 NO.25](https://wangyurui.com/posts/yin-shuo-no-25-cb6fccf5) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## V2EX 周报
+- 2026/05/31 [✨ V2EX 周报 本周热门主题及高赞回复 05.23-05.29](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/05/30 [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/05/31 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/05/30 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/05/31 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/05/30 [This Week in Plasma: 6.7 Beta 2 Released](https://blogs.kde.org/2026/05/30/this-week-in-plasma-6.7-beta-2-released/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/05/29 [Web Review, Week 2026-22](https://ervin.ipsquad.net/blog/2026/05/29/web-review-week-2026-22/) | [More](channels/Web%20Review.md)
@@ -60,14 +66,8 @@
 ## Ubuntu Weekly Newsletter
 - 2026/05/25 [Ubuntu Weekly Newsletter Issue 946](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-946/83071) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 棱镜通讯
-- 2026/05/24 [隐说 NO.24 清史修不出来是好事](https://wangyurui.com/posts/yin-shuo-no-24-qing-shi-xiu-bu-chu-lai-shi-hao-s-159c85e4) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## zdyxry Weekly Issue
 - 2026/05/24 [Weekly Issue-《疯滑雪月》](https://zdyxry.github.io/2026/05/24/Weekly-Issue-Ski-Moonstruck/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/05/24 [✨ V2EX 周报 本周热门主题及高赞回复 05.16-05.22](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## Airing's Weekly
 - 2026/05/23 [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | [More](channels/Airing%27s%20Weekly.md)
