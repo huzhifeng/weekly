@@ -1,3 +1,4 @@
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
