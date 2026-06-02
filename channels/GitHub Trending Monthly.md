@@ -1,3 +1,4 @@
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)

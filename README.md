@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/05/29 [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 更好生活
+- 2026/06/02 [AI Coding 5 个月，成功上架一个 iOS App｜从原型、代码到备案上架的全流程复盘总结](https://quaily.com/jiayifun/p/ai-coding-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## GitHub Trending Weekly
+- 2026/06/02 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/02 [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Taxodium
 - 2026/06/01 [Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick](https://taxodium.ink/50.html) | [More](channels/Taxodium.md)
 
@@ -17,12 +26,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/06/01 [Ubuntu Weekly Newsletter Issue 947](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-947/83634) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/06/01 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/01 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 棱镜通讯
 - 2026/05/31 [“人可以穷困，但不可以潦倒” ｜ 隐说 NO.25](https://wangyurui.com/posts/yin-shuo-no-25-cb6fccf5) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
@@ -83,9 +86,6 @@
 
 ## 试行错误
 - 2026/05/17 [能力在信任里成长：与伙伴 Hermes 相处的一周｜NL156](https://quaily.com/shixingcuowu/p/ability-growth-in-trust-a-week-with-partner-hermes) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 更好生活
-- 2026/05/15 [4 月小结｜Booko 上线啦](https://quaily.com/jiayifun/p/april-summary-booko-launch) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## 有个问题
 - 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
