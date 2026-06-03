@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/05/29 [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 更好生活
-- 2026/06/02 [AI Coding 5 个月，成功上架一个 iOS App｜从原型、代码到备案上架的全流程复盘总结](https://quaily.com/jiayifun/p/ai-coding-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+## 偷懒爱好者周刊
+- 2026/06/03 [第186期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/03/第186期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/06/02 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/06/03 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/06/02 [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/06/03 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 更好生活
+- 2026/06/02 [AI Coding 5 个月，成功上架一个 iOS App｜从原型、代码到备案上架的全流程复盘总结](https://quaily.com/jiayifun/p/ai-coding-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## Taxodium
 - 2026/06/01 [Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick](https://taxodium.ink/50.html) | [More](channels/Taxodium.md)
@@ -65,9 +68,6 @@
 
 ## FOSS Weekly
 - 2026/05/28 [FOSS Weekly #26.22: Win for Linux, Firefox New AI Feature, AMD Betrayal, Rust Linux Commands and More](https://feed.itsfoss.com/link/24361/17350165/foss-weekly-26-22) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/05/27 [第185期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/27/第185期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/05/25 [第268期 - 小河公园](https://weekly.tw93.fun/posts/268/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
