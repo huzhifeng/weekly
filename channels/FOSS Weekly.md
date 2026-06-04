@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.23: Vim Forked, Coreutils on Windows, Reverse WSL, KDE Linux and a Giveaway](https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23)
 - [FOSS Weekly #26.22: Win for Linux, Firefox New AI Feature, AMD Betrayal, Rust Linux Commands and More](https://feed.itsfoss.com/link/24361/17350165/foss-weekly-26-22)
 - [FOSS Weekly #26.21: Microsoft&#x27;s Distro, Bitwarden Drama, Adobe on Linux, New Email Client and More](https://feed.itsfoss.com/link/24361/17345706/foss-weekly-26-21)
 - [FOSS Weekly #26.20: Killswitch in Linux, Fedora&#x27;s AI Move, Rat in Terminal, KDE Dolphine Tweaks and More](https://feed.itsfoss.com/link/24361/17341201/foss-weekly-26-20)
