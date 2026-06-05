@@ -1,3 +1,4 @@
+- [Self-Host Weekly (5 June 2026)](https://selfh.st/weekly/2026-06-05/)
 - [Self-Host Weekly (29 May 2026)](https://selfh.st/weekly/2026-05-29/)
 - [Self-Host Weekly (22 May 2026)](https://selfh.st/weekly/2026-05-22/)
 - [Self-Host Weekly (15 May 2026)](https://selfh.st/weekly/2026-05-15/)

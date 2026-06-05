@@ -1,10 +1,31 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/05/29 [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/06/05 [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 有个问题
+- 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## Web Review
+- 2026/06/05 [Web Review, Week 2026-23](https://ervin.ipsquad.net/blog/2026/06/05/web-review-week-2026-23/) | [More](channels/Web%20Review.md)
+
+## 胡言乱语
+- 2026/06/05 [20260605的胡言乱语](https://www.bboy.app/2026/06/05/20260605%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## Self-Host Weekly
+- 2026/06/05 [Self-Host Weekly (5 June 2026)](https://selfh.st/weekly/2026-06-05/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/06/05 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/05 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/06/04 [科技創業週報 #535：未來買東西，消費者可能先問AI 再下單：Amazon 開放AI 購物助理技術](https://blog.starrocket.io/posts/newsletter-2026-06-03/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 试行错误
+- 2026/06/04 [给 Hermes 接上这些系统后，它开始变了｜NL157](https://quaily.com/shixingcuowu/p/give-hermes-new-systems-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 二丫讲梵学习周刊
 - 2026/06/04 [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
@@ -14,12 +35,6 @@
 
 ## FOSS Weekly
 - 2026/06/04 [FOSS Weekly #26.23: Vim Forked, Coreutils on Windows, Reverse WSL, KDE Linux and a Giveaway](https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/04 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/04 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/06/03 [第186期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/03/第186期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -54,20 +69,11 @@
 ## This Week in Plasma
 - 2026/05/30 [This Week in Plasma: 6.7 Beta 2 Released](https://blogs.kde.org/2026/05/30/this-week-in-plasma-6.7-beta-2-released/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/05/29 [Web Review, Week 2026-22](https://ervin.ipsquad.net/blog/2026/05/29/web-review-week-2026-22/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2026/05/29 [#251 Monitoring Resources](https://thisweek.gnome.org/posts/2026/05/twig-251/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## Self-Host Weekly
-- 2026/05/29 [Self-Host Weekly (29 May 2026)](https://selfh.st/weekly/2026-05-29/) | [More](channels/Self-Host%20Weekly.md)
-
 ## HelloGitHub
 - 2026/05/28 [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122) | [More](channels/HelloGitHub.md)
-
-## 胡言乱语
-- 2026/05/28 [20260528的胡言乱语](https://www.bboy.app/2026/05/28/20260528%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2026/05/25 [第268期 - 小河公园](https://weekly.tw93.fun/posts/268/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -83,12 +89,6 @@
 
 ## Pseudoyu 周报
 - 2026/05/18 [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 试行错误
-- 2026/05/17 [能力在信任里成长：与伙伴 Hermes 相处的一周｜NL156](https://quaily.com/shixingcuowu/p/ability-growth-in-trust-a-week-with-partner-hermes) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 有个问题
-- 2026/05/13 [如何理解遗忘：放过那些记忆的面包屑｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-forgetting-let-go-of-those-memory-crumbs) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## 猫鱼周刊
 - 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
