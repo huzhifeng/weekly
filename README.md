@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/06/05 [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in GNOME
+- 2026/06/06 [#252 Stronger Together](https://thisweek.gnome.org/posts/2026/06/twig-252/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Plasma
+- 2026/06/06 [This Week in Plasma: Fixing all the things](https://blogs.kde.org/2026/06/06/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/06/06 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/06 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 有个问题
 - 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
@@ -14,12 +26,6 @@
 
 ## Self-Host Weekly
 - 2026/06/05 [Self-Host Weekly (5 June 2026)](https://selfh.st/weekly/2026-06-05/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/05 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/05 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/06/04 [科技創業週報 #535：未來買東西，消費者可能先問AI 再下單：Amazon 開放AI 購物助理技術](https://blog.starrocket.io/posts/newsletter-2026-06-03/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -65,12 +71,6 @@
 
 ## V2EX 周报
 - 2026/05/31 [✨ V2EX 周报 本周热门主题及高赞回复 05.23-05.29](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/05/30 [This Week in Plasma: 6.7 Beta 2 Released](https://blogs.kde.org/2026/05/30/this-week-in-plasma-6.7-beta-2-released/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## This Week in GNOME
-- 2026/05/29 [#251 Monitoring Resources](https://thisweek.gnome.org/posts/2026/05/twig-251/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## HelloGitHub
 - 2026/05/28 [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122) | [More](channels/HelloGitHub.md)

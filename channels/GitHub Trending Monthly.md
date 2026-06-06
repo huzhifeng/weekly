@@ -1,3 +1,4 @@
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services)
