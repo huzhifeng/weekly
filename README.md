@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2026/06/05 [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/06/07 [第269期 - 天目胜景](https://weekly.tw93.fun/posts/269/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 棱镜通讯
+- 2026/06/07 [空话比废话更有危害 ｜隐说 NO.26](https://wangyurui.com/posts/kong-hua-bi-fei-hua-geng-you-wei-hai-yin-shuo-no-947bef58) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
+
+## V2EX 周报
+- 2026/06/07 [✨ V2EX 周报 本周热门主题及高赞回复 05.30-06.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/06/07 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/07 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## This Week in GNOME
 - 2026/06/06 [#252 Stronger Together](https://thisweek.gnome.org/posts/2026/06/twig-252/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in Plasma
 - 2026/06/06 [This Week in Plasma: Fixing all the things](https://blogs.kde.org/2026/06/06/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/06/06 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/06 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 有个问题
 - 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -63,20 +72,11 @@
 ## Ubuntu Weekly Newsletter
 - 2026/06/01 [Ubuntu Weekly Newsletter Issue 947](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-947/83634) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 棱镜通讯
-- 2026/05/31 [“人可以穷困，但不可以潦倒” ｜ 隐说 NO.25](https://wangyurui.com/posts/yin-shuo-no-25-cb6fccf5) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
 ## zdyxry Weekly Issue
 - 2026/05/31 [Weekly Issue-The quiet grief of adult friendship](https://zdyxry.github.io/2026/05/31/Weekly-Issue-The-quiet-grief-of-adult-friendship/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/05/31 [✨ V2EX 周报 本周热门主题及高赞回复 05.23-05.29](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## HelloGitHub
 - 2026/05/28 [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122) | [More](channels/HelloGitHub.md)
-
-## 潮流周刊
-- 2026/05/25 [第268期 - 小河公园](https://weekly.tw93.fun/posts/268/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/05/25 [【CDT周报】第269期：短短18天，国务院已成立两个事故调查组](https://chinadigitaltimes.net/chinese/727390.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -109,7 +109,7 @@
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
 
 ## Raye's Journey
-- 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.net/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
+- 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.github.io/posts/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)

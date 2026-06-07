@@ -1,3 +1,4 @@
+- [chopratejas/headroom](https://github.com/chopratejas/headroom)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
