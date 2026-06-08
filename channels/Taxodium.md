@@ -1,3 +1,4 @@
+- [Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則](https://taxodium.ink/51.html)
 - [Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick](https://taxodium.ink/50.html)
 - [Zine#49](https://taxodium.ink/49.html)
 - [Zine#48](https://taxodium.ink/48.html)

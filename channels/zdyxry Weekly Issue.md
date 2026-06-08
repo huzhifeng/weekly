@@ -1,3 +1,4 @@
+- [Weekly Issue-《我们为何迷恋真实》](https://zdyxry.github.io/2026/06/07/Weekly-Issue-This-Is-Not-Who-I-Am/)
 - [Weekly Issue-The quiet grief of adult friendship](https://zdyxry.github.io/2026/05/31/Weekly-Issue-The-quiet-grief-of-adult-friendship/)
 - [Weekly Issue-《疯滑雪月》](https://zdyxry.github.io/2026/05/24/Weekly-Issue-Ski-Moonstruck/)
 - [Weekly Issue-《给阿嬷的情书》](https://zdyxry.github.io/2026/05/17/Weekly-Issue-Dear-You/)

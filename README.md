@@ -3,20 +3,44 @@
 ## 科技爱好者周刊
 - 2026/06/05 [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/06/08 [【CDT周报】第271期：三十七年过去，长夜未明，正义未至](https://chinadigitaltimes.net/chinese/727838.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 更好生活
+- 2026/06/08 [5 月小结｜并非只有站在舞台中央的，才是主角](https://quaily.com/jiayifun/p/2026-may-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## Taxodium
+- 2026/06/08 [Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則](https://taxodium.ink/51.html) | [More](channels/Taxodium.md)
+
+## 一周杂记
+- 2026/06/08 [一周杂记 in Week 1 June 2026](http://kingsamchen.github.io/2026/06/08/weekly-2026-june-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/06/08 [AIGC Weekly #174](https://quaily.com/op7418/p/aigc-weekly-wm12rtib) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/06/08 [DistroWatch Weekly, Issue 1176](https://distrowatch.com/weekly.php?issue=20260608) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/06/08 [Ubuntu Weekly Newsletter Issue 948](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-948/83893) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/06/08 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/08 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/06/07 [第269期 - 天目胜景](https://weekly.tw93.fun/posts/269/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 棱镜通讯
 - 2026/06/07 [空话比废话更有危害 ｜隐说 NO.26](https://wangyurui.com/posts/kong-hua-bi-fei-hua-geng-you-wei-hai-yin-shuo-no-947bef58) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
+## zdyxry Weekly Issue
+- 2026/06/07 [Weekly Issue-《我们为何迷恋真实》](https://zdyxry.github.io/2026/06/07/Weekly-Issue-This-Is-Not-Who-I-Am/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/06/07 [✨ V2EX 周报 本周热门主题及高赞回复 05.30-06.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/06/07 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/07 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in GNOME
 - 2026/06/06 [#252 Stronger Together](https://thisweek.gnome.org/posts/2026/06/twig-252/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -54,32 +78,8 @@
 ## 偷懒爱好者周刊
 - 2026/06/03 [第186期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/03/第186期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 更好生活
-- 2026/06/02 [AI Coding 5 个月，成功上架一个 iOS App｜从原型、代码到备案上架的全流程复盘总结](https://quaily.com/jiayifun/p/ai-coding-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## Taxodium
-- 2026/06/01 [Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick](https://taxodium.ink/50.html) | [More](channels/Taxodium.md)
-
-## 一周杂记
-- 2026/06/01 [一周杂记 in Week 4 May 2026](http://kingsamchen.github.io/2026/06/01/weekly-2026-may-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/06/01 [AIGC Weekly #173](https://quaily.com/op7418/p/aigc-weekly-one-seventy-three) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/06/01 [DistroWatch Weekly, Issue 1175](https://distrowatch.com/weekly.php?issue=20260601) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/06/01 [Ubuntu Weekly Newsletter Issue 947](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-947/83634) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/05/31 [Weekly Issue-The quiet grief of adult friendship](https://zdyxry.github.io/2026/05/31/Weekly-Issue-The-quiet-grief-of-adult-friendship/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## HelloGitHub
 - 2026/05/28 [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122) | [More](channels/HelloGitHub.md)
-
-## CDT周报
-- 2026/05/25 [【CDT周报】第269期：短短18天，国务院已成立两个事故调查组](https://chinadigitaltimes.net/chinese/727390.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## Airing's Weekly
 - 2026/05/23 [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | [More](channels/Airing%27s%20Weekly.md)
