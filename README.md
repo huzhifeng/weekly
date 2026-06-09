@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/06/05 [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/06/09 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/09 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## CDT周报
 - 2026/06/08 [【CDT周报】第271期：三十七年过去，长夜未明，正义未至](https://chinadigitaltimes.net/chinese/727838.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -23,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/06/08 [Ubuntu Weekly Newsletter Issue 948](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-948/83893) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/06/08 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/08 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/06/07 [第269期 - 天目胜景](https://weekly.tw93.fun/posts/269/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
