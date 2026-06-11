@@ -3,11 +3,23 @@
 ## 科技爱好者周刊
 - 2026/06/05 [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/06/11 [科技創業週報 #536：Siri AI 補上Apple Intelligence 缺口：蘋果重做 iPhone 的個人助理入口](https://blog.starrocket.io/posts/newsletter-2026-06-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/06/11 [学习周刊-总第267期-2026年第24周](https://wiki.eryajf.net/pages/22d443/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/06/11 [LWN.net Weekly Edition for June 11, 2026](https://lwn.net/Articles/1076254/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/06/11 [FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)](https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24) | [More](channels/FOSS%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2026/06/10 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/06/11 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/06/10 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/06/11 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/06/09 [第187期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/09/第187期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -63,20 +75,8 @@
 ## Self-Host Weekly
 - 2026/06/05 [Self-Host Weekly (5 June 2026)](https://selfh.st/weekly/2026-06-05/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/06/04 [科技創業週報 #535：未來買東西，消費者可能先問AI 再下單：Amazon 開放AI 購物助理技術](https://blog.starrocket.io/posts/newsletter-2026-06-03/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 试行错误
 - 2026/06/04 [给 Hermes 接上这些系统后，它开始变了｜NL157](https://quaily.com/shixingcuowu/p/give-hermes-new-systems-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 二丫讲梵学习周刊
-- 2026/06/04 [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/06/04 [LWN.net Weekly Edition for June 4, 2026](https://lwn.net/Articles/1074950/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/06/04 [FOSS Weekly #26.23: Vim Forked, Coreutils on Windows, Reverse WSL, KDE Linux and a Giveaway](https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23) | [More](channels/FOSS%20Weekly.md)
 
 ## HelloGitHub
 - 2026/05/28 [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122) | [More](channels/HelloGitHub.md)

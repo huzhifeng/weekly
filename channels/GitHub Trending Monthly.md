@@ -1,3 +1,4 @@
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 - [chopratejas/headroom](https://github.com/chopratejas/headroom)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
