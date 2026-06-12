@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/06/05 [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/06/12 [Web Review, Week 2026-24](https://ervin.ipsquad.net/blog/2026/06/12/web-review-week-2026-24/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/06/12 [#254 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/06/12 [Self-Host Weekly (12 June 2026)](https://selfh.st/weekly/2026-06-12/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/06/12 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/12 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/06/11 [科技創業週報 #536：Siri AI 補上Apple Intelligence 缺口：蘋果重做 iPhone 的個人助理入口](https://blog.starrocket.io/posts/newsletter-2026-06-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/06/11 [FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)](https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/11 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/11 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/06/09 [第187期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/09/第187期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -57,23 +66,14 @@
 ## V2EX 周报
 - 2026/06/07 [✨ V2EX 周报 本周热门主题及高赞回复 05.30-06.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in GNOME
-- 2026/06/06 [#252 Stronger Together](https://thisweek.gnome.org/posts/2026/06/twig-252/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## This Week in Plasma
 - 2026/06/06 [This Week in Plasma: Fixing all the things](https://blogs.kde.org/2026/06/06/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 有个问题
 - 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
-## Web Review
-- 2026/06/05 [Web Review, Week 2026-23](https://ervin.ipsquad.net/blog/2026/06/05/web-review-week-2026-23/) | [More](channels/Web%20Review.md)
-
 ## 胡言乱语
 - 2026/06/05 [20260605的胡言乱语](https://www.bboy.app/2026/06/05/20260605%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## Self-Host Weekly
-- 2026/06/05 [Self-Host Weekly (5 June 2026)](https://selfh.st/weekly/2026-06-05/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 试行错误
 - 2026/06/04 [给 Hermes 接上这些系统后，它开始变了｜NL157](https://quaily.com/shixingcuowu/p/give-hermes-new-systems-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
