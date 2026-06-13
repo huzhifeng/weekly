@@ -3,20 +3,23 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/06/13 [This Week in Plasma: 6.7 is Very Close!](https://blogs.kde.org/2026/06/13/this-week-in-plasma-6.7-is-very-close/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/06/13 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/13 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/06/12 [Web Review, Week 2026-24](https://ervin.ipsquad.net/blog/2026/06/12/web-review-week-2026-24/) | [More](channels/Web%20Review.md)
 
 ## This Week in GNOME
-- 2026/06/12 [#254 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/) | [More](channels/This%20Week%20in%20GNOME.md)
+- 2026/06/12 [#253 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/06/12 [Self-Host Weekly (12 June 2026)](https://selfh.st/weekly/2026-06-12/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/12 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/12 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/06/11 [科技創業週報 #536：Siri AI 補上Apple Intelligence 缺口：蘋果重做 iPhone 的個人助理入口](https://blog.starrocket.io/posts/newsletter-2026-06-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -65,9 +68,6 @@
 
 ## V2EX 周报
 - 2026/06/07 [✨ V2EX 周报 本周热门主题及高赞回复 05.30-06.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/06/06 [This Week in Plasma: Fixing all the things](https://blogs.kde.org/2026/06/06/this-week-in-plasma-fixing-all-the-things/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 有个问题
 - 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
