@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/06/13 [This Week in Plasma: 6.7 is Very Close!](https://blogs.kde.org/2026/06/13/this-week-in-plasma-6.7-is-very-close/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/06/15 [第270期 - 喜欢乔村](https://weekly.tw93.fun/posts/270/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 猫鱼周刊
+- 2026/06/14 [猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/06/14 [✨ V2EX 周报 本周热门主题及高赞回复 06.06-06.12](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/06/13 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/06/14 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/06/13 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/06/14 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/06/13 [This Week in Plasma: 6.7 is Very Close!](https://blogs.kde.org/2026/06/13/this-week-in-plasma-6.7-is-very-close/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/06/12 [Web Review, Week 2026-24](https://ervin.ipsquad.net/blog/2026/06/12/web-review-week-2026-24/) | [More](channels/Web%20Review.md)
@@ -57,17 +66,11 @@
 ## Ubuntu Weekly Newsletter
 - 2026/06/08 [Ubuntu Weekly Newsletter Issue 948](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-948/83893) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## 潮流周刊
-- 2026/06/07 [第269期 - 天目胜景](https://weekly.tw93.fun/posts/269/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 棱镜通讯
 - 2026/06/07 [空话比废话更有危害 ｜隐说 NO.26](https://wangyurui.com/posts/kong-hua-bi-fei-hua-geng-you-wei-hai-yin-shuo-no-947bef58) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
 ## zdyxry Weekly Issue
 - 2026/06/07 [Weekly Issue-《我们为何迷恋真实》](https://zdyxry.github.io/2026/06/07/Weekly-Issue-This-Is-Not-Who-I-Am/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/06/07 [✨ V2EX 周报 本周热门主题及高赞回复 05.30-06.05](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 有个问题
 - 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -89,9 +92,6 @@
 
 ## Pseudoyu 周报
 - 2026/05/18 [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)
-
-## 猫鱼周刊
-- 2026/05/03 [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)

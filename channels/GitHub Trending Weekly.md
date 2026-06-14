@@ -1,3 +1,4 @@
+- [apple/container](https://github.com/apple/container)
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
 - [chopratejas/headroom](https://github.com/chopratejas/headroom)
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
