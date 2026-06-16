@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 胡言乱语
+- 2026/06/16 [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2026/06/16 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/16 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/06/15 [第270期 - 喜欢乔村](https://weekly.tw93.fun/posts/270/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -26,12 +35,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/06/15 [Ubuntu Weekly Newsletter Issue 949](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-949/84188) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/06/15 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/15 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2026/06/14 [猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -77,9 +80,6 @@
 
 ## 有个问题
 - 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 胡言乱语
-- 2026/06/05 [20260605的胡言乱语](https://www.bboy.app/2026/06/05/20260605%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 试行错误
 - 2026/06/04 [给 Hermes 接上这些系统后，它开始变了｜NL157](https://quaily.com/shixingcuowu/p/give-hermes-new-systems-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
