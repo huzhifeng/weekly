@@ -1,3 +1,4 @@
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 - [apple/container](https://github.com/apple/container)
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
 - [chopratejas/headroom](https://github.com/chopratejas/headroom)

@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 胡言乱语
-- 2026/06/16 [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+## 偷懒爱好者周刊
+- 2026/06/17 [第188期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/17/第188期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/06/16 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/06/17 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/06/16 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/06/17 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 胡言乱语
+- 2026/06/16 [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## 潮流周刊
 - 2026/06/15 [第270期 - 喜欢乔村](https://weekly.tw93.fun/posts/270/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -29,9 +32,6 @@
 
 ## DistroWatch Weekly
 - 2026/06/15 [DistroWatch Weekly, Issue 1177](https://distrowatch.com/weekly.php?issue=20260615) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/06/15 [9to5Linux Weekly Roundup: June 14th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-june-14th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/06/15 [Ubuntu Weekly Newsletter Issue 949](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-949/84188) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -68,9 +68,6 @@
 
 ## FOSS Weekly
 - 2026/06/11 [FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)](https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/06/09 [第187期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/09/第187期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/06/08 [5 月小结｜并非只有站在舞台中央的，才是主角](https://quaily.com/jiayifun/p/2026-may-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
