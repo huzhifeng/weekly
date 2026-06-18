@@ -1,3 +1,4 @@
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 - [apple/container](https://github.com/apple/container)
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills)

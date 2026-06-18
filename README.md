@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/06/17 [第188期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/17/第188期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/06/18 [科技創業週報 #537：RLWRLD 把現場工作者動作變成機器人訓練資料，Physical AI 真正競爭的是現場知識](https://blog.starrocket.io/posts/newsletter-2026-06-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/06/18 [学习周刊-总第268期-2026年第25周](https://wiki.eryajf.net/pages/14ae78/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/06/18 [LWN.net Weekly Edition for June 18, 2026](https://lwn.net/Articles/1077459/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/06/18 [FOSS Weekly #26.25: AUR Supply Chain Attack, Commodore Phones, SonicDE, Y Server, Kernel 7.1 and More](https://feed.itsfoss.com/link/24361/17363301/foss-weekly-26-25) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/06/17 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/06/18 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/06/17 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/06/18 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/06/17 [第188期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/17/第188期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/06/16 [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
@@ -29,9 +41,6 @@
 
 ## AIGC Weekly
 - 2026/06/15 [AIGC Weekly #175](https://quaily.com/op7418/p/aigc-weekly-one-seven-five) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/06/15 [DistroWatch Weekly, Issue 1177](https://distrowatch.com/weekly.php?issue=20260615) | [More](channels/DistroWatch%20Weekly.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/06/15 [Ubuntu Weekly Newsletter Issue 949](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-949/84188) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -56,18 +65,6 @@
 
 ## Self-Host Weekly
 - 2026/06/12 [Self-Host Weekly (12 June 2026)](https://selfh.st/weekly/2026-06-12/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/06/11 [科技創業週報 #536：Siri AI 補上Apple Intelligence 缺口：蘋果重做 iPhone 的個人助理入口](https://blog.starrocket.io/posts/newsletter-2026-06-10/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/06/11 [学习周刊-总第267期-2026年第24周](https://wiki.eryajf.net/pages/22d443/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/06/11 [LWN.net Weekly Edition for June 11, 2026](https://lwn.net/Articles/1076254/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/06/11 [FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)](https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2026/06/08 [5 月小结｜并非只有站在舞台中央的，才是主角](https://quaily.com/jiayifun/p/2026-may-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
