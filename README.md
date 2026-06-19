@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Web Review
+- 2026/06/19 [Web Review, Week 2026-25](https://ervin.ipsquad.net/blog/2026/06/19/web-review-week-2026-25/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2026/06/19 [Self-Host Weekly (19 June 2026)](https://selfh.st/weekly/2026-06-19/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/06/19 [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/19 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 科技創業週報
 - 2026/06/18 [科技創業週報 #537：RLWRLD 把現場工作者動作變成機器人訓練資料，Physical AI 真正競爭的是現場知識](https://blog.starrocket.io/posts/newsletter-2026-06-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -14,12 +26,6 @@
 
 ## FOSS Weekly
 - 2026/06/18 [FOSS Weekly #26.25: AUR Supply Chain Attack, Commodore Phones, SonicDE, Y Server, Kernel 7.1 and More](https://feed.itsfoss.com/link/24361/17363301/foss-weekly-26-25) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/18 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/18 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/06/17 [第188期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/17/第188期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,6 +48,9 @@
 ## AIGC Weekly
 - 2026/06/15 [AIGC Weekly #175](https://quaily.com/op7418/p/aigc-weekly-one-seven-five) | [More](channels/AIGC%20Weekly.md)
 
+## DistroWatch Weekly
+- 2026/06/15 [DistroWatch Weekly, Issue 1177](https://distrowatch.com/weekly.php?issue=20260615) | [More](channels/DistroWatch%20Weekly.md)
+
 ## Ubuntu Weekly Newsletter
 - 2026/06/15 [Ubuntu Weekly Newsletter Issue 949](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-949/84188) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -57,14 +66,8 @@
 ## This Week in Plasma
 - 2026/06/13 [This Week in Plasma: 6.7 is Very Close!](https://blogs.kde.org/2026/06/13/this-week-in-plasma-6.7-is-very-close/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/06/12 [Web Review, Week 2026-24](https://ervin.ipsquad.net/blog/2026/06/12/web-review-week-2026-24/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2026/06/12 [#253 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/06/12 [Self-Host Weekly (12 June 2026)](https://selfh.st/weekly/2026-06-12/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 更好生活
 - 2026/06/08 [5 月小结｜并非只有站在舞台中央的，才是主角](https://quaily.com/jiayifun/p/2026-may-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -100,7 +103,7 @@
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 大橘和朋友们的周刊
-- 2026/01/09 [第038期 - 布鲁斯科](https://rrorangeandfriends.de/posts/2026/038) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+- 2026/01/23 [第039期 - 花间橘影](https://rrorangeandfriends.de/posts/2026/039) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
