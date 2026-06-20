@@ -1,3 +1,4 @@
+- [#254 Commit Graph](https://thisweek.gnome.org/posts/2026/06/twig-254/)
 - [#254 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/)
 - [#252 Stronger Together](https://thisweek.gnome.org/posts/2026/06/twig-252/)
 - [#251 Monitoring Resources](https://thisweek.gnome.org/posts/2026/05/twig-251/)

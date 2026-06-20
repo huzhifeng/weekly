@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in GNOME
+- 2026/06/20 [#254 Commit Graph](https://thisweek.gnome.org/posts/2026/06/twig-254/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Plasma
+- 2026/06/20 [This Week in Plasma: 6.7 is Here!](https://blogs.kde.org/2026/06/20/this-week-in-plasma-6.7-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/06/20 [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/20 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/06/19 [Web Review, Week 2026-25](https://ervin.ipsquad.net/blog/2026/06/19/web-review-week-2026-25/) | [More](channels/Web%20Review.md)
 
 ## Self-Host Weekly
 - 2026/06/19 [Self-Host Weekly (19 June 2026)](https://selfh.st/weekly/2026-06-19/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/19 [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/19 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/06/18 [科技創業週報 #537：RLWRLD 把現場工作者動作變成機器人訓練資料，Physical AI 真正競爭的是現場知識](https://blog.starrocket.io/posts/newsletter-2026-06-17/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -62,12 +68,6 @@
 
 ## V2EX 周报
 - 2026/06/14 [✨ V2EX 周报 本周热门主题及高赞回复 06.06-06.12](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/06/13 [This Week in Plasma: 6.7 is Very Close!](https://blogs.kde.org/2026/06/13/this-week-in-plasma-6.7-is-very-close/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## This Week in GNOME
-- 2026/06/12 [#253 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 更好生活
 - 2026/06/08 [5 月小结｜并非只有站在舞台中央的，才是主角](https://quaily.com/jiayifun/p/2026-may-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

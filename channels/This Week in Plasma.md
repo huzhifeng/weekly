@@ -1,3 +1,4 @@
+- [This Week in Plasma: 6.7 is Here!](https://blogs.kde.org/2026/06/20/this-week-in-plasma-6.7-is-here/)
 - [This Week in Plasma: 6.7 is Very Close!](https://blogs.kde.org/2026/06/13/this-week-in-plasma-6.7-is-very-close/)
 - [This Week in Plasma: Fixing all the things](https://blogs.kde.org/2026/06/06/this-week-in-plasma-fixing-all-the-things/)
 - [This Week in Plasma: 6.7 Beta 2 Released](https://blogs.kde.org/2026/05/30/this-week-in-plasma-6.7-beta-2-released/)
