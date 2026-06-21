@@ -3,17 +3,20 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## V2EX 周报
+- 2026/06/21 [✨ V2EX 周报 本周热门主题及高赞回复 06.13-06.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/06/21 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/21 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## This Week in GNOME
 - 2026/06/20 [#254 Commit Graph](https://thisweek.gnome.org/posts/2026/06/twig-254/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in Plasma
 - 2026/06/20 [This Week in Plasma: 6.7 is Here!](https://blogs.kde.org/2026/06/20/this-week-in-plasma-6.7-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/06/20 [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/20 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/06/19 [Web Review, Week 2026-25](https://ervin.ipsquad.net/blog/2026/06/19/web-review-week-2026-25/) | [More](channels/Web%20Review.md)
@@ -65,9 +68,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/06/14 [Weekly Issue-《沉默时，请大声朗读情书》](https://zdyxry.github.io/2026/06/14/Weekly-Issue-silent/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/06/14 [✨ V2EX 周报 本周热门主题及高赞回复 06.06-06.12](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2026/06/08 [5 月小结｜并非只有站在舞台中央的，才是主角](https://quaily.com/jiayifun/p/2026-may-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
