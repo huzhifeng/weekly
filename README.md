@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/06/23 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/23 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 一周杂记
 - 2026/06/22 [一周杂记 in Week 3 June 2026](http://kingsamchen.github.io/2026/06/22/weekly-2026-june-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
@@ -20,12 +26,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/06/22 [Ubuntu Weekly Newsletter Issue 950](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-950/84429) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/06/22 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/22 [chopratejas/headroom](https://github.com/chopratejas/headroom) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## zdyxry Weekly Issue
 - 2026/06/21 [Weekly Issue-《干吧！辣茶！》](https://zdyxry.github.io/2026/06/21/Weekly-Issue-/) | [More](channels/zdyxry%20Weekly%20Issue.md)

@@ -1,3 +1,4 @@
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
