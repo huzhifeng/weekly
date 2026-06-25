@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff](https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26)
 - [FOSS Weekly #26.25: AUR Supply Chain Attack, Commodore Phones, SonicDE, Y Server, Kernel 7.1 and More](https://feed.itsfoss.com/link/24361/17363301/foss-weekly-26-25)
 - [FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)](https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24)
 - [FOSS Weekly #26.23: Vim Forked, Coreutils on Windows, Reverse WSL, KDE Linux and a Giveaway](https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23)
