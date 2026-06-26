@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/06/11 [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/06/26 [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Taxodium
+- 2026/06/26 [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | [More](channels/Taxodium.md)
+
+## 试行错误
+- 2026/06/26 [开发了 DeepRead 阅读器，帮你读得更深更慢｜NL158](https://quaily.com/shixingcuowu/p/deepread-reader-help-you-read-deeper-slower-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## This Week in GNOME
+- 2026/06/26 [#255 Curated Updates](https://thisweek.gnome.org/posts/2026/06/twig-255/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/06/26 [Self-Host Weekly (26 June 2026)](https://selfh.st/weekly/2026-06-26/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/06/26 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/26 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/06/25 [科技創業週報 #538：企業導入 AI Agent 前，必須先把隱性知識變成組織資產](https://blog.starrocket.io/posts/newsletter-2026-06-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +32,6 @@
 
 ## FOSS Weekly
 - 2026/06/25 [FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff](https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/25 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/25 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/06/24 [第189期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/06/24/第189期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -45,26 +57,14 @@
 ## V2EX 周报
 - 2026/06/21 [✨ V2EX 周报 本周热门主题及高赞回复 06.13-06.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in GNOME
-- 2026/06/20 [#254 Commit Graph](https://thisweek.gnome.org/posts/2026/06/twig-254/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## This Week in Plasma
 - 2026/06/20 [This Week in Plasma: 6.7 is Here!](https://blogs.kde.org/2026/06/20/this-week-in-plasma-6.7-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/06/19 [Web Review, Week 2026-25](https://ervin.ipsquad.net/blog/2026/06/19/web-review-week-2026-25/) | [More](channels/Web%20Review.md)
-
-## Self-Host Weekly
-- 2026/06/19 [Self-Host Weekly (19 June 2026)](https://selfh.st/weekly/2026-06-19/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 潮流周刊
 - 2026/06/15 [第270期 - 喜欢乔村](https://weekly.tw93.fun/posts/270/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/06/15 [【CDT周报】第272期：重庆抗议者被架走时，北京人权论坛正开幕](https://chinadigitaltimes.net/chinese/728177.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## Taxodium
-- 2026/06/15 [Zine#52 - 我们都无法成为大人](https://taxodium.ink/52.html) | [More](channels/Taxodium.md)
 
 ## 猫鱼周刊
 - 2026/06/14 [猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -77,9 +77,6 @@
 
 ## 有个问题
 - 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 试行错误
-- 2026/06/04 [给 Hermes 接上这些系统后，它开始变了｜NL157](https://quaily.com/shixingcuowu/p/give-hermes-new-systems-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## HelloGitHub
 - 2026/05/28 [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122) | [More](channels/HelloGitHub.md)

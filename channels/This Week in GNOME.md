@@ -1,3 +1,4 @@
+- [#255 Curated Updates](https://thisweek.gnome.org/posts/2026/06/twig-255/)
 - [#254 Commit Graph](https://thisweek.gnome.org/posts/2026/06/twig-254/)
 - [#254 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/)
 - [#252 Stronger Together](https://thisweek.gnome.org/posts/2026/06/twig-252/)
