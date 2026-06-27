@@ -1,3 +1,4 @@
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [apple/container](https://github.com/apple/container)
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)

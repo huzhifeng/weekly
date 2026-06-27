@@ -3,8 +3,20 @@
 ## 科技爱好者周刊
 - 2026/06/26 [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/06/27 [This Week in Plasma: Post-6.7 Bug-fixing](https://blogs.kde.org/2026/06/27/this-week-in-plasma-post-6.7-bug-fixing/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/06/27 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/27 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Taxodium
 - 2026/06/26 [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | [More](channels/Taxodium.md)
+
+## Web Review
+- 2026/06/26 [Web Review, Week 2026-26](https://ervin.ipsquad.net/blog/2026/06/26/web-review-week-2026-26/) | [More](channels/Web%20Review.md)
 
 ## 试行错误
 - 2026/06/26 [开发了 DeepRead 阅读器，帮你读得更深更慢｜NL158](https://quaily.com/shixingcuowu/p/deepread-reader-help-you-read-deeper-slower-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -14,12 +26,6 @@
 
 ## Self-Host Weekly
 - 2026/06/26 [Self-Host Weekly (26 June 2026)](https://selfh.st/weekly/2026-06-26/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/06/26 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/26 [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/06/25 [科技創業週報 #538：企業導入 AI Agent 前，必須先把隱性知識變成組織資產](https://blog.starrocket.io/posts/newsletter-2026-06-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -56,9 +62,6 @@
 
 ## V2EX 周报
 - 2026/06/21 [✨ V2EX 周报 本周热门主题及高赞回复 06.13-06.19](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/06/20 [This Week in Plasma: 6.7 is Here!](https://blogs.kde.org/2026/06/20/this-week-in-plasma-6.7-is-here/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 潮流周刊
 - 2026/06/15 [第270期 - 喜欢乔村](https://weekly.tw93.fun/posts/270/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
