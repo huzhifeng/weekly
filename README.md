@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/06/26 [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 试行错误
+- 2026/06/30 [用图示互动，Agent 和我在同一张画布上思考｜NL159](https://quaily.com/shixingcuowu/p/use-visuals-to-reply-agent-and-i-thinking-on-same-canvas-nl159) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## AIGC Weekly
+- 2026/06/30 [AIGC Weekly #177](https://quaily.com/op7418/p/aigc-weekly-one-hundred-seventy-seven) | [More](channels/AIGC%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/06/30 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/06/30 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/06/29 [第271期 - 精神家园](https://weekly.tw93.fun/posts/271/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -14,12 +26,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/06/29 [Ubuntu Weekly Newsletter Issue 951](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-951/84654) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/06/29 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/06/29 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 猫鱼周刊
 - 2026/06/28 [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
@@ -51,9 +57,6 @@
 ## GitHub一周热点汇总
 - 2026/06/26 [GitHub一周热点第120期](https://itcoffee66.github.io/githubweekly/120.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
-## 试行错误
-- 2026/06/26 [开发了 DeepRead 阅读器，帮你读得更深更慢｜NL158](https://quaily.com/shixingcuowu/p/deepread-reader-help-you-read-deeper-slower-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
 ## This Week in GNOME
 - 2026/06/26 [#255 Curated Updates](https://thisweek.gnome.org/posts/2026/06/twig-255/) | [More](channels/This%20Week%20in%20GNOME.md)
 
@@ -77,9 +80,6 @@
 
 ## 胡言乱语
 - 2026/06/22 [20260622的胡言乱语](https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## AIGC Weekly
-- 2026/06/22 [AIGC Weekly #176](https://quaily.com/op7418/p/aigc-weekly-one-seven-six) | [More](channels/AIGC%20Weekly.md)
 
 ## CDT周报
 - 2026/06/15 [【CDT周报】第272期：重庆抗议者被架走时，北京人权论坛正开幕](https://chinadigitaltimes.net/chinese/728177.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
