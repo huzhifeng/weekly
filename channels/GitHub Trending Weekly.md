@@ -1,3 +1,4 @@
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
 - [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
