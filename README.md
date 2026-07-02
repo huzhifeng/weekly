@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2026/06/26 [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/07/01 [第190期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/01/第190期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/07/02 [科技創業週報 #539：從AI PC 到Agent Computer，PC 市場正在出現新的分級](https://blog.starrocket.io/posts/newsletter-2026-07-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 胡言乱语
+- 2026/07/02 [20260702的胡言乱语](https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## 二丫讲梵学习周刊
+- 2026/07/02 [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/07/02 [LWN.net Weekly Edition for July 2, 2026](https://lwn.net/Articles/1079457/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/07/02 [FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More](https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/07/01 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/02 [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/01 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/02 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/07/01 [第190期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/01/第190期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 试行错误
 - 2026/06/30 [用图示互动，Agent 和我在同一张画布上思考｜NL159](https://quaily.com/shixingcuowu/p/use-visuals-to-reply-agent-and-i-thinking-on-same-canvas-nl159) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -62,21 +77,6 @@
 
 ## Self-Host Weekly
 - 2026/06/26 [Self-Host Weekly (26 June 2026)](https://selfh.st/weekly/2026-06-26/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/06/25 [科技創業週報 #538：企業導入 AI Agent 前，必須先把隱性知識變成組織資產](https://blog.starrocket.io/posts/newsletter-2026-06-24/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/06/25 [学习周刊-总第269期-2026年第26周](https://wiki.eryajf.net/pages/0e5d11/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/06/25 [LWN.net Weekly Edition for June 25, 2026](https://lwn.net/Articles/1078380/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/06/25 [FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff](https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26) | [More](channels/FOSS%20Weekly.md)
-
-## 胡言乱语
-- 2026/06/22 [20260622的胡言乱语](https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## CDT周报
 - 2026/06/15 [【CDT周报】第272期：重庆抗议者被架走时，北京人权论坛正开幕](https://chinadigitaltimes.net/chinese/728177.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
