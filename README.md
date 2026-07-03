@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/06/26 [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/07/02 [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/07/03 [Web Review, Week 2026-27](https://ervin.ipsquad.net/blog/2026/07/03/web-review-week-2026-27/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/07/03 [#256 Beyond 8-Bit](https://thisweek.gnome.org/posts/2026/07/twig-256/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/07/03 [Self-Host Weekly (3 July 2026)](https://selfh.st/weekly/2026-07-03/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/07/03 [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/03 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/02 [科技創業週報 #539：從AI PC 到Agent Computer，PC 市場正在出現新的分級](https://blog.starrocket.io/posts/newsletter-2026-07-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -17,12 +32,6 @@
 
 ## FOSS Weekly
 - 2026/07/02 [FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More](https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/07/02 [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/02 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/07/01 [第190期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/01/第190期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -66,17 +75,8 @@
 ## Taxodium
 - 2026/06/26 [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | [More](channels/Taxodium.md)
 
-## Web Review
-- 2026/06/26 [Web Review, Week 2026-26](https://ervin.ipsquad.net/blog/2026/06/26/web-review-week-2026-26/) | [More](channels/Web%20Review.md)
-
 ## GitHub一周热点汇总
 - 2026/06/26 [GitHub一周热点第120期](https://itcoffee66.github.io/githubweekly/120.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## This Week in GNOME
-- 2026/06/26 [#255 Curated Updates](https://thisweek.gnome.org/posts/2026/06/twig-255/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/06/26 [Self-Host Weekly (26 June 2026)](https://selfh.st/weekly/2026-06-26/) | [More](channels/Self-Host%20Weekly.md)
 
 ## CDT周报
 - 2026/06/15 [【CDT周报】第272期：重庆抗议者被架走时，北京人权论坛正开幕](https://chinadigitaltimes.net/chinese/728177.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)

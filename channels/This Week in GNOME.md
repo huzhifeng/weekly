@@ -1,3 +1,4 @@
+- [#256 Beyond 8-Bit](https://thisweek.gnome.org/posts/2026/07/twig-256/)
 - [#255 Curated Updates](https://thisweek.gnome.org/posts/2026/06/twig-255/)
 - [#254 Commit Graph](https://thisweek.gnome.org/posts/2026/06/twig-254/)
 - [#254 Fellowships](https://thisweek.gnome.org/posts/2026/06/twig-253/)

@@ -1,3 +1,4 @@
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
