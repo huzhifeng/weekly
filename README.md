@@ -1,7 +1,13 @@
 # 周刊
 
-## 科技爱好者周刊
-- 2026/07/02 [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## This Week in Plasma
+- 2026/07/04 [This Week in Plasma: Better Animations](https://blogs.kde.org/2026/07/04/this-week-in-plasma-better-animations/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/07/04 [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/04 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/07/03 [Web Review, Week 2026-27](https://ervin.ipsquad.net/blog/2026/07/03/web-review-week-2026-27/) | [More](channels/Web%20Review.md)
@@ -11,12 +17,6 @@
 
 ## Self-Host Weekly
 - 2026/07/03 [Self-Host Weekly (3 July 2026)](https://selfh.st/weekly/2026-07-03/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/07/03 [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/03 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/02 [科技創業週報 #539：從AI PC 到Agent Computer，PC 市場正在出現新的分級](https://blog.starrocket.io/posts/newsletter-2026-07-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -54,6 +54,9 @@
 ## Ubuntu Weekly Newsletter
 - 2026/06/29 [Ubuntu Weekly Newsletter Issue 951](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-951/84654) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
+## 大橘和朋友们的周刊
+- 2026/06/28 [第040期- 夕路归人](https://rrorangeandfriends.de/posts/2026/040) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+
 ## 猫鱼周刊
 - 2026/06/28 [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
 
@@ -68,9 +71,6 @@
 
 ## V2EX 周报
 - 2026/06/28 [✨ V2EX 周报 本周热门主题及高赞回复 06.20-06.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/06/27 [This Week in Plasma: Post-6.7 Bug-fixing](https://blogs.kde.org/2026/06/27/this-week-in-plasma-post-6.7-bug-fixing/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Taxodium
 - 2026/06/26 [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | [More](channels/Taxodium.md)
@@ -101,9 +101,6 @@
 
 ## 印记周报
 - 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
-
-## 大橘和朋友们的周刊
-- 2026/01/23 [第039期 - 花间橘影](https://rrorangeandfriends.de/posts/2026/039) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
