@@ -1,13 +1,22 @@
 # 周刊
 
-## This Week in Plasma
-- 2026/07/04 [This Week in Plasma: Better Animations](https://blogs.kde.org/2026/07/04/this-week-in-plasma-better-animations/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 科技爱好者周刊
+- 2026/07/02 [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 潮流周刊
+- 2026/07/06 [第272期 - 接天莲叶](https://weekly.tw93.fun/posts/272/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/07/05 [✨ V2EX 周报 本周热门主题及高赞回复 06.27-07.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/07/04 [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/05 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/04 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/05 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/07/04 [This Week in Plasma: Better Animations](https://blogs.kde.org/2026/07/04/this-week-in-plasma-better-animations/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/07/03 [Web Review, Week 2026-27](https://ervin.ipsquad.net/blog/2026/07/03/web-review-week-2026-27/) | [More](channels/Web%20Review.md)
@@ -42,9 +51,6 @@
 ## AIGC Weekly
 - 2026/06/30 [AIGC Weekly #177](https://quaily.com/op7418/p/aigc-weekly-one-hundred-seventy-seven) | [More](channels/AIGC%20Weekly.md)
 
-## 潮流周刊
-- 2026/06/29 [第271期 - 精神家园](https://weekly.tw93.fun/posts/271/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## HelloGitHub
 - 2026/06/29 [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123) | [More](channels/HelloGitHub.md)
 
@@ -68,9 +74,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/06/28 [Weekly Issue-人分千里外，兴在一杯中](https://zdyxry.github.io/2026/06/28/Weekly-Issue-renfenqianliwai/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/06/28 [✨ V2EX 周报 本周热门主题及高赞回复 06.20-06.26](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## Taxodium
 - 2026/06/26 [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | [More](channels/Taxodium.md)
