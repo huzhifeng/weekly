@@ -1,3 +1,4 @@
+- [【CDT周报】第274期：我们真正需要悲哀的，是我们失去了自己的国家](https://chinadigitaltimes.net/chinese/729028.html)
 - [【CDT周报】第272期：重庆抗议者被架走时，北京人权论坛正开幕](https://chinadigitaltimes.net/chinese/728177.html)
 - [【CDT周报】第271期：三十七年过去，长夜未明，正义未至](https://chinadigitaltimes.net/chinese/727838.html)
 - [【CDT周报】第270期：你们都很好，是我的出身不好](https://chinadigitaltimes.net/chinese/727676.html)

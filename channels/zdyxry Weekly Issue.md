@@ -1,3 +1,4 @@
+- [Weekly Issue-玩桌游](https://zdyxry.github.io/2026/07/05/Weekly-Issue-boardgame/)
 - [Weekly Issue-人分千里外，兴在一杯中](https://zdyxry.github.io/2026/06/28/Weekly-Issue-renfenqianliwai/)
 - [Weekly Issue-《干吧！辣茶！》](https://zdyxry.github.io/2026/06/21/Weekly-Issue-lacha/)
 - [Weekly Issue-《干吧！辣茶！》](https://zdyxry.github.io/2026/06/21/Weekly-Issue-/)

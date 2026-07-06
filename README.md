@@ -1,19 +1,37 @@
 # 周刊
 
-## 科技爱好者周刊
-- 2026/07/02 [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 潮流周刊
 - 2026/07/06 [第272期 - 接天莲叶](https://weekly.tw93.fun/posts/272/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2026/07/05 [✨ V2EX 周报 本周热门主题及高赞回复 06.27-07.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+## CDT周报
+- 2026/07/06 [【CDT周报】第274期：我们真正需要悲哀的，是我们失去了自己的国家](https://chinadigitaltimes.net/chinese/729028.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/07/06 [一周杂记 in Week 1 July 2026](http://kingsamchen.github.io/2026/07/06/weekly-2026-july-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/07/06 [AIGC Weekly #178](https://quaily.com/op7418/p/aigc-weekly-one-hundred-seventy-eight) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/07/06 [DistroWatch Weekly, Issue 1180](https://distrowatch.com/weekly.php?issue=20260706) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/07/06 [9to5Linux Weekly Roundup: July 5th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-5th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/07/06 [Ubuntu Weekly Newsletter Issue 952](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-952/84897) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## GitHub Trending Weekly
-- 2026/07/05 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/06 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/05 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/06 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## zdyxry Weekly Issue
+- 2026/07/05 [Weekly Issue-玩桌游](https://zdyxry.github.io/2026/07/05/Weekly-Issue-boardgame/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## V2EX 周报
+- 2026/07/05 [✨ V2EX 周报 本周热门主题及高赞回复 06.27-07.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Plasma
 - 2026/07/04 [This Week in Plasma: Better Animations](https://blogs.kde.org/2026/07/04/this-week-in-plasma-better-animations/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -48,17 +66,8 @@
 ## 试行错误
 - 2026/06/30 [用图示互动，Agent 和我在同一张画布上思考｜NL159](https://quaily.com/shixingcuowu/p/use-visuals-to-reply-agent-and-i-thinking-on-same-canvas-nl159) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## AIGC Weekly
-- 2026/06/30 [AIGC Weekly #177](https://quaily.com/op7418/p/aigc-weekly-one-hundred-seventy-seven) | [More](channels/AIGC%20Weekly.md)
-
 ## HelloGitHub
 - 2026/06/29 [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123) | [More](channels/HelloGitHub.md)
-
-## DistroWatch Weekly
-- 2026/06/29 [DistroWatch Weekly, Issue 1179](https://distrowatch.com/weekly.php?issue=20260629) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/06/29 [Ubuntu Weekly Newsletter Issue 951](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-951/84654) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 大橘和朋友们的周刊
 - 2026/06/28 [第040期- 夕路归人](https://rrorangeandfriends.de/posts/2026/040) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
@@ -69,20 +78,11 @@
 ## 棱镜通讯
 - 2026/06/28 [社会学为什么在中国难以发展？｜ 隐说 NO. 27](https://wangyurui.com/posts/she-hui-xue-wei-shi-yao-zai-zhong-guo-nan-yi-fa-112bb4cd) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
 
-## 一周杂记
-- 2026/06/28 [一周杂记 in Week 4 June 2026](http://kingsamchen.github.io/2026/06/28/weekly-2026-june-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2026/06/28 [Weekly Issue-人分千里外，兴在一杯中](https://zdyxry.github.io/2026/06/28/Weekly-Issue-renfenqianliwai/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
 ## Taxodium
 - 2026/06/26 [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | [More](channels/Taxodium.md)
 
 ## GitHub一周热点汇总
 - 2026/06/26 [GitHub一周热点第120期](https://itcoffee66.github.io/githubweekly/120.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## CDT周报
-- 2026/06/15 [【CDT周报】第272期：重庆抗议者被架走时，北京人权论坛正开幕](https://chinadigitaltimes.net/chinese/728177.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2026/06/08 [5 月小结｜并非只有站在舞台中央的，才是主角](https://quaily.com/jiayifun/p/2026-may-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

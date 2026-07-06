@@ -1,3 +1,4 @@
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
