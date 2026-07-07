@@ -1,5 +1,14 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2026/07/02 [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/07/07 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/07 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/07/06 [第272期 - 接天莲叶](https://weekly.tw93.fun/posts/272/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/07/06 [Ubuntu Weekly Newsletter Issue 952](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-952/84897) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/07/06 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/06 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## zdyxry Weekly Issue
 - 2026/07/05 [Weekly Issue-玩桌游](https://zdyxry.github.io/2026/07/05/Weekly-Issue-boardgame/) | [More](channels/zdyxry%20Weekly%20Issue.md)

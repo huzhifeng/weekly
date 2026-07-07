@@ -1,3 +1,4 @@
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
