@@ -3,11 +3,17 @@
 ## 科技爱好者周刊
 - 2026/07/02 [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/07/08 [第191期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/08/第191期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2026/07/08 [20260708的胡言乱语](https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## GitHub Trending Weekly
-- 2026/07/07 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/08 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/07 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/08 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/07/06 [第272期 - 接天莲叶](https://weekly.tw93.fun/posts/272/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -51,9 +57,6 @@
 ## 科技創業週報
 - 2026/07/02 [科技創業週報 #539：從AI PC 到Agent Computer，PC 市場正在出現新的分級](https://blog.starrocket.io/posts/newsletter-2026-07-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## 胡言乱语
-- 2026/07/02 [20260702的胡言乱语](https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
 ## 二丫讲梵学习周刊
 - 2026/07/02 [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
@@ -63,9 +66,6 @@
 ## FOSS Weekly
 - 2026/07/02 [FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More](https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2026/07/01 [第190期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/01/第190期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 试行错误
 - 2026/06/30 [用图示互动，Agent 和我在同一张画布上思考｜NL159](https://quaily.com/shixingcuowu/p/use-visuals-to-reply-agent-and-i-thinking-on-same-canvas-nl159) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
@@ -73,7 +73,7 @@
 - 2026/06/29 [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123) | [More](channels/HelloGitHub.md)
 
 ## 大橘和朋友们的周刊
-- 2026/06/28 [第040期- 夕路归人](https://rrorangeandfriends.de/posts/2026/040) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
+- 2026/06/28 [第040期 - 夕路归人](https://rrorangeandfriends.de/posts/2026/040) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## 猫鱼周刊
 - 2026/06/28 [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
