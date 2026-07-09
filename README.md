@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2026/07/02 [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/07/09 [科技創業週報 #540：AI 陪伴機器人為何不只是聊天工具，還是居家照護入口](https://blog.starrocket.io/posts/newsletter-2026-07-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/07/09 [LWN.net Weekly Edition for July 9, 2026](https://lwn.net/Articles/1080835/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/07/09 [FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More](https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/07/09 [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/09 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2026/07/08 [第191期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/08/第191期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/07/08 [20260708的胡言乱语](https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2026/07/08 [usestrix/strix](https://github.com/usestrix/strix) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/08 [apple/container](https://github.com/apple/container) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/07/06 [第272期 - 接天莲叶](https://weekly.tw93.fun/posts/272/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -45,26 +54,14 @@
 ## This Week in Plasma
 - 2026/07/04 [This Week in Plasma: Better Animations](https://blogs.kde.org/2026/07/04/this-week-in-plasma-better-animations/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/07/03 [Web Review, Week 2026-27](https://ervin.ipsquad.net/blog/2026/07/03/web-review-week-2026-27/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2026/07/03 [#256 Beyond 8-Bit](https://thisweek.gnome.org/posts/2026/07/twig-256/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/07/03 [Self-Host Weekly (3 July 2026)](https://selfh.st/weekly/2026-07-03/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/07/02 [科技創業週報 #539：從AI PC 到Agent Computer，PC 市場正在出現新的分級](https://blog.starrocket.io/posts/newsletter-2026-07-01/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2026/07/02 [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/07/02 [LWN.net Weekly Edition for July 2, 2026](https://lwn.net/Articles/1079457/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/07/02 [FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More](https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27) | [More](channels/FOSS%20Weekly.md)
 
 ## 试行错误
 - 2026/06/30 [用图示互动，Agent 和我在同一张画布上思考｜NL159](https://quaily.com/shixingcuowu/p/use-visuals-to-reply-agent-and-i-thinking-on-same-canvas-nl159) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More](https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28)
 - [FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More](https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27)
 - [FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff](https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26)
 - [FOSS Weekly #26.25: AUR Supply Chain Attack, Commodore Phones, SonicDE, Y Server, Kernel 7.1 and More](https://feed.itsfoss.com/link/24361/17363301/foss-weekly-26-25)
