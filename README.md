@@ -1,5 +1,20 @@
 # 周刊
 
+## 科技爱好者周刊
+- 2026/07/10 [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 试行错误
+- 2026/07/11 [知识库易吃灰，Hermes 接管后，三班倒不断深挖研究｜NL160](https://quaily.com/shixingcuowu/p/knowledge-base-easy-to-dust-hermes-takes-over-three-shifts-continue-deep-research-nl160) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## This Week in Plasma
+- 2026/07/11 [This Week in Plasma: Audio Recording in Spectacle](https://blogs.kde.org/2026/07/11/this-week-in-plasma-audio-recording-in-spectacle/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/07/11 [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/11 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/07/10 [Web Review, Week 2026-28](https://ervin.ipsquad.net/blog/2026/07/10/web-review-week-2026-28/) | [More](channels/Web%20Review.md)
 
@@ -8,12 +23,6 @@
 
 ## Self-Host Weekly
 - 2026/07/10 [Self-Host Weekly (10 July 2026)](https://selfh.st/weekly/2026-07-10/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/07/10 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/10 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/09 [科技創業週報 #540：AI 陪伴機器人為何不只是聊天工具，還是居家照護入口](https://blog.starrocket.io/posts/newsletter-2026-07-08/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -45,9 +54,6 @@
 ## DistroWatch Weekly
 - 2026/07/06 [DistroWatch Weekly, Issue 1180](https://distrowatch.com/weekly.php?issue=20260706) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/07/06 [9to5Linux Weekly Roundup: July 5th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-5th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/07/06 [Ubuntu Weekly Newsletter Issue 952](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-952/84897) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -57,14 +63,8 @@
 ## V2EX 周报
 - 2026/07/05 [✨ V2EX 周报 本周热门主题及高赞回复 06.27-07.03](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/07/04 [This Week in Plasma: Better Animations](https://blogs.kde.org/2026/07/04/this-week-in-plasma-better-animations/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## This Week in GNOME
 - 2026/07/03 [#256 Beyond 8-Bit](https://thisweek.gnome.org/posts/2026/07/twig-256/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## 试行错误
-- 2026/06/30 [用图示互动，Agent 和我在同一张画布上思考｜NL159](https://quaily.com/shixingcuowu/p/use-visuals-to-reply-agent-and-i-thinking-on-same-canvas-nl159) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## HelloGitHub
 - 2026/06/29 [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123) | [More](channels/HelloGitHub.md)
