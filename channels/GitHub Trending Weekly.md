@@ -1,3 +1,5 @@
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [facebook/astryx](https://github.com/facebook/astryx)
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
