@@ -6,20 +6,41 @@
 ## 潮流周刊
 - 2026/07/13 [第273期 - 一堆椅子](https://weekly.tw93.fun/posts/273/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## Taxodium
+- 2026/07/13 [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | [More](channels/Taxodium.md)
+
+## 一周杂记
+- 2026/07/13 [一周杂记 in Week 2 July 2026](http://kingsamchen.github.io/2026/07/13/weekly-2026-july-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/07/13 [AIGC Weekly #179](https://quaily.com/op7418/p/aigc-weekly-one-seventy-nine) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/07/13 [DistroWatch Weekly, Issue 1181](https://distrowatch.com/weekly.php?issue=20260713) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/07/13 [9to5Linux Weekly Roundup: July 12th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-12th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/07/13 [Ubuntu Weekly Newsletter Issue 953](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-953/85157) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/07/13 [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/13 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/07/12 [6 月小结｜一半是梅雨，多半是工具](https://quaily.com/jiayifun/p/june-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
+## zdyxry Weekly Issue
+- 2026/07/12 [Weekly Issue-《唱唱唱唱反调反调》](https://zdyxry.github.io/2026/07/12/Weekly-Issue-opposite/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/07/12 [✨ V2EX 周报 本周热门主题及高赞回复 07.04-07.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/07/12 [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/12 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 试行错误
 - 2026/07/11 [知识库易吃灰，Hermes 接管后，三班倒不断深挖研究｜NL160](https://quaily.com/shixingcuowu/p/knowledge-base-easy-to-dust-hermes-takes-over-three-shifts-continue-deep-research-nl160) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -32,6 +53,9 @@
 
 ## 二丫讲梵学习周刊
 - 2026/07/10 [学习周刊-总第271期-2026年第28周](https://wiki.eryajf.net/pages/87cbc1/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2026/07/10 [#257 Pixel Density](https://thisweek.gnome.org/posts/2026/07/twig-257/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/07/10 [Self-Host Weekly (10 July 2026)](https://selfh.st/weekly/2026-07-10/) | [More](channels/Self-Host%20Weekly.md)
@@ -54,24 +78,6 @@
 ## CDT周报
 - 2026/07/06 [【CDT周报】第274期：我们真正需要悲哀的，是我们失去了自己的国家](https://chinadigitaltimes.net/chinese/729028.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
-## 一周杂记
-- 2026/07/06 [一周杂记 in Week 1 July 2026](http://kingsamchen.github.io/2026/07/06/weekly-2026-july-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/07/06 [AIGC Weekly #178](https://quaily.com/op7418/p/aigc-weekly-one-hundred-seventy-eight) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/07/06 [DistroWatch Weekly, Issue 1180](https://distrowatch.com/weekly.php?issue=20260706) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/07/06 [Ubuntu Weekly Newsletter Issue 952](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-952/84897) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/07/05 [Weekly Issue-玩桌游](https://zdyxry.github.io/2026/07/05/Weekly-Issue-boardgame/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## This Week in GNOME
-- 2026/07/03 [#256 Beyond 8-Bit](https://thisweek.gnome.org/posts/2026/07/twig-256/) | [More](channels/This%20Week%20in%20GNOME.md)
-
 ## HelloGitHub
 - 2026/06/29 [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123) | [More](channels/HelloGitHub.md)
 
@@ -80,9 +86,6 @@
 
 ## 棱镜通讯
 - 2026/06/28 [社会学为什么在中国难以发展？｜ 隐说 NO. 27](https://wangyurui.com/posts/she-hui-xue-wei-shi-yao-zai-zhong-guo-nan-yi-fa-112bb4cd) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Taxodium
-- 2026/06/26 [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | [More](channels/Taxodium.md)
 
 ## GitHub一周热点汇总
 - 2026/06/26 [GitHub一周热点第120期](https://itcoffee66.github.io/githubweekly/120.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
