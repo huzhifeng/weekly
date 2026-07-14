@@ -1,3 +1,5 @@
+- [GitHub一周热点第122期](https://itcoffee66.github.io/githubweekly/122.html)
+- [GitHub一周热点第121期](https://itcoffee66.github.io/githubweekly/121.html)
 - [GitHub一周热点第120期](https://itcoffee66.github.io/githubweekly/120.html)
 - [GitHub一周热点第119期](https://itcoffee66.github.io/githubweekly/119.html)
 - [GitHub一周热点第118期](https://itcoffee66.github.io/githubweekly/118.html)

@@ -1,3 +1,4 @@
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
