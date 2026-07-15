@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/07/10 [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/07/15 [【CDT周报】第275期：缺而不崩的溃口，张不开口的呐喊](https://chinadigitaltimes.net/chinese/729326.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 偷懒爱好者周刊
+- 2026/07/15 [第192期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/15/第192期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## 胡言乱语
-- 2026/07/14 [20260714的胡言乱语](https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+- 2026/07/15 [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GitHub Trending Weekly
-- 2026/07/14 [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/15 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/14 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/15 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 试行错误
+- 2026/07/14 [AI时代最大的陷阱：你把每件事都当成了考试｜NL161](https://quaily.com/shixingcuowu/p/ai-era-biggest-trap-you-treat-everything-as-test-nl161) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 潮流周刊
 - 2026/07/13 [第273期 - 一堆椅子](https://weekly.tw93.fun/posts/273/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -45,9 +54,6 @@
 ## V2EX 周报
 - 2026/07/12 [✨ V2EX 周报 本周热门主题及高赞回复 07.04-07.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## 试行错误
-- 2026/07/11 [知识库易吃灰，Hermes 接管后，三班倒不断深挖研究｜NL160](https://quaily.com/shixingcuowu/p/knowledge-base-easy-to-dust-hermes-takes-over-three-shifts-continue-deep-research-nl160) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
 ## This Week in Plasma
 - 2026/07/11 [This Week in Plasma: Audio Recording in Spectacle](https://blogs.kde.org/2026/07/11/this-week-in-plasma-audio-recording-in-spectacle/) | [More](channels/This%20Week%20in%20Plasma.md)
 
@@ -74,12 +80,6 @@
 
 ## FOSS Weekly
 - 2026/07/09 [FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More](https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/07/08 [第191期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/08/第191期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/07/06 [【CDT周报】第274期：我们真正需要悲哀的，是我们失去了自己的国家](https://chinadigitaltimes.net/chinese/729028.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## HelloGitHub
 - 2026/06/29 [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123) | [More](channels/HelloGitHub.md)

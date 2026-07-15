@@ -1,3 +1,4 @@
+- [【CDT周报】第275期：缺而不崩的溃口，张不开口的呐喊](https://chinadigitaltimes.net/chinese/729326.html)
 - [【CDT周报】第274期：我们真正需要悲哀的，是我们失去了自己的国家](https://chinadigitaltimes.net/chinese/729028.html)
 - [【CDT周报】第272期：重庆抗议者被架走时，北京人权论坛正开幕](https://chinadigitaltimes.net/chinese/728177.html)
 - [【CDT周报】第271期：三十七年过去，长夜未明，正义未至](https://chinadigitaltimes.net/chinese/727838.html)
