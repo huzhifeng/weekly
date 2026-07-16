@@ -1,3 +1,4 @@
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)

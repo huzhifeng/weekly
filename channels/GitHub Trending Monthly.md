@@ -1,3 +1,4 @@
+- [catchorg/Catch2](https://github.com/catchorg/Catch2)
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
