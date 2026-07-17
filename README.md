@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/07/10 [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/07/16 [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/07/17 [Web Review, Week 2026-29](https://ervin.ipsquad.net/blog/2026/07/17/web-review-week-2026-29/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/07/17 [#258 GUADEC 2026](https://thisweek.gnome.org/posts/2026/07/twig-258/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/07/17 [Self-Host Weekly (17 July 2026)](https://selfh.st/weekly/2026-07-17/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/07/17 [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/17 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/16 [科技創業週報 #541：ChatGPT Work 發佈後，企業 AI 部署為何必須從帳號管理轉向工作、權限與責任治理？](https://blog.starrocket.io/posts/newsletter-2026-07-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/07/16 [FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More](https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/07/16 [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/16 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2026/07/15 [【CDT周报】第275期：缺而不崩的溃口，张不开口的呐喊](https://chinadigitaltimes.net/chinese/729326.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -68,18 +77,6 @@
 
 ## This Week in Plasma
 - 2026/07/11 [This Week in Plasma: Audio Recording in Spectacle](https://blogs.kde.org/2026/07/11/this-week-in-plasma-audio-recording-in-spectacle/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/07/10 [Web Review, Week 2026-28](https://ervin.ipsquad.net/blog/2026/07/10/web-review-week-2026-28/) | [More](channels/Web%20Review.md)
-
-## GitHub一周热点汇总
-- 2026/07/10 [GitHub一周热点第122期](https://itcoffee66.github.io/githubweekly/122.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## This Week in GNOME
-- 2026/07/10 [#257 Pixel Density](https://thisweek.gnome.org/posts/2026/07/twig-257/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/07/10 [Self-Host Weekly (10 July 2026)](https://selfh.st/weekly/2026-07-10/) | [More](channels/Self-Host%20Weekly.md)
 
 ## HelloGitHub
 - 2026/06/29 [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123) | [More](channels/HelloGitHub.md)
