@@ -1,3 +1,4 @@
+- [This Week in Plasma: Shadows for Steam and Discord](https://blogs.kde.org/2026/07/18/this-week-in-plasma-shadows-for-steam-and-discord/)
 - [This Week in Plasma: Audio Recording in Spectacle](https://blogs.kde.org/2026/07/11/this-week-in-plasma-audio-recording-in-spectacle/)
 - [This Week in Plasma: Better Animations](https://blogs.kde.org/2026/07/04/this-week-in-plasma-better-animations/)
 - [This Week in Plasma: Post-6.7 Bug-fixing](https://blogs.kde.org/2026/06/27/this-week-in-plasma-post-6.7-bug-fixing/)
