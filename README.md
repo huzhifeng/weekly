@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/07/16 [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/07/18 [This Week in Plasma: Shadows for Steam and Discord](https://blogs.kde.org/2026/07/18/this-week-in-plasma-shadows-for-steam-and-discord/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/07/20 [第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/07/19 [✨ V2EX 周报 本周热门主题及高赞回复 07.11-07.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/07/18 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/19 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/18 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/19 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/07/18 [This Week in Plasma: Shadows for Steam and Discord](https://blogs.kde.org/2026/07/18/this-week-in-plasma-shadows-for-steam-and-discord/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/07/17 [Web Review, Week 2026-29](https://ervin.ipsquad.net/blog/2026/07/17/web-review-week-2026-29/) | [More](channels/Web%20Review.md)
@@ -45,9 +51,6 @@
 ## 试行错误
 - 2026/07/14 [AI时代最大的陷阱：你把每件事都当成了考试｜NL161](https://quaily.com/shixingcuowu/p/ai-era-biggest-trap-you-treat-everything-as-test-nl161) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## 潮流周刊
-- 2026/07/13 [第273期 - 一堆椅子](https://weekly.tw93.fun/posts/273/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## Taxodium
 - 2026/07/13 [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | [More](channels/Taxodium.md)
 
@@ -60,9 +63,6 @@
 ## DistroWatch Weekly
 - 2026/07/13 [DistroWatch Weekly, Issue 1181](https://distrowatch.com/weekly.php?issue=20260713) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/07/13 [9to5Linux Weekly Roundup: July 12th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-12th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/07/13 [Ubuntu Weekly Newsletter Issue 953](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-953/85157) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -74,9 +74,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/07/12 [Weekly Issue-《唱唱唱唱反调反调》](https://zdyxry.github.io/2026/07/12/Weekly-Issue-opposite/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/07/12 [✨ V2EX 周报 本周热门主题及高赞回复 07.04-07.10](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub一周热点汇总
 - 2026/07/10 [GitHub一周热点第122期](https://itcoffee66.github.io/githubweekly/122.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)

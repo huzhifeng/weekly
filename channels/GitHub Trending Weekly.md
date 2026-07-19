@@ -1,3 +1,4 @@
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
