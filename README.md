@@ -6,14 +6,32 @@
 ## 潮流周刊
 - 2026/07/20 [第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2026/07/19 [✨ V2EX 周报 本周热门主题及高赞回复 07.11-07.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+## CDT周报
+- 2026/07/20 [【CDT周报】第276期：禁止卖书和违规种地，本质上没什么不同](https://chinadigitaltimes.net/chinese/729579.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/07/20 [AIGC Weekly #180](https://quaily.com/op7418/p/aigc-weekly-one-eighty) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/07/20 [DistroWatch Weekly, Issue 1182](https://distrowatch.com/weekly.php?issue=20260720) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/07/20 [9to5Linux Weekly Roundup: July 19th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-19th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/07/20 [Ubuntu Weekly Newsletter Issue 954](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-954/85383) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## GitHub Trending Weekly
-- 2026/07/19 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/20 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/19 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/20 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## zdyxry Weekly Issue
+- 2026/07/19 [Weekly Issue-《良渚密码》](https://zdyxry.github.io/2026/07/19/Weekly-Issue-liangzhu/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## V2EX 周报
+- 2026/07/19 [✨ V2EX 周报 本周热门主题及高赞回复 07.11-07.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Plasma
 - 2026/07/18 [This Week in Plasma: Shadows for Steam and Discord](https://blogs.kde.org/2026/07/18/this-week-in-plasma-shadows-for-steam-and-discord/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -39,9 +57,6 @@
 ## FOSS Weekly
 - 2026/07/16 [FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More](https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29) | [More](channels/FOSS%20Weekly.md)
 
-## CDT周报
-- 2026/07/15 [【CDT周报】第275期：缺而不崩的溃口，张不开口的呐喊](https://chinadigitaltimes.net/chinese/729326.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 偷懒爱好者周刊
 - 2026/07/15 [第192期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/15/第192期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -57,23 +72,11 @@
 ## 一周杂记
 - 2026/07/13 [一周杂记 in Week 2 July 2026](http://kingsamchen.github.io/2026/07/13/weekly-2026-july-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## AIGC Weekly
-- 2026/07/13 [AIGC Weekly #179](https://quaily.com/op7418/p/aigc-weekly-one-seventy-nine) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/07/13 [DistroWatch Weekly, Issue 1181](https://distrowatch.com/weekly.php?issue=20260713) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/07/13 [Ubuntu Weekly Newsletter Issue 953](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-953/85157) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/07/12 [6 月小结｜一半是梅雨，多半是工具](https://quaily.com/jiayifun/p/june-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## zdyxry Weekly Issue
-- 2026/07/12 [Weekly Issue-《唱唱唱唱反调反调》](https://zdyxry.github.io/2026/07/12/Weekly-Issue-opposite/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## GitHub一周热点汇总
 - 2026/07/10 [GitHub一周热点第122期](https://itcoffee66.github.io/githubweekly/122.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
