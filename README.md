@@ -3,11 +3,20 @@
 ## 科技爱好者周刊
 - 2026/07/16 [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/07/21 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/21 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/07/20 [第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/07/20 [【CDT周报】第276期：禁止卖书和违规种地，本质上没什么不同](https://chinadigitaltimes.net/chinese/729579.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/07/20 [一周杂记 in Week 3 July 2026](http://kingsamchen.github.io/2026/07/21/weekly-2026-july-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2026/07/20 [AIGC Weekly #180](https://quaily.com/op7418/p/aigc-weekly-one-eighty) | [More](channels/AIGC%20Weekly.md)
@@ -20,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/07/20 [Ubuntu Weekly Newsletter Issue 954](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-954/85383) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/07/20 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/20 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## zdyxry Weekly Issue
 - 2026/07/19 [Weekly Issue-《良渚密码》](https://zdyxry.github.io/2026/07/19/Weekly-Issue-liangzhu/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -68,9 +71,6 @@
 
 ## Taxodium
 - 2026/07/13 [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | [More](channels/Taxodium.md)
-
-## 一周杂记
-- 2026/07/13 [一周杂记 in Week 2 July 2026](http://kingsamchen.github.io/2026/07/13/weekly-2026-july-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
