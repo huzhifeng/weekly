@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/07/16 [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/07/22 [第193期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/07/21 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/22 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/21 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/22 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/07/20 [第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -23,9 +26,6 @@
 
 ## DistroWatch Weekly
 - 2026/07/20 [DistroWatch Weekly, Issue 1182](https://distrowatch.com/weekly.php?issue=20260720) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/07/20 [9to5Linux Weekly Roundup: July 19th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-19th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/07/20 [Ubuntu Weekly Newsletter Issue 954](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-954/85383) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -59,9 +59,6 @@
 
 ## FOSS Weekly
 - 2026/07/16 [FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More](https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/07/15 [第192期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/15/第192期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/07/15 [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
