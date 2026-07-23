@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/07/16 [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/07/22 [第193期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/07/23 [科技創業週報 #542：瀏覽器正從網路入口變成 AI 工作代理人：OpenAI、Google 與 Perplexity 的 AI Browser 戰爭](https://blog.starrocket.io/posts/newsletter-2026-07-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/07/23 [学习周刊-总第273期-2026年第30周](https://wiki.eryajf.net/pages/8085fe/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/07/23 [LWN.net Weekly Edition for July 23, 2026](https://lwn.net/Articles/1083123/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/07/23 [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/07/22 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/23 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/22 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/23 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/07/22 [第193期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/07/20 [第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -47,18 +59,6 @@
 
 ## Self-Host Weekly
 - 2026/07/17 [Self-Host Weekly (17 July 2026)](https://selfh.st/weekly/2026-07-17/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/07/16 [科技創業週報 #541：ChatGPT Work 發佈後，企業 AI 部署為何必須從帳號管理轉向工作、權限與責任治理？](https://blog.starrocket.io/posts/newsletter-2026-07-15/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/07/16 [学习周刊-总第272期-2026年第29周](https://wiki.eryajf.net/pages/b07ecd/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/07/16 [LWN.net Weekly Edition for July 16, 2026](https://lwn.net/Articles/1081915/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/07/16 [FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More](https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29) | [More](channels/FOSS%20Weekly.md)
 
 ## 胡言乱语
 - 2026/07/15 [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
