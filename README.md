@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/07/16 [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/07/24 [科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/07/24 [Web Review, Week 2026-30](https://ervin.ipsquad.net/blog/2026/07/24/web-review-week-2026-30/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/07/24 [#259 Color Management](https://thisweek.gnome.org/posts/2026/07/twig-259/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/07/24 [Self-Host Weekly (24 July 2026)](https://selfh.st/weekly/2026-07-24/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/07/24 [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/24 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/23 [科技創業週報 #542：瀏覽器正從網路入口變成 AI 工作代理人：OpenAI、Google 與 Perplexity 的 AI Browser 戰爭](https://blog.starrocket.io/posts/newsletter-2026-07-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -15,14 +30,8 @@
 ## FOSS Weekly
 - 2026/07/23 [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30) | [More](channels/FOSS%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2026/07/23 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/23 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 偷懒爱好者周刊
-- 2026/07/22 [第193期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/07/22 [第193期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/07/20 [第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -50,15 +59,6 @@
 
 ## This Week in Plasma
 - 2026/07/18 [This Week in Plasma: Shadows for Steam and Discord](https://blogs.kde.org/2026/07/18/this-week-in-plasma-shadows-for-steam-and-discord/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/07/17 [Web Review, Week 2026-29](https://ervin.ipsquad.net/blog/2026/07/17/web-review-week-2026-29/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/07/17 [#258 GUADEC 2026](https://thisweek.gnome.org/posts/2026/07/twig-258/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/07/17 [Self-Host Weekly (17 July 2026)](https://selfh.st/weekly/2026-07-17/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 胡言乱语
 - 2026/07/15 [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

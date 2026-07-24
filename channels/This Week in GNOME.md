@@ -1,3 +1,4 @@
+- [#259 Color Management](https://thisweek.gnome.org/posts/2026/07/twig-259/)
 - [#258 GUADEC 2026](https://thisweek.gnome.org/posts/2026/07/twig-258/)
 - [#257 Pixel Density](https://thisweek.gnome.org/posts/2026/07/twig-257/)
 - [#256 Beyond 8-Bit](https://thisweek.gnome.org/posts/2026/07/twig-256/)
