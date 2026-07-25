@@ -3,6 +3,18 @@
 ## 科技爱好者周刊
 - 2026/07/24 [科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 试行错误
+- 2026/07/25 [配图不必把话说满：我开源了一个思维笔触的 Skill｜NL162](https://quaily.com/shixingcuowu/p/no-need-to-say-it-all-i-open-sourced-a-mind-touch-skill-nl162) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## This Week in Plasma
+- 2026/07/25 [This Week in Plasma: Auto-Lock and Unlock for Remote Desktop Sessions](https://blogs.kde.org/2026/07/25/this-week-in-plasma-auto-lock-and-unlock-for-remote-desktop-sessions/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/07/25 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/25 [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/07/24 [Web Review, Week 2026-30](https://ervin.ipsquad.net/blog/2026/07/24/web-review-week-2026-30/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +23,6 @@
 
 ## Self-Host Weekly
 - 2026/07/24 [Self-Host Weekly (24 July 2026)](https://selfh.st/weekly/2026-07-24/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/07/24 [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/24 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/23 [科技創業週報 #542：瀏覽器正從網路入口變成 AI 工作代理人：OpenAI、Google 與 Perplexity 的 AI Browser 戰爭](https://blog.starrocket.io/posts/newsletter-2026-07-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -29,9 +35,6 @@
 
 ## FOSS Weekly
 - 2026/07/23 [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/07/22 [第193期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/07/20 [第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -57,14 +60,8 @@
 ## V2EX 周报
 - 2026/07/19 [✨ V2EX 周报 本周热门主题及高赞回复 07.11-07.17](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/07/18 [This Week in Plasma: Shadows for Steam and Discord](https://blogs.kde.org/2026/07/18/this-week-in-plasma-shadows-for-steam-and-discord/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## 胡言乱语
 - 2026/07/15 [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 试行错误
-- 2026/07/14 [AI时代最大的陷阱：你把每件事都当成了考试｜NL161](https://quaily.com/shixingcuowu/p/ai-era-biggest-trap-you-treat-everything-as-test-nl161) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## Taxodium
 - 2026/07/13 [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | [More](channels/Taxodium.md)

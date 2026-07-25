@@ -1,3 +1,5 @@
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
