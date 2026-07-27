@@ -1,3 +1,4 @@
+- [Weekly Issue-《八仙》](https://zdyxry.github.io/2026/07/26/Weekly-Issue-all-wishes-come-true/)
 - [Weekly Issue-《良渚密码》](https://zdyxry.github.io/2026/07/19/Weekly-Issue-liangzhu/)
 - [Weekly Issue-《唱唱唱唱反调反调》](https://zdyxry.github.io/2026/07/12/Weekly-Issue-opposite/)
 - [Weekly Issue-玩桌游](https://zdyxry.github.io/2026/07/05/Weekly-Issue-boardgame/)

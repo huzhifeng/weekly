@@ -1,3 +1,4 @@
+- [【CDT周报】第277期：今天你要到了狗权，明天是不是就要人权？](https://chinadigitaltimes.net/chinese/729864.html)
 - [【CDT周报】第276期：禁止卖书和违规种地，本质上没什么不同](https://chinadigitaltimes.net/chinese/729579.html)
 - [【CDT周报】第275期：缺而不崩的溃口，张不开口的呐喊](https://chinadigitaltimes.net/chinese/729326.html)
 - [【CDT周报】第274期：我们真正需要悲哀的，是我们失去了自己的国家](https://chinadigitaltimes.net/chinese/729028.html)

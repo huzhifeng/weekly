@@ -6,14 +6,35 @@
 ## 潮流周刊
 - 2026/07/27 [第275期 - 蓝色黄昏](https://weekly.tw93.fun/posts/275/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2026/07/26 [✨ V2EX 周报 本周热门主题及高赞回复 07.18-07.24](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+## CDT周报
+- 2026/07/27 [【CDT周报】第277期：今天你要到了狗权，明天是不是就要人权？](https://chinadigitaltimes.net/chinese/729864.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/07/27 [一周杂记 in Week 4 July 2026](http://kingsamchen.github.io/2026/07/27/weekly-2026-july-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/07/27 [AIGC Weekly #181](https://quaily.com/op7418/p/aigc-weekly-one-eighty-one) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/07/27 [DistroWatch Weekly, Issue 1183](https://distrowatch.com/weekly.php?issue=20260727) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/07/27 [9to5Linux Weekly Roundup: July 26th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-26th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/07/27 [Ubuntu Weekly Newsletter Issue 955](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-955/85673) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## GitHub Trending Weekly
-- 2026/07/26 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/07/27 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/07/26 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/07/27 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## zdyxry Weekly Issue
+- 2026/07/26 [Weekly Issue-《八仙》](https://zdyxry.github.io/2026/07/26/Weekly-Issue-all-wishes-come-true/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## V2EX 周报
+- 2026/07/26 [✨ V2EX 周报 本周热门主题及高赞回复 07.18-07.24](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 试行错误
 - 2026/07/25 [配图不必把话说满：我开源了一个思维笔触的 Skill｜NL162](https://quaily.com/shixingcuowu/p/no-need-to-say-it-all-i-open-sourced-a-mind-touch-skill-nl162) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -44,24 +65,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/07/22 [第193期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/07/20 [【CDT周报】第276期：禁止卖书和违规种地，本质上没什么不同](https://chinadigitaltimes.net/chinese/729579.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2026/07/20 [一周杂记 in Week 3 July 2026](http://kingsamchen.github.io/2026/07/21/weekly-2026-july-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/07/20 [AIGC Weekly #180](https://quaily.com/op7418/p/aigc-weekly-one-eighty) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/07/20 [DistroWatch Weekly, Issue 1182](https://distrowatch.com/weekly.php?issue=20260720) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/07/20 [Ubuntu Weekly Newsletter Issue 954](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-954/85383) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/07/19 [Weekly Issue-《良渚密码》](https://zdyxry.github.io/2026/07/19/Weekly-Issue-liangzhu/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 胡言乱语
 - 2026/07/15 [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
