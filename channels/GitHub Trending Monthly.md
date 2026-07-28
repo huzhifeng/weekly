@@ -1,3 +1,4 @@
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2)
