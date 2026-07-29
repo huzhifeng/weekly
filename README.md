@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2026/07/24 [科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Taxodium
+- 2026/07/29 [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | [More](channels/Taxodium.md)
+
+## 偷懒爱好者周刊
+- 2026/07/29 [第194期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/29/第194期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/07/29 [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/29 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
 
 ## 胡言乱语
 - 2026/07/28 [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2026/07/28 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/28 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/07/27 [第275期 - 蓝色黄昏](https://weekly.tw93.fun/posts/275/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -68,12 +74,6 @@
 
 ## FOSS Weekly
 - 2026/07/23 [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/07/22 [第193期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/22/第193期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Taxodium
-- 2026/07/13 [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | [More](channels/Taxodium.md)
 
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
