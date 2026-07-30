@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/07/24 [科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/07/30 [科技創業週報 #543：智慧眼鏡會取代手機螢幕嗎？從三星與Google 的 Gemini 眼鏡，看AI 時代新界面的競爭](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-543%ef%bc%9a%e6%99%ba%e6%85%a7%e7%9c%bc%e9%8f%a1%e6%9c%83%e5%8f%96%e4%bb%a3%e6%89%8b%e6%a9%9f%e8%9e%a2%e5%b9%95%e5%97%8e%ef%bc%9f%e5%be%9e/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/07/30 [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/07/30 [LWN.net Weekly Edition for July 30, 2026](https://lwn.net/Articles/1084315/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/07/30 [FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More](https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/07/30 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/30 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Taxodium
 - 2026/07/29 [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | [More](channels/Taxodium.md)
 
 ## 偷懒爱好者周刊
 - 2026/07/29 [第194期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/29/第194期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2026/07/29 [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/29 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
@@ -62,18 +74,6 @@
 
 ## Self-Host Weekly
 - 2026/07/24 [Self-Host Weekly (24 July 2026)](https://selfh.st/weekly/2026-07-24/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/07/23 [科技創業週報 #542：瀏覽器正從網路入口變成 AI 工作代理人：OpenAI、Google 與 Perplexity 的 AI Browser 戰爭](https://blog.starrocket.io/posts/newsletter-2026-07-22/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/07/23 [学习周刊-总第273期-2026年第30周](https://wiki.eryajf.net/pages/8085fe/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/07/23 [LWN.net Weekly Edition for July 23, 2026](https://lwn.net/Articles/1083123/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/07/23 [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30) | [More](channels/FOSS%20Weekly.md)
 
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)

@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More](https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31)
 - [FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff](https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30)
 - [FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More](https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29)
 - [FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More](https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28)
