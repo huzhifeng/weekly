@@ -1,3 +1,4 @@
+- [stablyai/orca](https://github.com/stablyai/orca)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)

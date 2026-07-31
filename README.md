@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/07/24 [科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/07/31 [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/07/31 [Web Review, Week 2026-31](https://ervin.ipsquad.net/blog/2026/07/31/web-review-week-2026-31/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/07/31 [#260 Freezing](https://thisweek.gnome.org/posts/2026/07/twig-260/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/07/31 [Self-Host Weekly (31 July 2026)](https://selfh.st/weekly/2026-07-31/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/07/31 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/07/31 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/30 [科技創業週報 #543：智慧眼鏡會取代手機螢幕嗎？從三星與Google 的 Gemini 眼鏡，看AI 時代新界面的競爭](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-543%ef%bc%9a%e6%99%ba%e6%85%a7%e7%9c%bc%e9%8f%a1%e6%9c%83%e5%8f%96%e4%bb%a3%e6%89%8b%e6%a9%9f%e8%9e%a2%e5%b9%95%e5%97%8e%ef%bc%9f%e5%be%9e/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/07/30 [FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More](https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/07/30 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/30 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Taxodium
 - 2026/07/29 [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | [More](channels/Taxodium.md)
@@ -66,23 +75,14 @@
 ## This Week in Plasma
 - 2026/07/25 [This Week in Plasma: Auto-Lock and Unlock for Remote Desktop Sessions](https://blogs.kde.org/2026/07/25/this-week-in-plasma-auto-lock-and-unlock-for-remote-desktop-sessions/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## Web Review
-- 2026/07/24 [Web Review, Week 2026-30](https://ervin.ipsquad.net/blog/2026/07/24/web-review-week-2026-30/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/07/24 [#259 Color Management](https://thisweek.gnome.org/posts/2026/07/twig-259/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/07/24 [Self-Host Weekly (24 July 2026)](https://selfh.st/weekly/2026-07-24/) | [More](channels/Self-Host%20Weekly.md)
+## GitHub一周热点汇总
+- 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/07/12 [6 月小结｜一半是梅雨，多半是工具](https://quaily.com/jiayifun/p/june-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## GitHub一周热点汇总
-- 2026/07/10 [GitHub一周热点第122期](https://itcoffee66.github.io/githubweekly/122.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
 ## 猫鱼周刊
 - 2026/06/28 [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)
