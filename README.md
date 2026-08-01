@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/07/31 [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/08/01 [This Week in Plasma: Emoji Resizing](https://blogs.kde.org/2026/08/01/this-week-in-plasma-emoji-resizing/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/08/01 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/01 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/07/31 [Web Review, Week 2026-31](https://ervin.ipsquad.net/blog/2026/07/31/web-review-week-2026-31/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +20,6 @@
 
 ## Self-Host Weekly
 - 2026/07/31 [Self-Host Weekly (31 July 2026)](https://selfh.st/weekly/2026-07-31/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/07/31 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/07/31 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/07/30 [科技創業週報 #543：智慧眼鏡會取代手機螢幕嗎？從三星與Google 的 Gemini 眼鏡，看AI 時代新界面的競爭](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-543%ef%bc%9a%e6%99%ba%e6%85%a7%e7%9c%bc%e9%8f%a1%e6%9c%83%e5%8f%96%e4%bb%a3%e6%89%8b%e6%a9%9f%e8%9e%a2%e5%b9%95%e5%97%8e%ef%bc%9f%e5%be%9e/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -57,9 +60,6 @@
 ## DistroWatch Weekly
 - 2026/07/27 [DistroWatch Weekly, Issue 1183](https://distrowatch.com/weekly.php?issue=20260727) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/07/27 [9to5Linux Weekly Roundup: July 26th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-july-26th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/07/27 [Ubuntu Weekly Newsletter Issue 955](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-955/85673) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -71,9 +71,6 @@
 
 ## 试行错误
 - 2026/07/25 [配图不必把话说满：我开源了一个思维笔触的 Skill｜NL162](https://quaily.com/shixingcuowu/p/no-need-to-say-it-all-i-open-sourced-a-mind-touch-skill-nl162) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## This Week in Plasma
-- 2026/07/25 [This Week in Plasma: Auto-Lock and Unlock for Remote Desktop Sessions](https://blogs.kde.org/2026/07/25/this-week-in-plasma-auto-lock-and-unlock-for-remote-desktop-sessions/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)

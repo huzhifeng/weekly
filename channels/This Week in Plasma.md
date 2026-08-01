@@ -1,3 +1,4 @@
+- [This Week in Plasma: Emoji Resizing](https://blogs.kde.org/2026/08/01/this-week-in-plasma-emoji-resizing/)
 - [This Week in Plasma: Auto-Lock and Unlock for Remote Desktop Sessions](https://blogs.kde.org/2026/07/25/this-week-in-plasma-auto-lock-and-unlock-for-remote-desktop-sessions/)
 - [This Week in Plasma: Shadows for Steam and Discord](https://blogs.kde.org/2026/07/18/this-week-in-plasma-shadows-for-steam-and-discord/)
 - [This Week in Plasma: Audio Recording in Spectacle](https://blogs.kde.org/2026/07/11/this-week-in-plasma-audio-recording-in-spectacle/)
