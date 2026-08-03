@@ -1,3 +1,4 @@
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 - [block/buzz](https://github.com/block/buzz)

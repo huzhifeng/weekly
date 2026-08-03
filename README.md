@@ -6,17 +6,35 @@
 ## 潮流周刊
 - 2026/08/03 [第276期 - 树和建筑](https://weekly.tw93.fun/posts/276/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/08/03 [【CDT周报】第278期：脱离原生学校，活出统战价值](https://chinadigitaltimes.net/chinese/730176.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## Taxodium
+- 2026/08/03 [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | [More](channels/Taxodium.md)
+
+## AIGC Weekly
+- 2026/08/03 [AIGC Weekly #182](https://quaily.com/op7418/p/aigc-weekly-tv6mxflt) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/08/03 [DistroWatch Weekly, Issue 1184](https://distrowatch.com/weekly.php?issue=20260803) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/08/03 [9to5Linux Weekly Roundup: August 2nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-2nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## GitHub Trending Weekly
+- 2026/08/03 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/03 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 试行错误
 - 2026/08/02 [不需要最强的 Agent，Pi 够轻量、够顺手｜NL163](https://quaily.com/shixingcuowu/p/no-need-for-strong-agent-pi-lightweight-and-user-friendly-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
+## zdyxry Weekly Issue
+- 2026/08/02 [Weekly Issue-搬家](https://zdyxry.github.io/2026/08/02/Weekly-Issue-moving/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/08/02 [✨ V2EX 周报 本周热门主题及高赞回复 07.25-07.31](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/08/02 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/02 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/08/01 [This Week in Plasma: Emoji Resizing](https://blogs.kde.org/2026/08/01/this-week-in-plasma-emoji-resizing/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -42,9 +60,6 @@
 ## FOSS Weekly
 - 2026/07/30 [FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More](https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31) | [More](channels/FOSS%20Weekly.md)
 
-## Taxodium
-- 2026/07/29 [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | [More](channels/Taxodium.md)
-
 ## 偷懒爱好者周刊
 - 2026/07/29 [第194期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/29/第194期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
@@ -54,23 +69,11 @@
 ## 胡言乱语
 - 2026/07/28 [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## CDT周报
-- 2026/07/27 [【CDT周报】第277期：今天你要到了狗权，明天是不是就要人权？](https://chinadigitaltimes.net/chinese/729864.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 一周杂记
 - 2026/07/27 [一周杂记 in Week 4 July 2026](http://kingsamchen.github.io/2026/07/27/weekly-2026-july-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## AIGC Weekly
-- 2026/07/27 [AIGC Weekly #181](https://quaily.com/op7418/p/aigc-weekly-one-eighty-one) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/07/27 [DistroWatch Weekly, Issue 1183](https://distrowatch.com/weekly.php?issue=20260727) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/07/27 [Ubuntu Weekly Newsletter Issue 955](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-955/85673) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/07/26 [Weekly Issue-《八仙》](https://zdyxry.github.io/2026/07/26/Weekly-Issue-all-wishes-come-true/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
