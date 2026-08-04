@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/07/31 [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 一周杂记
+- 2026/08/04 [一周杂记 in Week 5 July 2026](http://kingsamchen.github.io/2026/08/04/weekly-2026-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## GitHub Trending Weekly
+- 2026/08/04 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/04 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/08/03 [第276期 - 树和建筑](https://weekly.tw93.fun/posts/276/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -21,11 +30,8 @@
 ## 9to5Linux Weekly Roundup
 - 2026/08/03 [9to5Linux Weekly Roundup: August 2nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-2nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
-## GitHub Trending Weekly
-- 2026/08/03 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/03 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2026/08/03 [Ubuntu Weekly Newsletter Issue 956](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-956/85865) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 试行错误
 - 2026/08/02 [不需要最强的 Agent，Pi 够轻量、够顺手｜NL163](https://quaily.com/shixingcuowu/p/no-need-for-strong-agent-pi-lightweight-and-user-friendly-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -69,12 +75,6 @@
 ## 胡言乱语
 - 2026/07/28 [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 一周杂记
-- 2026/07/27 [一周杂记 in Week 4 July 2026](http://kingsamchen.github.io/2026/07/27/weekly-2026-july-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/07/27 [Ubuntu Weekly Newsletter Issue 955](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-955/85673) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
@@ -104,9 +104,6 @@
 
 ## 视野修炼
 - 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 印记周报
-- 2026/03/01 [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html) | [More](channels/%E5%8D%B0%E8%AE%B0%E5%91%A8%E6%8A%A5.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
