@@ -1,3 +1,5 @@
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+- [lyogavin/airllm](https://github.com/lyogavin/airllm)
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)

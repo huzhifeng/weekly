@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/07/31 [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2026/08/04 [一周杂记 in Week 5 July 2026](http://kingsamchen.github.io/2026/08/04/weekly-2026-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+## 偷懒爱好者周刊
+- 2026/08/05 [第195期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/05/第195期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/08/04 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/05 [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/04 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/05 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 一周杂记
+- 2026/08/04 [一周杂记 in Week 5 July 2026](http://kingsamchen.github.io/2026/08/04/weekly-2026-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## 潮流周刊
 - 2026/08/03 [第276期 - 树和建筑](https://weekly.tw93.fun/posts/276/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -65,9 +68,6 @@
 
 ## FOSS Weekly
 - 2026/07/30 [FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More](https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/07/29 [第194期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/29/第194期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
