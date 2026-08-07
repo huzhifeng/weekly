@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/08/07 [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Web Review
+- 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/08/07 [#261 Sushi Boxes](https://thisweek.gnome.org/posts/2026/08/twig-261/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/08/07 [Self-Host Weekly (7 August 2026)](https://selfh.st/weekly/2026-08-07/) | [More](channels/Self-Host%20Weekly.md)
+
 ## GitHub Trending Weekly
 - 2026/08/07 [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
@@ -56,15 +65,6 @@
 
 ## This Week in Plasma
 - 2026/08/01 [This Week in Plasma: Emoji Resizing](https://blogs.kde.org/2026/08/01/this-week-in-plasma-emoji-resizing/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/07/31 [Web Review, Week 2026-31](https://ervin.ipsquad.net/blog/2026/07/31/web-review-week-2026-31/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/07/31 [#260 Freezing](https://thisweek.gnome.org/posts/2026/07/twig-260/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/07/31 [Self-Host Weekly (31 July 2026)](https://selfh.st/weekly/2026-07-31/) | [More](channels/Self-Host%20Weekly.md)
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
