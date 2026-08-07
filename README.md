@@ -1,16 +1,28 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/07/31 [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/08/07 [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/08/07 [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/07 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2026/08/06 [科技創業週報 #544：Tau Robotics 推出每小時 30 美元家用機器人清潔，競爭家庭資料蒐集與自主化速度](https://blog.starrocket.io/posts/newsletter-2026-08-05/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/08/06 [学习周刊-总第275期-2026年第32周](https://wiki.eryajf.net/pages/961c90/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/08/06 [LWN.net Weekly Edition for August 6, 2026](https://lwn.net/Articles/1086134/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/08/06 [FOSS Weekly #26.32: Kittens, Feed Readers, Free Bash Course, No AI in Kernel Staging and More](https://feed.itsfoss.com/link/24361/17404403/foss-weekly-26-32) | [More](channels/FOSS%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/08/05 [第195期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/05/第195期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## GitHub Trending Weekly
-- 2026/08/05 [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/05 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 一周杂记
 - 2026/08/04 [一周杂记 in Week 5 July 2026](http://kingsamchen.github.io/2026/08/04/weekly-2026-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -29,9 +41,6 @@
 
 ## DistroWatch Weekly
 - 2026/08/03 [DistroWatch Weekly, Issue 1184](https://distrowatch.com/weekly.php?issue=20260803) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/08/03 [9to5Linux Weekly Roundup: August 2nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-2nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/08/03 [Ubuntu Weekly Newsletter Issue 956](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-956/85865) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -56,18 +65,6 @@
 
 ## Self-Host Weekly
 - 2026/07/31 [Self-Host Weekly (31 July 2026)](https://selfh.st/weekly/2026-07-31/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/07/30 [科技創業週報 #543：智慧眼鏡會取代手機螢幕嗎？從三星與Google 的 Gemini 眼鏡，看AI 時代新界面的競爭](https://blog.starrocket.io/posts/%e7%a7%91%e6%8a%80%e5%89%b5%e6%a5%ad%e9%80%b1%e5%a0%b1-543%ef%bc%9a%e6%99%ba%e6%85%a7%e7%9c%bc%e9%8f%a1%e6%9c%83%e5%8f%96%e4%bb%a3%e6%89%8b%e6%a9%9f%e8%9e%a2%e5%b9%95%e5%97%8e%ef%bc%9f%e5%be%9e/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/07/30 [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/07/30 [LWN.net Weekly Edition for July 30, 2026](https://lwn.net/Articles/1084315/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/07/30 [FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More](https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31) | [More](channels/FOSS%20Weekly.md)
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
