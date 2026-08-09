@@ -1,3 +1,4 @@
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [lyogavin/airllm](https://github.com/lyogavin/airllm)

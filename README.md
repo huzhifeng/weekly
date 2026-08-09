@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/08/07 [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/08/08 [This Week in Plasma: UI Improvements Galore](https://blogs.kde.org/2026/08/08/this-week-in-plasma-ui-improvements-galore/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/08/10 [第277期 - 小叶赤楠](https://weekly.tw93.fun/posts/277/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## V2EX 周报
+- 2026/08/09 [✨ V2EX 周报 本周热门主题及高赞回复 08.01-08.07](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/08/08 [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/09 [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/08 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/09 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/08/08 [This Week in Plasma: UI Improvements Galore](https://blogs.kde.org/2026/08/08/this-week-in-plasma-ui-improvements-galore/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
@@ -39,9 +45,6 @@
 ## 一周杂记
 - 2026/08/04 [一周杂记 in Week 5 July 2026](http://kingsamchen.github.io/2026/08/04/weekly-2026-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## 潮流周刊
-- 2026/08/03 [第276期 - 树和建筑](https://weekly.tw93.fun/posts/276/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/08/03 [【CDT周报】第278期：脱离原生学校，活出统战价值](https://chinadigitaltimes.net/chinese/730176.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -62,9 +65,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/08/02 [Weekly Issue-搬家](https://zdyxry.github.io/2026/08/02/Weekly-Issue-moving/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/08/02 [✨ V2EX 周报 本周热门主题及高赞回复 07.25-07.31](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)

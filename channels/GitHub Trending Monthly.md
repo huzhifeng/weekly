@@ -1,3 +1,4 @@
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [stablyai/orca](https://github.com/stablyai/orca)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
