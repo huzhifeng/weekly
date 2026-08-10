@@ -1,3 +1,4 @@
+- [【CDT周报】第279期：知了不让说就算了，你个竹知了又算老几？！](https://chinadigitaltimes.net/chinese/730357.html)
 - [【CDT周报】第278期：脱离原生学校，活出统战价值](https://chinadigitaltimes.net/chinese/730176.html)
 - [【CDT周报】第277期：今天你要到了狗权，明天是不是就要人权？](https://chinadigitaltimes.net/chinese/729864.html)
 - [【CDT周报】第276期：禁止卖书和违规种地，本质上没什么不同](https://chinadigitaltimes.net/chinese/729579.html)

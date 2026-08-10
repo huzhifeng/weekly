@@ -6,14 +6,35 @@
 ## 潮流周刊
 - 2026/08/10 [第277期 - 小叶赤楠](https://weekly.tw93.fun/posts/277/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2026/08/09 [✨ V2EX 周报 本周热门主题及高赞回复 08.01-08.07](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+## CDT周报
+- 2026/08/10 [【CDT周报】第279期：知了不让说就算了，你个竹知了又算老几？！](https://chinadigitaltimes.net/chinese/730357.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/08/10 [一周杂记 in Week 1 Aug 2026](http://kingsamchen.github.io/2026/08/10/weekly-2026-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/08/10 [AIGC Weekly #183](https://quaily.com/op7418/p/aigc-weekly-one-eighty-three) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/08/10 [DistroWatch Weekly, Issue 1185](https://distrowatch.com/weekly.php?issue=20260810) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/08/10 [9to5Linux Weekly Roundup: August 9th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-9th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/08/10 [Ubuntu Weekly Newsletter Issue 957](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-957/86061) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## GitHub Trending Weekly
-- 2026/08/09 [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/10 [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/09 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/10 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## zdyxry Weekly Issue
+- 2026/08/09 [Weekly Issue-《缝纫机与金鱼》](https://zdyxry.github.io/2026/08/09/Weekly-Issue-sewing-machine-and-goldfish/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## V2EX 周报
+- 2026/08/09 [✨ V2EX 周报 本周热门主题及高赞回复 08.01-08.07](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Plasma
 - 2026/08/08 [This Week in Plasma: UI Improvements Galore](https://blogs.kde.org/2026/08/08/this-week-in-plasma-ui-improvements-galore/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -42,29 +63,11 @@
 ## 偷懒爱好者周刊
 - 2026/08/05 [第195期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/05/第195期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 一周杂记
-- 2026/08/04 [一周杂记 in Week 5 July 2026](http://kingsamchen.github.io/2026/08/04/weekly-2026-july-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## CDT周报
-- 2026/08/03 [【CDT周报】第278期：脱离原生学校，活出统战价值](https://chinadigitaltimes.net/chinese/730176.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## Taxodium
 - 2026/08/03 [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | [More](channels/Taxodium.md)
 
-## AIGC Weekly
-- 2026/08/03 [AIGC Weekly #182](https://quaily.com/op7418/p/aigc-weekly-tv6mxflt) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/08/03 [DistroWatch Weekly, Issue 1184](https://distrowatch.com/weekly.php?issue=20260803) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/08/03 [Ubuntu Weekly Newsletter Issue 956](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-956/85865) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 试行错误
 - 2026/08/02 [不需要最强的 Agent，Pi 够轻量、够顺手｜NL163](https://quaily.com/shixingcuowu/p/no-need-for-strong-agent-pi-lightweight-and-user-friendly-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## zdyxry Weekly Issue
-- 2026/08/02 [Weekly Issue-搬家](https://zdyxry.github.io/2026/08/02/Weekly-Issue-moving/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)

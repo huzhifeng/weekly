@@ -1,3 +1,4 @@
+- [Weekly Issue-《缝纫机与金鱼》](https://zdyxry.github.io/2026/08/09/Weekly-Issue-sewing-machine-and-goldfish/)
 - [Weekly Issue-搬家](https://zdyxry.github.io/2026/08/02/Weekly-Issue-moving/)
 - [Weekly Issue-《八仙》](https://zdyxry.github.io/2026/07/26/Weekly-Issue-all-wishes-come-true/)
 - [Weekly Issue-《良渚密码》](https://zdyxry.github.io/2026/07/19/Weekly-Issue-liangzhu/)
