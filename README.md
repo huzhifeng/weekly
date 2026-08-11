@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/08/07 [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 胡言乱语
+- 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
+## GitHub Trending Weekly
+- 2026/08/11 [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/11 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/08/10 [第277期 - 小叶赤楠](https://weekly.tw93.fun/posts/277/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -23,12 +32,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/08/10 [Ubuntu Weekly Newsletter Issue 957](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-957/86061) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/08/10 [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/10 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## zdyxry Weekly Issue
 - 2026/08/09 [Weekly Issue-《缝纫机与金鱼》](https://zdyxry.github.io/2026/08/09/Weekly-Issue-sewing-machine-and-goldfish/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -71,9 +74,6 @@
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
-
-## 胡言乱语
-- 2026/07/28 [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
