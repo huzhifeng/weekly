@@ -1,3 +1,4 @@
+- [cloudflare/computer](https://github.com/cloudflare/computer)
 - [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
