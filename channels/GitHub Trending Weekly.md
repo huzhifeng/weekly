@@ -1,3 +1,4 @@
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
 - [cloudflare/computer](https://github.com/cloudflare/computer)
 - [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
