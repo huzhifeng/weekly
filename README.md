@@ -1,7 +1,19 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/08/07 [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/08/13 [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## This Week in GNOME
+- 2026/08/14 [#262 Minor Major Update](https://thisweek.gnome.org/posts/2026/08/twig-262/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/08/14 [Self-Host Weekly (14 August 2026)](https://selfh.st/weekly/2026-08-14/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/08/14 [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/14 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/08/13 [科技創業週報 #545：從 OpenAI 收購 NextSlide，看見 AI 正逐漸走向協助人完成工作](https://blog.starrocket.io/posts/newsletter-2026-08-12/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +26,6 @@
 
 ## FOSS Weekly
 - 2026/08/13 [FOSS Weekly #26.33: Mint Kernel, PDF Editing, VLC Drama, Omarchy Quattro and More Linux Stuff](https://feed.itsfoss.com/link/24361/17417251/foss-weekly-26-33) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/08/13 [cloudflare/computer](https://github.com/cloudflare/computer) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/13 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/08/12 [第196期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/12/第196期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -42,9 +48,6 @@
 ## DistroWatch Weekly
 - 2026/08/10 [DistroWatch Weekly, Issue 1185](https://distrowatch.com/weekly.php?issue=20260810) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/08/10 [9to5Linux Weekly Roundup: August 9th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-9th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/08/10 [Ubuntu Weekly Newsletter Issue 957](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-957/86061) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -59,12 +62,6 @@
 
 ## Web Review
 - 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/08/07 [#261 Sushi Boxes](https://thisweek.gnome.org/posts/2026/08/twig-261/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/08/07 [Self-Host Weekly (7 August 2026)](https://selfh.st/weekly/2026-08-07/) | [More](channels/Self-Host%20Weekly.md)
 
 ## Taxodium
 - 2026/08/03 [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | [More](channels/Taxodium.md)

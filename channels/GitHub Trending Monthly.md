@@ -1,3 +1,4 @@
+- [1jehuang/jcode](https://github.com/1jehuang/jcode)
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [stablyai/orca](https://github.com/stablyai/orca)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)

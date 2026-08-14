@@ -1,3 +1,4 @@
+- [#262 Minor Major Update](https://thisweek.gnome.org/posts/2026/08/twig-262/)
 - [#261 Sushi Boxes](https://thisweek.gnome.org/posts/2026/08/twig-261/)
 - [#260 Freezing](https://thisweek.gnome.org/posts/2026/07/twig-260/)
 - [#259 Color Management](https://thisweek.gnome.org/posts/2026/07/twig-259/)

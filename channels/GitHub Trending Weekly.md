@@ -1,3 +1,5 @@
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+- [google/skills](https://github.com/google/skills)
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
 - [cloudflare/computer](https://github.com/cloudflare/computer)
 - [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
