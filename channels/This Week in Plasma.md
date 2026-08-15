@@ -1,3 +1,4 @@
+- [This Week in Plasma: Bi-Directional RDP Clipboard Sync](https://blogs.kde.org/2026/08/15/this-week-in-plasma-bi-directional-rdp-clipboard-sync/)
 - [This Week in Plasma: UI Improvements Galore](https://blogs.kde.org/2026/08/08/this-week-in-plasma-ui-improvements-galore/)
 - [This Week in Plasma: Emoji Resizing](https://blogs.kde.org/2026/08/01/this-week-in-plasma-emoji-resizing/)
 - [This Week in Plasma: Auto-Lock and Unlock for Remote Desktop Sessions](https://blogs.kde.org/2026/07/25/this-week-in-plasma-auto-lock-and-unlock-for-remote-desktop-sessions/)
