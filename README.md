@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/08/13 [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/08/15 [This Week in Plasma: Bi-Directional RDP Clipboard Sync](https://blogs.kde.org/2026/08/15/this-week-in-plasma-bi-directional-rdp-clipboard-sync/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/08/17 [第278期 - 大巧若拙](https://weekly.tw93.fun/posts/278/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 更好生活
+- 2026/08/16 [7 月小结｜也许做产品，才是我的 Calling](https://quaily.com/jiayifun/p/july-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## V2EX 周报
+- 2026/08/16 [✨ V2EX 周报 本周热门主题及高赞回复 08.08-08.14](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/08/15 [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/16 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/15 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/16 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/08/15 [This Week in Plasma: Bi-Directional RDP Clipboard Sync](https://blogs.kde.org/2026/08/15/this-week-in-plasma-bi-directional-rdp-clipboard-sync/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## This Week in GNOME
 - 2026/08/14 [#262 Minor Major Update](https://thisweek.gnome.org/posts/2026/08/twig-262/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -36,9 +45,6 @@
 ## 胡言乱语
 - 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2026/08/10 [第277期 - 小叶赤楠](https://weekly.tw93.fun/posts/277/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/08/10 [【CDT周报】第279期：知了不让说就算了，你个竹知了又算老几？！](https://chinadigitaltimes.net/chinese/730357.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -57,9 +63,6 @@
 ## zdyxry Weekly Issue
 - 2026/08/09 [Weekly Issue-《缝纫机与金鱼》](https://zdyxry.github.io/2026/08/09/Weekly-Issue-sewing-machine-and-goldfish/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/08/09 [✨ V2EX 周报 本周热门主题及高赞回复 08.01-08.07](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## Web Review
 - 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
 
@@ -77,9 +80,6 @@
 
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
-
-## 更好生活
-- 2026/07/12 [6 月小结｜一半是梅雨，多半是工具](https://quaily.com/jiayifun/p/june-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## 猫鱼周刊
 - 2026/06/28 [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | [More](channels/%E7%8C%AB%E9%B1%BC%E5%91%A8%E5%88%8A.md)

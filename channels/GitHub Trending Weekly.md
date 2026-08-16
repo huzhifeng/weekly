@@ -1,3 +1,4 @@
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 - [google/skills](https://github.com/google/skills)
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
