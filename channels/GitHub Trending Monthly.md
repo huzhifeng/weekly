@@ -1,3 +1,4 @@
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - [1jehuang/jcode](https://github.com/1jehuang/jcode)
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [stablyai/orca](https://github.com/stablyai/orca)

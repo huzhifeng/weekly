@@ -6,17 +6,35 @@
 ## 潮流周刊
 - 2026/08/17 [第278期 - 大巧若拙](https://weekly.tw93.fun/posts/278/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/08/17 [【CDT周报】第280期：西边的太阳就要落山了，紫禁城中静悄悄](https://chinadigitaltimes.net/chinese/730627.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/08/17 [AIGC Weekly #184](https://quaily.com/op7418/p/aigc-weekly-kd19gjhq) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/08/17 [DistroWatch Weekly, Issue 1186](https://distrowatch.com/weekly.php?issue=20260817) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/08/17 [9to5Linux Weekly Roundup: August 16th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-16th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/08/17 [Ubuntu Weekly Newsletter Issue 958](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-958/86309) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/08/17 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/17 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 更好生活
 - 2026/08/16 [7 月小结｜也许做产品，才是我的 Calling](https://quaily.com/jiayifun/p/july-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
+## zdyxry Weekly Issue
+- 2026/08/16 [Weekly Issue-《欢迎来龙餐馆》](https://zdyxry.github.io/2026/08/16/Weekly-Issue-Once-Upon-a-Time-in-the-Middle-East/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/08/16 [✨ V2EX 周报 本周热门主题及高赞回复 08.08-08.14](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/08/16 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/16 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/08/15 [This Week in Plasma: Bi-Directional RDP Clipboard Sync](https://blogs.kde.org/2026/08/15/this-week-in-plasma-bi-directional-rdp-clipboard-sync/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -45,23 +63,8 @@
 ## 胡言乱语
 - 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## CDT周报
-- 2026/08/10 [【CDT周报】第279期：知了不让说就算了，你个竹知了又算老几？！](https://chinadigitaltimes.net/chinese/730357.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 一周杂记
 - 2026/08/10 [一周杂记 in Week 1 Aug 2026](http://kingsamchen.github.io/2026/08/10/weekly-2026-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/08/10 [AIGC Weekly #183](https://quaily.com/op7418/p/aigc-weekly-one-eighty-three) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/08/10 [DistroWatch Weekly, Issue 1185](https://distrowatch.com/weekly.php?issue=20260810) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/08/10 [Ubuntu Weekly Newsletter Issue 957](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-957/86061) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/08/09 [Weekly Issue-《缝纫机与金鱼》](https://zdyxry.github.io/2026/08/09/Weekly-Issue-sewing-machine-and-goldfish/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Web Review
 - 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
