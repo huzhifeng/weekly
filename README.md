@@ -3,11 +3,20 @@
 ## 科技爱好者周刊
 - 2026/08/13 [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/08/18 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/18 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/08/17 [第278期 - 大巧若拙](https://weekly.tw93.fun/posts/278/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/08/17 [【CDT周报】第280期：西边的太阳就要落山了，紫禁城中静悄悄](https://chinadigitaltimes.net/chinese/730627.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/08/17 [一周杂记 in Week 2 Aug 2026](http://kingsamchen.github.io/2026/08/17/weekly-2026-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2026/08/17 [AIGC Weekly #184](https://quaily.com/op7418/p/aigc-weekly-kd19gjhq) | [More](channels/AIGC%20Weekly.md)
@@ -20,12 +29,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/08/17 [Ubuntu Weekly Newsletter Issue 958](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-958/86309) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/08/17 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/17 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 更好生活
 - 2026/08/16 [7 月小结｜也许做产品，才是我的 Calling](https://quaily.com/jiayifun/p/july-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -62,9 +65,6 @@
 
 ## 胡言乱语
 - 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 一周杂记
-- 2026/08/10 [一周杂记 in Week 1 Aug 2026](http://kingsamchen.github.io/2026/08/10/weekly-2026-aug-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## Web Review
 - 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
