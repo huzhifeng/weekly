@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/08/13 [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/08/19 [第197期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/19/第197期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/08/18 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/19 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/18 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/19 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/08/17 [第278期 - 大巧若拙](https://weekly.tw93.fun/posts/278/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -59,9 +62,6 @@
 
 ## FOSS Weekly
 - 2026/08/13 [FOSS Weekly #26.33: Mint Kernel, PDF Editing, VLC Drama, Omarchy Quattro and More Linux Stuff](https://feed.itsfoss.com/link/24361/17417251/foss-weekly-26-33) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/08/12 [第196期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/12/第196期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
