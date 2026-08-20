@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/08/13 [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/08/19 [第197期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/19/第197期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/08/20 [科技創業週報 #546：品牌行銷正在進入「AI 推薦」的新戰場，廣告變成是給 AI 看，而不是給人看](https://blog.starrocket.io/posts/newsletter-2026-08-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/08/20 [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/08/20 [LWN.net Weekly Edition for August 20, 2026](https://lwn.net/Articles/1088565/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/08/20 [FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More](https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/08/19 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/20 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/19 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/20 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/08/19 [第197期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/19/第197期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/08/17 [第278期 - 大巧若拙](https://weekly.tw93.fun/posts/278/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -26,9 +38,6 @@
 
 ## DistroWatch Weekly
 - 2026/08/17 [DistroWatch Weekly, Issue 1186](https://distrowatch.com/weekly.php?issue=20260817) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/08/17 [9to5Linux Weekly Roundup: August 16th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-16th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/08/17 [Ubuntu Weekly Newsletter Issue 958](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-958/86309) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -50,18 +59,6 @@
 
 ## Self-Host Weekly
 - 2026/08/14 [Self-Host Weekly (14 August 2026)](https://selfh.st/weekly/2026-08-14/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/08/13 [科技創業週報 #545：從 OpenAI 收購 NextSlide，看見 AI 正逐漸走向協助人完成工作](https://blog.starrocket.io/posts/newsletter-2026-08-12/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/08/13 [学习周刊-总第276期-2026年第33周](https://wiki.eryajf.net/pages/630ab4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/08/13 [LWN.net Weekly Edition for August 13, 2026](https://lwn.net/Articles/1087432/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/08/13 [FOSS Weekly #26.33: Mint Kernel, PDF Editing, VLC Drama, Omarchy Quattro and More Linux Stuff](https://feed.itsfoss.com/link/24361/17417251/foss-weekly-26-33) | [More](channels/FOSS%20Weekly.md)
 
 ## 胡言乱语
 - 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

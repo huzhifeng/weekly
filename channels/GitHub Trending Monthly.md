@@ -1,3 +1,4 @@
+- [block/buzz](https://github.com/block/buzz)
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - [1jehuang/jcode](https://github.com/1jehuang/jcode)

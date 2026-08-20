@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More](https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34)
 - [FOSS Weekly #26.33: Mint Kernel, PDF Editing, VLC Drama, Omarchy Quattro and More Linux Stuff](https://feed.itsfoss.com/link/24361/17417251/foss-weekly-26-33)
 - [FOSS Weekly #26.32: Kittens, Feed Readers, Free Bash Course, No AI in Kernel Staging and More](https://feed.itsfoss.com/link/24361/17404403/foss-weekly-26-32)
 - [FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More](https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31)
