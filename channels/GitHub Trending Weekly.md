@@ -1,3 +1,4 @@
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 - [cactus-compute/needle](https://github.com/cactus-compute/needle)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
