@@ -1,3 +1,4 @@
+- [This Week in Plasma: UI and Performance Improvements](https://blogs.kde.org/2026/08/22/this-week-in-plasma-ui-and-performance-improvements/)
 - [This Week in Plasma: Bi-Directional RDP Clipboard Sync](https://blogs.kde.org/2026/08/15/this-week-in-plasma-bi-directional-rdp-clipboard-sync/)
 - [This Week in Plasma: UI Improvements Galore](https://blogs.kde.org/2026/08/08/this-week-in-plasma-ui-improvements-galore/)
 - [This Week in Plasma: Emoji Resizing](https://blogs.kde.org/2026/08/01/this-week-in-plasma-emoji-resizing/)

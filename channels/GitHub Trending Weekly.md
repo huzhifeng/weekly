@@ -1,3 +1,5 @@
+- [cordiverse/cordis](https://github.com/cordiverse/cordis)
+- [cursor/plugins](https://github.com/cursor/plugins)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 - [cactus-compute/needle](https://github.com/cactus-compute/needle)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)

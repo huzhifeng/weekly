@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/08/20 [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Self-Host Weekly
-- 2026/08/21 [Self-Host Weekly (21 August 2026)](https://selfh.st/weekly/2026-08-21/) | [More](channels/Self-Host%20Weekly.md)
+## 有个问题
+- 2026/08/22 [如何与AI相处？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-coexist-with-ai-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## This Week in Plasma
+- 2026/08/22 [This Week in Plasma: UI and Performance Improvements](https://blogs.kde.org/2026/08/22/this-week-in-plasma-ui-and-performance-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## GitHub Trending Weekly
-- 2026/08/21 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/22 [cordiverse/cordis](https://github.com/cordiverse/cordis) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/21 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/22 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Self-Host Weekly
+- 2026/08/21 [Self-Host Weekly (21 August 2026)](https://selfh.st/weekly/2026-08-21/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/08/20 [科技創業週報 #546：品牌行銷正在進入「AI 推薦」的新戰場，廣告變成是給 AI 看，而不是給人看](https://blog.starrocket.io/posts/newsletter-2026-08-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -54,9 +60,6 @@
 ## V2EX 周报
 - 2026/08/16 [✨ V2EX 周报 本周热门主题及高赞回复 08.08-08.14](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/08/15 [This Week in Plasma: Bi-Directional RDP Clipboard Sync](https://blogs.kde.org/2026/08/15/this-week-in-plasma-bi-directional-rdp-clipboard-sync/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## This Week in GNOME
 - 2026/08/14 [#262 Minor Major Update](https://thisweek.gnome.org/posts/2026/08/twig-262/) | [More](channels/This%20Week%20in%20GNOME.md)
 
@@ -86,9 +89,6 @@
 
 ## 棱镜通讯
 - 2026/06/28 [社会学为什么在中国难以发展？｜ 隐说 NO. 27](https://wangyurui.com/posts/she-hui-xue-wei-shi-yao-zai-zhong-guo-nan-yi-fa-112bb4cd) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## 有个问题
-- 2026/06/05 [如何理解时机？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-timing-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## Airing's Weekly
 - 2026/05/23 [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | [More](channels/Airing%27s%20Weekly.md)
