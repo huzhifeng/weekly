@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/08/20 [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/08/24 [第279期 - 风之谷泉](https://weekly.tw93.fun/posts/279/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 试行错误
+- 2026/08/23 [假期有了，目的地还没想好：我做了个工具，把机票价格摊在地图上｜NL164](https://quaily.com/shixingcuowu/p/open-source-fly-where-multi-destination-comparison-bid-fare-tradition-painful-operation-nl164) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## 视野修炼
+- 2026/08/23 [视野修炼第130期 | 光影效果](https://sugarat.top/weekly/2026-08-23.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## V2EX 周报
+- 2026/08/23 [✨ V2EX 周报 本周热门主题及高赞回复 08.15-08.21](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/08/23 [cursor/plugins](https://github.com/cursor/plugins) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/23 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 有个问题
 - 2026/08/22 [如何与AI相处？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-coexist-with-ai-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## This Week in Plasma
 - 2026/08/22 [This Week in Plasma: UI and Performance Improvements](https://blogs.kde.org/2026/08/22/this-week-in-plasma-ui-and-performance-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/08/22 [cordiverse/cordis](https://github.com/cordiverse/cordis) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/22 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Self-Host Weekly
 - 2026/08/21 [Self-Host Weekly (21 August 2026)](https://selfh.st/weekly/2026-08-21/) | [More](channels/Self-Host%20Weekly.md)
@@ -32,9 +44,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/08/19 [第197期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/19/第197期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 潮流周刊
-- 2026/08/17 [第278期 - 大巧若拙](https://weekly.tw93.fun/posts/278/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/08/17 [【CDT周报】第280期：西边的太阳就要落山了，紫禁城中静悄悄](https://chinadigitaltimes.net/chinese/730627.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -57,9 +66,6 @@
 ## zdyxry Weekly Issue
 - 2026/08/16 [Weekly Issue-《欢迎来龙餐馆》](https://zdyxry.github.io/2026/08/16/Weekly-Issue-Once-Upon-a-Time-in-the-Middle-East/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/08/16 [✨ V2EX 周报 本周热门主题及高赞回复 08.08-08.14](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## This Week in GNOME
 - 2026/08/14 [#262 Minor Major Update](https://thisweek.gnome.org/posts/2026/08/twig-262/) | [More](channels/This%20Week%20in%20GNOME.md)
 
@@ -71,9 +77,6 @@
 
 ## Taxodium
 - 2026/08/03 [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | [More](channels/Taxodium.md)
-
-## 试行错误
-- 2026/08/02 [不需要最强的 Agent，Pi 够轻量、够顺手｜NL163](https://quaily.com/shixingcuowu/p/no-need-for-strong-agent-pi-lightweight-and-user-friendly-nl) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## HelloGitHub
 - 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
@@ -98,9 +101,6 @@
 
 ## 肖恩技术周刊
 - 2026/04/24 [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [More](channels/%E8%82%96%E6%81%A9%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A.md)
-
-## 视野修炼
-- 2026/04/12 [视野修炼第129期 | 上一次古法编程是什么时候](https://sugarat.top/weekly/2026-04-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
