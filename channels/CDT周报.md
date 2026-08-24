@@ -1,3 +1,4 @@
+- [【CDT周报】第281期：冥币驱逐不了良币，只能驱逐假币和劣币](https://chinadigitaltimes.net/chinese/730887.html)
 - [【CDT周报】第280期：西边的太阳就要落山了，紫禁城中静悄悄](https://chinadigitaltimes.net/chinese/730627.html)
 - [【CDT周报】第279期：知了不让说就算了，你个竹知了又算老几？！](https://chinadigitaltimes.net/chinese/730357.html)
 - [【CDT周报】第278期：脱离原生学校，活出统战价值](https://chinadigitaltimes.net/chinese/730176.html)
