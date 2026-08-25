@@ -1,3 +1,4 @@
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 - [modular/modular](https://github.com/modular/modular)
 - [cordiverse/cordis](https://github.com/cordiverse/cordis)
 - [cursor/plugins](https://github.com/cursor/plugins)
