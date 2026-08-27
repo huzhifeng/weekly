@@ -3,11 +3,17 @@
 ## 科技爱好者周刊
 - 2026/08/20 [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## LWN.net Weekly Edition
+- 2026/08/27 [LWN.net Weekly Edition for August 27, 2026](https://lwn.net/Articles/1089643/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
 ## GitHub Trending Weekly
-- 2026/08/25 [modular/modular](https://github.com/modular/modular) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/27 [modular/modular](https://github.com/modular/modular) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/25 [block/buzz](https://github.com/block/buzz) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/27 [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/08/26 [第198期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/26/第198期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/08/24 [第279期 - 风之谷泉](https://weekly.tw93.fun/posts/279/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -54,14 +60,8 @@
 ## 二丫讲梵学习周刊
 - 2026/08/20 [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## LWN.net Weekly Edition
-- 2026/08/20 [LWN.net Weekly Edition for August 20, 2026](https://lwn.net/Articles/1088565/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
 ## FOSS Weekly
 - 2026/08/20 [FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More](https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/08/19 [第197期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/19/第197期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 一周杂记
 - 2026/08/17 [一周杂记 in Week 2 Aug 2026](http://kingsamchen.github.io/2026/08/17/weekly-2026-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
