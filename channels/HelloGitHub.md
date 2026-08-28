@@ -1,3 +1,4 @@
+- [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125)
 - [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124)
 - [HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123)
 - [HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122)

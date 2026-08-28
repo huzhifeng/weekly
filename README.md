@@ -1,16 +1,28 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/08/20 [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## HelloGitHub
+- 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
+
+## GitHub Trending Weekly
+- 2026/08/28 [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/28 [basecamp/omarchy](https://github.com/basecamp/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2026/08/27 [科技創業週報 #547：AI 可以幫你做事，但責任不能一起交出去](https://blog.starrocket.io/posts/newsletter-2026-08-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/08/27 [学习周刊-总第278期-2026年第35周](https://wiki.eryajf.net/pages/4327cf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## LWN.net Weekly Edition
 - 2026/08/27 [LWN.net Weekly Edition for August 27, 2026](https://lwn.net/Articles/1089643/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/08/27 [modular/modular](https://github.com/modular/modular) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/27 [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/08/27 [FOSS Weekly #26.35: Performance Boost in Kernel 7.3,   Omarchy Rising, Kernel, Root Demystifed, and More](https://feed.itsfoss.com/link/24361/17432872/foss-weekly-26-35) | [More](channels/FOSS%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/08/26 [第198期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/26/第198期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -21,14 +33,14 @@
 ## CDT周报
 - 2026/08/24 [【CDT周报】第281期：冥币驱逐不了良币，只能驱逐假币和劣币](https://chinadigitaltimes.net/chinese/730887.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
+## 一周杂记
+- 2026/08/24 [一周杂记 in Week 3 Aug 2026](http://kingsamchen.github.io/2026/08/24/weekly-2026-aug-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
 ## AIGC Weekly
 - 2026/08/24 [AIGC Weekly #185](https://quaily.com/op7418/p/aigc-weekly-7fbd1mp4) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2026/08/24 [DistroWatch Weekly, Issue 1187](https://distrowatch.com/weekly.php?issue=20260824) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/08/24 [9to5Linux Weekly Roundup: August 23rd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-23rd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/08/24 [Ubuntu Weekly Newsletter Issue 959](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-959/86642) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -54,18 +66,6 @@
 ## Self-Host Weekly
 - 2026/08/21 [Self-Host Weekly (21 August 2026)](https://selfh.st/weekly/2026-08-21/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/08/20 [科技創業週報 #546：品牌行銷正在進入「AI 推薦」的新戰場，廣告變成是給 AI 看，而不是給人看](https://blog.starrocket.io/posts/newsletter-2026-08-19/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## 二丫讲梵学习周刊
-- 2026/08/20 [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## FOSS Weekly
-- 2026/08/20 [FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More](https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34) | [More](channels/FOSS%20Weekly.md)
-
-## 一周杂记
-- 2026/08/17 [一周杂记 in Week 2 Aug 2026](http://kingsamchen.github.io/2026/08/17/weekly-2026-aug-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## 更好生活
 - 2026/08/16 [7 月小结｜也许做产品，才是我的 Calling](https://quaily.com/jiayifun/p/july-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -80,9 +80,6 @@
 
 ## Taxodium
 - 2026/08/03 [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | [More](channels/Taxodium.md)
-
-## HelloGitHub
-- 2026/07/28 [HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124) | [More](channels/HelloGitHub.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)

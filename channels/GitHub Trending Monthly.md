@@ -1,3 +1,4 @@
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - [block/buzz](https://github.com/block/buzz)
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
