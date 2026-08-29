@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/08/29 [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/08/29 [basecamp/omarchy](https://github.com/basecamp/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
 
-## GitHub Trending Weekly
-- 2026/08/28 [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | [More](channels/GitHub%20Trending%20Weekly.md)
+## This Week in GNOME
+- 2026/08/28 [#263 Reset Recovering](https://thisweek.gnome.org/posts/2026/08/twig-263/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## GitHub Trending Monthly
-- 2026/08/28 [basecamp/omarchy](https://github.com/basecamp/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+## This Week in Plasma
+- 2026/08/28 [This Week in Plasma: QtWidgets Apps Join the Union](https://blogs.kde.org/2026/08/28/this-week-in-plasma-qtwidgets-apps-join-the-union/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## Self-Host Weekly
+- 2026/08/28 [Self-Host Weekly (28 August 2026)](https://selfh.st/weekly/2026-08-28/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/08/27 [科技創業週報 #547：AI 可以幫你做事，但責任不能一起交出去](https://blog.starrocket.io/posts/newsletter-2026-08-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -60,17 +69,8 @@
 ## 有个问题
 - 2026/08/22 [如何与AI相处？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-coexist-with-ai-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
-## This Week in Plasma
-- 2026/08/22 [This Week in Plasma: UI and Performance Improvements](https://blogs.kde.org/2026/08/22/this-week-in-plasma-ui-and-performance-improvements/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Self-Host Weekly
-- 2026/08/21 [Self-Host Weekly (21 August 2026)](https://selfh.st/weekly/2026-08-21/) | [More](channels/Self-Host%20Weekly.md)
-
 ## 更好生活
 - 2026/08/16 [7 月小结｜也许做产品，才是我的 Calling](https://quaily.com/jiayifun/p/july-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## This Week in GNOME
-- 2026/08/14 [#262 Minor Major Update](https://thisweek.gnome.org/posts/2026/08/twig-262/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 胡言乱语
 - 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

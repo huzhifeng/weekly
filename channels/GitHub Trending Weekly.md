@@ -1,3 +1,4 @@
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 - [modular/modular](https://github.com/modular/modular)

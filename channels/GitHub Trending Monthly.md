@@ -1,3 +1,4 @@
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - [block/buzz](https://github.com/block/buzz)
