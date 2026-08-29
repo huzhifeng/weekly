@@ -3,6 +3,9 @@
 ## 科技爱好者周刊
 - 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 视野修炼
+- 2026/08/29 [视野修炼第131期 | bun 与 pnpm Rust 化](https://sugarat.top/weekly/2026-08-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
 ## GitHub Trending Weekly
 - 2026/08/29 [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | [More](channels/GitHub%20Trending%20Weekly.md)
 
@@ -56,9 +59,6 @@
 
 ## 试行错误
 - 2026/08/23 [假期有了，目的地还没想好：我做了个工具，把机票价格摊在地图上｜NL164](https://quaily.com/shixingcuowu/p/open-source-fly-where-multi-destination-comparison-bid-fare-tradition-painful-operation-nl164) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 视野修炼
-- 2026/08/23 [视野修炼第130期 | 光影效果](https://sugarat.top/weekly/2026-08-23.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## zdyxry Weekly Issue
 - 2026/08/23 [Weekly Issue-Harmless](https://zdyxry.github.io/2026/08/23/Weekly-Issue-Harmless/) | [More](channels/zdyxry%20Weekly%20Issue.md)
