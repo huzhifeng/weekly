@@ -1,3 +1,4 @@
+- [omacom/omarchy](https://github.com/omacom/omarchy)
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)

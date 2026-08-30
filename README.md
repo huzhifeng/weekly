@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 视野修炼
-- 2026/08/29 [视野修炼第131期 | bun 与 pnpm Rust 化](https://sugarat.top/weekly/2026-08-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+## 潮流周刊
+- 2026/08/31 [第280期 - 喜欢宋体](https://weekly.tw93.fun/posts/280/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Taxodium
+- 2026/08/30 [Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站](https://taxodium.ink/57.html) | [More](channels/Taxodium.md)
+
+## V2EX 周报
+- 2026/08/30 [✨ V2EX 周报 本周热门主题及高赞回复 08.22-08.28](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/08/29 [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/08/30 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/08/29 [basecamp/omarchy](https://github.com/basecamp/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/08/30 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 视野修炼
+- 2026/08/29 [视野修炼第131期 | bun 与 pnpm Rust 化](https://sugarat.top/weekly/2026-08-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
@@ -39,9 +48,6 @@
 ## 偷懒爱好者周刊
 - 2026/08/26 [第198期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/26/第198期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2026/08/24 [第279期 - 风之谷泉](https://weekly.tw93.fun/posts/279/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/08/24 [【CDT周报】第281期：冥币驱逐不了良币，只能驱逐假币和劣币](https://chinadigitaltimes.net/chinese/730887.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -63,9 +69,6 @@
 ## zdyxry Weekly Issue
 - 2026/08/23 [Weekly Issue-Harmless](https://zdyxry.github.io/2026/08/23/Weekly-Issue-Harmless/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## V2EX 周报
-- 2026/08/23 [✨ V2EX 周报 本周热门主题及高赞回复 08.15-08.21](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 有个问题
 - 2026/08/22 [如何与AI相处？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-coexist-with-ai-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
@@ -77,9 +80,6 @@
 
 ## Web Review
 - 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
-
-## Taxodium
-- 2026/08/03 [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | [More](channels/Taxodium.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
