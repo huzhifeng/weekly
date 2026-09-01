@@ -3,20 +3,38 @@
 ## 科技爱好者周刊
 - 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/09/01 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/01 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/08/31 [第280期 - 喜欢宋体](https://weekly.tw93.fun/posts/280/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/08/31 [【CDT周报】第282期：既然这是天灾，又有什么需要隐瞒的呢？](https://chinadigitaltimes.net/chinese/731197.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/08/31 [AIGC Weekly #186](https://quaily.com/op7418/p/aigc-weekly-one-hundred-eighty-six) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/08/31 [DistroWatch Weekly, Issue 1188](https://distrowatch.com/weekly.php?issue=20260831) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/08/31 [9to5Linux Weekly Roundup: August 30th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-30th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/08/31 [Ubuntu Weekly Newsletter Issue 960](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-960/87045) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Taxodium
 - 2026/08/30 [Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站](https://taxodium.ink/57.html) | [More](channels/Taxodium.md)
 
+## zdyxry Weekly Issue
+- 2026/08/30 [Weekly Issue-Pave The Road](https://zdyxry.github.io/2026/08/30/Weekly-Issue-Pave-The-Road/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
 ## V2EX 周报
 - 2026/08/30 [✨ V2EX 周报 本周热门主题及高赞回复 08.22-08.28](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/08/30 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/08/30 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 视野修炼
 - 2026/08/29 [视野修炼第131期 | bun 与 pnpm Rust 化](https://sugarat.top/weekly/2026-08-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -48,26 +66,11 @@
 ## 偷懒爱好者周刊
 - 2026/08/26 [第198期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/26/第198期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2026/08/24 [【CDT周报】第281期：冥币驱逐不了良币，只能驱逐假币和劣币](https://chinadigitaltimes.net/chinese/730887.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 一周杂记
 - 2026/08/24 [一周杂记 in Week 3 Aug 2026](http://kingsamchen.github.io/2026/08/24/weekly-2026-aug-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## AIGC Weekly
-- 2026/08/24 [AIGC Weekly #185](https://quaily.com/op7418/p/aigc-weekly-7fbd1mp4) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/08/24 [DistroWatch Weekly, Issue 1187](https://distrowatch.com/weekly.php?issue=20260824) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/08/24 [Ubuntu Weekly Newsletter Issue 959](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-959/86642) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 试行错误
 - 2026/08/23 [假期有了，目的地还没想好：我做了个工具，把机票价格摊在地图上｜NL164](https://quaily.com/shixingcuowu/p/open-source-fly-where-multi-destination-comparison-bid-fare-tradition-painful-operation-nl164) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## zdyxry Weekly Issue
-- 2026/08/23 [Weekly Issue-Harmless](https://zdyxry.github.io/2026/08/23/Weekly-Issue-Harmless/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 有个问题
 - 2026/08/22 [如何与AI相处？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-coexist-with-ai-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)

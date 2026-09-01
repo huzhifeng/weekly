@@ -1,3 +1,4 @@
+- [Weekly Issue-Pave The Road](https://zdyxry.github.io/2026/08/30/Weekly-Issue-Pave-The-Road/)
 - [Weekly Issue-Harmless](https://zdyxry.github.io/2026/08/23/Weekly-Issue-Harmless/)
 - [Weekly Issue-《欢迎来龙餐馆》](https://zdyxry.github.io/2026/08/16/Weekly-Issue-Once-Upon-a-Time-in-the-Middle-East/)
 - [Weekly Issue-《缝纫机与金鱼》](https://zdyxry.github.io/2026/08/09/Weekly-Issue-sewing-machine-and-goldfish/)

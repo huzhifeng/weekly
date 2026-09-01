@@ -1,3 +1,4 @@
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 - [omacom/omarchy](https://github.com/omacom/omarchy)
 - [cursor/plugins](https://github.com/cursor/plugins)
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
