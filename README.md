@@ -3,11 +3,17 @@
 ## 科技爱好者周刊
 - 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/09/02 [第199期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/02/第199期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## 胡言乱语
+- 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## GitHub Trending Weekly
-- 2026/09/01 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/02 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/01 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/09/02 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/08/31 [第280期 - 喜欢宋体](https://weekly.tw93.fun/posts/280/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -66,9 +72,6 @@
 ## FOSS Weekly
 - 2026/08/27 [FOSS Weekly #26.35: Performance Boost in Kernel 7.3,   Omarchy Rising, Kernel, Root Demystifed, and More](https://feed.itsfoss.com/link/24361/17432872/foss-weekly-26-35) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2026/08/26 [第198期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/26/第198期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 试行错误
 - 2026/08/23 [假期有了，目的地还没想好：我做了个工具，把机票价格摊在地图上｜NL164](https://quaily.com/shixingcuowu/p/open-source-fly-where-multi-destination-comparison-bid-fare-tradition-painful-operation-nl164) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
@@ -77,9 +80,6 @@
 
 ## 更好生活
 - 2026/08/16 [7 月小结｜也许做产品，才是我的 Calling](https://quaily.com/jiayifun/p/july-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## 胡言乱语
-- 2026/08/11 [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## Web Review
 - 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)

@@ -1,3 +1,4 @@
+- [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 - [omacom/omarchy](https://github.com/omacom/omarchy)
 - [cursor/plugins](https://github.com/cursor/plugins)
