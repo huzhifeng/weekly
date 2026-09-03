@@ -1,3 +1,5 @@
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- [zedeus/nitter](https://github.com/zedeus/nitter)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
 - [omacom/omarchy](https://github.com/omacom/omarchy)
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)

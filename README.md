@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/09/03 [科技創業週報 #548：AI 正在改寫「資金買不到技術時間」的創業常識：](https://blog.starrocket.io/posts/newsletter-2026-09-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/09/03 [LWN.net Weekly Edition for September 3, 2026](https://lwn.net/Articles/1090824/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/09/03 [FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff](https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/09/03 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/03 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2026/09/02 [第199期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/02/第199期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## GitHub Trending Weekly
-- 2026/09/02 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/02 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/08/31 [第280期 - 喜欢宋体](https://weekly.tw93.fun/posts/280/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -60,17 +69,8 @@
 ## Self-Host Weekly
 - 2026/08/28 [Self-Host Weekly (28 August 2026)](https://selfh.st/weekly/2026-08-28/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/08/27 [科技創業週報 #547：AI 可以幫你做事，但責任不能一起交出去](https://blog.starrocket.io/posts/newsletter-2026-08-26/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2026/08/27 [学习周刊-总第278期-2026年第35周](https://wiki.eryajf.net/pages/4327cf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/08/27 [LWN.net Weekly Edition for August 27, 2026](https://lwn.net/Articles/1089643/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/08/27 [FOSS Weekly #26.35: Performance Boost in Kernel 7.3,   Omarchy Rising, Kernel, Root Demystifed, and More](https://feed.itsfoss.com/link/24361/17432872/foss-weekly-26-35) | [More](channels/FOSS%20Weekly.md)
 
 ## 试行错误
 - 2026/08/23 [假期有了，目的地还没想好：我做了个工具，把机票价格摊在地图上｜NL164](https://quaily.com/shixingcuowu/p/open-source-fly-where-multi-destination-comparison-bid-fare-tradition-painful-operation-nl164) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

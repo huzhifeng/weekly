@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff](https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36)
 - [FOSS Weekly #26.35: Performance Boost in Kernel 7.3,   Omarchy Rising, Kernel, Root Demystifed, and More](https://feed.itsfoss.com/link/24361/17432872/foss-weekly-26-35)
 - [FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More](https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34)
 - [FOSS Weekly #26.33: Mint Kernel, PDF Editing, VLC Drama, Omarchy Quattro and More Linux Stuff](https://feed.itsfoss.com/link/24361/17417251/foss-weekly-26-33)
