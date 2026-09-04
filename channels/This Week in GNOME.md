@@ -1,3 +1,4 @@
+- [#264 Version Picking](https://thisweek.gnome.org/posts/2026/09/twig-264/)
 - [#263 Reset Recovering](https://thisweek.gnome.org/posts/2026/08/twig-263/)
 - [#262 Minor Major Update](https://thisweek.gnome.org/posts/2026/08/twig-262/)
 - [#261 Sushi Boxes](https://thisweek.gnome.org/posts/2026/08/twig-261/)

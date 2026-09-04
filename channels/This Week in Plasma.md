@@ -1,3 +1,4 @@
+- [This Week in Plasma: So Many Ways to Click and Scroll](https://blogs.kde.org/2026/09/04/this-week-in-plasma-so-many-ways-to-click-and-scroll/)
 - [This Week in Plasma: QtWidgets Apps Join the Union](https://blogs.kde.org/2026/08/28/this-week-in-plasma-qtwidgets-apps-join-the-union/)
 - [This Week in Plasma: UI and Performance Improvements](https://blogs.kde.org/2026/08/22/this-week-in-plasma-ui-and-performance-improvements/)
 - [This Week in Plasma: Bi-Directional RDP Clipboard Sync](https://blogs.kde.org/2026/08/15/this-week-in-plasma-bi-directional-rdp-clipboard-sync/)

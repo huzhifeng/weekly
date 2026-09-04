@@ -1,3 +1,4 @@
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [zedeus/nitter](https://github.com/zedeus/nitter)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)

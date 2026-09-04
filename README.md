@@ -1,7 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/08/27 [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/09/03 [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/09/04 [Web Review, Week 2026-36](https://ervin.ipsquad.net/blog/2026/09/04/web-review-week-2026-36/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/09/04 [#264 Version Picking](https://thisweek.gnome.org/posts/2026/09/twig-264/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## This Week in Plasma
+- 2026/09/04 [This Week in Plasma: So Many Ways to Click and Scroll](https://blogs.kde.org/2026/09/04/this-week-in-plasma-so-many-ways-to-click-and-scroll/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## Self-Host Weekly
+- 2026/09/04 [Self-Host Weekly (4 September 2026)](https://selfh.st/weekly/2026-09-04/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/09/04 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/04 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/09/03 [科技創業週報 #548：AI 正在改寫「資金買不到技術時間」的創業常識：](https://blog.starrocket.io/posts/newsletter-2026-09-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -11,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/09/03 [FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff](https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/09/03 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/03 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/09/02 [第199期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/02/第199期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -39,9 +51,6 @@
 ## DistroWatch Weekly
 - 2026/08/31 [DistroWatch Weekly, Issue 1188](https://distrowatch.com/weekly.php?issue=20260831) | [More](channels/DistroWatch%20Weekly.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/08/31 [9to5Linux Weekly Roundup: August 30th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-august-30th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/08/31 [Ubuntu Weekly Newsletter Issue 960](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-960/87045) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
@@ -60,15 +69,6 @@
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
 
-## This Week in GNOME
-- 2026/08/28 [#263 Reset Recovering](https://thisweek.gnome.org/posts/2026/08/twig-263/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Plasma
-- 2026/08/28 [This Week in Plasma: QtWidgets Apps Join the Union](https://blogs.kde.org/2026/08/28/this-week-in-plasma-qtwidgets-apps-join-the-union/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Self-Host Weekly
-- 2026/08/28 [Self-Host Weekly (28 August 2026)](https://selfh.st/weekly/2026-08-28/) | [More](channels/Self-Host%20Weekly.md)
-
 ## 二丫讲梵学习周刊
 - 2026/08/27 [学习周刊-总第278期-2026年第35周](https://wiki.eryajf.net/pages/4327cf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
@@ -80,9 +80,6 @@
 
 ## 更好生活
 - 2026/08/16 [7 月小结｜也许做产品，才是我的 Calling](https://quaily.com/jiayifun/p/july-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## Web Review
-- 2026/08/07 [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) | [More](channels/Web%20Review.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
