@@ -3,11 +3,23 @@
 ## 科技爱好者周刊
 - 2026/09/03 [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/09/07 [第281期 - 越王的剑](https://weekly.tw93.fun/posts/281/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 视野修炼
+- 2026/09/06 [视野修炼第132期 | 一些有趣的组件](https://sugarat.top/weekly/2026-09-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## Airing's Weekly
+- 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)
+
+## V2EX 周报
+- 2026/09/06 [✨ V2EX 周报 本周热门主题及高赞回复 08.29-09.04](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
 ## GitHub Trending Weekly
-- 2026/09/05 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/06 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/05 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/09/06 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/09/04 [Web Review, Week 2026-36](https://ervin.ipsquad.net/blog/2026/09/04/web-review-week-2026-36/) | [More](channels/Web%20Review.md)
@@ -36,9 +48,6 @@
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## 潮流周刊
-- 2026/08/31 [第280期 - 喜欢宋体](https://weekly.tw93.fun/posts/280/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/08/31 [【CDT周报】第282期：既然这是天灾，又有什么需要隐瞒的呢？](https://chinadigitaltimes.net/chinese/731197.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -59,12 +68,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/08/30 [Weekly Issue-Pave The Road](https://zdyxry.github.io/2026/08/30/Weekly-Issue-Pave-The-Road/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/08/30 [✨ V2EX 周报 本周热门主题及高赞回复 08.22-08.28](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2026/08/29 [视野修炼第131期 | bun 与 pnpm Rust 化](https://sugarat.top/weekly/2026-08-29.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
@@ -92,9 +95,6 @@
 
 ## 棱镜通讯
 - 2026/06/28 [社会学为什么在中国难以发展？｜ 隐说 NO. 27](https://wangyurui.com/posts/she-hui-xue-wei-shi-yao-zai-zhong-guo-nan-yi-fa-112bb4cd) | [More](channels/%E6%A3%B1%E9%95%9C%E9%80%9A%E8%AE%AF.md)
-
-## Airing's Weekly
-- 2026/05/23 [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## Pseudoyu 周报
 - 2026/05/18 [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | [More](channels/Pseudoyu%20%E5%91%A8%E6%8A%A5.md)

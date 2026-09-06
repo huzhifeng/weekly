@@ -1,3 +1,4 @@
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [zedeus/nitter](https://github.com/zedeus/nitter)
