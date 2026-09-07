@@ -1,3 +1,4 @@
+- [Weekly Issue-《银行大劫案》](https://zdyxry.github.io/2026/09/06/Weekly-Issue-The-Bank-Job/)
 - [Weekly Issue-Pave The Road](https://zdyxry.github.io/2026/08/30/Weekly-Issue-Pave-The-Road/)
 - [Weekly Issue-Harmless](https://zdyxry.github.io/2026/08/23/Weekly-Issue-Harmless/)
 - [Weekly Issue-《欢迎来龙餐馆》](https://zdyxry.github.io/2026/08/16/Weekly-Issue-Once-Upon-a-Time-in-the-Middle-East/)

@@ -6,20 +6,38 @@
 ## 潮流周刊
 - 2026/09/07 [第281期 - 越王的剑](https://weekly.tw93.fun/posts/281/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/09/07 [【CDT周报】第283期：英语还是得好好学，万一哪天要告洋状呢？](https://chinadigitaltimes.net/chinese/731490.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/09/07 [AIGC Weekly #187](https://quaily.com/op7418/p/aigc-weekly-1h2okd1e) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/09/07 [DistroWatch Weekly, Issue 1189](https://distrowatch.com/weekly.php?issue=20260907) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/09/07 [9to5Linux Weekly Roundup: September 6th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-september-6th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/09/07 [Ubuntu Weekly Newsletter Issue 961](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-961/87456) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/09/07 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/07 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 视野修炼
 - 2026/09/06 [视野修炼第132期 | 一些有趣的组件](https://sugarat.top/weekly/2026-09-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## zdyxry Weekly Issue
+- 2026/09/06 [Weekly Issue-《银行大劫案》](https://zdyxry.github.io/2026/09/06/Weekly-Issue-The-Bank-Job/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Airing's Weekly
 - 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)
 
 ## V2EX 周报
 - 2026/09/06 [✨ V2EX 周报 本周热门主题及高赞回复 08.29-09.04](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/09/06 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/06 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/09/04 [Web Review, Week 2026-36](https://ervin.ipsquad.net/blog/2026/09/04/web-review-week-2026-36/) | [More](channels/Web%20Review.md)
@@ -48,26 +66,11 @@
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
-## CDT周报
-- 2026/08/31 [【CDT周报】第282期：既然这是天灾，又有什么需要隐瞒的呢？](https://chinadigitaltimes.net/chinese/731197.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 一周杂记
 - 2026/08/31 [一周杂记 in Week 4 Aug 2026](http://kingsamchen.github.io/2026/09/01/weekly-2026-aug-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## AIGC Weekly
-- 2026/08/31 [AIGC Weekly #186](https://quaily.com/op7418/p/aigc-weekly-one-hundred-eighty-six) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/08/31 [DistroWatch Weekly, Issue 1188](https://distrowatch.com/weekly.php?issue=20260831) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/08/31 [Ubuntu Weekly Newsletter Issue 960](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-960/87045) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## Taxodium
 - 2026/08/30 [Zine#57 - 用你的錢包去投票](https://taxodium.ink/57.html) | [More](channels/Taxodium.md)
-
-## zdyxry Weekly Issue
-- 2026/08/30 [Weekly Issue-Pave The Road](https://zdyxry.github.io/2026/08/30/Weekly-Issue-Pave-The-Road/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
