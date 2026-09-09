@@ -7,10 +7,10 @@
 - 2026/09/09 [第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/09/08 [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/09 [fmtlib/fmt](https://github.com/fmtlib/fmt) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/08 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/09/09 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/09/07 [第281期 - 越王的剑](https://weekly.tw93.fun/posts/281/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)

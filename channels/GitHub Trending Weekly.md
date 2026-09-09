@@ -1,3 +1,5 @@
+- [affaan-m/ECC](https://github.com/affaan-m/ECC)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
