@@ -3,29 +3,35 @@
 ## 科技爱好者周刊
 - 2026/09/03 [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/09/10 [科技創業週報 #549：當 OpenAI 說「AGI 時代來了」，我們到底應該看什麼？](https://blog.starrocket.io/posts/newsletter-2026-09-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/09/10 [学习周刊-总第280期-2026年第37周](https://wiki.eryajf.net/pages/eb7d06/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## LWN.net Weekly Edition
+- 2026/09/10 [LWN.net Weekly Edition for September 10, 2026](https://lwn.net/Articles/1092273/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/09/10 [FOSS Weekly #26.37: Swiss Linux Move, Flyline, PPA Guide, Fedora Win Over Windows and More](https://feed.itsfoss.com/link/24361/17444269/foss-weekly-26-37) | [More](channels/FOSS%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/09/10 [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/10 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2026/09/09 [第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2026/09/09 [fmtlib/fmt](https://github.com/fmtlib/fmt) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/09 [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 潮流周刊
 - 2026/09/07 [第281期 - 越王的剑](https://weekly.tw93.fun/posts/281/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## CDT周报
-- 2026/09/07 [【CDT周报】第283期：英语还是得好好学，万一哪天要告洋状呢？](https://chinadigitaltimes.net/chinese/731490.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## AIGC Weekly
 - 2026/09/07 [AIGC Weekly #187](https://quaily.com/op7418/p/aigc-weekly-1h2okd1e) | [More](channels/AIGC%20Weekly.md)
 
 ## DistroWatch Weekly
 - 2026/09/07 [DistroWatch Weekly, Issue 1189](https://distrowatch.com/weekly.php?issue=20260907) | [More](channels/DistroWatch%20Weekly.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/09/07 [9to5Linux Weekly Roundup: September 6th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-september-6th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## Ubuntu Weekly Newsletter
 - 2026/09/07 [Ubuntu Weekly Newsletter Issue 961](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-961/87456) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
@@ -57,15 +63,6 @@
 ## Self-Host Weekly
 - 2026/09/04 [Self-Host Weekly (4 September 2026)](https://selfh.st/weekly/2026-09-04/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/09/03 [科技創業週報 #548：AI 正在改寫「資金買不到技術時間」的創業常識：](https://blog.starrocket.io/posts/newsletter-2026-09-02/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/09/03 [LWN.net Weekly Edition for September 3, 2026](https://lwn.net/Articles/1090824/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/09/03 [FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff](https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36) | [More](channels/FOSS%20Weekly.md)
-
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -74,9 +71,6 @@
 
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
-
-## 二丫讲梵学习周刊
-- 2026/08/27 [学习周刊-总第278期-2026年第35周](https://wiki.eryajf.net/pages/4327cf/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 试行错误
 - 2026/08/23 [假期有了，目的地还没想好：我做了个工具，把机票价格摊在地图上｜NL164](https://quaily.com/shixingcuowu/p/open-source-fly-where-multi-destination-comparison-bid-fare-tradition-painful-operation-nl164) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
