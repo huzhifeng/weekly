@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/09/11 [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/09/12 [This Week in Plasma: 6.8 Beta Release!](https://blogs.kde.org/2026/09/12/this-week-in-plasma-6.8-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/09/12 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/12 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 更好生活
 - 2026/09/11 [8 月小结｜完美的日子 & Agent 产品的困境](https://quaily.com/jiayifun/p/august-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -14,12 +23,6 @@
 
 ## Self-Host Weekly
 - 2026/09/11 [Self-Host Weekly (11 September 2026)](https://selfh.st/weekly/2026-09-11/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/09/11 [affaan-m/ECC](https://github.com/affaan-m/ECC) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/11 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/09/10 [科技創業週報 #549：當 OpenAI 說「AGI 時代來了」，我們到底應該看什麼？](https://blog.starrocket.io/posts/newsletter-2026-09-09/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -65,9 +68,6 @@
 
 ## V2EX 周报
 - 2026/09/06 [✨ V2EX 周报 本周热门主题及高赞回复 08.29-09.04](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/09/04 [This Week in Plasma: So Many Ways to Click and Scroll](https://blogs.kde.org/2026/09/04/this-week-in-plasma-so-many-ways-to-click-and-scroll/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

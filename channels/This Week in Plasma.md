@@ -1,3 +1,4 @@
+- [This Week in Plasma: 6.8 Beta Release!](https://blogs.kde.org/2026/09/12/this-week-in-plasma-6.8-beta-release/)
 - [This Week in Plasma: So Many Ways to Click and Scroll](https://blogs.kde.org/2026/09/04/this-week-in-plasma-so-many-ways-to-click-and-scroll/)
 - [This Week in Plasma: QtWidgets Apps Join the Union](https://blogs.kde.org/2026/08/28/this-week-in-plasma-qtwidgets-apps-join-the-union/)
 - [This Week in Plasma: UI and Performance Improvements](https://blogs.kde.org/2026/08/22/this-week-in-plasma-ui-and-performance-improvements/)
