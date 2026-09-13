@@ -1,3 +1,4 @@
+- [openai/plugins](https://github.com/openai/plugins)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)

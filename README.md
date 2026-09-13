@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/09/11 [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/09/12 [This Week in Plasma: 6.8 Beta Release!](https://blogs.kde.org/2026/09/12/this-week-in-plasma-6.8-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/09/14 [第282期 - 夜雾上海](https://weekly.tw93.fun/posts/282/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/09/13 [9to5Linux Weekly Roundup: September 13th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-september-13th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/09/13 [✨ V2EX 周报 本周热门主题及高赞回复 09.05-09.11](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/09/12 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/13 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/12 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/09/13 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/09/12 [This Week in Plasma: 6.8 Beta Release!](https://blogs.kde.org/2026/09/12/this-week-in-plasma-6.8-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 更好生活
 - 2026/09/11 [8 月小结｜完美的日子 & Agent 产品的困境](https://quaily.com/jiayifun/p/august-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -39,9 +48,6 @@
 ## 偷懒爱好者周刊
 - 2026/09/09 [第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2026/09/07 [第281期 - 越王的剑](https://weekly.tw93.fun/posts/281/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/09/07 [【CDT周报】第283期：英语还是得好好学，万一哪天要告洋状呢？](https://chinadigitaltimes.net/chinese/731490.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -65,9 +71,6 @@
 
 ## Airing's Weekly
 - 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)
-
-## V2EX 周报
-- 2026/09/06 [✨ V2EX 周报 本周热门主题及高赞回复 08.29-09.04](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
