@@ -6,17 +6,35 @@
 ## 潮流周刊
 - 2026/09/14 [第282期 - 夜雾上海](https://weekly.tw93.fun/posts/282/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## 试行错误
+- 2026/09/14 [AI 一分钟干完的活，我偏要花一小时「浪费」在自己身上｜NL165](https://quaily.com/shixingcuowu/p/ai-one-minute-job-i-prefer-to-spend-one-hour-wasting-on-myself-nl165) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## 一周杂记
+- 2026/09/14 [一周杂记 in Week 2 Sep 2026](http://kingsamchen.github.io/2026/09/14/weekly-2026-sep-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/09/14 [AIGC Weekly #188](https://quaily.com/op7418/p/aigc-weekly-xgfygin5) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/09/14 [DistroWatch Weekly, Issue 1190](https://distrowatch.com/weekly.php?issue=20260914) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/09/14 [Ubuntu Weekly Newsletter Issue 962](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-962/87765) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/09/14 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/14 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## CDT周报
+- 2026/09/13 [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
 ## 9to5Linux Weekly Roundup
 - 2026/09/13 [9to5Linux Weekly Roundup: September 13th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-september-13th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/09/13 [✨ V2EX 周报 本周热门主题及高赞回复 09.05-09.11](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/09/13 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/13 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in Plasma
 - 2026/09/12 [This Week in Plasma: 6.8 Beta Release!](https://blogs.kde.org/2026/09/12/this-week-in-plasma-6.8-beta-release/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -48,23 +66,8 @@
 ## 偷懒爱好者周刊
 - 2026/09/09 [第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2026/09/07 [【CDT周报】第283期：英语还是得好好学，万一哪天要告洋状呢？](https://chinadigitaltimes.net/chinese/731490.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## AIGC Weekly
-- 2026/09/07 [AIGC Weekly #187](https://quaily.com/op7418/p/aigc-weekly-1h2okd1e) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/09/07 [DistroWatch Weekly, Issue 1189](https://distrowatch.com/weekly.php?issue=20260907) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/09/07 [Ubuntu Weekly Newsletter Issue 961](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-961/87456) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## 视野修炼
 - 2026/09/06 [视野修炼第132期 | 一些有趣的组件](https://sugarat.top/weekly/2026-09-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 一周杂记
-- 2026/09/06 [一周杂记 in Week 1 Sep 2026](http://kingsamchen.github.io/2026/09/06/weekly-2026-sep-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## zdyxry Weekly Issue
 - 2026/09/06 [Weekly Issue-《银行大劫案》](https://zdyxry.github.io/2026/09/06/Weekly-Issue-The-Bank-Job/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -80,9 +83,6 @@
 
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
-
-## 试行错误
-- 2026/08/23 [假期有了，目的地还没想好：我做了个工具，把机票价格摊在地图上｜NL164](https://quaily.com/shixingcuowu/p/open-source-fly-where-multi-destination-comparison-bid-fare-tradition-painful-operation-nl164) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 有个问题
 - 2026/08/22 [如何与AI相处？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-coexist-with-ai-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
