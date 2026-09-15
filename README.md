@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/09/11 [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/09/15 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/15 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/09/14 [第282期 - 夜雾上海](https://weekly.tw93.fun/posts/282/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
@@ -20,12 +26,6 @@
 
 ## Ubuntu Weekly Newsletter
 - 2026/09/14 [Ubuntu Weekly Newsletter Issue 962](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-962/87765) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## GitHub Trending Weekly
-- 2026/09/14 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/14 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## CDT周报
 - 2026/09/13 [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
