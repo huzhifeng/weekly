@@ -1,3 +1,4 @@
+- [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html)
 - [Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站](https://taxodium.ink/57.html)
 - [Zine#56 - 數位園藝](https://taxodium.ink/56.html)
 - [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html)

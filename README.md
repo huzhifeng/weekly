@@ -3,11 +3,17 @@
 ## 科技爱好者周刊
 - 2026/09/11 [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Taxodium
+- 2026/09/16 [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | [More](channels/Taxodium.md)
+
+## 偷懒爱好者周刊
+- 2026/09/16 [第201期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/16/第201期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/09/15 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/16 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/15 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/09/16 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/09/14 [第282期 - 夜雾上海](https://weekly.tw93.fun/posts/282/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -63,9 +69,6 @@
 ## FOSS Weekly
 - 2026/09/10 [FOSS Weekly #26.37: Swiss Linux Move, Flyline, PPA Guide, Fedora Win Over Windows and More](https://feed.itsfoss.com/link/24361/17444269/foss-weekly-26-37) | [More](channels/FOSS%20Weekly.md)
 
-## 偷懒爱好者周刊
-- 2026/09/09 [第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 视野修炼
 - 2026/09/06 [视野修炼第132期 | 一些有趣的组件](https://sugarat.top/weekly/2026-09-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
@@ -77,9 +80,6 @@
 
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## Taxodium
-- 2026/08/30 [Zine#57 - 用你的錢包去投票](https://taxodium.ink/57.html) | [More](channels/Taxodium.md)
 
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
