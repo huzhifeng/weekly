@@ -1,3 +1,4 @@
+- [LWN.net Weekly Edition for September 17, 2026](https://lwn.net/Articles/1093434/)
 - [LWN.net Weekly Edition for September 10, 2026](https://lwn.net/Articles/1092273/)
 - [LWN.net Weekly Edition for September 3, 2026](https://lwn.net/Articles/1090824/)
 - [LWN.net Weekly Edition for August 27, 2026](https://lwn.net/Articles/1089643/)
