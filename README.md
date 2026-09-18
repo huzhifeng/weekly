@@ -1,7 +1,22 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/09/11 [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## Web Review
+- 2026/09/18 [Web Review, Week 2026-38 — The Graz Edition](https://ervin.ipsquad.net/blog/2026/09/18/web-review-week-2026-38/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/09/18 [#266 Fifty One!](https://thisweek.gnome.org/posts/2026/09/twig-266/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/09/18 [Self-Host Weekly (18 September 2026)](https://selfh.st/weekly/2026-09-18/) | [More](channels/Self-Host%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/09/18 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/18 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/09/17 [科技創業週報 #550：倉儲機器人的下一場競爭，是讓整段流程動起來](https://blog.starrocket.io/posts/newsletter-2026-09-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -14,12 +29,6 @@
 
 ## FOSS Weekly
 - 2026/09/17 [FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More](https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/09/17 [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/17 [omacom/omarchy](https://github.com/omacom/omarchy) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Taxodium
 - 2026/09/16 [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | [More](channels/Taxodium.md)
@@ -56,15 +65,6 @@
 
 ## 更好生活
 - 2026/09/11 [8 月小结｜完美的日子 & Agent 产品的困境](https://quaily.com/jiayifun/p/august-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
-## Web Review
-- 2026/09/11 [Web Review, Week 2026-37](https://ervin.ipsquad.net/blog/2026/09/11/web-review-week-2026-37/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/09/11 [#265 New Commitments](https://thisweek.gnome.org/posts/2026/09/twig-265/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/09/11 [Self-Host Weekly (11 September 2026)](https://selfh.st/weekly/2026-09-11/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 视野修炼
 - 2026/09/06 [视野修炼第132期 | 一些有趣的组件](https://sugarat.top/weekly/2026-09-05.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)

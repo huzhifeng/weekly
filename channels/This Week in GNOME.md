@@ -1,3 +1,4 @@
+- [#266 Fifty One!](https://thisweek.gnome.org/posts/2026/09/twig-266/)
 - [#265 New Commitments](https://thisweek.gnome.org/posts/2026/09/twig-265/)
 - [#264 Version Picking](https://thisweek.gnome.org/posts/2026/09/twig-264/)
 - [#263 Reset Recovering](https://thisweek.gnome.org/posts/2026/08/twig-263/)
