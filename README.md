@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/09/21 [第283期 - 经典电影](https://weekly.tw93.fun/posts/283/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## Taxodium
+- 2026/09/20 [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | [More](channels/Taxodium.md)
+
+## V2EX 周报
+- 2026/09/20 [✨ V2EX 周报 本周热门主题及高赞回复 09.12-09.18](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/09/20 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/20 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 视野修炼
 - 2026/09/19 [视野修炼第133期 | Native 回春了?](https://sugarat.top/weekly/2026-09-19.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## This Week in Plasma
 - 2026/09/19 [This Week in Plasma: Let the Polishing Begin](https://blogs.kde.org/2026/09/19/this-week-in-plasma-let-the-polishing-begin/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/09/19 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/19 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/09/18 [Web Review, Week 2026-38 — The Graz Edition](https://ervin.ipsquad.net/blog/2026/09/18/web-review-week-2026-38/) | [More](channels/Web%20Review.md)
@@ -36,14 +45,8 @@
 ## FOSS Weekly
 - 2026/09/17 [FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More](https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38) | [More](channels/FOSS%20Weekly.md)
 
-## Taxodium
-- 2026/09/16 [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | [More](channels/Taxodium.md)
-
 ## 偷懒爱好者周刊
 - 2026/09/16 [第201期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/16/第201期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 潮流周刊
-- 2026/09/14 [第282期 - 夜雾上海](https://weekly.tw93.fun/posts/282/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## 试行错误
 - 2026/09/14 [AI 一分钟干完的活，我偏要花一小时「浪费」在自己身上｜NL165](https://quaily.com/shixingcuowu/p/ai-one-minute-job-i-prefer-to-spend-one-hour-wasting-on-myself-nl165) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -62,9 +65,6 @@
 
 ## CDT周报
 - 2026/09/13 [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## V2EX 周报
-- 2026/09/13 [✨ V2EX 周报 本周热门主题及高赞回复 09.05-09.11](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2026/09/11 [8 月小结｜完美的日子 & Agent 产品的困境](https://quaily.com/jiayifun/p/august-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
