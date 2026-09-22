@@ -1,3 +1,4 @@
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)

@@ -3,20 +3,32 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/09/22 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/22 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/09/21 [第283期 - 经典电影](https://weekly.tw93.fun/posts/283/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2026/09/21 [一周杂记 in Week 3 Sep 2026](http://kingsamchen.github.io/2026/09/21/weekly-2026-sep-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/09/21 [AIGC Weekly #189](https://quaily.com/op7418/p/aigc-weekly-bqe74pq1) | [More](channels/AIGC%20Weekly.md)
+
+## DistroWatch Weekly
+- 2026/09/21 [DistroWatch Weekly, Issue 1191](https://distrowatch.com/weekly.php?issue=20260921) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/09/21 [Ubuntu Weekly Newsletter Issue 963](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-963/88127) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Taxodium
 - 2026/09/20 [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | [More](channels/Taxodium.md)
 
 ## V2EX 周报
 - 2026/09/20 [✨ V2EX 周报 本周热门主题及高赞回复 09.12-09.18](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/09/20 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/20 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 视野修炼
 - 2026/09/19 [视野修炼第133期 | Native 回春了?](https://sugarat.top/weekly/2026-09-19.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -50,18 +62,6 @@
 
 ## 试行错误
 - 2026/09/14 [AI 一分钟干完的活，我偏要花一小时「浪费」在自己身上｜NL165](https://quaily.com/shixingcuowu/p/ai-one-minute-job-i-prefer-to-spend-one-hour-wasting-on-myself-nl165) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 一周杂记
-- 2026/09/14 [一周杂记 in Week 2 Sep 2026](http://kingsamchen.github.io/2026/09/14/weekly-2026-sep-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/09/14 [AIGC Weekly #188](https://quaily.com/op7418/p/aigc-weekly-xgfygin5) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/09/14 [DistroWatch Weekly, Issue 1190](https://distrowatch.com/weekly.php?issue=20260914) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/09/14 [Ubuntu Weekly Newsletter Issue 962](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-962/87765) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## CDT周报
 - 2026/09/13 [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -104,9 +104,6 @@
 
 ## 我脑袋里的怪东西
 - 2025/12/31 [我脑袋里的怪东西 40 - 跟着Steph Ango写年底40问](https://quaily.com/somethinginmybrain/p/my-brain-strange-things-forty-following-steph-ango-end-of-year-forty-questions) | [More](channels/%E6%88%91%E8%84%91%E8%A2%8B%E9%87%8C%E7%9A%84%E6%80%AA%E4%B8%9C%E8%A5%BF.md)
-
-## Raye's Journey
-- 2025/11/20 [周报42 十公里跑步、鬼灭、敦煌展](https://rayepeng.github.io/posts/weekpost42/) | [More](channels/Raye%27s%20Journey.md)
 
 ## 老胡的信息周刊
 - 2025/09/20 [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [More](channels/%E8%80%81%E8%83%A1%E7%9A%84%E4%BF%A1%E6%81%AF%E5%91%A8%E5%88%8A.md)
