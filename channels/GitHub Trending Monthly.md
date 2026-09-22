@@ -1,3 +1,4 @@
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
