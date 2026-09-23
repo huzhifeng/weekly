@@ -1,3 +1,4 @@
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify)
