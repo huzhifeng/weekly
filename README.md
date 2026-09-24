@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/09/24 [科技創業週報 #551：AI 新創商業模式正在改變：從 AI SaaS 到 AI 原生服務公司，解析 7 種創業新路徑](https://blog.starrocket.io/posts/newsletter-2026-09-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/09/24 [LWN.net Weekly Edition for September 24, 2026](https://lwn.net/Articles/1094840/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/09/24 [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/09/23 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/24 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/23 [tt-a1i/archify](https://github.com/tt-a1i/archify) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/09/24 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 潮流周刊
 - 2026/09/21 [第283期 - 经典电影](https://weekly.tw93.fun/posts/283/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -48,14 +57,8 @@
 ## Self-Host Weekly
 - 2026/09/18 [Self-Host Weekly (18 September 2026)](https://selfh.st/weekly/2026-09-18/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/09/17 [科技創業週報 #550：倉儲機器人的下一場競爭，是讓整段流程動起來](https://blog.starrocket.io/posts/newsletter-2026-09-16/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2026/09/17 [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/09/17 [LWN.net Weekly Edition for September 17, 2026](https://lwn.net/Articles/1093434/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## 试行错误
 - 2026/09/14 [AI 一分钟干完的活，我偏要花一小时「浪费」在自己身上｜NL165](https://quaily.com/shixingcuowu/p/ai-one-minute-job-i-prefer-to-spend-one-hour-wasting-on-myself-nl165) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

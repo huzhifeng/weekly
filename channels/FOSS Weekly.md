@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39)
 - [FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More](https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38)
 - [FOSS Weekly #26.37: Swiss Linux Move, Flyline, PPA Guide, Fedora Win Over Windows and More](https://feed.itsfoss.com/link/24361/17444269/foss-weekly-26-37)
 - [FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff](https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36)
