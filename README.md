@@ -3,8 +3,14 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 视野修炼
+- 2026/09/26 [视野修炼第134期 | 豆豆眼头像](https://sugarat.top/weekly/2026-09-26.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## This Week in Plasma
+- 2026/09/26 [This Week in Plasma: Akademy Special](https://blogs.kde.org/2026/09/26/this-week-in-plasma-akademy-special/) | [More](channels/This%20Week%20in%20Plasma.md)
+
 ## GitHub Trending Weekly
-- 2026/09/26 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/26 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
 - 2026/09/26 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
@@ -50,12 +56,6 @@
 
 ## V2EX 周报
 - 2026/09/20 [✨ V2EX 周报 本周热门主题及高赞回复 09.12-09.18](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2026/09/19 [视野修炼第133期 | Native 回春了?](https://sugarat.top/weekly/2026-09-19.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## This Week in Plasma
-- 2026/09/19 [This Week in Plasma: Let the Polishing Begin](https://blogs.kde.org/2026/09/19/this-week-in-plasma-let-the-polishing-begin/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 二丫讲梵学习周刊
 - 2026/09/17 [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
