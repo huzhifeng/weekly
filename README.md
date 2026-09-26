@@ -3,6 +3,21 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/09/26 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/26 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Web Review
+- 2026/09/25 [Web Review, Week 2026-39](https://ervin.ipsquad.net/blog/2026/09/25/web-review-week-2026-39/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/09/25 [#267 A New Era](https://thisweek.gnome.org/posts/2026/09/twig-267/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/09/25 [Self-Host Weekly (25 September 2026)](https://selfh.st/weekly/2026-09-25/) | [More](channels/Self-Host%20Weekly.md)
+
 ## 科技創業週報
 - 2026/09/24 [科技創業週報 #551：AI 新創商業模式正在改變：從 AI SaaS 到 AI 原生服務公司，解析 7 種創業新路徑](https://blog.starrocket.io/posts/newsletter-2026-09-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
@@ -11,12 +26,6 @@
 
 ## FOSS Weekly
 - 2026/09/24 [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39) | [More](channels/FOSS%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/09/24 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/24 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -47,15 +56,6 @@
 
 ## This Week in Plasma
 - 2026/09/19 [This Week in Plasma: Let the Polishing Begin](https://blogs.kde.org/2026/09/19/this-week-in-plasma-let-the-polishing-begin/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/09/18 [Web Review, Week 2026-38 — The Graz Edition](https://ervin.ipsquad.net/blog/2026/09/18/web-review-week-2026-38/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/09/18 [#266 Fifty One!](https://thisweek.gnome.org/posts/2026/09/twig-266/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/09/18 [Self-Host Weekly (18 September 2026)](https://selfh.st/weekly/2026-09-18/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 二丫讲梵学习周刊
 - 2026/09/17 [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
