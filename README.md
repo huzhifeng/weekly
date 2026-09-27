@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 更好生活
+- 2026/09/27 [微信读书 Skill 的 4 个用法：让过去的划线重新派上用场](https://quaily.com/jiayifun/p/wechat-reading-skill-four-uses-make-past-highlights-relevant) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## V2EX 周报
+- 2026/09/27 [✨ V2EX 周报 本周热门主题及高赞回复 09.19-09.25](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
+## GitHub Trending Weekly
+- 2026/09/27 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/27 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 视野修炼
 - 2026/09/26 [视野修炼第134期 | 豆豆眼头像](https://sugarat.top/weekly/2026-09-26.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## This Week in Plasma
 - 2026/09/26 [This Week in Plasma: Akademy Special](https://blogs.kde.org/2026/09/26/this-week-in-plasma-akademy-special/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/09/26 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/26 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/09/25 [Web Review, Week 2026-39](https://ervin.ipsquad.net/blog/2026/09/25/web-review-week-2026-39/) | [More](channels/Web%20Review.md)
@@ -54,9 +60,6 @@
 ## Taxodium
 - 2026/09/20 [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | [More](channels/Taxodium.md)
 
-## V2EX 周报
-- 2026/09/20 [✨ V2EX 周报 本周热门主题及高赞回复 09.12-09.18](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## 二丫讲梵学习周刊
 - 2026/09/17 [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
@@ -65,9 +68,6 @@
 
 ## CDT周报
 - 2026/09/13 [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 更好生活
-- 2026/09/11 [8 月小结｜完美的日子 & Agent 产品的困境](https://quaily.com/jiayifun/p/august-summary) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## zdyxry Weekly Issue
 - 2026/09/06 [Weekly Issue-《银行大劫案》](https://zdyxry.github.io/2026/09/06/Weekly-Issue-The-Bank-Job/) | [More](channels/zdyxry%20Weekly%20Issue.md)
@@ -78,11 +78,11 @@
 ## 胡言乱语
 - 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
+## 有个问题
+- 2026/08/28 [你在指望谁？｜人间松弛指南](https://newsletter.emmmme.com/p/who-are-you-relying-on-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
 ## HelloGitHub
 - 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
-
-## 有个问题
-- 2026/08/22 [如何与AI相处？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-coexist-with-ai-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
