@@ -1,3 +1,5 @@
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - [openai/plugins](https://github.com/openai/plugins)

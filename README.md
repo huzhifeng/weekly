@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/09/29 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/09/29 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 潮流周刊
+- 2026/09/28 [第284期 - 小资餐厅](https://weekly.tw93.fun/posts/284/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## HelloGitHub
+- 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
+
+## DistroWatch Weekly
+- 2026/09/28 [DistroWatch Weekly, Issue 1192](https://distrowatch.com/weekly.php?issue=20260928) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/09/28 [Ubuntu Weekly Newsletter Issue 964](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-964/88469) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
 ## 更好生活
 - 2026/09/27 [微信读书 Skill 的 4 个用法：让过去的划线重新派上用场](https://quaily.com/jiayifun/p/wechat-reading-skill-four-uses-make-past-highlights-relevant) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## V2EX 周报
 - 2026/09/27 [✨ V2EX 周报 本周热门主题及高赞回复 09.19-09.25](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/09/27 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/09/27 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 视野修炼
 - 2026/09/26 [视野修炼第134期 | 豆豆眼头像](https://sugarat.top/weekly/2026-09-26.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -42,20 +54,11 @@
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 潮流周刊
-- 2026/09/21 [第283期 - 经典电影](https://weekly.tw93.fun/posts/283/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## 一周杂记
 - 2026/09/21 [一周杂记 in Week 3 Sep 2026](http://kingsamchen.github.io/2026/09/21/weekly-2026-sep-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## AIGC Weekly
 - 2026/09/21 [AIGC Weekly #189](https://quaily.com/op7418/p/aigc-weekly-bqe74pq1) | [More](channels/AIGC%20Weekly.md)
-
-## DistroWatch Weekly
-- 2026/09/21 [DistroWatch Weekly, Issue 1191](https://distrowatch.com/weekly.php?issue=20260921) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/09/21 [Ubuntu Weekly Newsletter Issue 963](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-963/88127) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## Taxodium
 - 2026/09/20 [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | [More](channels/Taxodium.md)
@@ -80,9 +83,6 @@
 
 ## 有个问题
 - 2026/08/28 [你在指望谁？｜人间松弛指南](https://newsletter.emmmme.com/p/who-are-you-relying-on-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## HelloGitHub
-- 2026/08/28 [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [More](channels/HelloGitHub.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
