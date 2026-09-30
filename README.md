@@ -4,10 +4,16 @@
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/09/29 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/09/30 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/29 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/09/30 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 一周杂记
+- 2026/09/29 [一周杂记 in Week 4 Sep 2026](http://kingsamchen.github.io/2026/09/29/weekly-2026-sep-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## AIGC Weekly
+- 2026/09/29 [AIGC Weekly #190](https://quaily.com/op7418/p/aigc-weekly-one-ninety) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2026/09/28 [第284期 - 小资餐厅](https://weekly.tw93.fun/posts/284/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -53,12 +59,6 @@
 
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2026/09/21 [一周杂记 in Week 3 Sep 2026](http://kingsamchen.github.io/2026/09/21/weekly-2026-sep-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## AIGC Weekly
-- 2026/09/21 [AIGC Weekly #189](https://quaily.com/op7418/p/aigc-weekly-bqe74pq1) | [More](channels/AIGC%20Weekly.md)
 
 ## Taxodium
 - 2026/09/20 [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | [More](channels/Taxodium.md)
