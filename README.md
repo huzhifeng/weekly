@@ -3,11 +3,14 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## LWN.net Weekly Edition
+- 2026/10/01 [LWN.net Weekly Edition for October 1, 2026](https://lwn.net/Articles/1096293/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
 ## GitHub Trending Weekly
-- 2026/09/30 [anthropics/financial-services](https://github.com/anthropics/financial-services) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/01 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/09/30 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/01 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 一周杂记
 - 2026/09/29 [一周杂记 in Week 4 Sep 2026](http://kingsamchen.github.io/2026/09/29/weekly-2026-sep-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -50,9 +53,6 @@
 
 ## 科技創業週報
 - 2026/09/24 [科技創業週報 #551：AI 新創商業模式正在改變：從 AI SaaS 到 AI 原生服務公司，解析 7 種創業新路徑](https://blog.starrocket.io/posts/newsletter-2026-09-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/09/24 [LWN.net Weekly Edition for September 24, 2026](https://lwn.net/Articles/1094840/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2026/09/24 [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39) | [More](channels/FOSS%20Weekly.md)

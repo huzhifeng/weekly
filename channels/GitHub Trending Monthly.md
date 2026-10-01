@@ -1,3 +1,5 @@
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+- [affaan-m/ECC](https://github.com/affaan-m/ECC)
 - [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
