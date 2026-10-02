@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/10/02 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/02 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2026/10/01 [科技創業週報 #552：Google 開始幫家庭「管生活」，AI 新創還能從哪裡切入？](https://blog.starrocket.io/posts/newsletter-2026-09-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## LWN.net Weekly Edition
 - 2026/10/01 [LWN.net Weekly Edition for October 1, 2026](https://lwn.net/Articles/1096293/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/10/01 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/01 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/10/01 [FOSS Weekly #26.40: NixOS is European Choice, Firefox Nova and Features, Free Terminal Course, Homelab Improvements and More](https://feed.itsfoss.com/link/24361/17483196/foss-weekly-26-40) | [More](channels/FOSS%20Weekly.md)
 
 ## 一周杂记
 - 2026/09/29 [一周杂记 in Week 4 Sep 2026](http://kingsamchen.github.io/2026/09/29/weekly-2026-sep-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
@@ -50,12 +56,6 @@
 
 ## Self-Host Weekly
 - 2026/09/25 [Self-Host Weekly (25 September 2026)](https://selfh.st/weekly/2026-09-25/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/09/24 [科技創業週報 #551：AI 新創商業模式正在改變：從 AI SaaS 到 AI 原生服務公司，解析 7 種創業新路徑](https://blog.starrocket.io/posts/newsletter-2026-09-23/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## FOSS Weekly
-- 2026/09/24 [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39) | [More](channels/FOSS%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
