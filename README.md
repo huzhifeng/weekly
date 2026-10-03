@@ -3,11 +3,20 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/10/03 [This Week in Plasma: 6.8 Beta 2; Keep Testing!](https://blogs.kde.org/2026/10/03/this-week-in-plasma-6.8-beta-2-keep-testing/) | [More](channels/This%20Week%20in%20Plasma.md)
+
 ## GitHub Trending Weekly
-- 2026/10/02 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/03 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/02 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/03 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Web Review
+- 2026/10/02 [Web Review, Week 2026-40](https://ervin.ipsquad.net/blog/2026/10/02/web-review-week-2026-40/) | [More](channels/Web%20Review.md)
+
+## Self-Host Weekly
+- 2026/10/02 [Self-Host Weekly (2 October 2026)](https://selfh.st/weekly/2026-10-02/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/10/01 [科技創業週報 #552：Google 開始幫家庭「管生活」，AI 新創還能從哪裡切入？](https://blog.starrocket.io/posts/newsletter-2026-09-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -45,17 +54,8 @@
 ## 视野修炼
 - 2026/09/26 [视野修炼第134期 | 豆豆眼头像](https://sugarat.top/weekly/2026-09-26.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## This Week in Plasma
-- 2026/09/26 [This Week in Plasma: Akademy Special](https://blogs.kde.org/2026/09/26/this-week-in-plasma-akademy-special/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/09/25 [Web Review, Week 2026-39](https://ervin.ipsquad.net/blog/2026/09/25/web-review-week-2026-39/) | [More](channels/Web%20Review.md)
-
 ## This Week in GNOME
 - 2026/09/25 [#267 A New Era](https://thisweek.gnome.org/posts/2026/09/twig-267/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/09/25 [Self-Host Weekly (25 September 2026)](https://selfh.st/weekly/2026-09-25/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
