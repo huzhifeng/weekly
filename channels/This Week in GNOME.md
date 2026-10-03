@@ -1,3 +1,4 @@
+- [#268 Improved Agenda](https://thisweek.gnome.org/posts/2026/10/twig-268/)
 - [#267 A New Era](https://thisweek.gnome.org/posts/2026/09/twig-267/)
 - [#266 Fifty One!](https://thisweek.gnome.org/posts/2026/09/twig-266/)
 - [#265 New Commitments](https://thisweek.gnome.org/posts/2026/09/twig-265/)

@@ -3,6 +3,9 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in GNOME
+- 2026/10/03 [#268 Improved Agenda](https://thisweek.gnome.org/posts/2026/10/twig-268/) | [More](channels/This%20Week%20in%20GNOME.md)
+
 ## This Week in Plasma
 - 2026/10/03 [This Week in Plasma: 6.8 Beta 2; Keep Testing!](https://blogs.kde.org/2026/10/03/this-week-in-plasma-6.8-beta-2-keep-testing/) | [More](channels/This%20Week%20in%20Plasma.md)
 
@@ -53,9 +56,6 @@
 
 ## 视野修炼
 - 2026/09/26 [视野修炼第134期 | 豆豆眼头像](https://sugarat.top/weekly/2026-09-26.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## This Week in GNOME
-- 2026/09/25 [#267 A New Era](https://thisweek.gnome.org/posts/2026/09/twig-267/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
