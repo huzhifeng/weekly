@@ -3,17 +3,32 @@
 ## 科技爱好者周刊
 - 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 二丫讲梵学习周刊
+- 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
+## DistroWatch Weekly
+- 2026/10/05 [DistroWatch Weekly, Issue 1193](https://distrowatch.com/weekly.php?issue=20261005) | [More](channels/DistroWatch%20Weekly.md)
+
+## GitHub Trending Weekly
+- 2026/10/05 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/05 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 视野修炼
+- 2026/10/04 [视野修炼第135期 | 鼠标跟随宠物](https://sugarat.top/weekly/2026-10-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/10/04 [9to5Linux Weekly Roundup: October 4th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-4th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/10/04 [✨ V2EX 周报 本周热门主题及高赞回复 09.26-10.02](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+
 ## This Week in GNOME
 - 2026/10/03 [#268 Improved Agenda](https://thisweek.gnome.org/posts/2026/10/twig-268/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## This Week in Plasma
 - 2026/10/03 [This Week in Plasma: 6.8 Beta 2; Keep Testing!](https://blogs.kde.org/2026/10/03/this-week-in-plasma-6.8-beta-2-keep-testing/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## GitHub Trending Weekly
-- 2026/10/03 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/03 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## Web Review
 - 2026/10/02 [Web Review, Week 2026-40](https://ervin.ipsquad.net/blog/2026/10/02/web-review-week-2026-40/) | [More](channels/Web%20Review.md)
@@ -42,29 +57,17 @@
 ## HelloGitHub
 - 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
 
-## DistroWatch Weekly
-- 2026/09/28 [DistroWatch Weekly, Issue 1192](https://distrowatch.com/weekly.php?issue=20260928) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/09/28 [Ubuntu Weekly Newsletter Issue 964](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-964/88469) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 更好生活
 - 2026/09/27 [微信读书 Skill 的 4 个用法：让过去的划线重新派上用场](https://quaily.com/jiayifun/p/wechat-reading-skill-four-uses-make-past-highlights-relevant) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
-## V2EX 周报
-- 2026/09/27 [✨ V2EX 周报 本周热门主题及高赞回复 09.19-09.25](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## 视野修炼
-- 2026/09/26 [视野修炼第134期 | 豆豆眼头像](https://sugarat.top/weekly/2026-09-26.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## Taxodium
 - 2026/09/20 [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | [More](channels/Taxodium.md)
-
-## 二丫讲梵学习周刊
-- 2026/09/17 [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 试行错误
 - 2026/09/14 [AI 一分钟干完的活，我偏要花一小时「浪费」在自己身上｜NL165](https://quaily.com/shixingcuowu/p/ai-one-minute-job-i-prefer-to-spend-one-hour-wasting-on-myself-nl165) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
