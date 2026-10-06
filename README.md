@@ -6,14 +6,17 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/10/06 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/06 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## DistroWatch Weekly
 - 2026/10/05 [DistroWatch Weekly, Issue 1193](https://distrowatch.com/weekly.php?issue=20261005) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2026/10/05 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/05 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Ubuntu Weekly Newsletter
+- 2026/10/05 [Ubuntu Weekly Newsletter Issue 965](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-965/88891) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 视野修炼
 - 2026/10/04 [视野修炼第135期 | 鼠标跟随宠物](https://sugarat.top/weekly/2026-10-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -56,9 +59,6 @@
 
 ## HelloGitHub
 - 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/09/28 [Ubuntu Weekly Newsletter Issue 964](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-964/88469) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 更好生活
 - 2026/09/27 [微信读书 Skill 的 4 个用法：让过去的划线重新派上用场](https://quaily.com/jiayifun/p/wechat-reading-skill-four-uses-make-past-highlights-relevant) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
