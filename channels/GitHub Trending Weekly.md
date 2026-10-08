@@ -1,3 +1,5 @@
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip)

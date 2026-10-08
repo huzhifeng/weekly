@@ -6,11 +6,14 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## LWN.net Weekly Edition
+- 2026/10/08 [LWN.net Weekly Edition for October 8, 2026](https://lwn.net/Articles/1097859/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
 ## GitHub Trending Weekly
-- 2026/10/07 [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/08 [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/07 [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/08 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 试行错误
 - 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -50,9 +53,6 @@
 
 ## 科技創業週報
 - 2026/10/01 [科技創業週報 #552：Google 開始幫家庭「管生活」，AI 新創還能從哪裡切入？](https://blog.starrocket.io/posts/newsletter-2026-09-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/10/01 [LWN.net Weekly Edition for October 1, 2026](https://lwn.net/Articles/1096293/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2026/10/01 [FOSS Weekly #26.40: NixOS is European Choice, Firefox Nova and Features, Free Terminal Course, Homelab Improvements and More](https://feed.itsfoss.com/link/24361/17483196/foss-weekly-26-40) | [More](channels/FOSS%20Weekly.md)
