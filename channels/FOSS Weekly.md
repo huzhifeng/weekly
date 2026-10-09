@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop's Linux Clone, Rich CLI Tool and More](https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41)
 - [FOSS Weekly #26.40: NixOS is European Choice, Firefox Nova and Features, Free Terminal Course, Homelab Improvements and More](https://feed.itsfoss.com/link/24361/17483196/foss-weekly-26-40)
 - [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39)
 - [FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More](https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38)

@@ -1,19 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/09/18 [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/10/08 [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/10/09 [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/09 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2026/10/08 [科技創業週報 #553：機器人能不能走進更多工廠，關鍵在每次「換工作」要花多少錢](https://blog.starrocket.io/posts/newsletter-2026-10-07/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## LWN.net Weekly Edition
 - 2026/10/08 [LWN.net Weekly Edition for October 8, 2026](https://lwn.net/Articles/1097859/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/10/08 [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/08 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/10/08 [FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop's Linux Clone, Rich CLI Tool and More](https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41) | [More](channels/FOSS%20Weekly.md)
 
 ## 试行错误
 - 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -33,9 +39,6 @@
 ## 视野修炼
 - 2026/10/04 [视野修炼第135期 | 鼠标跟随宠物](https://sugarat.top/weekly/2026-10-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/10/04 [9to5Linux Weekly Roundup: October 4th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-4th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## V2EX 周报
 - 2026/10/04 [✨ V2EX 周报 本周热门主题及高赞回复 09.26-10.02](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -50,12 +53,6 @@
 
 ## Self-Host Weekly
 - 2026/10/02 [Self-Host Weekly (2 October 2026)](https://selfh.st/weekly/2026-10-02/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/10/01 [科技創業週報 #552：Google 開始幫家庭「管生活」，AI 新創還能從哪裡切入？](https://blog.starrocket.io/posts/newsletter-2026-09-30/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## FOSS Weekly
-- 2026/10/01 [FOSS Weekly #26.40: NixOS is European Choice, Firefox Nova and Features, Free Terminal Course, Homelab Improvements and More](https://feed.itsfoss.com/link/24361/17483196/foss-weekly-26-40) | [More](channels/FOSS%20Weekly.md)
 
 ## 潮流周刊
 - 2026/09/28 [第284期 - 小资餐厅](https://weekly.tw93.fun/posts/284/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
