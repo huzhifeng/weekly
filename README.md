@@ -6,11 +6,23 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/10/10 [This Week in Plasma: Finishing Touches on 6.8](https://blogs.kde.org/2026/10/10/this-week-in-plasma-finishing-touches-on-6.8/) | [More](channels/This%20Week%20in%20Plasma.md)
+
 ## GitHub Trending Weekly
-- 2026/10/09 [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/10 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/09 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/10 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Web Review
+- 2026/10/09 [Web Review, Week 2026-41](https://ervin.ipsquad.net/blog/2026/10/09/web-review-week-2026-41/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/10/09 [#269 Permission Admission](https://thisweek.gnome.org/posts/2026/10/twig-269/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/10/09 [Self-Host Weekly (9 October 2026)](https://selfh.st/weekly/2026-10-09/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/10/08 [科技創業週報 #553：機器人能不能走進更多工廠，關鍵在每次「換工作」要花多少錢](https://blog.starrocket.io/posts/newsletter-2026-10-07/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -41,18 +53,6 @@
 
 ## V2EX 周报
 - 2026/10/04 [✨ V2EX 周报 本周热门主题及高赞回复 09.26-10.02](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in GNOME
-- 2026/10/03 [#268 Improved Agenda](https://thisweek.gnome.org/posts/2026/10/twig-268/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Plasma
-- 2026/10/03 [This Week in Plasma: 6.8 Beta 2; Keep Testing!](https://blogs.kde.org/2026/10/03/this-week-in-plasma-6.8-beta-2-keep-testing/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/10/02 [Web Review, Week 2026-40](https://ervin.ipsquad.net/blog/2026/10/02/web-review-week-2026-40/) | [More](channels/Web%20Review.md)
-
-## Self-Host Weekly
-- 2026/10/02 [Self-Host Weekly (2 October 2026)](https://selfh.st/weekly/2026-10-02/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 潮流周刊
 - 2026/09/28 [第284期 - 小资餐厅](https://weekly.tw93.fun/posts/284/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
