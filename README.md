@@ -6,14 +6,14 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/10/10 [This Week in Plasma: Finishing Touches on 6.8](https://blogs.kde.org/2026/10/10/this-week-in-plasma-finishing-touches-on-6.8/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## GitHub Trending Weekly
-- 2026/10/10 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/11 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/10 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/11 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/10/10 [This Week in Plasma: Finishing Touches on 6.8](https://blogs.kde.org/2026/10/10/this-week-in-plasma-finishing-touches-on-6.8/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/10/09 [Web Review, Week 2026-41](https://ervin.ipsquad.net/blog/2026/10/09/web-review-week-2026-41/) | [More](channels/Web%20Review.md)
