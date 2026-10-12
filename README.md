@@ -6,11 +6,26 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/10/12 [第285期 - 陵水的云](https://weekly.tw93.fun/posts/285/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## DistroWatch Weekly
+- 2026/10/12 [DistroWatch Weekly, Issue 1194](https://distrowatch.com/weekly.php?issue=20261012) | [More](channels/DistroWatch%20Weekly.md)
+
 ## GitHub Trending Weekly
-- 2026/10/11 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/12 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/11 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/12 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 视野修炼
+- 2026/10/11 [视野修炼第136期 | 前端小恐龙"Deno"被收购](https://sugarat.top/weekly/2026-10-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/10/11 [9to5Linux Weekly Roundup: October 11th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-11th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/10/11 [✨ V2EX 周报 本周热门主题及高赞回复 10.03-10.09](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Plasma
 - 2026/10/10 [This Week in Plasma: Finishing Touches on 6.8](https://blogs.kde.org/2026/10/10/this-week-in-plasma-finishing-touches-on-6.8/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -42,20 +57,8 @@
 ## 一周杂记
 - 2026/10/05 [一周杂记 in Week 1 Oct 2026](http://kingsamchen.github.io/2026/10/05/weekly-2026-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## DistroWatch Weekly
-- 2026/10/05 [DistroWatch Weekly, Issue 1193](https://distrowatch.com/weekly.php?issue=20261005) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/10/05 [Ubuntu Weekly Newsletter Issue 965](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-965/88891) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 视野修炼
-- 2026/10/04 [视野修炼第135期 | 鼠标跟随宠物](https://sugarat.top/weekly/2026-10-03.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## V2EX 周报
-- 2026/10/04 [✨ V2EX 周报 本周热门主题及高赞回复 09.26-10.02](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## 潮流周刊
-- 2026/09/28 [第284期 - 小资餐厅](https://weekly.tw93.fun/posts/284/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
 ## HelloGitHub
 - 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
