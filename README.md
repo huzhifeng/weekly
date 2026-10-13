@@ -6,20 +6,38 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## Ubuntu Weekly Newsletter
+- 2026/10/13 [Ubuntu Weekly Newsletter Issue 966](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-966/89310) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/10/13 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/13 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/10/12 [第285期 - 陵水的云](https://weekly.tw93.fun/posts/285/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/10/12 [【CDT周报】第285期：不允许评价的商品不要买，不允许质疑的品牌不要碰](https://chinadigitaltimes.net/chinese/732777.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 更好生活
+- 2026/10/12 [9 月小结 ｜  新作息、契诃夫、抬腕看笔记](https://quaily.com/jiayifun/p/september-summary-new-routine-chekhov-wristwatch-notes) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
+
+## Taxodium
+- 2026/10/12 [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | [More](channels/Taxodium.md)
 
 ## DistroWatch Weekly
 - 2026/10/12 [DistroWatch Weekly, Issue 1194](https://distrowatch.com/weekly.php?issue=20261012) | [More](channels/DistroWatch%20Weekly.md)
 
-## GitHub Trending Weekly
-- 2026/10/12 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/12 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 视野修炼
 - 2026/10/11 [视野修炼第136期 | 前端小恐龙"Deno"被收购](https://sugarat.top/weekly/2026-10-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## 一周杂记
+- 2026/10/11 [一周杂记 in Week 2 Oct 2026](http://kingsamchen.github.io/2026/10/12/weekly-2026-oct-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## zdyxry Weekly Issue
+- 2026/10/11 [Weekly Issue-国庆假期](https://zdyxry.github.io/2026/10/11/Weekly-Issue-National-Day-Holiday/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 9to5Linux Weekly Roundup
 - 2026/10/11 [9to5Linux Weekly Roundup: October 11th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-11th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
@@ -54,29 +72,11 @@
 ## AIGC Weekly
 - 2026/10/06 [AIGC Weekly #191](https://quaily.com/op7418/p/aigc-weekly-491e3te4) | [More](channels/AIGC%20Weekly.md)
 
-## 一周杂记
-- 2026/10/05 [一周杂记 in Week 1 Oct 2026](http://kingsamchen.github.io/2026/10/05/weekly-2026-oct-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/10/05 [Ubuntu Weekly Newsletter Issue 965](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-965/88891) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## HelloGitHub
 - 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
 
-## 更好生活
-- 2026/09/27 [微信读书 Skill 的 4 个用法：让过去的划线重新派上用场](https://quaily.com/jiayifun/p/wechat-reading-skill-four-uses-make-past-highlights-relevant) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
-
 ## 偷懒爱好者周刊
 - 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## Taxodium
-- 2026/09/20 [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | [More](channels/Taxodium.md)
-
-## CDT周报
-- 2026/09/13 [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## zdyxry Weekly Issue
-- 2026/09/06 [Weekly Issue-《银行大劫案》](https://zdyxry.github.io/2026/09/06/Weekly-Issue-The-Bank-Job/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Airing's Weekly
 - 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)

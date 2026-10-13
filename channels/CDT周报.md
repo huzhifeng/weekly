@@ -1,3 +1,4 @@
+- [【CDT周报】第285期：不允许评价的商品不要买，不允许质疑的品牌不要碰](https://chinadigitaltimes.net/chinese/732777.html)
 - [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html)
 - [【CDT周报】第283期：英语还是得好好学，万一哪天要告洋状呢？](https://chinadigitaltimes.net/chinese/731490.html)
 - [【CDT周报】第282期：既然这是天灾，又有什么需要隐瞒的呢？](https://chinadigitaltimes.net/chinese/731197.html)
