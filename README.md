@@ -6,6 +6,9 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/10/14 [第203期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/14/第203期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
 - 2026/10/14 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
 
@@ -42,9 +45,6 @@
 ## zdyxry Weekly Issue
 - 2026/10/11 [Weekly Issue-国庆假期](https://zdyxry.github.io/2026/10/11/Weekly-Issue-National-Day-Holiday/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/10/11 [9to5Linux Weekly Roundup: October 11th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-11th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## V2EX 周报
 - 2026/10/11 [✨ V2EX 周报 本周热门主题及高赞回复 10.03-10.09](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -74,9 +74,6 @@
 
 ## HelloGitHub
 - 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
-
-## 偷懒爱好者周刊
-- 2026/09/23 [第202期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/23/第202期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## Airing's Weekly
 - 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)
