@@ -6,14 +6,17 @@
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## Ubuntu Weekly Newsletter
-- 2026/10/13 [Ubuntu Weekly Newsletter Issue 966](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-966/89310) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
 ## GitHub Trending Weekly
-- 2026/10/13 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/14 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/13 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/14 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## AIGC Weekly
+- 2026/10/13 [AIGC Weekly #192](https://quaily.com/op7418/p/aigc-weekly-jkg3vv5i) | [More](channels/AIGC%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/10/13 [Ubuntu Weekly Newsletter Issue 966](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-966/89310) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 潮流周刊
 - 2026/10/12 [第285期 - 陵水的云](https://weekly.tw93.fun/posts/285/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -68,9 +71,6 @@
 
 ## 试行错误
 - 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## AIGC Weekly
-- 2026/10/06 [AIGC Weekly #191](https://quaily.com/op7418/p/aigc-weekly-491e3te4) | [More](channels/AIGC%20Weekly.md)
 
 ## HelloGitHub
 - 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
