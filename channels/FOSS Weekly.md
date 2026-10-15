@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.42: AI in Kernel, Ubuntu 26.10 Firefox Business, Mint Release Changes and More Linux Stuff](https://feed.itsfoss.com/link/24361/17498175/foss-weekly-26-42)
 - [FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop's Linux Clone, Rich CLI Tool and More](https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41)
 - [FOSS Weekly #26.40: NixOS is European Choice, Firefox Nova and Features, Free Terminal Course, Homelab Improvements and More](https://feed.itsfoss.com/link/24361/17483196/foss-weekly-26-40)
 - [FOSS Weekly #26.39: Snapdragon X2, Ubuntu 26.10, Konsole, systemd Tricks and a New Project](https://feed.itsfoss.com/link/24361/17472237/foss-weekly-26-39)

@@ -3,17 +3,26 @@
 ## 科技爱好者周刊
 - 2026/10/08 [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 科技創業週報
+- 2026/10/15 [科技創業週報 #554：ChatGPT 開始即時生成互動界面，傳統 App 的價值會如何改變？](https://blog.starrocket.io/posts/newsletter-2026-10-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/10/14 [第203期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/14/第203期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## LWN.net Weekly Edition
+- 2026/10/15 [LWN.net Weekly Edition for October 15, 2026](https://lwn.net/Articles/1099247/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/10/15 [FOSS Weekly #26.42: AI in Kernel, Ubuntu 26.10 Firefox Business, Mint Release Changes and More Linux Stuff](https://feed.itsfoss.com/link/24361/17498175/foss-weekly-26-42) | [More](channels/FOSS%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/10/14 [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/15 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/14 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/15 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/10/14 [第203期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/14/第203期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2026/10/13 [AIGC Weekly #192](https://quaily.com/op7418/p/aigc-weekly-jkg3vv5i) | [More](channels/AIGC%20Weekly.md)
@@ -59,15 +68,6 @@
 
 ## Self-Host Weekly
 - 2026/10/09 [Self-Host Weekly (9 October 2026)](https://selfh.st/weekly/2026-10-09/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/10/08 [科技創業週報 #553：機器人能不能走進更多工廠，關鍵在每次「換工作」要花多少錢](https://blog.starrocket.io/posts/newsletter-2026-10-07/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## LWN.net Weekly Edition
-- 2026/10/08 [LWN.net Weekly Edition for October 8, 2026](https://lwn.net/Articles/1097859/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/10/08 [FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop's Linux Clone, Rich CLI Tool and More](https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41) | [More](channels/FOSS%20Weekly.md)
 
 ## 试行错误
 - 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
