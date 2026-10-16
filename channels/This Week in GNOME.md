@@ -1,3 +1,4 @@
+- [#270 Visualized Community](https://thisweek.gnome.org/posts/2026/10/twig-270/)
 - [#269 Permission Admission](https://thisweek.gnome.org/posts/2026/10/twig-269/)
 - [#268 Improved Agenda](https://thisweek.gnome.org/posts/2026/10/twig-268/)
 - [#267 A New Era](https://thisweek.gnome.org/posts/2026/09/twig-267/)

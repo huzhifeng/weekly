@@ -1,3 +1,4 @@
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
