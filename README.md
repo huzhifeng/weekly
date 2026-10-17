@@ -3,20 +3,23 @@
 ## 科技爱好者周刊
 - 2026/10/16 [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## Web Review
-- 2026/10/16 [Web Review, Week 2026-42](https://ervin.ipsquad.net/blog/2026/10/16/web-review-week-2026-42/) | [More](channels/Web%20Review.md)
+## 有个问题
+- 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## This Week in Plasma
+- 2026/10/17 [This Week in Plasma: New Weather Widget and On-Screen Keyboard](https://blogs.kde.org/2026/10/17/this-week-in-plasma-new-weather-widget-and-on-screen-keyboard/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/10/17 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/17 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## This Week in GNOME
 - 2026/10/16 [#270 Visualized Community](https://thisweek.gnome.org/posts/2026/10/twig-270/) | [More](channels/This%20Week%20in%20GNOME.md)
 
 ## Self-Host Weekly
 - 2026/10/16 [Self-Host Weekly (16 October 2026)](https://selfh.st/weekly/2026-10-16/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/10/16 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/16 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/10/15 [科技創業週報 #554：ChatGPT 開始即時生成互動界面，傳統 App 的價值會如何改變？](https://blog.starrocket.io/posts/newsletter-2026-10-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -66,14 +69,8 @@
 ## V2EX 周报
 - 2026/10/11 [✨ V2EX 周报 本周热门主题及高赞回复 10.03-10.09](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/10/10 [This Week in Plasma: Finishing Touches on 6.8](https://blogs.kde.org/2026/10/10/this-week-in-plasma-finishing-touches-on-6.8/) | [More](channels/This%20Week%20in%20Plasma.md)
-
 ## 试行错误
 - 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
-
-## 有个问题
-- 2026/10/01 [有状态洁癖，怎么办？｜人间松弛指南](https://newsletter.emmmme.com/p/yu-zhuang-tai-jie-pi-zen-me-ban-ren-jian-song-shi-zhi-nan) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## HelloGitHub
 - 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
