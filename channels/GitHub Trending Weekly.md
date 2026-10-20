@@ -1,3 +1,4 @@
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [storytold/artcraft](https://github.com/storytold/artcraft)
 - [morluto/rea](https://github.com/morluto/rea)
 - [tester-army/e2e](https://github.com/tester-army/e2e)

@@ -3,6 +3,12 @@
 ## 科技爱好者周刊
 - 2026/10/16 [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/10/21 [第204期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/21/第204期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## AIGC Weekly
+- 2026/10/20 [AIGC Weekly #193](https://quaily.com/op7418/p/aigc-weekly-8jaw8cct) | [More](channels/AIGC%20Weekly.md)
+
 ## GitHub Trending Weekly
 - 2026/10/20 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
 
@@ -26,9 +32,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/10/18 [Weekly Issue-《奔跑吧，爸爸》](https://zdyxry.github.io/2026/10/18/Weekly-Issue-Run-Dad/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/10/18 [9to5Linux Weekly Roundup: October 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-18th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/10/18 [✨ V2EX 周报 本周热门主题及高赞回复 10.10-10.16](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
@@ -59,12 +62,6 @@
 
 ## FOSS Weekly
 - 2026/10/15 [FOSS Weekly #26.42: AI in Kernel, Ubuntu 26.10 Firefox Business, Mint Release Changes and More Linux Stuff](https://feed.itsfoss.com/link/24361/17498175/foss-weekly-26-42) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/10/14 [第203期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/14/第203期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## AIGC Weekly
-- 2026/10/13 [AIGC Weekly #192](https://quaily.com/op7418/p/aigc-weekly-jkg3vv5i) | [More](channels/AIGC%20Weekly.md)
 
 ## 更好生活
 - 2026/10/12 [9 月小结 ｜  新作息、契诃夫、抬腕看笔记](https://quaily.com/jiayifun/p/september-summary-new-routine-chekhov-wristwatch-notes) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
