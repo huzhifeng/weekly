@@ -3,20 +3,35 @@
 ## 科技爱好者周刊
 - 2026/10/16 [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/10/20 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/20 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/10/19 [第286期 - 径山双溪](https://weekly.tw93.fun/posts/286/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/10/19 [【CDT周报】第286期：你没有收入，不重要；你不交社保！对我很重要！](https://chinadigitaltimes.net/chinese/733006.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/10/19 [一周杂记 in Week 3 Oct 2026](http://kingsamchen.github.io/2026/10/19/weekly-2026-oct-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2026/10/19 [DistroWatch Weekly, Issue 1195](https://distrowatch.com/weekly.php?issue=20261019) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/10/19 [Ubuntu Weekly Newsletter Issue 967](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-967/89912) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## zdyxry Weekly Issue
+- 2026/10/18 [Weekly Issue-《奔跑吧，爸爸》](https://zdyxry.github.io/2026/10/18/Weekly-Issue-Run-Dad/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 9to5Linux Weekly Roundup
 - 2026/10/18 [9to5Linux Weekly Roundup: October 18th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-18th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/10/18 [✨ V2EX 周报 本周热门主题及高赞回复 10.10-10.16](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## GitHub Trending Weekly
-- 2026/10/18 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/18 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 有个问题
 - 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -36,6 +51,9 @@
 ## 科技創業週報
 - 2026/10/15 [科技創業週報 #554：ChatGPT 開始即時生成互動界面，傳統 App 的價值會如何改變？](https://blog.starrocket.io/posts/newsletter-2026-10-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
+## 二丫讲梵学习周刊
+- 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## LWN.net Weekly Edition
 - 2026/10/15 [LWN.net Weekly Edition for October 15, 2026](https://lwn.net/Articles/1099247/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
@@ -48,29 +66,14 @@
 ## AIGC Weekly
 - 2026/10/13 [AIGC Weekly #192](https://quaily.com/op7418/p/aigc-weekly-jkg3vv5i) | [More](channels/AIGC%20Weekly.md)
 
-## Ubuntu Weekly Newsletter
-- 2026/10/13 [Ubuntu Weekly Newsletter Issue 966](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-966/89310) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## CDT周报
-- 2026/10/12 [【CDT周报】第285期：不允许评价的商品不要买，不允许质疑的品牌不要碰](https://chinadigitaltimes.net/chinese/732777.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## 更好生活
 - 2026/10/12 [9 月小结 ｜  新作息、契诃夫、抬腕看笔记](https://quaily.com/jiayifun/p/september-summary-new-routine-chekhov-wristwatch-notes) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
 ## Taxodium
 - 2026/10/12 [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | [More](channels/Taxodium.md)
 
-## DistroWatch Weekly
-- 2026/10/12 [DistroWatch Weekly, Issue 1194](https://distrowatch.com/weekly.php?issue=20261012) | [More](channels/DistroWatch%20Weekly.md)
-
 ## 视野修炼
 - 2026/10/11 [视野修炼第136期 | 前端小恐龙"Deno"被收购](https://sugarat.top/weekly/2026-10-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## 一周杂记
-- 2026/10/11 [一周杂记 in Week 2 Oct 2026](http://kingsamchen.github.io/2026/10/12/weekly-2026-oct-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## zdyxry Weekly Issue
-- 2026/10/11 [Weekly Issue-国庆假期](https://zdyxry.github.io/2026/10/11/Weekly-Issue-National-Day-Holiday/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 试行错误
 - 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)

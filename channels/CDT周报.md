@@ -1,3 +1,4 @@
+- [【CDT周报】第286期：你没有收入，不重要；你不交社保！对我很重要！](https://chinadigitaltimes.net/chinese/733006.html)
 - [【CDT周报】第285期：不允许评价的商品不要买，不允许质疑的品牌不要碰](https://chinadigitaltimes.net/chinese/732777.html)
 - [【CDT周报】第284期：防了这么久的境外势力，最后自己抄作业递了上去](https://chinadigitaltimes.net/chinese/731639.html)
 - [【CDT周报】第283期：英语还是得好好学，万一哪天要告洋状呢？](https://chinadigitaltimes.net/chinese/731490.html)

@@ -1,3 +1,4 @@
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
