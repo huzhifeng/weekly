@@ -3,17 +3,17 @@
 ## 科技爱好者周刊
 - 2026/10/16 [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/10/22 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/22 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 偷懒爱好者周刊
 - 2026/10/21 [第204期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/21/第204期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2026/10/20 [AIGC Weekly #193](https://quaily.com/op7418/p/aigc-weekly-8jaw8cct) | [More](channels/AIGC%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/10/20 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/20 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 潮流周刊
 - 2026/10/19 [第286期 - 径山双溪](https://weekly.tw93.fun/posts/286/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
