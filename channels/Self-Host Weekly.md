@@ -1,3 +1,4 @@
+- [Self-Host Weekly (23 October 2026)](https://selfh.st/weekly/2026-10-23/)
 - [Self-Host Weekly (16 October 2026)](https://selfh.st/weekly/2026-10-16/)
 - [Self-Host Weekly (9 October 2026)](https://selfh.st/weekly/2026-10-09/)
 - [Self-Host Weekly (2 October 2026)](https://selfh.st/weekly/2026-10-02/)
