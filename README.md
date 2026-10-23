@@ -4,10 +4,19 @@
 - 2026/10/16 [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/10/22 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/23 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/22 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/23 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2026/10/22 [科技創業週報 #555：當AI 能產生 120 萬個創業點子，創業者的競爭優勢還剩下什麼？](https://blog.starrocket.io/posts/newsletter-2026-10-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/10/22 [LWN.net Weekly Edition for October 22, 2026](https://lwn.net/Articles/1100612/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## FOSS Weekly
+- 2026/10/22 [FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More](https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43) | [More](channels/FOSS%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/10/21 [第204期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/21/第204期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -51,17 +60,8 @@
 ## Self-Host Weekly
 - 2026/10/16 [Self-Host Weekly (16 October 2026)](https://selfh.st/weekly/2026-10-16/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/10/15 [科技創業週報 #554：ChatGPT 開始即時生成互動界面，傳統 App 的價值會如何改變？](https://blog.starrocket.io/posts/newsletter-2026-10-14/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/10/15 [LWN.net Weekly Edition for October 15, 2026](https://lwn.net/Articles/1099247/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/10/15 [FOSS Weekly #26.42: AI in Kernel, Ubuntu 26.10 Firefox Business, Mint Release Changes and More Linux Stuff](https://feed.itsfoss.com/link/24361/17498175/foss-weekly-26-42) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2026/10/12 [9 月小结 ｜  新作息、契诃夫、抬腕看笔记](https://quaily.com/jiayifun/p/september-summary-new-routine-chekhov-wristwatch-notes) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
