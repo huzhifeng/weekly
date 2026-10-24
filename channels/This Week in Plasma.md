@@ -1,3 +1,4 @@
+- [This Week in Plasma: Fixing All the Bugs, PiP, and Performance](https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/)
 - [This Week in Plasma: New Weather Widget and On-Screen Keyboard](https://blogs.kde.org/2026/10/17/this-week-in-plasma-new-weather-widget-and-on-screen-keyboard/)
 - [This Week in Plasma: Finishing Touches on 6.8](https://blogs.kde.org/2026/10/10/this-week-in-plasma-finishing-touches-on-6.8/)
 - [This Week in Plasma: 6.8 Beta 2; Keep Testing!](https://blogs.kde.org/2026/10/03/this-week-in-plasma-6.8-beta-2-keep-testing/)

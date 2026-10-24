@@ -3,6 +3,15 @@
 ## 科技爱好者周刊
 - 2026/10/23 [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/10/24 [This Week in Plasma: Fixing All the Bugs, PiP, and Performance](https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/10/24 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/24 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## Web Review
 - 2026/10/23 [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) | [More](channels/Web%20Review.md)
 
@@ -11,12 +20,6 @@
 
 ## Self-Host Weekly
 - 2026/10/23 [Self-Host Weekly (23 October 2026)](https://selfh.st/weekly/2026-10-23/) | [More](channels/Self-Host%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/10/23 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/23 [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/10/22 [科技創業週報 #555：當AI 能產生 120 萬個創業點子，創業者的競爭優勢還剩下什麼？](https://blog.starrocket.io/posts/newsletter-2026-10-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -56,9 +59,6 @@
 
 ## 有个问题
 - 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## This Week in Plasma
-- 2026/10/17 [This Week in Plasma: New Weather Widget and On-Screen Keyboard](https://blogs.kde.org/2026/10/17/this-week-in-plasma-new-weather-widget-and-on-screen-keyboard/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## 二丫讲梵学习周刊
 - 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
