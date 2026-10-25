@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/10/23 [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/10/24 [This Week in Plasma: Fixing All the Bugs, PiP, and Performance](https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
+## 潮流周刊
+- 2026/10/26 [第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/10/25 [9to5Linux Weekly Roundup: October 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-25th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/10/25 [✨ V2EX 周报 本周热门主题及高赞回复 10.17-10.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## GitHub Trending Weekly
-- 2026/10/24 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/25 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/24 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/25 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/10/24 [This Week in Plasma: Fixing All the Bugs, PiP, and Performance](https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/10/23 [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) | [More](channels/Web%20Review.md)
@@ -36,9 +45,6 @@
 ## AIGC Weekly
 - 2026/10/20 [AIGC Weekly #193](https://quaily.com/op7418/p/aigc-weekly-8jaw8cct) | [More](channels/AIGC%20Weekly.md)
 
-## 潮流周刊
-- 2026/10/19 [第286期 - 径山双溪](https://weekly.tw93.fun/posts/286/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/10/19 [【CDT周报】第286期：你没有收入，不重要；你不交社保！对我很重要！](https://chinadigitaltimes.net/chinese/733006.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -53,9 +59,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/10/18 [Weekly Issue-《奔跑吧，爸爸》](https://zdyxry.github.io/2026/10/18/Weekly-Issue-Run-Dad/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/10/18 [✨ V2EX 周报 本周热门主题及高赞回复 10.10-10.16](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 有个问题
 - 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
