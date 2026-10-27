@@ -1,3 +1,4 @@
+- [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/)
 - [Weekly Issue-《奔跑吧，爸爸》](https://zdyxry.github.io/2026/10/18/Weekly-Issue-Run-Dad/)
 - [Weekly Issue-国庆假期](https://zdyxry.github.io/2026/10/11/Weekly-Issue-National-Day-Holiday/)
 - [Weekly Issue-《银行大劫案》](https://zdyxry.github.io/2026/09/06/Weekly-Issue-The-Bank-Job/)
