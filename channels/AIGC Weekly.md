@@ -1,3 +1,4 @@
+- [AIGC Weekly #194](https://quaily.com/op7418/p/aigc-weekly-2f0awrsi)
 - [AIGC Weekly #193](https://quaily.com/op7418/p/aigc-weekly-8jaw8cct)
 - [AIGC Weekly #192](https://quaily.com/op7418/p/aigc-weekly-jkg3vv5i)
 - [AIGC Weekly #191](https://quaily.com/op7418/p/aigc-weekly-491e3te4)

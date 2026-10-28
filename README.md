@@ -3,11 +3,17 @@
 ## 科技爱好者周刊
 - 2026/10/23 [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/10/28 [第205期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/28/第205期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/10/27 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/28 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/27 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/28 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## AIGC Weekly
+- 2026/10/27 [AIGC Weekly #194](https://quaily.com/op7418/p/aigc-weekly-2f0awrsi) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2026/10/26 [第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -28,7 +34,7 @@
 - 2026/10/25 [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 9to5Linux Weekly Roundup
-- 2026/10/25 [9to5Linux Weekly Roundup: October 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-25th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+- 2026/10/25 [9to5Linux Weekly Roundup: October 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-25th-2026?utm_source=rss) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/10/25 [✨ V2EX 周报 本周热门主题及高赞回复 10.17-10.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
@@ -53,12 +59,6 @@
 
 ## FOSS Weekly
 - 2026/10/22 [FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More](https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/10/21 [第204期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/21/第204期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## AIGC Weekly
-- 2026/10/20 [AIGC Weekly #193](https://quaily.com/op7418/p/aigc-weekly-8jaw8cct) | [More](channels/AIGC%20Weekly.md)
 
 ## 有个问题
 - 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
