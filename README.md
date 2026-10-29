@@ -3,14 +3,23 @@
 ## 科技爱好者周刊
 - 2026/10/23 [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## LWN.net Weekly Edition
+- 2026/10/29 [LWN.net Weekly Edition for October 29, 2026](https://lwn.net/Articles/1102136/) | [More](channels/LWN.net%20Weekly%20Edition.md)
+
+## GitHub Trending Weekly
+- 2026/10/29 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/29 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## HelloGitHub
+- 2026/10/28 [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [More](channels/HelloGitHub.md)
+
 ## 偷懒爱好者周刊
 - 2026/10/28 [第205期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/28/第205期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2026/10/28 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/28 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [More](channels/GitHub%20Trending%20Monthly.md)
+## 视野修炼
+- 2026/10/28 [视野修炼第137期 | 编程已经面目全非](https://sugarat.top/weekly/2026-10-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
 
 ## AIGC Weekly
 - 2026/10/27 [AIGC Weekly #194](https://quaily.com/op7418/p/aigc-weekly-2f0awrsi) | [More](channels/AIGC%20Weekly.md)
@@ -24,6 +33,9 @@
 ## 一周杂记
 - 2026/10/26 [一周杂记 in Week 4 Oct 2026](http://kingsamchen.github.io/2026/10/26/weekly-2026-oct-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
+## 胡言乱语
+- 2026/10/26 [20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
+
 ## DistroWatch Weekly
 - 2026/10/26 [DistroWatch Weekly, Issue 1196](https://distrowatch.com/weekly.php?issue=20261026) | [More](channels/DistroWatch%20Weekly.md)
 
@@ -32,9 +44,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/10/25 [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/10/25 [9to5Linux Weekly Roundup: October 25th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-october-25th-2026?utm_source=rss) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/10/25 [✨ V2EX 周报 本周热门主题及高赞回复 10.17-10.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
@@ -54,9 +63,6 @@
 ## 科技創業週報
 - 2026/10/22 [科技創業週報 #555：當AI 能產生 120 萬個創業點子，創業者的競爭優勢還剩下什麼？](https://blog.starrocket.io/posts/newsletter-2026-10-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## LWN.net Weekly Edition
-- 2026/10/22 [LWN.net Weekly Edition for October 22, 2026](https://lwn.net/Articles/1100612/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
 ## FOSS Weekly
 - 2026/10/22 [FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More](https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43) | [More](channels/FOSS%20Weekly.md)
 
@@ -72,20 +78,11 @@
 ## Taxodium
 - 2026/10/12 [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | [More](channels/Taxodium.md)
 
-## 视野修炼
-- 2026/10/11 [视野修炼第136期 | 前端小恐龙"Deno"被收购](https://sugarat.top/weekly/2026-10-11.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## 试行错误
 - 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
-## HelloGitHub
-- 2026/09/28 [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [More](channels/HelloGitHub.md)
-
 ## Airing's Weekly
 - 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)
-
-## 胡言乱语
-- 2026/09/02 [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
 ## GitHub一周热点汇总
 - 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)

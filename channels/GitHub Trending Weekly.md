@@ -1,3 +1,4 @@
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [storytold/artcraft](https://github.com/storytold/artcraft)
