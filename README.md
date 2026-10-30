@@ -1,16 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/10/23 [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/10/30 [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/10/30 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/10/30 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 科技創業週報
+- 2026/10/29 [科技創業週報 #556：Walmart 讓 Agent 進門購物，電商要重新設計哪些交易規則？](https://blog.starrocket.io/posts/newsletter-2026-10-28/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## 二丫讲梵学习周刊
+- 2026/10/29 [学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## LWN.net Weekly Edition
 - 2026/10/29 [LWN.net Weekly Edition for October 29, 2026](https://lwn.net/Articles/1102136/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/10/29 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/10/29 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/10/29 [FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff](https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44) | [More](channels/FOSS%20Weekly.md)
 
 ## HelloGitHub
 - 2026/10/28 [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [More](channels/HelloGitHub.md)
@@ -60,17 +69,8 @@
 ## Self-Host Weekly
 - 2026/10/23 [Self-Host Weekly (23 October 2026)](https://selfh.st/weekly/2026-10-23/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/10/22 [科技創業週報 #555：當AI 能產生 120 萬個創業點子，創業者的競爭優勢還剩下什麼？](https://blog.starrocket.io/posts/newsletter-2026-10-21/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
-## FOSS Weekly
-- 2026/10/22 [FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More](https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43) | [More](channels/FOSS%20Weekly.md)
-
 ## 有个问题
 - 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
-## 二丫讲梵学习周刊
-- 2026/10/15 [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 更好生活
 - 2026/10/12 [9 月小结 ｜  新作息、契诃夫、抬腕看笔记](https://quaily.com/jiayifun/p/september-summary-new-routine-chekhov-wristwatch-notes) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)

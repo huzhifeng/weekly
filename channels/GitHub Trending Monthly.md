@@ -1,3 +1,4 @@
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip)

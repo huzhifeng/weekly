@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff](https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44)
 - [FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More](https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43)
 - [FOSS Weekly #26.42: AI in Kernel, Ubuntu 26.10 Firefox Business, Mint Release Changes and More Linux Stuff](https://feed.itsfoss.com/link/24361/17498175/foss-weekly-26-42)
 - [FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop's Linux Clone, Rich CLI Tool and More](https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41)
