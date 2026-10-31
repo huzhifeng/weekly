@@ -4,10 +4,16 @@
 - 2026/10/30 [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/10/30 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/10/31 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/30 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/10/31 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in GNOME
+- 2026/10/30 [#272 Shiny Icons](https://thisweek.gnome.org/posts/2026/10/twig-272/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/10/30 [Self-Host Weekly (30 October 2026)](https://selfh.st/weekly/2026-10-30/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/10/29 [科技創業週報 #556：Walmart 讓 Agent 進門購物，電商要重新設計哪些交易規則？](https://blog.starrocket.io/posts/newsletter-2026-10-28/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -62,12 +68,6 @@
 
 ## Web Review
 - 2026/10/23 [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/10/23 [#271 Good News](https://thisweek.gnome.org/posts/2026/10/twig-271/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/10/23 [Self-Host Weekly (23 October 2026)](https://selfh.st/weekly/2026-10-23/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 有个问题
 - 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)

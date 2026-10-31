@@ -1,3 +1,4 @@
+- [#272 Shiny Icons](https://thisweek.gnome.org/posts/2026/10/twig-272/)
 - [#271 Good News](https://thisweek.gnome.org/posts/2026/10/twig-271/)
 - [#270 Visualized Community](https://thisweek.gnome.org/posts/2026/10/twig-270/)
 - [#269 Permission Admission](https://thisweek.gnome.org/posts/2026/10/twig-269/)
