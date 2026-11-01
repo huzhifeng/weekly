@@ -4,10 +4,13 @@
 - 2026/10/30 [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/10/31 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/01 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/10/31 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/01 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## This Week in Plasma
+- 2026/10/31 [This Week in Plasma: An Avalanche of Performance Improvements and Bug Fixes](https://blogs.kde.org/2026/10/31/this-week-in-plasma-an-avalanche-of-performance-improvements-and-bug-fixes/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## This Week in GNOME
 - 2026/10/30 [#272 Shiny Icons](https://thisweek.gnome.org/posts/2026/10/twig-272/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -62,9 +65,6 @@
 
 ## V2EX 周报
 - 2026/10/25 [✨ V2EX 周报 本周热门主题及高赞回复 10.17-10.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in Plasma
-- 2026/10/24 [This Week in Plasma: Fixing All the Bugs, PiP, and Performance](https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
 
 ## Web Review
 - 2026/10/23 [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) | [More](channels/Web%20Review.md)
