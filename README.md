@@ -3,11 +3,20 @@
 ## 科技爱好者周刊
 - 2026/10/30 [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/11/02 [第288期 - 偶遇小猫](https://weekly.tw93.fun/posts/288/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/11/01 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/02 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/01 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/02 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/11/01 [9to5Linux Weekly Roundup: November 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-1st-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/11/01 [✨ V2EX 周报 本周热门主题及高赞回复 10.24-10.30](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Plasma
 - 2026/10/31 [This Week in Plasma: An Avalanche of Performance Improvements and Bug Fixes](https://blogs.kde.org/2026/10/31/this-week-in-plasma-an-avalanche-of-performance-improvements-and-bug-fixes/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -42,9 +51,6 @@
 ## AIGC Weekly
 - 2026/10/27 [AIGC Weekly #194](https://quaily.com/op7418/p/aigc-weekly-2f0awrsi) | [More](channels/AIGC%20Weekly.md)
 
-## 潮流周刊
-- 2026/10/26 [第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/10/26 [【CDT周报】第287期：中土大战，有人冲在了前线，有人上不了前线](https://chinadigitaltimes.net/chinese/733232.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -62,9 +68,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/10/25 [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/10/25 [✨ V2EX 周报 本周热门主题及高赞回复 10.17-10.23](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## Web Review
 - 2026/10/23 [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) | [More](channels/Web%20Review.md)
