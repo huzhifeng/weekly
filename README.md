@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2026/10/30 [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/11/03 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/03 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/11/02 [第288期 - 偶遇小猫](https://weekly.tw93.fun/posts/288/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2026/11/02 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+## CDT周报
+- 2026/11/02 [【CDT周报】第288期：姆巴佩怎么了？他说唐国强是美术生](https://chinadigitaltimes.net/chinese/733518.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
-## GitHub Trending Monthly
-- 2026/11/02 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+## 一周杂记
+- 2026/11/02 [一周杂记 in Week 5 Oct 2026](http://kingsamchen.github.io/2026/11/02/weekly-2026-oct-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2026/11/02 [DistroWatch Weekly, Issue 1197](https://distrowatch.com/weekly.php?issue=20261102) | [More](channels/DistroWatch%20Weekly.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/11/02 [Ubuntu Weekly Newsletter Issue 969](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-969/90896) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## zdyxry Weekly Issue
+- 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 9to5Linux Weekly Roundup
 - 2026/11/01 [9to5Linux Weekly Roundup: November 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-1st-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
@@ -51,23 +66,8 @@
 ## AIGC Weekly
 - 2026/10/27 [AIGC Weekly #194](https://quaily.com/op7418/p/aigc-weekly-2f0awrsi) | [More](channels/AIGC%20Weekly.md)
 
-## CDT周报
-- 2026/10/26 [【CDT周报】第287期：中土大战，有人冲在了前线，有人上不了前线](https://chinadigitaltimes.net/chinese/733232.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2026/10/26 [一周杂记 in Week 4 Oct 2026](http://kingsamchen.github.io/2026/10/26/weekly-2026-oct-4/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
 ## 胡言乱语
 - 2026/10/26 [20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## DistroWatch Weekly
-- 2026/10/26 [DistroWatch Weekly, Issue 1196](https://distrowatch.com/weekly.php?issue=20261026) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/10/26 [Ubuntu Weekly Newsletter Issue 968](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-968/90415) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/10/25 [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## Web Review
 - 2026/10/23 [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) | [More](channels/Web%20Review.md)

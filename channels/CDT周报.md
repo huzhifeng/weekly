@@ -1,3 +1,4 @@
+- [【CDT周报】第288期：姆巴佩怎么了？他说唐国强是美术生](https://chinadigitaltimes.net/chinese/733518.html)
 - [【CDT周报】第287期：中土大战，有人冲在了前线，有人上不了前线](https://chinadigitaltimes.net/chinese/733232.html)
 - [【CDT周报】第286期：你没有收入，不重要；你不交社保！对我很重要！](https://chinadigitaltimes.net/chinese/733006.html)
 - [【CDT周报】第285期：不允许评价的商品不要买，不允许质疑的品牌不要碰](https://chinadigitaltimes.net/chinese/732777.html)
