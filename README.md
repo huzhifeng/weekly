@@ -3,11 +3,17 @@
 ## 科技爱好者周刊
 - 2026/10/30 [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/11/04 [第206期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/04/第206期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/11/03 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/04 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/03 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/04 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## AIGC Weekly
+- 2026/11/03 [AIGC Weekly #195](https://quaily.com/op7418/p/aigc-weekly-6yrojiqk) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2026/11/02 [第288期 - 偶遇小猫](https://weekly.tw93.fun/posts/288/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -26,9 +32,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/11/01 [9to5Linux Weekly Roundup: November 1st, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-1st-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/11/01 [✨ V2EX 周报 本周热门主题及高赞回复 10.24-10.30](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
@@ -57,14 +60,8 @@
 ## HelloGitHub
 - 2026/10/28 [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [More](channels/HelloGitHub.md)
 
-## 偷懒爱好者周刊
-- 2026/10/28 [第205期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/28/第205期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
 ## 视野修炼
 - 2026/10/28 [视野修炼第137期 | 编程已经面目全非](https://sugarat.top/weekly/2026-10-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
-## AIGC Weekly
-- 2026/10/27 [AIGC Weekly #194](https://quaily.com/op7418/p/aigc-weekly-2f0awrsi) | [More](channels/AIGC%20Weekly.md)
 
 ## 胡言乱语
 - 2026/10/26 [20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)

@@ -1,3 +1,5 @@
+- [morluto/rea](https://github.com/morluto/rea)
+- [tester-army/e2e](https://github.com/tester-army/e2e)
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
