@@ -3,14 +3,17 @@
 ## 科技爱好者周刊
 - 2026/10/30 [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/11/04 [第206期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/04/第206期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## LWN.net Weekly Edition
+- 2026/11/05 [LWN.net Weekly Edition for November 5, 2026](https://lwn.net/Articles/1103480/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## GitHub Trending Weekly
-- 2026/11/04 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/05 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/04 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/05 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/11/04 [第206期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/04/第206期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## AIGC Weekly
 - 2026/11/03 [AIGC Weekly #195](https://quaily.com/op7418/p/aigc-weekly-6yrojiqk) | [More](channels/AIGC%20Weekly.md)
@@ -50,9 +53,6 @@
 
 ## 二丫讲梵学习周刊
 - 2026/10/29 [学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/10/29 [LWN.net Weekly Edition for October 29, 2026](https://lwn.net/Articles/1102136/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2026/10/29 [FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff](https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44) | [More](channels/FOSS%20Weekly.md)
