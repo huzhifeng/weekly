@@ -1,3 +1,4 @@
+- [This Week in Plasma: Widgets Widgets Widgets](https://blogs.kde.org/2026/11/07/this-week-in-plasma-widgets-widgets-widgets/)
 - [This Week in Plasma: An Avalanche of Performance Improvements and Bug Fixes](https://blogs.kde.org/2026/10/31/this-week-in-plasma-an-avalanche-of-performance-improvements-and-bug-fixes/)
 - [This Week in Plasma: Fixing All the Bugs, PiP, and Performance](https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/)
 - [This Week in Plasma: New Weather Widget and On-Screen Keyboard](https://blogs.kde.org/2026/10/17/this-week-in-plasma-new-weather-widget-and-on-screen-keyboard/)
