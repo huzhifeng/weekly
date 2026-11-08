@@ -1,3 +1,4 @@
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - [php/php-src](https://github.com/php/php-src)
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
