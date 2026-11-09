@@ -3,11 +3,23 @@
 ## 科技爱好者周刊
 - 2026/11/05 [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 潮流周刊
+- 2026/11/09 [第289期 - 南京李志](https://weekly.tw93.fun/posts/289/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
 ## GitHub Trending Weekly
-- 2026/11/08 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/09 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/08 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/09 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 拾月通讯
+- 2026/11/08 [2026年第45周](https://www.skyue.com/26110822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/11/08 [9to5Linux Weekly Roundup: November 8th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-8th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/11/08 [✨ V2EX 周报 本周热门主题及高赞回复 10.31-11.06](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in GNOME
 - 2026/11/07 [#273 Kanji & Colons](https://thisweek.gnome.org/posts/2026/11/twig-273/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -39,9 +51,6 @@
 ## AIGC Weekly
 - 2026/11/03 [AIGC Weekly #195](https://quaily.com/op7418/p/aigc-weekly-6yrojiqk) | [More](channels/AIGC%20Weekly.md)
 
-## 潮流周刊
-- 2026/11/02 [第288期 - 偶遇小猫](https://weekly.tw93.fun/posts/288/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/11/02 [【CDT周报】第288期：姆巴佩怎么了？他说唐国强是美术生](https://chinadigitaltimes.net/chinese/733518.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
@@ -56,9 +65,6 @@
 
 ## zdyxry Weekly Issue
 - 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## V2EX 周报
-- 2026/11/01 [✨ V2EX 周报 本周热门主题及高赞回复 10.24-10.30](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## HelloGitHub
 - 2026/10/28 [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [More](channels/HelloGitHub.md)

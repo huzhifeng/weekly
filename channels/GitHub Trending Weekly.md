@@ -1,3 +1,4 @@
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - [php/php-src](https://github.com/php/php-src)
