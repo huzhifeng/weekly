@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/11/05 [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## Ubuntu Weekly Newsletter
+- 2026/11/10 [Ubuntu Weekly Newsletter Issue 970](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-970/91441) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## GitHub Trending Weekly
+- 2026/11/10 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/10 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/11/09 [第289期 - 南京李志](https://weekly.tw93.fun/posts/289/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Weekly
-- 2026/11/09 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/11/09 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+## DistroWatch Weekly
+- 2026/11/09 [DistroWatch Weekly, Issue 1198](https://distrowatch.com/weekly.php?issue=20261109) | [More](channels/DistroWatch%20Weekly.md)
 
 ## 拾月通讯
 - 2026/11/08 [2026年第45周](https://www.skyue.com/26110822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
@@ -56,12 +62,6 @@
 
 ## 一周杂记
 - 2026/11/02 [一周杂记 in Week 5 Oct 2026](http://kingsamchen.github.io/2026/11/02/weekly-2026-oct-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2026/11/02 [DistroWatch Weekly, Issue 1197](https://distrowatch.com/weekly.php?issue=20261102) | [More](channels/DistroWatch%20Weekly.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/11/02 [Ubuntu Weekly Newsletter Issue 969](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-969/90896) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## zdyxry Weekly Issue
 - 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)

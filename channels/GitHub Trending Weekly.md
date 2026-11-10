@@ -1,3 +1,5 @@
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
