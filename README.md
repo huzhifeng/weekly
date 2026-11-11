@@ -3,17 +3,29 @@
 ## 科技爱好者周刊
 - 2026/11/05 [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 偷懒爱好者周刊
+- 2026/11/11 [第207期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/11/第207期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/11/11 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/11 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## CDT周报
+- 2026/11/10 [【CDT周报】第289期：用一流的技术，打造一流的监控](https://chinadigitaltimes.net/chinese/733756.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## AIGC Weekly
+- 2026/11/10 [AIGC Weekly #196](https://quaily.com/op7418/p/aigc-weekly-mooetzi4) | [More](channels/AIGC%20Weekly.md)
+
 ## Ubuntu Weekly Newsletter
 - 2026/11/10 [Ubuntu Weekly Newsletter Issue 970](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-970/91441) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
-## GitHub Trending Weekly
-- 2026/11/10 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/11/10 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
-
 ## 潮流周刊
 - 2026/11/09 [第289期 - 南京李志](https://weekly.tw93.fun/posts/289/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## 一周杂记
+- 2026/11/09 [一周杂记 in Week 1 Nov 2026](http://kingsamchen.github.io/2026/11/10/weekly-2026-nov-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## DistroWatch Weekly
 - 2026/11/09 [DistroWatch Weekly, Issue 1198](https://distrowatch.com/weekly.php?issue=20261109) | [More](channels/DistroWatch%20Weekly.md)
@@ -50,18 +62,6 @@
 
 ## FOSS Weekly
 - 2026/11/05 [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45) | [More](channels/FOSS%20Weekly.md)
-
-## 偷懒爱好者周刊
-- 2026/11/04 [第206期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/04/第206期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
-
-## AIGC Weekly
-- 2026/11/03 [AIGC Weekly #195](https://quaily.com/op7418/p/aigc-weekly-6yrojiqk) | [More](channels/AIGC%20Weekly.md)
-
-## CDT周报
-- 2026/11/02 [【CDT周报】第288期：姆巴佩怎么了？他说唐国强是美术生](https://chinadigitaltimes.net/chinese/733518.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2026/11/02 [一周杂记 in Week 5 Oct 2026](http://kingsamchen.github.io/2026/11/02/weekly-2026-oct-5/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
 ## zdyxry Weekly Issue
 - 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)
