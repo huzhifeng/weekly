@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/11/05 [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 偷懒爱好者周刊
-- 2026/11/11 [第207期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/11/第207期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+## 科技創業週報
+- 2026/11/12 [科技創業週報 #558：教機器人換一份工作，能成為新創的生意嗎？](https://blog.starrocket.io/posts/newsletter-2026-11-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
+
+## LWN.net Weekly Edition
+- 2026/11/12 [LWN.net Weekly Edition for November 12, 2026](https://lwn.net/Articles/1105460/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## GitHub Trending Weekly
-- 2026/11/11 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/12 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/11 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/12 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 偷懒爱好者周刊
+- 2026/11/11 [第207期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/11/第207期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## CDT周报
 - 2026/11/10 [【CDT周报】第289期：用一流的技术，打造一流的监控](https://chinadigitaltimes.net/chinese/733756.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
@@ -33,9 +39,6 @@
 ## 拾月通讯
 - 2026/11/08 [2026年第45周](https://www.skyue.com/26110822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
-## 9to5Linux Weekly Roundup
-- 2026/11/08 [9to5Linux Weekly Roundup: November 8th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-8th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
-
 ## V2EX 周报
 - 2026/11/08 [✨ V2EX 周报 本周热门主题及高赞回复 10.31-11.06](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
@@ -51,14 +54,8 @@
 ## Self-Host Weekly
 - 2026/11/06 [Self-Host Weekly (6 November 2026)](https://selfh.st/weekly/2026-11-06/) | [More](channels/Self-Host%20Weekly.md)
 
-## 科技創業週報
-- 2026/11/05 [科技創業週報 #557：從慕尼黑 RoboGym 看台灣機器人試驗場域的下一步](https://blog.starrocket.io/posts/newsletter-2026-11-04/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
-
 ## 二丫讲梵学习周刊
 - 2026/11/05 [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## LWN.net Weekly Edition
-- 2026/11/05 [LWN.net Weekly Edition for November 5, 2026](https://lwn.net/Articles/1103480/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
 ## FOSS Weekly
 - 2026/11/05 [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45) | [More](channels/FOSS%20Weekly.md)
