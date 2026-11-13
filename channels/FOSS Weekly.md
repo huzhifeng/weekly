@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.46: Mint 27 Features, Kora OS, de-Googled Life, Passbolt, Package Manager and More Linux Stuff](https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46)
 - [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45)
 - [FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff](https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44)
 - [FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More](https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43)

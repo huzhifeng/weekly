@@ -1,19 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/11/05 [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/11/13 [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/11/13 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/13 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/11/12 [科技創業週報 #558：教機器人換一份工作，能成為新創的生意嗎？](https://blog.starrocket.io/posts/newsletter-2026-11-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
+## 二丫讲梵学习周刊
+- 2026/11/12 [学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## LWN.net Weekly Edition
 - 2026/11/12 [LWN.net Weekly Edition for November 12, 2026](https://lwn.net/Articles/1105460/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/11/12 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/11/12 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/11/12 [FOSS Weekly #26.46: Mint 27 Features, Kora OS, de-Googled Life, Passbolt, Package Manager and More Linux Stuff](https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46) | [More](channels/FOSS%20Weekly.md)
 
 ## 偷懒爱好者周刊
 - 2026/11/11 [第207期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/11/第207期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
@@ -53,12 +59,6 @@
 
 ## Self-Host Weekly
 - 2026/11/06 [Self-Host Weekly (6 November 2026)](https://selfh.st/weekly/2026-11-06/) | [More](channels/Self-Host%20Weekly.md)
-
-## 二丫讲梵学习周刊
-- 2026/11/05 [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
-## FOSS Weekly
-- 2026/11/05 [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45) | [More](channels/FOSS%20Weekly.md)
 
 ## zdyxry Weekly Issue
 - 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)
