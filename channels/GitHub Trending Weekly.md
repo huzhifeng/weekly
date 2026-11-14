@@ -1,3 +1,5 @@
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 - [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)

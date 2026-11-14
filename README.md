@@ -3,11 +3,23 @@
 ## 科技爱好者周刊
 - 2026/11/13 [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/11/14 [This Week in Plasma: XWayland On Demand](https://blogs.kde.org/2026/11/14/this-week-in-plasma-xwayland-on-demand/) | [More](channels/This%20Week%20in%20Plasma.md)
+
 ## GitHub Trending Weekly
-- 2026/11/13 [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/14 [anthropics/skills](https://github.com/anthropics/skills) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/13 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/14 [morluto/rea](https://github.com/morluto/rea) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Web Review
+- 2026/11/13 [Web Review, Week 2026-46](https://ervin.ipsquad.net/blog/2026/11/13/web-review-week-2026-46/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/11/13 [#274 Fancy Statistics](https://thisweek.gnome.org/posts/2026/11/twig-274/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/11/13 [Self-Host Weekly (13 November 2026)](https://selfh.st/weekly/2026-11-13/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/11/12 [科技創業週報 #558：教機器人換一份工作，能成為新創的生意嗎？](https://blog.starrocket.io/posts/newsletter-2026-11-11/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -47,18 +59,6 @@
 
 ## V2EX 周报
 - 2026/11/08 [✨ V2EX 周报 本周热门主题及高赞回复 10.31-11.06](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
-## This Week in GNOME
-- 2026/11/07 [#273 Kanji & Colons](https://thisweek.gnome.org/posts/2026/11/twig-273/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## This Week in Plasma
-- 2026/11/07 [This Week in Plasma: Widgets Widgets Widgets](https://blogs.kde.org/2026/11/07/this-week-in-plasma-widgets-widgets-widgets/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/11/06 [Web Review, Week 2026-45 (double issue)](https://ervin.ipsquad.net/blog/2026/11/06/web-review-week-2026-45/) | [More](channels/Web%20Review.md)
-
-## Self-Host Weekly
-- 2026/11/06 [Self-Host Weekly (6 November 2026)](https://selfh.st/weekly/2026-11-06/) | [More](channels/Self-Host%20Weekly.md)
 
 ## zdyxry Weekly Issue
 - 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)
