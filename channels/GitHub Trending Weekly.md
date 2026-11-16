@@ -1,3 +1,4 @@
+- [meta/astryx](https://github.com/meta/astryx)
 - [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 - [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)

@@ -3,14 +3,14 @@
 ## 科技爱好者周刊
 - 2026/11/13 [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2026/11/15 [✨ V2EX 周报 本周热门主题及高赞回复 11.07-11.13](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
-
 ## GitHub Trending Weekly
-- 2026/11/15 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/16 [meta/astryx](https://github.com/meta/astryx) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/15 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/16 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## V2EX 周报
+- 2026/11/15 [✨ V2EX 周报 本周热门主题及高赞回复 11.07-11.13](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## 更好生活
 - 2026/11/14 [10 月小结｜独立开发产品有人付费了，然后呢？](https://quaily.com/jiayifun/p/2026-10-monthly-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
