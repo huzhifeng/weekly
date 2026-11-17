@@ -4,10 +4,31 @@
 - 2026/11/13 [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
 ## GitHub Trending Weekly
-- 2026/11/16 [meta/astryx](https://github.com/meta/astryx) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/17 [meta/astryx](https://github.com/meta/astryx) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/16 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/17 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 潮流周刊
+- 2026/11/16 [第290期 - 见到李志](https://weekly.tw93.fun/posts/290/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## CDT周报
+- 2026/11/16 [【CDT周报】第290期：冤有头债有主，这次找对了政府](https://chinadigitaltimes.net/chinese/733931.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/11/16 [一周杂记 in Week 2 Nov 2026](http://kingsamchen.github.io/2026/11/16/weekly-2026-nov-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
+## DistroWatch Weekly
+- 2026/11/16 [DistroWatch Weekly, Issue 1199](https://distrowatch.com/weekly.php?issue=20261116) | [More](channels/DistroWatch%20Weekly.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/11/16 [9to5Linux Weekly Roundup: November 15th, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-15th-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## Ubuntu Weekly Newsletter
+- 2026/11/16 [Ubuntu Weekly Newsletter Issue 971](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-971/92114) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
+
+## zdyxry Weekly Issue
+- 2026/11/15 [Weekly Issue-《走马上任》](https://zdyxry.github.io/2026/11/15/Weekly-Issue-lets-go/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## V2EX 周报
 - 2026/11/15 [✨ V2EX 周报 本周热门主题及高赞回复 11.07-11.13](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
@@ -42,29 +63,11 @@
 ## 偷懒爱好者周刊
 - 2026/11/11 [第207期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/11/第207期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## CDT周报
-- 2026/11/10 [【CDT周报】第289期：用一流的技术，打造一流的监控](https://chinadigitaltimes.net/chinese/733756.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
 ## AIGC Weekly
 - 2026/11/10 [AIGC Weekly #196](https://quaily.com/op7418/p/aigc-weekly-mooetzi4) | [More](channels/AIGC%20Weekly.md)
 
-## Ubuntu Weekly Newsletter
-- 2026/11/10 [Ubuntu Weekly Newsletter Issue 970](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-970/91441) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## 潮流周刊
-- 2026/11/09 [第289期 - 南京李志](https://weekly.tw93.fun/posts/289/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
-## 一周杂记
-- 2026/11/09 [一周杂记 in Week 1 Nov 2026](http://kingsamchen.github.io/2026/11/10/weekly-2026-nov-1/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## DistroWatch Weekly
-- 2026/11/09 [DistroWatch Weekly, Issue 1198](https://distrowatch.com/weekly.php?issue=20261109) | [More](channels/DistroWatch%20Weekly.md)
-
 ## 拾月通讯
 - 2026/11/08 [2026年第45周](https://www.skyue.com/26110822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## zdyxry Weekly Issue
-- 2026/11/01 [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## HelloGitHub
 - 2026/10/28 [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [More](channels/HelloGitHub.md)

@@ -1,3 +1,4 @@
+- [【CDT周报】第290期：冤有头债有主，这次找对了政府](https://chinadigitaltimes.net/chinese/733931.html)
 - [【CDT周报】第289期：用一流的技术，打造一流的监控](https://chinadigitaltimes.net/chinese/733756.html)
 - [【CDT周报】第288期：姆巴佩怎么了？他说唐国强是美术生](https://chinadigitaltimes.net/chinese/733518.html)
 - [【CDT周报】第287期：中土大战，有人冲在了前线，有人上不了前线](https://chinadigitaltimes.net/chinese/733232.html)
