@@ -1,3 +1,5 @@
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 - [meta/astryx](https://github.com/meta/astryx)
 - [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
