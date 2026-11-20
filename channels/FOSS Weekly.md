@@ -1,3 +1,4 @@
+- [FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More](https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47)
 - [FOSS Weekly #26.46: Mint 27 Features, Kora OS, de-Googled Life, Passbolt, Package Manager and More Linux Stuff](https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46)
 - [FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff](https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45)
 - [FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff](https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44)

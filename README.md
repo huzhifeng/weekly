@@ -1,19 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/11/13 [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/11/20 [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## GitHub Trending Weekly
+- 2026/11/20 [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/20 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/11/19 [科技創業週報 #559：LangChain 募資 3 億美元，企業什麼時候值得為管理 AI Agent 付費？](https://blog.starrocket.io/posts/newsletter-2026-11-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
+## 二丫讲梵学习周刊
+- 2026/11/19 [学习周刊-总第290期-2026年第47周](https://wiki.eryajf.net/pages/163de5/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
+
 ## LWN.net Weekly Edition
 - 2026/11/19 [LWN.net Weekly Edition for November 19, 2026](https://lwn.net/Articles/1107147/) | [More](channels/LWN.net%20Weekly%20Edition.md)
 
-## GitHub Trending Weekly
-- 2026/11/19 [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/11/19 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/11/19 [FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More](https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47) | [More](channels/FOSS%20Weekly.md)
 
 ## AIGC Weekly
 - 2026/11/17 [AIGC Weekly #197](https://quaily.com/op7418/p/aigc-weekly-iy4yikrf) | [More](channels/AIGC%20Weekly.md)
@@ -56,9 +62,6 @@
 
 ## Self-Host Weekly
 - 2026/11/13 [Self-Host Weekly (13 November 2026)](https://selfh.st/weekly/2026-11-13/) | [More](channels/Self-Host%20Weekly.md)
-
-## 二丫讲梵学习周刊
-- 2026/11/12 [学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
 ## 拾月通讯
 - 2026/11/08 [2026年第45周](https://www.skyue.com/26110822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
