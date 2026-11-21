@@ -3,11 +3,26 @@
 ## 科技爱好者周刊
 - 2026/11/20 [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/11/21 [This Week in Plasma: CJK Text Input and Performance](https://blogs.kde.org/2026/11/21/this-week-in-plasma-cjk-text-input-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
+
 ## GitHub Trending Weekly
-- 2026/11/20 [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/21 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/20 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/21 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 有个问题
+- 2026/11/20 [如何杀死一个想法？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-kill-an-idea-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## Web Review
+- 2026/11/20 [Web Review, Week 2026-47](https://ervin.ipsquad.net/blog/2026/11/20/web-review-week-2026-47/) | [More](channels/Web%20Review.md)
+
+## This Week in GNOME
+- 2026/11/20 [#275 Grand Theft Auto-Paste](https://thisweek.gnome.org/posts/2026/11/twig-275/) | [More](channels/This%20Week%20in%20GNOME.md)
+
+## Self-Host Weekly
+- 2026/11/20 [Self-Host Weekly (20 November 2026)](https://selfh.st/weekly/2026-11-20/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/11/19 [科技創業週報 #559：LangChain 募資 3 億美元，企業什麼時候值得為管理 AI Agent 付費？](https://blog.starrocket.io/posts/newsletter-2026-11-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -51,18 +66,6 @@
 ## 偷懒爱好者周刊
 - 2026/11/14 [第208期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/14/第208期-偷懒爱好者周刊.html) | [More](channels/%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## This Week in Plasma
-- 2026/11/14 [This Week in Plasma: XWayland On Demand](https://blogs.kde.org/2026/11/14/this-week-in-plasma-xwayland-on-demand/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/11/13 [Web Review, Week 2026-46](https://ervin.ipsquad.net/blog/2026/11/13/web-review-week-2026-46/) | [More](channels/Web%20Review.md)
-
-## This Week in GNOME
-- 2026/11/13 [#274 Fancy Statistics](https://thisweek.gnome.org/posts/2026/11/twig-274/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/11/13 [Self-Host Weekly (13 November 2026)](https://selfh.st/weekly/2026-11-13/) | [More](channels/Self-Host%20Weekly.md)
-
 ## 拾月通讯
 - 2026/11/08 [2026年第45周](https://www.skyue.com/26110822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
 
@@ -74,9 +77,6 @@
 
 ## 胡言乱语
 - 2026/10/26 [20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
-
-## 有个问题
-- 2026/10/17 [如何真实地记录？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-authentically-record-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
 
 ## Taxodium
 - 2026/10/12 [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | [More](channels/Taxodium.md)

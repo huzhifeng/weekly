@@ -1,3 +1,4 @@
+- [This Week in Plasma: CJK Text Input and Performance](https://blogs.kde.org/2026/11/21/this-week-in-plasma-cjk-text-input-and-performance/)
 - [This Week in Plasma: XWayland On Demand](https://blogs.kde.org/2026/11/14/this-week-in-plasma-xwayland-on-demand/)
 - [This Week in Plasma: Widgets Widgets Widgets](https://blogs.kde.org/2026/11/07/this-week-in-plasma-widgets-widgets-widgets/)
 - [This Week in Plasma: An Avalanche of Performance Improvements and Bug Fixes](https://blogs.kde.org/2026/10/31/this-week-in-plasma-an-avalanche-of-performance-improvements-and-bug-fixes/)

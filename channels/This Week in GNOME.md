@@ -1,3 +1,4 @@
+- [#275 Grand Theft Auto-Paste](https://thisweek.gnome.org/posts/2026/11/twig-275/)
 - [#274 Fancy Statistics](https://thisweek.gnome.org/posts/2026/11/twig-274/)
 - [#273 Kanji & Colons](https://thisweek.gnome.org/posts/2026/11/twig-273/)
 - [#272 Shiny Icons](https://thisweek.gnome.org/posts/2026/10/twig-272/)
