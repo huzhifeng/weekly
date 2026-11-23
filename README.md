@@ -3,14 +3,29 @@
 ## 科技爱好者周刊
 - 2026/11/20 [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## V2EX 周报
-- 2026/11/22 [✨ V2EX 周报 本周热门主题及高赞回复 11.14-11.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
+## 潮流周刊
+- 2026/11/23 [第291期 - 晚秋良渚](https://weekly.tw93.fun/posts/291/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
+
+## DistroWatch Weekly
+- 2026/11/23 [DistroWatch Weekly, Issue 1200](https://distrowatch.com/weekly.php?issue=20261123) | [More](channels/DistroWatch%20Weekly.md)
 
 ## GitHub Trending Weekly
-- 2026/11/22 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/23 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/22 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/23 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 试行错误
+- 2026/11/22 [选工具、换工作、买大件：我用 Digsight 把半天的调研压到半小时｜NL168](https://quaily.com/shixingcuowu/p/digsight-research-tool) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
+## zdyxry Weekly Issue
+- 2026/11/22 [Weekly Issue-《跑步救我千千万万遍》](https://zdyxry.github.io/2026/11/22/Weekly-Issue-Running-has-saved-me/) | [More](channels/zdyxry%20Weekly%20Issue.md)
+
+## 9to5Linux Weekly Roundup
+- 2026/11/22 [9to5Linux Weekly Roundup: November 22nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-22nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
+
+## V2EX 周报
+- 2026/11/22 [✨ V2EX 周报 本周热门主题及高赞回复 11.14-11.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
 ## This Week in Plasma
 - 2026/11/21 [This Week in Plasma: CJK Text Input and Performance](https://blogs.kde.org/2026/11/21/this-week-in-plasma-cjk-text-input-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
@@ -42,23 +57,14 @@
 ## AIGC Weekly
 - 2026/11/17 [AIGC Weekly #197](https://quaily.com/op7418/p/aigc-weekly-iy4yikrf) | [More](channels/AIGC%20Weekly.md)
 
-## 潮流周刊
-- 2026/11/16 [第290期 - 见到李志](https://weekly.tw93.fun/posts/290/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
-
 ## CDT周报
 - 2026/11/16 [【CDT周报】第290期：冤有头债有主，这次找对了政府](https://chinadigitaltimes.net/chinese/733931.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
 
 ## 一周杂记
 - 2026/11/16 [一周杂记 in Week 2 Nov 2026](http://kingsamchen.github.io/2026/11/16/weekly-2026-nov-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
 
-## DistroWatch Weekly
-- 2026/11/16 [DistroWatch Weekly, Issue 1199](https://distrowatch.com/weekly.php?issue=20261116) | [More](channels/DistroWatch%20Weekly.md)
-
 ## Ubuntu Weekly Newsletter
 - 2026/11/16 [Ubuntu Weekly Newsletter Issue 971](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-971/92114) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
-
-## zdyxry Weekly Issue
-- 2026/11/15 [Weekly Issue-《走马上任》](https://zdyxry.github.io/2026/11/15/Weekly-Issue-lets-go/) | [More](channels/zdyxry%20Weekly%20Issue.md)
 
 ## 更好生活
 - 2026/11/14 [10 月小结｜独立开发产品有人付费了，然后呢？](https://quaily.com/jiayifun/p/2026-10-monthly-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -80,9 +86,6 @@
 
 ## Taxodium
 - 2026/10/12 [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | [More](channels/Taxodium.md)
-
-## 试行错误
-- 2026/10/06 [给 AI 助手 Hermes 换台电脑，它说搬家自己来｜NL166](https://quaily.com/shixingcuowu/p/give-ai-assistant-hermes-new-computer-it-said-moving-itself-nl166) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## Airing's Weekly
 - 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)
