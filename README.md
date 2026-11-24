@@ -3,17 +3,23 @@
 ## 科技爱好者周刊
 - 2026/11/20 [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## GitHub Trending Weekly
+- 2026/11/24 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/24 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
 ## 潮流周刊
 - 2026/11/23 [第291期 - 晚秋良渚](https://weekly.tw93.fun/posts/291/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
 
+## CDT周报
+- 2026/11/23 [【CDT周报】第291期：既无大义，也无小礼，无赖治国](https://chinadigitaltimes.net/chinese/734156.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
+
+## 一周杂记
+- 2026/11/23 [一周杂记 in Week 3 Nov 2026](http://kingsamchen.github.io/2026/11/23/weekly-2026-nov-3/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
+
 ## DistroWatch Weekly
 - 2026/11/23 [DistroWatch Weekly, Issue 1200](https://distrowatch.com/weekly.php?issue=20261123) | [More](channels/DistroWatch%20Weekly.md)
-
-## GitHub Trending Weekly
-- 2026/11/23 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
-
-## GitHub Trending Monthly
-- 2026/11/23 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 试行错误
 - 2026/11/22 [选工具、换工作、买大件：我用 Digsight 把半天的调研压到半小时｜NL168](https://quaily.com/shixingcuowu/p/digsight-research-tool) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
@@ -56,15 +62,6 @@
 
 ## AIGC Weekly
 - 2026/11/17 [AIGC Weekly #197](https://quaily.com/op7418/p/aigc-weekly-iy4yikrf) | [More](channels/AIGC%20Weekly.md)
-
-## CDT周报
-- 2026/11/16 [【CDT周报】第290期：冤有头债有主，这次找对了政府](https://chinadigitaltimes.net/chinese/733931.html) | [More](channels/CDT%E5%91%A8%E6%8A%A5.md)
-
-## 一周杂记
-- 2026/11/16 [一周杂记 in Week 2 Nov 2026](http://kingsamchen.github.io/2026/11/16/weekly-2026-nov-2/) | [More](channels/%E4%B8%80%E5%91%A8%E6%9D%82%E8%AE%B0.md)
-
-## Ubuntu Weekly Newsletter
-- 2026/11/16 [Ubuntu Weekly Newsletter Issue 971](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-971/92114) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## 更好生活
 - 2026/11/14 [10 月小结｜独立开发产品有人付费了，然后呢？](https://quaily.com/jiayifun/p/2026-10-monthly-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
