@@ -3,11 +3,20 @@
 ## 科技爱好者周刊
 - 2026/11/20 [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## 试行错误
+- 2026/11/25 [看腻了 AI 水文，我用 AI 搭了个只写「具体的人」的网站｜NL169](https://quaily.com/shixingcuowu/p/concrete-people-website-nl169) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+
 ## GitHub Trending Weekly
-- 2026/11/24 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/25 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/24 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/25 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 视野修炼
+- 2026/11/24 [视野修炼第138期 | 不要让 AI 代表你](https://sugarat.top/weekly/2026-11-12.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
+
+## AIGC Weekly
+- 2026/11/24 [AIGC Weekly #198](https://quaily.com/op7418/p/aigc-weekly-one-ninety-eight) | [More](channels/AIGC%20Weekly.md)
 
 ## 潮流周刊
 - 2026/11/23 [第291期 - 晚秋良渚](https://weekly.tw93.fun/posts/291/) | [More](channels/%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A.md)
@@ -21,14 +30,11 @@
 ## DistroWatch Weekly
 - 2026/11/23 [DistroWatch Weekly, Issue 1200](https://distrowatch.com/weekly.php?issue=20261123) | [More](channels/DistroWatch%20Weekly.md)
 
-## 试行错误
-- 2026/11/22 [选工具、换工作、买大件：我用 Digsight 把半天的调研压到半小时｜NL168](https://quaily.com/shixingcuowu/p/digsight-research-tool) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+## Ubuntu Weekly Newsletter
+- 2026/11/23 [Ubuntu Weekly Newsletter Issue 972](https://discourse.ubuntu.com/t/ubuntu-weekly-newsletter-issue-972/92359) | [More](channels/Ubuntu%20Weekly%20Newsletter.md)
 
 ## zdyxry Weekly Issue
 - 2026/11/22 [Weekly Issue-《跑步救我千千万万遍》](https://zdyxry.github.io/2026/11/22/Weekly-Issue-Running-has-saved-me/) | [More](channels/zdyxry%20Weekly%20Issue.md)
-
-## 9to5Linux Weekly Roundup
-- 2026/11/22 [9to5Linux Weekly Roundup: November 22nd, 2026](https://9to5linux.com/9to5linux-weekly-roundup-november-22nd-2026) | [More](channels/9to5Linux%20Weekly%20Roundup.md)
 
 ## V2EX 周报
 - 2026/11/22 [✨ V2EX 周报 本周热门主题及高赞回复 11.14-11.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
@@ -41,6 +47,9 @@
 
 ## Web Review
 - 2026/11/20 [Web Review, Week 2026-47](https://ervin.ipsquad.net/blog/2026/11/20/web-review-week-2026-47/) | [More](channels/Web%20Review.md)
+
+## GitHub一周热点汇总
+- 2026/11/20 [GitHub一周热点第139期](https://itcoffee66.github.io/githubweekly/139.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
 ## This Week in GNOME
 - 2026/11/20 [#275 Grand Theft Auto-Paste](https://thisweek.gnome.org/posts/2026/11/twig-275/) | [More](channels/This%20Week%20in%20GNOME.md)
@@ -60,9 +69,6 @@
 ## FOSS Weekly
 - 2026/11/19 [FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More](https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47) | [More](channels/FOSS%20Weekly.md)
 
-## AIGC Weekly
-- 2026/11/17 [AIGC Weekly #197](https://quaily.com/op7418/p/aigc-weekly-iy4yikrf) | [More](channels/AIGC%20Weekly.md)
-
 ## 更好生活
 - 2026/11/14 [10 月小结｜独立开发产品有人付费了，然后呢？](https://quaily.com/jiayifun/p/2026-10-monthly-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
 
@@ -75,9 +81,6 @@
 ## HelloGitHub
 - 2026/10/28 [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [More](channels/HelloGitHub.md)
 
-## 视野修炼
-- 2026/10/28 [视野修炼第137期 | 编程已经面目全非](https://sugarat.top/weekly/2026-10-28.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
-
 ## 胡言乱语
 - 2026/10/26 [20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
 
@@ -86,9 +89,6 @@
 
 ## Airing's Weekly
 - 2026/09/06 [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | [More](channels/Airing%27s%20Weekly.md)
-
-## GitHub一周热点汇总
-- 2026/07/24 [GitHub一周热点第124期](https://itcoffee66.github.io/githubweekly/124.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
 
 ## 大橘和朋友们的周刊
 - 2026/07/12 [第041期 - 晴云化狐](https://rrorangeandfriends.de/posts/2026/041) | [More](channels/%E5%A4%A7%E6%A9%98%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E5%91%A8%E5%88%8A.md)
