@@ -3,14 +3,20 @@
 ## 科技爱好者周刊
 - 2026/11/20 [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
-## 试行错误
-- 2026/11/25 [看腻了 AI 水文，我用 AI 搭了个只写「具体的人」的网站｜NL169](https://quaily.com/shixingcuowu/p/concrete-people-website-nl169) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
+## 科技創業週報
+- 2026/11/26 [科技創業週報 #560：AI 穿搭助理可以代買，消費者要怎麼放心把預算交給它？](https://blog.starrocket.io/posts/newsletter-2026-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## GitHub Trending Weekly
-- 2026/11/25 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+- 2026/11/26 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
 
 ## GitHub Trending Monthly
-- 2026/11/25 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+- 2026/11/26 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## 有个问题
+- 2026/11/25 [如何理解原始积累？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-primitive-accumulation-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
+
+## 试行错误
+- 2026/11/25 [看腻了 AI 水文，我用 AI 搭了个只写「具体的人」的网站｜NL169](https://quaily.com/shixingcuowu/p/concrete-people-website-nl169) | [More](channels/%E8%AF%95%E8%A1%8C%E9%94%99%E8%AF%AF.md)
 
 ## 视野修炼
 - 2026/11/24 [视野修炼第138期 | 不要让 AI 代表你](https://sugarat.top/weekly/2026-11-12.html) | [More](channels/%E8%A7%86%E9%87%8E%E4%BF%AE%E7%82%BC.md)
@@ -42,9 +48,6 @@
 ## This Week in Plasma
 - 2026/11/21 [This Week in Plasma: CJK Text Input and Performance](https://blogs.kde.org/2026/11/21/this-week-in-plasma-cjk-text-input-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
 
-## 有个问题
-- 2026/11/20 [如何杀死一个想法？| 人间松弛指南](https://newsletter.emmmme.com/p/how-to-kill-an-idea-human-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
-
 ## Web Review
 - 2026/11/20 [Web Review, Week 2026-47](https://ervin.ipsquad.net/blog/2026/11/20/web-review-week-2026-47/) | [More](channels/Web%20Review.md)
 
@@ -56,9 +59,6 @@
 
 ## Self-Host Weekly
 - 2026/11/20 [Self-Host Weekly (20 November 2026)](https://selfh.st/weekly/2026-11-20/) | [More](channels/Self-Host%20Weekly.md)
-
-## 科技創業週報
-- 2026/11/19 [科技創業週報 #559：LangChain 募資 3 億美元，企業什麼時候值得為管理 AI Agent 付費？](https://blog.starrocket.io/posts/newsletter-2026-11-18/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
 ## 二丫讲梵学习周刊
 - 2026/11/19 [学习周刊-总第290期-2026年第47周](https://wiki.eryajf.net/pages/163de5/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
