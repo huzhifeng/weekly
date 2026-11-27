@@ -1,16 +1,25 @@
 # 周刊
 
 ## 科技爱好者周刊
-- 2026/11/20 [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+- 2026/11/27 [科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
+
+## HelloGitHub
+- 2026/11/27 [HelloGitHub 第 128 期](https://hellogithub.com/periodical/volume/128) | [More](channels/HelloGitHub.md)
+
+## GitHub Trending Weekly
+- 2026/11/27 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/27 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
 
 ## 科技創業週報
 - 2026/11/26 [科技創業週報 #560：AI 穿搭助理可以代買，消費者要怎麼放心把預算交給它？](https://blog.starrocket.io/posts/newsletter-2026-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
 
-## GitHub Trending Weekly
-- 2026/11/26 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+## 二丫讲梵学习周刊
+- 2026/11/26 [学习周刊-总第291期-2026年第48周](https://wiki.eryajf.net/pages/fe434c/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
 
-## GitHub Trending Monthly
-- 2026/11/26 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+## FOSS Weekly
+- 2026/11/26 [FOSS Weekly #26.48: Owl OS, KDE's New Terminal, CachyOS' Gaming Kernel, Quoth and More Linux Stuff](https://feed.itsfoss.com/link/24361/17541405/foss-weekly-26-48) | [More](channels/FOSS%20Weekly.md)
 
 ## 有个问题
 - 2026/11/25 [如何理解原始积累？｜人间松弛指南](https://newsletter.emmmme.com/p/how-to-understand-primitive-accumulation-relaxation-guide) | [More](channels/%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98.md)
@@ -60,14 +69,8 @@
 ## Self-Host Weekly
 - 2026/11/20 [Self-Host Weekly (20 November 2026)](https://selfh.st/weekly/2026-11-20/) | [More](channels/Self-Host%20Weekly.md)
 
-## 二丫讲梵学习周刊
-- 2026/11/19 [学习周刊-总第290期-2026年第47周](https://wiki.eryajf.net/pages/163de5/) | [More](channels/%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A.md)
-
 ## LWN.net Weekly Edition
 - 2026/11/19 [LWN.net Weekly Edition for November 19, 2026](https://lwn.net/Articles/1107147/) | [More](channels/LWN.net%20Weekly%20Edition.md)
-
-## FOSS Weekly
-- 2026/11/19 [FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More](https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47) | [More](channels/FOSS%20Weekly.md)
 
 ## 更好生活
 - 2026/11/14 [10 月小结｜独立开发产品有人付费了，然后呢？](https://quaily.com/jiayifun/p/2026-10-monthly-review) | [More](channels/%E6%9B%B4%E5%A5%BD%E7%94%9F%E6%B4%BB.md)
@@ -77,9 +80,6 @@
 
 ## 拾月通讯
 - 2026/11/08 [2026年第45周](https://www.skyue.com/26110822.html) | [More](channels/%E6%8B%BE%E6%9C%88%E9%80%9A%E8%AE%AF.md)
-
-## HelloGitHub
-- 2026/10/28 [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [More](channels/HelloGitHub.md)
 
 ## 胡言乱语
 - 2026/10/26 [20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | [More](channels/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD.md)
