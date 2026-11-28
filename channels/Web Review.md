@@ -1,3 +1,4 @@
+- [Web Review, Week 2026-48](https://ervin.ipsquad.net/blog/2026/11/27/web-review-week-2026-48/)
 - [Web Review, Week 2026-47](https://ervin.ipsquad.net/blog/2026/11/20/web-review-week-2026-47/)
 - [Web Review, Week 2026-46](https://ervin.ipsquad.net/blog/2026/11/13/web-review-week-2026-46/)
 - [Web Review, Week 2026-45 (double issue)](https://ervin.ipsquad.net/blog/2026/11/06/web-review-week-2026-45/)

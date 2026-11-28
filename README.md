@@ -3,14 +3,26 @@
 ## 科技爱好者周刊
 - 2026/11/27 [科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html) | [More](channels/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.md)
 
+## This Week in Plasma
+- 2026/11/28 [This Week in Plasma: Emoji On-Screen Keyboard](https://blogs.kde.org/2026/11/28/this-week-in-plasma-emoji-on-screen-keyboard/) | [More](channels/This%20Week%20in%20Plasma.md)
+
+## GitHub Trending Weekly
+- 2026/11/28 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+
+## GitHub Trending Monthly
+- 2026/11/28 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+
+## Web Review
+- 2026/11/27 [Web Review, Week 2026-48](https://ervin.ipsquad.net/blog/2026/11/27/web-review-week-2026-48/) | [More](channels/Web%20Review.md)
+
 ## HelloGitHub
 - 2026/11/27 [HelloGitHub 第 128 期](https://hellogithub.com/periodical/volume/128) | [More](channels/HelloGitHub.md)
 
-## GitHub Trending Weekly
-- 2026/11/27 [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [More](channels/GitHub%20Trending%20Weekly.md)
+## This Week in GNOME
+- 2026/11/27 [#276 Enhanced Lifelines](https://thisweek.gnome.org/posts/2026/11/twig-276/) | [More](channels/This%20Week%20in%20GNOME.md)
 
-## GitHub Trending Monthly
-- 2026/11/27 [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [More](channels/GitHub%20Trending%20Monthly.md)
+## Self-Host Weekly
+- 2026/11/27 [Self-Host Weekly (27 November 2026)](https://selfh.st/weekly/2026-11-27/) | [More](channels/Self-Host%20Weekly.md)
 
 ## 科技創業週報
 - 2026/11/26 [科技創業週報 #560：AI 穿搭助理可以代買，消費者要怎麼放心把預算交給它？](https://blog.starrocket.io/posts/newsletter-2026-11-25/) | [More](channels/%E7%A7%91%E6%8A%80%E5%89%B5%E6%A5%AD%E9%80%B1%E5%A0%B1.md)
@@ -54,20 +66,8 @@
 ## V2EX 周报
 - 2026/11/22 [✨ V2EX 周报 本周热门主题及高赞回复 11.14-11.20](https://v2ex.com/t/934841) | [More](channels/V2EX%20%E5%91%A8%E6%8A%A5.md)
 
-## This Week in Plasma
-- 2026/11/21 [This Week in Plasma: CJK Text Input and Performance](https://blogs.kde.org/2026/11/21/this-week-in-plasma-cjk-text-input-and-performance/) | [More](channels/This%20Week%20in%20Plasma.md)
-
-## Web Review
-- 2026/11/20 [Web Review, Week 2026-47](https://ervin.ipsquad.net/blog/2026/11/20/web-review-week-2026-47/) | [More](channels/Web%20Review.md)
-
 ## GitHub一周热点汇总
 - 2026/11/20 [GitHub一周热点第139期](https://itcoffee66.github.io/githubweekly/139.html) | [More](channels/GitHub%E4%B8%80%E5%91%A8%E7%83%AD%E7%82%B9%E6%B1%87%E6%80%BB.md)
-
-## This Week in GNOME
-- 2026/11/20 [#275 Grand Theft Auto-Paste](https://thisweek.gnome.org/posts/2026/11/twig-275/) | [More](channels/This%20Week%20in%20GNOME.md)
-
-## Self-Host Weekly
-- 2026/11/20 [Self-Host Weekly (20 November 2026)](https://selfh.st/weekly/2026-11-20/) | [More](channels/Self-Host%20Weekly.md)
 
 ## LWN.net Weekly Edition
 - 2026/11/19 [LWN.net Weekly Edition for November 19, 2026](https://lwn.net/Articles/1107147/) | [More](channels/LWN.net%20Weekly%20Edition.md)

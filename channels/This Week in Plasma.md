@@ -1,3 +1,4 @@
+- [This Week in Plasma: Emoji On-Screen Keyboard](https://blogs.kde.org/2026/11/28/this-week-in-plasma-emoji-on-screen-keyboard/)
 - [This Week in Plasma: CJK Text Input and Performance](https://blogs.kde.org/2026/11/21/this-week-in-plasma-cjk-text-input-and-performance/)
 - [This Week in Plasma: XWayland On Demand](https://blogs.kde.org/2026/11/14/this-week-in-plasma-xwayland-on-demand/)
 - [This Week in Plasma: Widgets Widgets Widgets](https://blogs.kde.org/2026/11/07/this-week-in-plasma-widgets-widgets-widgets/)
